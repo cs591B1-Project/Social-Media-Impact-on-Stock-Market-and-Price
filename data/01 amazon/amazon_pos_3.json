@@ -1,0 +1,3711 @@
+{
+  "posts": [
+    {
+      "thread": {
+        "uuid": "35ba915d65e56be3644cfd05b75f8e7e19673c9c",
+        "url": "http://omgili.com/ri/jHIAmI4hxg_UoSHWynzCsHf2Jql2c7MTkmbfZnubMBR7tfUBJPApHZQNiHde9iPn",
+        "site_full": "www.panarmenian.net",
+        "site": "panarmenian.net",
+        "site_section": "http://stickers.panarmenian.net/feeds/eng/news/",
+        "site_categories": [
+          "education"
+        ],
+        "section_title": "Armenian News - PanARMENIAN.Net",
+        "title": "“Good Girls Revolt” hit drama canceled at Amazon",
+        "title_full": "“Good Girls Revolt” hit drama canceled at Amazon",
+        "published": "2016-12-03T13:32:22.051+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://media.pn.am/media/issue/227/282/photo/339x226_thumb_photo_227282_5678529e4.jpg",
+        "performance_score": 0,
+        "domain_rank": 86552,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "35ba915d65e56be3644cfd05b75f8e7e19673c9c",
+      "url": "http://omgili.com/ri/jHIAmI4hxg_UoSHWynzCsHf2Jql2c7MTkmbfZnubMBR7tfUBJPApHZQNiHde9iPn",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-12-03T13:32:22.051+02:00",
+      "title": "“Good Girls Revolt” hit drama canceled at Amazon",
+      "text": "“Good Girls Revolt” hit drama canceled at Amazon  18   In a surprising move, Amazon has opted to cancel one of its best-reviewed dramas. \nThe streaming platform and retail outlet has axed Good Girls Revolt after one season, The Hollywood Reporter has learned. \nSony Pictures Television — whose TriStar Television banner was behind the 10-episode series — are in the process of getting the rights back from Amazon and plan to shop the period drama elsewhere. \nThis marks the latest one-and-done series at Amazon, which earlier this year canceled Shawn Ryan's Mad Dogs — also from Sony TV. (Amazon next has Sony's The Last Tycoon, The Tick and Sneaky Pete all due in 2017.) \nSet in 1969, Good Girls Revolt centers on a group of young female researchers who work at News of the Week, inspired by the landmark sexual discrimination cases chronicled in Lynn Povich's book of the same name. \nThe real people portrayed in the series include Eleanor Holmes Norton (Joy Bryant), Nora Ephron (Grace Gummer) and Wick McFadden (Jim Belushi). Rising star Genevieve Angelson starred alongside Anna Camp. Dana Calvo (Made in Jersey) created the drama and exec produced alongside Lynda Obst, Darlene Hunt (The Big C), Don Kurt (Justified) and Jeff Okin (Dark Skies). \nThe series debuted Oct. 28 to mostly positive reviews (it has a 65 on Metacritic) and four and a half stars on Amazon. It was part of a freshman class that included previously renewed One Mississippi as well as Goliath, which Amazon boasted ranked as its \"top binged first season of a U.S.-produced Amazon original series ever over its first 10 days.\" The streamer, like Netflix, does not release official ratings data for its streaming originals. \nSources say streaming monitor Symphony Advanced Media metrics had Good Girls Revolt collecting more viewers than many of Amazon's other originals. Sources say Amazon Studios head Roy Price was not a fan of the series and didn't deem it to be an awards season player in opting to pass on ordering a second season after hearing Sony's season two pitch this week. The studio had hoped to file on time for a California tax credit. \nOf Amazon's 2016 freshman launches, Tig Notaro's One Mississippi has already been renewed; Goliath appears poised for a second season pickup; and a decision has yet to be made about critical darling Fleabag (an international acquisition) or Woody Allen flop Crisis in Six Scenes. Due in 2017 are Jill Soloway's I Love Dick, Jean-Claude Van Johnson, The Last Tycoon, Sneaky Pete and The Tick. \n\"Based on data provided to us from Sony, Symphony Advanced Media reported our show was a hit, and we have loyal viewers,\" Calvo told BuzzFeed hours after the news of Good Girls Revolt's cancellation broke. \"Eighty percent of people who watched the first few minutes of the pilot stayed until the last minutes of the finale. We had twice Transparent's audience. We were stunned by Amazon's decision, but heartened and encouraged by Sony's devotion to the project.\" Related links:",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "wick mcfadden",
+            "sentiment": "none"
+          },
+          {
+            "name": "jill soloway",
+            "sentiment": "none"
+          },
+          {
+            "name": "nora ephron",
+            "sentiment": "none"
+          },
+          {
+            "name": "tig notaro",
+            "sentiment": "none"
+          },
+          {
+            "name": "don kurt",
+            "sentiment": "none"
+          },
+          {
+            "name": "roy price",
+            "sentiment": "none"
+          },
+          {
+            "name": "calvo",
+            "sentiment": "none"
+          },
+          {
+            "name": "darlene hunt",
+            "sentiment": "none"
+          },
+          {
+            "name": "jim belushi",
+            "sentiment": "none"
+          },
+          {
+            "name": "lynn povich",
+            "sentiment": "none"
+          },
+          {
+            "name": "woody allen",
+            "sentiment": "none"
+          },
+          {
+            "name": "grace gummer",
+            "sentiment": "none"
+          },
+          {
+            "name": "dick",
+            "sentiment": "none"
+          },
+          {
+            "name": "shawn ryan",
+            "sentiment": "none"
+          },
+          {
+            "name": "jeff okin",
+            "sentiment": "none"
+          },
+          {
+            "name": "jean-claude van johnson",
+            "sentiment": "none"
+          },
+          {
+            "name": "genevieve angelson",
+            "sentiment": "none"
+          },
+          {
+            "name": "joy bryant",
+            "sentiment": "none"
+          },
+          {
+            "name": "lynda obst",
+            "sentiment": "none"
+          },
+          {
+            "name": "eleanor holmes norton",
+            "sentiment": "none"
+          },
+          {
+            "name": "anna camp",
+            "sentiment": "none"
+          },
+          {
+            "name": "dana calvo",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "amazon",
+            "sentiment": "positive"
+          },
+          {
+            "name": "tristar television",
+            "sentiment": "none"
+          },
+          {
+            "name": "sony",
+            "sentiment": "none"
+          },
+          {
+            "name": "amazon studios",
+            "sentiment": "none"
+          },
+          {
+            "name": "sony pictures television",
+            "sentiment": "none"
+          },
+          {
+            "name": "netflix",
+            "sentiment": "none"
+          },
+          {
+            "name": "symphony advanced media",
+            "sentiment": "none"
+          },
+          {
+            "name": "sony tv",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "amazon",
+            "sentiment": "none"
+          },
+          {
+            "name": "california",
+            "sentiment": "none"
+          },
+          {
+            "name": "jersey",
+            "sentiment": "none"
+          },
+          {
+            "name": "mississippi",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-03T13:32:22.051+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "b0c3e47b1d2a8f1a2a9e882c9ea37805298f015b",
+        "url": "http://omgili.com/ri/jHIAmI4hxg_gDgFrQ1BFHb8o4XkVZ9ZfR_pasBeo2x.F1Rpy47DLY.IDQauDXO3qHrE2sAalAclguXWWDb9qQU9dzI9qkKQ.DOh01yYl4au7uF9abmpEdvjli935Hfb.umO7jgVkLvQ-",
+        "site_full": "www.hotukdeals.com",
+        "site": "hotukdeals.com",
+        "site_section": "http://www.hotukdeals.com/rss/hot",
+        "site_categories": [
+          "news",
+          "entertainment"
+        ],
+        "section_title": "HotUKDeals",
+        "title": "EcoAir DC18 Compact Portable Dehumidifier, 18 L £129.98 @ Amazon",
+        "title_full": "EcoAir DC18 Compact Portable Dehumidifier, 18 L £129.98 @ Amazon",
+        "published": "2016-12-03T16:16:28.535+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://static.hotukdeals.com/images/threads/high-res/2560536_1.jpg",
+        "performance_score": 0,
+        "domain_rank": 1864,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "b0c3e47b1d2a8f1a2a9e882c9ea37805298f015b",
+      "url": "http://omgili.com/ri/jHIAmI4hxg_gDgFrQ1BFHb8o4XkVZ9ZfR_pasBeo2x.F1Rpy47DLY.IDQauDXO3qHrE2sAalAclguXWWDb9qQU9dzI9qkKQ.DOh01yYl4au7uF9abmpEdvjli935Hfb.umO7jgVkLvQ-",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-12-03T16:16:28.535+02:00",
+      "title": "EcoAir DC18 Compact Portable Dehumidifier, 18 L £129.98 @ Amazon",
+      "text": "Reply booboy2 Great price. I payed the Same for the DC12 in January and it's brilliant. Mine outperforms the Ebac model i have had prior to this. Even though the specs ie litres per hour etc are less it removes more moisture in the real world. It only displays the humidity level in increments of 5 ie 50 then won't change until 45 so if that's important to you then get the Aldi one. I like the timer, I select 4 hours when I get up and when I get back from work it has lowered the humidity making it easier to heat the house. Very good machines.",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "amazon",
+            "sentiment": "positive"
+          },
+          {
+            "name": "aldi",
+            "sentiment": "none"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-12-03T16:16:28.535+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "0ef953d02208d273e43989a6c99ee2b901377e25",
+        "url": "http://omgili.com/ri/.wHSUbtEfZRqtNymsWgmutf0agSWIMgFG9GYZKPR4Tj.BTg4srQdSUTPTJacvRH2iP4EEkOHAQl2N97qs9WfwGhZSug4zmd8",
+        "site_full": "boardgamegeek.com",
+        "site": "boardgamegeek.com",
+        "site_section": "http://boardgamegeek.com/recentadditions/rss?domain=boardgame",
+        "site_categories": [
+          "entertainment",
+          "education"
+        ],
+        "section_title": "Recent additions | BoardGameGeek",
+        "title": "Reply: Hot Deals:: Re: [Amazon] Parfum $15.69",
+        "title_full": "Reply: Hot Deals:: Re: [Amazon] Parfum $15.69",
+        "published": "2016-12-03T20:27:22.296+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 2982,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "0ef953d02208d273e43989a6c99ee2b901377e25",
+      "url": "http://omgili.com/ri/.wHSUbtEfZRqtNymsWgmutf0agSWIMgFG9GYZKPR4Tj.BTg4srQdSUTPTJacvRH2iP4EEkOHAQl2N97qs9WfwGhZSug4zmd8",
+      "ord_in_thread": 0,
+      "author": "NuMystic",
+      "published": "2016-12-03T20:27:22.296+02:00",
+      "title": "Reply: Hot Deals:: Re: [Amazon] Parfum $15.69",
+      "text": "Solomon's Amazon review is pretty epic . Seriously, what a great goddamn hobby.5.0 out of 5 starsBest Medium/Light Board Game Ever!By Solomon on July 27, 2015The most fun I have ever had playing a board game with my family. Extremely satisfying and a truly transcendent experience. I am 60 years old and played this game with a 66 year old sister, a 56 year old sister, and a 50 year old brother. At one point in the game, we literally had to suspend play for 10 to 15 minutes because we were laughing so hard we couldn't breathe.The game and components are top notch and absolutely gorgeous. I had no trouble at all trying to convince my sisters to play because the board is so beautiful. It took less than 10 minutes to explain the rules and while I was doing that I said \"here, I'll take the first turn\" and off we were playing the game!The game seemed to be a perfect blend of strategy and dice rolling. The game involves distilling aromas into fragrances so you can make perfumes. You pick different colored dice to roll according to the aromas you are attempting to combine. The dice contain pictures of flasks (successful distillation) or flies (failed distillation). This makes the dice rolling very exciting and makes for a lot of teasing - \"ha ha, there are flies in your par foom!\" There is a mechanism which allows you to modify the result of your die rolls in a push your luck manner.After creating your parfums, there are customers that you can sell them to to get even more points. Another mechanism that works extremely well is there is no set clockwise or counter-clockwise turn order. Each round the person who is last gets to pick what order they want to take their turn by choosing a wake up clock. For example, the person who chooses to go first, has only three actions available to them, but the person who chooses to go last has 6 actions.I am completely shocked at how much fun we had playing this game. I had my doubts about it after seeing a review in which the reviewer complained about the luck element because of the dice rolling but I found that the dice rolling added a satisfying and exciting aspect to playing this game. I would be remiss though if I didn't admit that to add to the wonderful tactile sensations of playing this game, we used a professional dice cup and dice tray for the die rolling.This is the first time I have ever felt compelled to review a product that I have purchased. That's how good this game is. Very very satisfying!",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "solomon",
+            "sentiment": "positive"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "amazon",
+            "sentiment": "positive"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-12-03T20:27:22.296+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "dafd1b748880976b81402ff19c4d8a6583a3b480",
+        "url": "http://omgili.com/ri/jHIAmI4hxg_UTCAmJtHY455MRBZJFfl8scQuEFpfk_2rWC2HLJi7lOIchJAP1lHa1w13KjzTNlEei_a1IiIjeAf3WV60uK30u1kEXYAUDLCyK5CAzArJRbkLBv.HMlYdoXnKzBt96oY-",
+        "site_full": "www.passionforsavings.com",
+        "site": "passionforsavings.com",
+        "site_section": "http://passionforsavings.com/feed/",
+        "site_categories": [
+          "shopping"
+        ],
+        "section_title": "Passion for Savings",
+        "title": "Burt’s Bees Endless Shine Trio Holiday Gift Set only $9.88!",
+        "title_full": "Burt’s Bees Endless Shine Trio Holiday Gift Set only $9.88!",
+        "published": "2016-12-03T21:31:26.885+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://www.passionforsavings.com/content/uploads/2016/12/burts-bees-feature.jpg",
+        "performance_score": 0,
+        "domain_rank": 48624,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "dafd1b748880976b81402ff19c4d8a6583a3b480",
+      "url": "http://omgili.com/ri/jHIAmI4hxg_UTCAmJtHY455MRBZJFfl8scQuEFpfk_2rWC2HLJi7lOIchJAP1lHa1w13KjzTNlEei_a1IiIjeAf3WV60uK30u1kEXYAUDLCyK5CAzArJRbkLBv.HMlYdoXnKzBt96oY-",
+      "ord_in_thread": 0,
+      "author": "Kara",
+      "published": "2016-12-03T21:31:26.885+02:00",
+      "title": "Burt’s Bees Endless Shine Trio Holiday Gift Set only $9.88!",
+      "text": "The Burt’s Bees beauty sets make for easy holiday giving. Amazon has a great deal on this Burt’s Bees Endless Shine Trio Holiday Gift Set only $9.88! You also get Free Shipping with Amazon Prime! If you don’t have Prime, you can sign up for a Free 30 Day Trial of Amazon Prime here . \nThe Burt’s Bees Gift set contains 3 popular Burt’s Bees products including t hree 0.30 oz. Mini lip shine in Blush, Wink, Flutter. These make great stocking stuffers or gift exchange items! \nNo need for gift wrapping this season. Every natural beauty kit comes in beautiful, specially designed packaging for no hassle, festive gift giving. And you’ll find sets that pamper everything from lips to hands, making it easy to shop for anyone on your list. \nDon’t miss the new Amazon Printed Book Coupon available! View More Posts In...",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "burt",
+            "sentiment": "negative"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "amazon",
+            "sentiment": "positive"
+          }
+        ],
+        "locations": [
+          {
+            "name": "blush",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-03T21:31:26.885+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "7dbe077d73af13eed16efeb32f1ebecbcc0a2733",
+        "url": "http://omgili.com/ri/t1o2C2H78Uc0EsQYnMlDMverl9.z9oCuJaod4cERRgQvjcMYaIwmyibBgSHYR0QQFggkA0lo3v8-",
+        "site_full": "dailycaller.com",
+        "site": "dailycaller.com",
+        "site_section": "",
+        "site_categories": [
+          "news"
+        ],
+        "section_title": "",
+        "title": "Amazon Will Give You Free Money | The Daily Caller",
+        "title_full": "Amazon Will Give You Free Money | The Daily Caller",
+        "published": "2016-12-03T22:51:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.235,
+        "main_image": "http://cdn01.dailycaller.com/wp-content/uploads/2016/06/Screen-Shot-2016-06-21-at-2.08.48-PM-e1478204272161.png",
+        "performance_score": 0,
+        "domain_rank": 2231,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 2
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "7dbe077d73af13eed16efeb32f1ebecbcc0a2733",
+      "url": "http://omgili.com/ri/t1o2C2H78Uc0EsQYnMlDMverl9.z9oCuJaod4cERRgQvjcMYaIwmyibBgSHYR0QQFggkA0lo3v8-",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-12-03T22:51:00.000+02:00",
+      "title": "Amazon Will Give You Free Money | The Daily Caller",
+      "text": "TOP 5358450 \nAmazon is very kind. As sort of a grand finale to Cyber Monday Deals Week , they are giving $20 to anyone who buys a pair of Ray-Ban sunglasses from them. Of course, everyone should own a pair of Ray-Bans, since they represent a classic style of Americana. There are 128 different pairs to choose from, too, so there really is not an excuse not to take advantage of this one-day-only opportunity to get a $20 credit from Amazon . \nI’m sure you know what Ray-Bans look like, so I won’t go through and put a bunch of pictures here. But just a reminder, here’s what a pair of Wayfarers goes for: This is just one of 128 different pairs available (Photo via Amazon) ",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "amazon",
+            "sentiment": "positive"
+          },
+          {
+            "name": "wayfarers",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "amazon",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-03T23:14:05.078+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "67e834af68a8a825dc4b757d8fae6f152d87deb4",
+        "url": "http://omgili.com/ri/.wHSUbtEfZTl5nva7IQ5cLIi0S2aP1FjHwfb.gMFdG_PcnYAuqZxD30CvrQax8v1yCjrsaHgxudiXXrpEdJag5fwD.z_MN9.ZYDg4t_J5chKucJRtzQm8GyTkYyz4SgP",
+        "site_full": "tv.yahoo.com",
+        "site": "yahoo.com",
+        "site_section": "https://tv.yahoo.com/sitemap/stories/1.xml",
+        "site_categories": [
+          "entertainment",
+          "sports"
+        ],
+        "section_title": "",
+        "title": "'Good Girls Revolt' Canceled at Amazon; Will Be Shopped Elsewhere",
+        "title_full": "'Good Girls Revolt' Canceled at Amazon; Will Be Shopped Elsewhere",
+        "published": "2016-12-02T22:48:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.138,
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 5,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "67e834af68a8a825dc4b757d8fae6f152d87deb4",
+      "url": "http://omgili.com/ri/.wHSUbtEfZTl5nva7IQ5cLIi0S2aP1FjHwfb.gMFdG_PcnYAuqZxD30CvrQax8v1yCjrsaHgxudiXXrpEdJag5fwD.z_MN9.ZYDg4t_J5chKucJRtzQm8GyTkYyz4SgP",
+      "ord_in_thread": 0,
+      "author": "Lesley Goldberg",
+      "published": "2016-12-02T22:48:00.000+02:00",
+      "title": "'Good Girls Revolt' Canceled at Amazon; Will Be Shopped Elsewhere",
+      "text": "In a surprising move, Amazon has opted to cancel one of its best-reviewed dramas.\nThe streaming platform and retail outlet has axed Good Girls Revolt after one season, The Hollywood Reporter has learned. Sony Pictures Television - whose TriStar Television banner was behind the 10-episode series - are in the process of getting the rights back from Amazon and plan to shop the period drama elsewhere.\nThis marks the latest one-and-done series at Amazon, which earlier this year canceled Shawn Ryan's Mad Dogs - also from Sony TV. (Amazon next has Sony's The Last Tycoon, The Tick and Sneaky Pete all due in 2017.)\nSet in 1969, Good Girls Revolt centers on a group of young female researchers who work at News of the Week, inspired by the landmark sexual discrimination cases chronicled in Lynn Povich's book of the same name.\nRead more: Amazon Studios Chief Addresses Woody Allen, 'Top Gear' Controversies in Awkward Panel\nThe real people portrayed in the series include Eleanor Holmes Norton (Joy Bryant), Nora Ephron (Grace Gummer) and Wick McFadden (Jim Belushi). Rising star Genevieve Angelson starred alongside Anna Camp. Dana Calvo (Made in Jersey) created the drama and exec produced alongside Lynda Obst, Darlene Hunt (The Big C), Don Kurt (Justified) and Jeff Okin (Dark Skies).\nThe series debuted Oct. 28 to mostly positive reviews (it has a 65 on Metacritic) and four and a half stars on Amazon. It was part of a freshman class that included previously renewed One Mississippi as well as Goliath, which Amazon boasted ranked as its \"top binged first season of a U.S.-produced Amazon original series ever over its first 10 days.\" The streamer, like Netflix, does not release official ratings data for its streaming originals.\nRead more: Hollywood's Next Big Thing: 'Good Girls Revolt' Star Genevieve Angelson Is Really Just a \"Free-Love Hippie\"\nSources say streaming monitor Symphony Advanced Media metrics had Good Girls Revolt collecting more viewers than many of Amazon's other originals. Sources say Amazon Studios head Roy Price was not a fan of the series and didn't deem it to be an awards season player in opting to pass on ordering a second season after hearing Sony's season two pitch this week. The studio had hoped to file on time for a California tax credit.\nOf Amazon's 2016 freshman launches, Tig Notaro's One Mississippi has already been renewed; Goliath appears poised for a second season pickup; and a decision has yet to be made about critical darling Fleabag (an international acquisition) or Woody Allen flop Crisis in Six Scenes. Due in 2017 are Jill Soloway's I Love Dick, Jean-Claude Van Johnson, The Last Tycoon, Sneaky Pete and The Tick.\nRead more: 'Good Girls Revolt' Cast, Producers on Sexual Harassment: \"It's All Over the Place\"\n\"Based on data provided to us from Sony, Symphony Advanced Media reported our show was a hit, and we have loyal viewers,\" Calvo told BuzzFeed hours after the news of Good Girls Revolt's cancellation broke. \"Eighty percent of people who watched the first few minutes of the pilot stayed until the last minutes of the finale. We had twice Transparent's audience. We were stunned by Amazon's decision, but heartened and encouraged by Sony's devotion to the project.\"",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [
+        "https://www.hollywoodreporter.com/live-feed/amazon-studios-chief-roy-price-812698",
+        "https://www.hollywoodreporter.com/live-feed/good-girls-revolt-cast-producers-917896",
+        "https://www.hollywoodreporter.com/news/genevieve-angelson-good-girls-revolt-fame-a-free-love-hippie-939259?utm_source=Yahoo&utm_campaign=Syndication&utm_medium=%27Good+Girls+Revolt%27+Canceled+at+Amazon%3B+Will+Be+Shopped+Elsewhere",
+        "https://www.hollywoodreporter.com/live-feed/amazons-mad-dogs-canceled-one-870617?utm_source=Yahoo&utm_campaign=Syndication&utm_medium=%27Good+Girls+Revolt%27+Canceled+at+Amazon%3B+Will+Be+Shopped+Elsewhere",
+        "https://www.hollywoodreporter.com/review/good-girls-revolt-review-941933?utm_source=Yahoo&utm_campaign=Syndication&utm_medium=%27Good+Girls+Revolt%27+Canceled+at+Amazon%3B+Will+Be+Shopped+Elsewhere",
+        "https://www.hollywoodreporter.com/news/genevieve-angelson-good-girls-revolt-fame-a-free-love-hippie-939259"
+      ],
+      "entities": {
+        "persons": [
+          {
+            "name": "wick mcfadden",
+            "sentiment": "none"
+          },
+          {
+            "name": "jill soloway",
+            "sentiment": "none"
+          },
+          {
+            "name": "nora ephron",
+            "sentiment": "none"
+          },
+          {
+            "name": "tig notaro",
+            "sentiment": "none"
+          },
+          {
+            "name": "don kurt",
+            "sentiment": "none"
+          },
+          {
+            "name": "roy price",
+            "sentiment": "none"
+          },
+          {
+            "name": "calvo",
+            "sentiment": "none"
+          },
+          {
+            "name": "darlene hunt",
+            "sentiment": "none"
+          },
+          {
+            "name": "jim belushi",
+            "sentiment": "none"
+          },
+          {
+            "name": "lynn povich",
+            "sentiment": "none"
+          },
+          {
+            "name": "woody allen",
+            "sentiment": "none"
+          },
+          {
+            "name": "grace gummer",
+            "sentiment": "none"
+          },
+          {
+            "name": "dick",
+            "sentiment": "none"
+          },
+          {
+            "name": "shawn ryan",
+            "sentiment": "none"
+          },
+          {
+            "name": "jeff okin",
+            "sentiment": "none"
+          },
+          {
+            "name": "jean-claude van johnson",
+            "sentiment": "none"
+          },
+          {
+            "name": "sneaky pete",
+            "sentiment": "none"
+          },
+          {
+            "name": "genevieve angelson",
+            "sentiment": "none"
+          },
+          {
+            "name": "joy bryant",
+            "sentiment": "none"
+          },
+          {
+            "name": "lynda obst",
+            "sentiment": "none"
+          },
+          {
+            "name": "eleanor holmes norton",
+            "sentiment": "none"
+          },
+          {
+            "name": "anna camp",
+            "sentiment": "none"
+          },
+          {
+            "name": "dana calvo",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "amazon",
+            "sentiment": "positive"
+          },
+          {
+            "name": "tristar television",
+            "sentiment": "none"
+          },
+          {
+            "name": "sony",
+            "sentiment": "none"
+          },
+          {
+            "name": "amazon studios",
+            "sentiment": "none"
+          },
+          {
+            "name": "sony pictures television",
+            "sentiment": "none"
+          },
+          {
+            "name": "netflix",
+            "sentiment": "none"
+          },
+          {
+            "name": "symphony advanced media",
+            "sentiment": "none"
+          },
+          {
+            "name": "sony tv",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "amazon",
+            "sentiment": "none"
+          },
+          {
+            "name": "california",
+            "sentiment": "none"
+          },
+          {
+            "name": "jersey",
+            "sentiment": "none"
+          },
+          {
+            "name": "mississippi",
+            "sentiment": "none"
+          },
+          {
+            "name": "hollywood",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-04T12:04:35.829+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "231338eced163d0f128ead095cfe57da111a5a9e",
+        "url": "http://omgili.com/ri/jHIAmI4hxg8v3BmVd24meuL1ei1Bo_4Wam_pHZNYW.R_vgfUIpgRO2KixTU4J1n_kRNUMti0aM3k74qV6vtwyJ4GUvUQauXK",
+        "site_full": "www.businessinsider.com",
+        "site": "businessinsider.com",
+        "site_section": "http://feeds2.feedburner.com/businessinsider",
+        "site_categories": [
+          "news"
+        ],
+        "section_title": "Feedburner",
+        "title": "Amazon's kid-friendly Kindle is a great value right now",
+        "title_full": "Amazon's kid-friendly Kindle is a great value right now",
+        "published": "2016-12-04T18:38:50.385+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://static5.businessinsider.com/image/58436bfeba6eb61b008b7644-1190-625/amazons-kid-friendly-kindle-is-a-great-value-right-now.jpg",
+        "performance_score": 0,
+        "domain_rank": 283,
+        "social": {
+          "facebook": {
+            "likes": 6,
+            "comments": 0,
+            "shares": 6
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 1
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "231338eced163d0f128ead095cfe57da111a5a9e",
+      "url": "http://omgili.com/ri/jHIAmI4hxg8v3BmVd24meuL1ei1Bo_4Wam_pHZNYW.R_vgfUIpgRO2KixTU4J1n_kRNUMti0aM3k74qV6vtwyJ4GUvUQauXK",
+      "ord_in_thread": 0,
+      "author": "Brandt Ranj (branj@businessinsider.com)",
+      "published": "2016-12-04T18:38:50.385+02:00",
+      "title": "Amazon's kid-friendly Kindle is a great value right now",
+      "text": "The Insider Picks team writes about stuff we think you'll like. Business Insider has affiliate partnerships, so we get a share of the revenue from your purchase. \nAmazon \nAmazon is keeping the deal train running. \nAfter discounting a lot of their hardware this past week, they have a new one-day deal. \nIts only on one product, Amazon's Kindle for Kids Bundle. If you know a young reader, it might be the perfect gift. \nThe Kindle for Kids bundle mirrors Amazon's other kid-focused product, the Fire Tablet Kids Edition. \nBoth come with a case, 2-year no-question-asked warranty, and neither have ads. \nThis bundle, though, is aimed at helping kids do one thing: read better, and more independently. It's full of software that helps kids read by making it easier for them to understand tougher words. \nIt also charts how much your kid uses it, so you can see if there's an improvement in your kid's reading ability after they use it. \nThe biggest advantage of this bundle over physical books is that your kid can have their entire library on them at all times. No more \"Oops, we forgot your favorite book.\" And, since they can grab their Kindle at any time, they can associate reading with independence. \nWe have a more detailed post about this product if you'd like to learn more, but it's the perfect holiday present for a young reader. \nKindle for Kids Bundle, $89.99 (originally $99.99), available at Amazon Disclosure: This post is brought to you by Business Insider's Insider Picks team. We aim to highlight products and services you might find interesting, and if you buy them, we get a small share of the revenue from the sale from our commerce partners, including Amazon. Jeff Bezos, CEO of Amazon, is an investor in Business Insider through his personal investment company Bezos Expeditions. We frequently receive products free of charge from manufacturers to test. This does not drive our decision as to whether or not a product is featured or recommended. We operate independently from our advertising sales team. We welcome your feedback. Have something you think we should know about? Email us at insiderpicks@businessinsider.com. Read the original article on Insider Picks . Copyright 2016. Follow Insider Picks on Twitter .",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "jeff bezos",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "amazon",
+            "sentiment": "positive"
+          },
+          {
+            "name": "amazon  amazon",
+            "sentiment": "none"
+          },
+          {
+            "name": "bezos expeditions",
+            "sentiment": "none"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-12-04T18:38:50.385+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "3b6ef089d0b42587d8c1e53157b7347ea919422a",
+        "url": "http://omgili.com/ri/jHIAmI4hxg8lUsictWmtlCd_CURDa9VYnmk79dUHhZzLtnMZ.ZWWYnWYDzDJKxTWjjvIwxKFtttVql7hUUzkcg--",
+        "site_full": "www.spoofee.com",
+        "site": "spoofee.com",
+        "site_section": "http://www.spoofee.com/rss.xml",
+        "site_categories": [
+          "forums"
+        ],
+        "section_title": "Spoofee Deals",
+        "title": "Philips Hue Go Light for $44.32",
+        "title_full": "Philips Hue Go Light for $44.32",
+        "published": "2016-12-04T21:50:25.919+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://www.spoofee.com/images/dealofday/original/898730.jpg",
+        "performance_score": 0,
+        "domain_rank": 29252,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "3b6ef089d0b42587d8c1e53157b7347ea919422a",
+      "url": "http://omgili.com/ri/jHIAmI4hxg8lUsictWmtlCd_CURDa9VYnmk79dUHhZzLtnMZ.ZWWYnWYDzDJKxTWjjvIwxKFtttVql7hUUzkcg--",
+      "ord_in_thread": 0,
+      "author": "Jennifer Miller",
+      "published": "2016-12-04T21:50:25.919+02:00",
+      "title": "Philips Hue Go Light for $44.32",
+      "text": "Amazon is offering Philips Hue Go Light, Works with Amazon Alexa for the best deal. Only for Prime members with Amazon Echo / Echo Dot / Tap Regular Price is $69.73 2. Use Alexa to order by saying Alexa, order Philips Hue Go and have Amazon Prime to get it for $44.32 Trending Deals",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "alexa",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "amazon alexa",
+            "sentiment": "positive"
+          },
+          {
+            "name": "philips",
+            "sentiment": "positive"
+          },
+          {
+            "name": "amazon",
+            "sentiment": "positive"
+          },
+          {
+            "name": "amazon echo / echo dot / tap regular price",
+            "sentiment": "none"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-12-04T21:50:25.919+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "dfc2bc5935e342f852d9137781c8e3bb12b2154f",
+        "url": "http://omgili.com/ri/.wHSUbtEfZTpAYNeM5CifTfjdeUT710Wcc6DycfC3ABpVyERwtwvuIapzA3mdMjhEk5Nq3GYPuiDta8Suo9U82OqRzJu87THVlR4fuAuE9ZOZqZm6_7KgXwatsvGhz7.vhYGg_6VN4LAIfNJR4QK3A--",
+        "site_full": "slickdeals.net",
+        "site": "slickdeals.net",
+        "site_section": "https://slickdeals.net/forums/forumdisplay.php?f=9",
+        "site_categories": [
+          "shopping"
+        ],
+        "section_title": "Slickdeals Hot Deals Forum",
+        "title": "Kids Sports Deal of the Day",
+        "title_full": "Kids Sports Deal of the Day",
+        "published": "2016-12-04T23:16:39.438+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": null,
+        "performance_score": 0,
+        "domain_rank": 269,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "dfc2bc5935e342f852d9137781c8e3bb12b2154f",
+      "url": "http://omgili.com/ri/.wHSUbtEfZTpAYNeM5CifTfjdeUT710Wcc6DycfC3ABpVyERwtwvuIapzA3mdMjhEk5Nq3GYPuiDta8Suo9U82OqRzJu87THVlR4fuAuE9ZOZqZm6_7KgXwatsvGhz7.vhYGg_6VN4LAIfNJR4QK3A--",
+      "ord_in_thread": 0,
+      "author": "alexT1768",
+      "published": "2016-12-04T23:16:39.438+02:00",
+      "title": "Kids Sports Deal of the Day",
+      "text": "\nThumb Score: 0 Amazon has a deal of the day today on Kids' Sports products. \n\nItems include a Lifetime youth basketball hoop, dodgeballs/playground balls, trampolines, a teeter totter, and several games (table tennis, badminton, etc.)\n\nAll items are 20%-50% off, and appear to be the lowest prices in at least a year. Average 4.5 stars. Go check it out! :look:\n\n\nhttps://www.amazon.com/s/ref=gbps...WP2QESPSE6 ",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "amazon",
+            "sentiment": "positive"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-12-04T23:16:39.438+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "43c8411f54dd5ba90b3d6c4fcb7878fb7abb9180",
+        "url": "http://omgili.com/ri/.wHSUbtEfZTpAYNeM5CifTfjdeUT710WzuyqJ9WrR5T4Sau3.GZqvfHrTK_nnhzmXnyrwvGl_n0jMEhSgKv2sYIjUra6C93MaGhhGC57oIstQh6r.r.a35J2XV9gzEKIbJ7_ahvL8NxKXgM3IWo1Gw--",
+        "site_full": "slickdeals.net",
+        "site": "slickdeals.net",
+        "site_section": "https://slickdeals.net/forums/forumdisplay.php?f=9",
+        "site_categories": [
+          "shopping"
+        ],
+        "section_title": "Slickdeals Hot Deals Forum",
+        "title": "Kids Sports Deal of the Day",
+        "title_full": "Kids Sports Deal of the Day",
+        "published": "2016-12-04T23:16:40.206+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": null,
+        "performance_score": 0,
+        "domain_rank": 269,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "43c8411f54dd5ba90b3d6c4fcb7878fb7abb9180",
+      "url": "http://omgili.com/ri/.wHSUbtEfZTpAYNeM5CifTfjdeUT710WzuyqJ9WrR5T4Sau3.GZqvfHrTK_nnhzmXnyrwvGl_n0jMEhSgKv2sYIjUra6C93MaGhhGC57oIstQh6r.r.a35J2XV9gzEKIbJ7_ahvL8NxKXgM3IWo1Gw--",
+      "ord_in_thread": 0,
+      "author": "alexT1768",
+      "published": "2016-12-04T23:16:40.206+02:00",
+      "title": "Kids Sports Deal of the Day",
+      "text": "Thumb Score: 0 Amazon has a deal of the day today on kids' sports products. \n\nIncluded in the deal are a Lifetime Youth Basketball hoop, trampolines, dodgeballs, a teeter totter, and several games (table tennis, badminton, etc.)\n\nAll are 20%-50% off, and appear to be the lowest prices in at least the last year. Average 4.5 stars. Go check it out! :look:\n\nhttps://www.amazon.com/s/ref=gbps...WP2QESPSE6 ",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "amazon",
+            "sentiment": "positive"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-12-04T23:16:40.206+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "8997fc5204a7ce9fbcbdd024dc6b1a64566869b2",
+        "url": "http://omgili.com/ri/DyQaNGXlfMpm4fadeDRbNzh9bunfP1tIa_2jHA.3nJ45v.1bYsUi_sw5FZYcPfGRWD9aK7kpPWMMSU8ONcRFmRlQYSGC8WdY",
+        "site_full": "tampa.backpage.com",
+        "site": "backpage.com",
+        "site_section": "http://tampa.backpage.com/online/exports/Rss.xml?section=4383",
+        "site_categories": [
+          "shopping",
+          "business"
+        ],
+        "section_title": "backpage.com | dating | tampa, fl",
+        "title": "Sub seeking AMAZON - 61",
+        "title_full": "Sub seeking AMAZON - 61",
+        "published": "2016-12-04T04:03:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 949,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "8997fc5204a7ce9fbcbdd024dc6b1a64566869b2",
+      "url": "http://omgili.com/ri/DyQaNGXlfMpm4fadeDRbNzh9bunfP1tIa_2jHA.3nJ45v.1bYsUi_sw5FZYcPfGRWD9aK7kpPWMMSU8ONcRFmRlQYSGC8WdY",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-12-04T04:03:00.000+02:00",
+      "title": "Sub seeking AMAZON - 61",
+      "text": "White submissive total bottom smooth and tight, with excellent oral talents. Enjoys being used for pleasure with very liberal boundaries. 5'7\" 193 lbs. 4\" cut HIV negative std free and u must be too. Passable or Non-passable",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "amazon",
+            "sentiment": "positive"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-12-05T05:14:31.092+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "e4b1e2a6f7e942312a22e2f4f92b44e7def66cf0",
+        "url": "http://omgili.com/ri/7aBdisT0NOp1i9DRXYIJLjbOlyESDFPz7TZYVoUZnwmeqLq7k7hbNeX_IvO4fGAGg9RB2YcN27N03rIKqTAsLKKuYNf.2E5u",
+        "site_full": "smartbitchestrashybooks.com",
+        "site": "smartbitchestrashybooks.com",
+        "site_section": "http://smartbitchestrashybooks.com/feed",
+        "site_categories": [
+          "news",
+          "entertainment"
+        ],
+        "section_title": "Smart Bitches, Trashy BooksSmart Bitches, Trashy Books",
+        "title": "Lost Lords, Fairy Princes, and More!",
+        "title_full": "Lost Lords, Fairy Princes, and More!",
+        "published": "2016-12-04T23:30:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 73811,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "e4b1e2a6f7e942312a22e2f4f92b44e7def66cf0",
+      "url": "http://omgili.com/ri/7aBdisT0NOp1i9DRXYIJLjbOlyESDFPz7TZYVoUZnwmeqLq7k7hbNeX_IvO4fGAGg9RB2YcN27N03rIKqTAsLKKuYNf.2E5u",
+      "ord_in_thread": 0,
+      "author": "Amanda",
+      "published": "2016-12-04T23:30:00.000+02:00",
+      "title": "Lost Lords, Fairy Princes, and More!",
+      "text": "Amazon has some great Kindle Daily Deals for kids’ books today , including the Percy Jackson and Magnus Chase series! Time Served \nRECOMMENDED: Time Served by Julianna Keyes is $1.99! This is a contemporary romance with an ex-con hero and it was mentioned on a previous podcast with Jane, who recommends Keyes if you like “moody loner dudes:” \nYou kind of have two unlikeable people. They reconnect after he’s out of prison. She’s a lawyer. She’s trying to angle for a promotion within her law firm, and they’re working on this class action suit regarding medical illnesses caused in a, a factory. So she runs into him again. There’s a lot of attraction there, lot of unresolved issues, and she can’t really bring herself to admit that she wants him, so he says, you don’t have to admit it, you only have to say no, which she never does. I thought it was a very gritty book, and I enjoyed it quite a bit. \nDean Barclay had nothing to do with my decision to flee my old life, but he is 100 percent of the reason I vowed to never look back. \nI’ve never forgotten how it felt to follow Dean—dangerous, daring, determined—away from the crowd and climb into his beat-up old Trans Am. I was sixteen and gloriously alive for the first time. When I felt his hand cover my leg and move upward, it was over. I was his. Forever. \nUntil I left. Him, my mom, and the trailer park. Without so much as a goodbye. \nNow Dean’s back, crashing uninvited into my carefully cultivated, neat little lawyerly life. Eight years behind bars have turned him rougher and bigger—and more sexually demanding than any man I’ve ever met. I can’t deny him anything…and that just might end up costing me everything. This book is on sale at: Not Always a Saint \nNot Always a Saint by Mary Jo Putney is $1.99 at Amazon and Kobo! Hopefully, it’ll be price matched elsewhere. This is also the most recent release in the Lost Lords series and was mentioned on a previous podcast . Many readers loved the hero and heroine separately, but found things lacking in their romance. Several of the other Lost Lords books are also on sale ! \nAfter the death of his sweetheart when he was at university, Daniel Herbert buried his grief in medical studies and his passion for healing. Viewed as a saint by those who know him, in his own mind, he never quite manages to live up to his own high standards. \nMost men would be thrilled to learn they’ve inherited a title and estate from a distant relative, but Daniel is appalled because the burden of wealth will interfere with his medical calling. Warily he accepts that he must enter society and seek a wife—a sensible woman who can oversee his properties, leaving him free to continue his work. He does not expect to become intoxicated by a woman called the Black Widow, who is as mysterious as she is shockingly beautiful… \nJessie Kelham’s looks have always been a curse. Now alone with a young daughter and a perilous secret, she is in need of protection. But dangerously attractive Daniel Herbert is not the kind of husband she has in mind. If he recognizes her, the demons of her past will surely erupt. Yet they cannot keep apart—and soon they are drawn into a union that may bring joy—or shattering danger… This book is on sale at: The Forgetting \nThe Forgetting by Sharon Cameron is $2.99! This is a book that was included in Elyse’s Uppercase Box subscription . Readers loved how there were some great plot twists that they didn’t see coming, but others thought there was too much stuff wrapped up in the abrupt ending. Have you read this one? \nWhat isn’t written, isn’t remembered. Even your crimes. \nNadia lives in the city of Canaan, where life is safe and structured, hemmed in by white stone walls and no memory of what came before. But every twelve years the city descends into the bloody chaos of the Forgetting, a day of no remorse, when each person’s memories – of parents, children, love, life, and self – are lost. Unless they have been written. \nIn Canaan, your book is your truth and your identity, and Nadia knows exactly who hasn’t written the truth. Because Nadia is the only person in Canaan who has never forgotten. \nBut when Nadia begins to use her memories to solve the mysteries of Canaan, she discovers truths about herself and Gray, the handsome glassblower, that will change her world forever. As the anarchy of the Forgetting approaches, Nadia and Gray must stop an unseen enemy that threatens both their city and their own existence – before the people can forget the truth. And before Gray can forget her . This book is on sale at: The Outcast Prince \nThe Outcast Prince by Shona Husk is $1.99! This is a paranormal romance with a fae hero and it’s the first book in the Court of Annwyn series. Reader thought the relationship moved at a pretty quick pace and some of the dialogue was eye-roll worthy. However, others loved Husk’s worldbuilding and the setting of Charleston. \nCaspian Mort can feel the history in anything he touches, a gift he inherited from his father, the Crown Prince of Annwyn. Devastated over his ex-wife’s infidelity, Caspian has withdrawn from human contact except when working as an antiques dealer. \nWhile assessing the contents of the historic Callaway House he encounters the beautiful Lydia Callaway and senses that her home is haunted by a banished fairy. But what does the dangerous exile want? Unbeknownst to Lydia, she’s the owner of the last remaining portal to Annwyn—a mirror hidden somewhere in the house. To keep Lydia safe, Caspian will have to divulge the secrets of his heritage, and risk losing his heart again. Add to Goodreads To-Read List → This book is on sale at: \nDon't want to miss an ebook sale? Sign up for our newsletter, and you'll get the week's available deals each Friday. Share a Bitch: Facebook LiveJournal Categorized:",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "percy jackson",
+            "sentiment": "positive"
+          },
+          {
+            "name": "caspian mort",
+            "sentiment": "none"
+          },
+          {
+            "name": "dean barclay",
+            "sentiment": "none"
+          },
+          {
+            "name": "mary jo putney",
+            "sentiment": "none"
+          },
+          {
+            "name": "dean",
+            "sentiment": "none"
+          },
+          {
+            "name": "nadia",
+            "sentiment": "none"
+          },
+          {
+            "name": "julianna keyes",
+            "sentiment": "none"
+          },
+          {
+            "name": "sharon cameron",
+            "sentiment": "none"
+          },
+          {
+            "name": "husk",
+            "sentiment": "none"
+          },
+          {
+            "name": "gray",
+            "sentiment": "none"
+          },
+          {
+            "name": "elyse",
+            "sentiment": "none"
+          },
+          {
+            "name": "keyes",
+            "sentiment": "none"
+          },
+          {
+            "name": "lydia",
+            "sentiment": "none"
+          },
+          {
+            "name": "jane",
+            "sentiment": "none"
+          },
+          {
+            "name": "jessie kelham",
+            "sentiment": "none"
+          },
+          {
+            "name": "lydia callaway",
+            "sentiment": "none"
+          },
+          {
+            "name": "prince of annwyn",
+            "sentiment": "none"
+          },
+          {
+            "name": "daniel herbert",
+            "sentiment": "none"
+          },
+          {
+            "name": "daniel",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "amazon",
+            "sentiment": "positive"
+          },
+          {
+            "name": "caspian",
+            "sentiment": "none"
+          },
+          {
+            "name": "callaway house",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "canaan",
+            "sentiment": "none"
+          },
+          {
+            "name": "charleston",
+            "sentiment": "none"
+          },
+          {
+            "name": "amazon",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-05T07:52:36.846+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "194776232a44c222a7f54762dec42449d108128f",
+        "url": "http://omgili.com/ri/DyQaNGXlfMrhQeLvt34e4yF_YnF_pQJNtYW9XYwWo2P2HwPL925_ykq41Q_PBU.BiUnsLZBu1Zlxg9aSrdVuJkqfUagiuzZ0uIJybe8aGWoRp2yu_Nac_KygUFxmPh8DxGWkPXo2GhM09TZ2TtJnXVbz.9.y_VUToCX4AuXrc7RL3iD6NH_hP8jPrYFd2zXtSHynLvojo3U-",
+        "site_full": "tech.firstpost.com",
+        "site": "firstpost.com",
+        "site_section": "http://tech.firstpost.com",
+        "site_categories": [
+          "tech"
+        ],
+        "section_title": "Tech2",
+        "title": "Amazon India launches ‘Amazon Launchpad’ to help startups launch and distribute their products",
+        "title_full": "Amazon India launches ‘Amazon Launchpad’ to help startups launch and distribute their products",
+        "published": "2016-12-05T14:02:52.849+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": null,
+        "performance_score": 0,
+        "domain_rank": 1168,
+        "social": {
+          "facebook": {
+            "likes": 2,
+            "comments": 0,
+            "shares": 2
+          },
+          "gplus": {
+            "shares": 1
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "194776232a44c222a7f54762dec42449d108128f",
+      "url": "http://omgili.com/ri/DyQaNGXlfMrhQeLvt34e4yF_YnF_pQJNtYW9XYwWo2P2HwPL925_ykq41Q_PBU.BiUnsLZBu1Zlxg9aSrdVuJkqfUagiuzZ0uIJybe8aGWoRp2yu_Nac_KygUFxmPh8DxGWkPXo2GhM09TZ2TtJnXVbz.9.y_VUToCX4AuXrc7RL3iD6NH_hP8jPrYFd2zXtSHynLvojo3U-",
+      "ord_in_thread": 0,
+      "author": "hidden",
+      "published": "2016-12-05T14:02:52.849+02:00",
+      "title": "Amazon India launches ‘Amazon Launchpad’ to help startups launch and distribute their products",
+      "text": "In a move to help Indian startups launch, market and distribute their products to millions of Amazon customers across the country and globally through a dedicated store, Amazon India on Monday launched its much anticipated global programme – Amazon Launchpad in India. To begin with, Amazon.in has partnered with the Department of Industrial Policy and Promotion’s (DIPP) “Start Up India” initiative, IT industry’s representative organisation Nasscom’s “10,000 Startup” initiative and Indian Angel Network (IAN), among others, to help identify and enroll startups.\n“By bringing Amazon Launchpad to India, we encourage innovation from the start-up community. India has great minds which invent amazing products and we will support their growth by helping customers discover their new products not just in India but other countries around the world,” said Amit Agarwal, Vice President and Country Head, Amazon India.\nThe Amazon Launchpad store on Amazon.in features over 400 innovative products ranging from wearable technology, smart homes, food and beverage, health monitoring, educational toys and more. “Nasscom is excited to support and partner with the Amazon Launchpad programme in India. The timing couldn’t have been better. The nascent but promising Indian hardware/IoT product ecosystem can now fully leverage the firepower of Amazon’s distribution and marketing capabilities.” added Dr R. Chandrashekhar, President, Nasscom.\nGlobally, Amazon Launchpad works with more than 100 venture capital firms, crowd-funding services, and accelerators/incubators. “Through this programme, small entrepreneurs and innovators can go leverage the Amazon platform to increase the scale of their businesses and even get easy access to global markets,” noted Jason Feldman, Director Global Innovations, Amazon.\nEven before its launch, over 25 Indian startups like Witworks, Leaf Wearables, Ducere Technologies, Seventh Sense Technologies have already joined the programme. “The biggest roadblock for a hardware startup is not product development but finding early adopters for its product. Amazon Launchpad is just the right platform to find them,” said Paras Batra, Director Sales and Marketing, Leaf Wearables.\nIANS \nThe post Amazon India launches ‘Amazon Launchpad’ to help startups launch and distribute their products appeared first on Tech2 .",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "r. chandrashekhar",
+            "sentiment": "none"
+          },
+          {
+            "name": "paras batra",
+            "sentiment": "none"
+          },
+          {
+            "name": "jason feldman",
+            "sentiment": "none"
+          },
+          {
+            "name": "amit agarwal",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "amazon india",
+            "sentiment": "positive"
+          },
+          {
+            "name": "amazon launchpad",
+            "sentiment": "positive"
+          },
+          {
+            "name": "amazon",
+            "sentiment": "positive"
+          },
+          {
+            "name": "ducere technologies",
+            "sentiment": "none"
+          },
+          {
+            "name": "seventh sense technologies",
+            "sentiment": "none"
+          },
+          {
+            "name": "nasscom",
+            "sentiment": "none"
+          },
+          {
+            "name": "amazon.in",
+            "sentiment": "none"
+          },
+          {
+            "name": "ians",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "amazon india",
+            "sentiment": "none"
+          },
+          {
+            "name": "amazon",
+            "sentiment": "none"
+          },
+          {
+            "name": "india",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-05T14:02:52.849+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "d103a2984ed42be14e56db391222d22b97f10439",
+        "url": "http://omgili.com/ri/jHIAmI4hxg_A2_aTB4AoMEgwYjfc2Cy0W0H6GecTOXYVGTjQuVKKG_oOw8JCG4s6x.93tYVwvJdsW_feW_rI1xuGSKD9KqmLuDI_st0yipn7VvJebmpQCSmZSf5EDO9c",
+        "site_full": "www.justjared.com",
+        "site": "justjared.com",
+        "site_section": "http://www.justjared.com",
+        "site_categories": [
+          "entertainment"
+        ],
+        "section_title": "Just Jared",
+        "title": "This Amazon Go Video Shows the Cool Future of Shopping!",
+        "title_full": "This Amazon Go Video Shows the Cool Future of Shopping!",
+        "published": "2016-12-05T18:46:34.196+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": null,
+        "performance_score": 0,
+        "domain_rank": 3210,
+        "social": {
+          "facebook": {
+            "likes": 25,
+            "comments": 0,
+            "shares": 25
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 10
+          },
+          "stumbledupon": {
+            "shares": 1
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "d103a2984ed42be14e56db391222d22b97f10439",
+      "url": "http://omgili.com/ri/jHIAmI4hxg_A2_aTB4AoMEgwYjfc2Cy0W0H6GecTOXYVGTjQuVKKG_oOw8JCG4s6x.93tYVwvJdsW_feW_rI1xuGSKD9KqmLuDI_st0yipn7VvJebmpQCSmZSf5EDO9c",
+      "ord_in_thread": 0,
+      "author": "Just Jared",
+      "published": "2016-12-05T18:46:34.196+02:00",
+      "title": "This Amazon Go Video Shows the Cool Future of Shopping!",
+      "text": "Amazon is looking to change the future of shopping at stores and this first look at Amazon Go is super cool!\nThe online retailer is hoping to eliminate the need for checkout lines with its new “Just Walk Out” technology, which uses computer vision, deep learning, and sensor fusion to let customers grab items and just walk right out of the store.\nPeople will have to scan a barcode on their phone when they enter and exit the store, and that’s it!\n“We created the world’s most advanced shopping technology so you never have to wait in line. With our Just Walk Out Shopping experience, simply use the Amazon Go app to enter the store, take the products you want, and go! No lines, no checkout,” the company said in the announcement.\nAmazon’s first store is an employees-only shop at its headquarters in Seattle that will open in early 2017.\nClick inside to get your first look at the video… \n\nIntroducing Amazon Go and the world’s most advanced shopping technology ",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "amazon",
+            "sentiment": "positive"
+          }
+        ],
+        "locations": [
+          {
+            "name": "seattle",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-05T18:46:34.196+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "78882a268dbbbb0234d939aebff145075eb7953f",
+        "url": "http://omgili.com/ri/Mx2PHH_4C220IirgEJl.RlLmS5pfs81sb7iW1Nooew5.0ayXxSiUbxM0KuUZSJ.SCqe3KSHtpLggHrVgbBbc5g--",
+        "site_full": "uk.businessinsider.com",
+        "site": "businessinsider.com",
+        "site_section": "http://uk.businessinsider.com/rss",
+        "site_categories": [
+          "news",
+          "business"
+        ],
+        "section_title": "Business Insider",
+        "title": "Bill Gates reveals his 5 favorite books of 2016",
+        "title_full": "Bill Gates reveals his 5 favorite books of 2016",
+        "published": "2016-12-05T20:23:38.269+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://static5.uk.businessinsider.com/image/5845ab27dd089532448b4aaa-1190-625/bill-gates-reveals-his-5-favorite-books-of-2016.jpg",
+        "performance_score": 7,
+        "domain_rank": 283,
+        "social": {
+          "facebook": {
+            "likes": 739,
+            "comments": 0,
+            "shares": 739
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 689
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "78882a268dbbbb0234d939aebff145075eb7953f",
+      "url": "http://omgili.com/ri/Mx2PHH_4C220IirgEJl.RlLmS5pfs81sb7iW1Nooew5.0ayXxSiUbxM0KuUZSJ.SCqe3KSHtpLggHrVgbBbc5g--",
+      "ord_in_thread": 0,
+      "author": "Chris Weller",
+      "published": "2016-12-05T20:23:38.269+02:00",
+      "title": "Bill Gates reveals his 5 favorite books of 2016",
+      "text": "Amazon \n\"The Grid\" is a perfect example of how Bill Gates thinks about book genres the way Netflix thinks about TV and movies. \n\"This book, about our aging electrical grid, fits in one of my favorite genres: 'Books About Mundane Stuff That Are Actually Fascinating,'\" he writes. \nGrowing up in the Seattle area, Gates' first job was writing software for a company that provided energy to the Pacific Northwest. He learned just how vital power grids are to everyday life, and \"The Grid\" serves as an important reminder that they really are engineering marvels. \n\"I think you would also come to see why modernizing the grid is so complex,\" he writes, \"and so critical for building our clean-energy future.\"",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "bill gates",
+            "sentiment": "positive"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "netflix",
+            "sentiment": "positive"
+          },
+          {
+            "name": "amazon",
+            "sentiment": "positive"
+          }
+        ],
+        "locations": [
+          {
+            "name": "seattle",
+            "sentiment": "none"
+          },
+          {
+            "name": "pacific northwest",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-05T20:23:38.269+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "9ca17fdb55a0235b4b9561547b378157864cb179",
+        "url": "http://omgili.com/ri/GiCaV2xJNYsPZWU7Nr.tQnUdXMjB8jo4sO2aUYFbL9VSb9wV2oHQCibnt1kPRoWlRjGythcNajximNGoHT4Hj2MIWoMGSbXorNgXWTGKYW14iLbj5pHrzwUUyV1RVph0wBv_XJTpei0-",
+        "site_full": "jackontheweb.cbslocal.com",
+        "site": "cbslocal.com",
+        "site_section": "http://jackontheweb.cbslocal.com",
+        "site_categories": [
+          "news",
+          "entertainment"
+        ],
+        "section_title": "Amazon Has Just Teased Their Newest Shopping Project – 100.3 Jack FM –  Dallas, TX",
+        "title": "Amazon Has Just Teased Their Newest Shopping Project",
+        "title_full": "Amazon Has Just Teased Their Newest Shopping Project",
+        "published": "2016-12-05T20:31:23.590+02:00",
+        "replies_count": 1,
+        "participants_count": 1,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": null,
+        "performance_score": 0,
+        "domain_rank": 1192,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "9ca17fdb55a0235b4b9561547b378157864cb179",
+      "url": "http://omgili.com/ri/GiCaV2xJNYsPZWU7Nr.tQnUdXMjB8jo4sO2aUYFbL9VSb9wV2oHQCibnt1kPRoWlRjGythcNajximNGoHT4Hj2MIWoMGSbXorNgXWTGKYW14iLbj5pHrzwUUyV1RVph0wBv_XJTpei0-",
+      "ord_in_thread": 0,
+      "author": "jkvrnn",
+      "published": "2016-12-05T20:31:23.590+02:00",
+      "title": "Amazon Has Just Teased Their Newest Shopping Project",
+      "text": "Amazon is taking shopping with your smart phone to a whole new level.\nThe company has just released its first tease of what they are calling Amazon Go. It will be Amazon’s first physical, walk in store. There will be no lines or check out lanes ever. “We created the world’s most advanced shopping technology so you never have to wait in line. With our Just Walk Out Shopping experience, simply use the Amazon Go app to enter the store, take the products you want, and go! No lines, no checkout,” a description of the project reads.\nThey have opened their very first location in Seattle their headquarter’s city, but is only available to employees for testing purposes. However they plan to start building more locations in early 2017. Check out the promotional video below.\n",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "amazon",
+            "sentiment": "positive"
+          }
+        ],
+        "locations": [
+          {
+            "name": "seattle",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-05T20:31:23.590+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "1dfe2129b2848b94f144d293154cef496344eed0",
+        "url": "http://omgili.com/ri/jHIAmI4hxg.aYc74cvbCG02TN.W9XUdUBfCReVOCim72YVSgC0zb83tMXJjYMz6GnOkzig5EoI89Z0ZNfz27j5kOR.J5yxIvgDQqxIWne9bdHVtGPjSeN_EmgK_zTWS20xWcS.sJr1LlRgOVUrQyR_AHVBqnrZTmKrk2NyTYeBiiJvjBD5zgtvLkOn1_JXTt",
+        "site_full": "www.azcentral.com",
+        "site": "azcentral.com",
+        "site_section": "http://www.azcentral.com/section/global/nation-now/",
+        "site_categories": [
+          "news",
+          "entertainment"
+        ],
+        "section_title": "azcentral",
+        "title": "Amazon just opened a grocery store without a checkout line",
+        "title_full": "Amazon just opened a grocery store without a checkout line",
+        "published": "2016-12-05T23:53:26.709+02:00",
+        "replies_count": 38,
+        "participants_count": 32,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://www.gannett-cdn.com/-mm-/3538931d928744f6cce016977a53a437a24e1fc3/c=86-0-1500-799&amp;r=x633&amp;c=1200x630/local/-/media/2016/12/05/USATODAY/USATODAY/636165322272478472-Screen-Shot-2016-12-05-at-7.55.11-AM.jpg",
+        "performance_score": 0,
+        "domain_rank": 3741,
+        "social": {
+          "facebook": {
+            "likes": 1,
+            "comments": 0,
+            "shares": 1
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "1dfe2129b2848b94f144d293154cef496344eed0",
+      "url": "http://omgili.com/ri/jHIAmI4hxg.aYc74cvbCG02TN.W9XUdUBfCReVOCim72YVSgC0zb83tMXJjYMz6GnOkzig5EoI89Z0ZNfz27j5kOR.J5yxIvgDQqxIWne9bdHVtGPjSeN_EmgK_zTWS20xWcS.sJr1LlRgOVUrQyR_AHVBqnrZTmKrk2NyTYeBiiJvjBD5zgtvLkOn1_JXTt",
+      "ord_in_thread": 0,
+      "author": "Ryu Ishikawa",
+      "published": "2016-12-05T23:53:26.709+02:00",
+      "title": "Amazon just opened a grocery store without a checkout line",
+      "text": "perfect place for flash rob",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "amazon",
+            "sentiment": "positive"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-12-05T23:53:26.709+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "2794c0e9fb66b91dc1f55b49858ce8e037c6daf1",
+        "url": "http://omgili.com/ri/jHIAmI4hxg_TcQ8uRVSOS3moGIJU5DVqmYr2_5e3oY67bAGda4rkfKEjlx_NumFDEO0lqIXQJ3PgVFdTfCLoeijQPmKaJED8aINdvoIPh1ae28M1K.80rw--",
+        "site_full": "www.blastr.com",
+        "site": "blastr.com",
+        "site_section": "http://blastr.com/rss.xml",
+        "site_categories": [
+          "entertainment"
+        ],
+        "section_title": "Blastr News",
+        "title": "Awesome anime you might've missed: Kabaneri of the Iron Fortress",
+        "title_full": "Awesome anime you might've missed: Kabaneri of the Iron Fortress",
+        "published": "2016-12-06T00:42:37.937+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://www.blastr.com/sites/blastr/files/styles/rectangle_1200x667/public/Kabaneri2.jpg?itok=RpkE50kO",
+        "performance_score": 0,
+        "domain_rank": 18724,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "2794c0e9fb66b91dc1f55b49858ce8e037c6daf1",
+      "url": "http://omgili.com/ri/jHIAmI4hxg_TcQ8uRVSOS3moGIJU5DVqmYr2_5e3oY67bAGda4rkfKEjlx_NumFDEO0lqIXQJ3PgVFdTfCLoeijQPmKaJED8aINdvoIPh1ae28M1K.80rw--",
+      "ord_in_thread": 0,
+      "author": "Michelle Villanueva",
+      "published": "2016-12-06T00:42:37.937+02:00",
+      "title": "Awesome anime you might've missed: Kabaneri of the Iron Fortress",
+      "text": "Michelle Villanueva  03pm \nOver the past year or so, Amazon has increasingly stepped up the quality of offerings on their Prime Video service. Along with an array of Emmy award-winning shows, a smattering of anime series can also be found on Prime, all ripe for the watching. Kabaneri of the Iron Fortress is produced by Wit Studio, the production juggernaut that did the anime adaptation of popular manga Attack on Titan . \nLet’s get this out of the way first. The premise of Kabaneri of the Iron Fortress is dumb. Massively dumb. It sounds ripped right out of a Walking Dead/Snowpiercer crossover fanfic. The setting is an alternate reality steampunk Japan, where a virus transforms the dead into relentless creatures (called “kabane”) that crave human flesh. What’s left of humanity cowers in fortresses with humongous walls, and the only means of travel is a rail system equipped with gigantic trains capable of transporting people and supplies from fortress to fortress. And yet, despite the bizarre premise and some bizarre character choices along the way, the damn show works. \nKabaneri throws a bunch of stuff at you at once and expects that something within its mishmash of action, horror, gore, and political posturing will stick. Maybe it’s the sight of the never-ending hordes of undead ruthlessly attacking a barreling train, their bodies crunching under the might of steam and steel. Maybe it’s the near-suicidal bravery of the infantrymen on the train, tasked with battling those scores of undead with steam-powered guns. Maybe it’s the sight of samurai deftly slashing down the undead with their katanas. Maybe it’s the plight of the simple villagers who, after their own fortress is overrun, travel on the train in a desperate attempt to find a new place to live. \nAll zombie stories teeter on the premise of high stakes, but the stakes on Kabaneri are even higher because the kabane are exceptionally hard to kill. With the traditional zombie, the corpse is just a reanimated lump of soft flesh and bone, slow-moving, driven by compulsion and hunger, and can be dispatched with a bullet to the brain. With kabane, the transformation from human to monster is almost instantaneous, and the virus imparts the corpse with frightening speed and gray-tinged, impenetrable skin fractured with golden, glowing veins. Far from being mindless, the kabane, some of them anyway, are capable of rational thought and strategy, and some can even swordfight. The only way to stop a kabane is to destroy its heart, but that's protected by a cage of iron. Normal bullets won’t make a dent in a kabane’s body, so all mechanical weapons need a steam-powered boost. And, if a victim’s situation is desperate - as in they’ve already been bitten and will transform at any moment - they have the option of killing themselves (and protecting those around them) thanks to a convenient sack of gunpowder and shrapnel called a suicide bag. Place the bomb over your heart and pull the drawstring. \nExceedingly high stakes. \nIkoma, one of the main protagonists of the series, is pretty dang tired of his hopeless life, and he’s decided to do something about it. He is one of the steamsmiths who works at Aragane Station, helping to keep the visiting trains in tip-top condition. Like everyone else in this bleak world, Ikoma has lost family to the kabane, in this case his little sister. Fueled by vengeance and desperation, Ikoma works on developing a new type of kabane-killing weapon which he believes to be more efficient than steam-propelled bullets. The weapon is a retooled rivet gun, capable of firing a bolt directly into a kabane’s caged heart. The only drawback to this weapon is that you have to get really close to a kabane in order to fire the bolt with enough force. We’re talking placing the gun directly on the kabane’s chest. A swarm of kabane soon overruns the station, and Ikoma is caught between three scenarios: test his prototype, get eaten by kabane, or use a suicide bag. He chooses to test the gun, but, naturally, he gets bitten. Ikoma, in his first badass moment of many badass moments, stops the infection from spreading to his brain by riveting strips of iron around his shoulder and his neck. He’s not fully human anymore, but neither is he a kabane. He’s now a mixture of both: a kabaneri. \nKabaneri gain the strength and speed of a kabane but still retain their humanity, and Ikoma is the least prepared person in the world to become one of these kabane/human hybrids. His knowledge of hand-to-hand combat is pretty much nil, and becoming a kabaneri is a death sentence. Kabaneri, without fail, eventually transform into kabane, which fosters a lot of mistrust between Ikoma and his friends and colleagues. Ikoma has to juggle his newly found powers with a newly found sense of alienation, and in an environment where banding together is the only means of survival, being an outcast is terrifying. \nIkoma doesn’t have to walk his kabaneri path alone. Mumei, a young kabaneri, is sent to Aragane Station as a guest of the fortress’s ruling family. She became a kabaneri willingly, in a controlled environment, because she wished to become strong enough to fight the kabane up close. She takes a liking to Ikoma, or just feels sorry for him, and walks him through the kabaneri crash course. Without Mumei’s guidance, Ikoma would most likely be caught in a swarm of kabane and get ripped apart. Yeah, this is yet another example of the Trinity Syndrome, where a female character is more than capable of being the protagonist but instead, she spends her time showing the clueless male protagonist the ropes so that he can be the one to save the day. But Mumei escapes the common pitfall of the Trinity trope, the problem of the female character having nothing to do once her male student surpasses her, thanks to having a character arc that is solely her own and not influenced by her friendship with Ikoma at all. Mumei arguably shares the co-protagonist role with Ikoma. \nPlus, Ikoma never surpasses Mumei’s fighting skills. He knows just enough to not get himself killed, and even as a kabaneri, he ultimately decides to rely more on his own brand-new superweapon than his super strength. He’s eager to give his weapon some extensive field-testing. Not everyone’s going to be a kabaneri, and, even with his alienation from his former friends, Ikoma is still driven to protect them. A new superweapon just might give humanity a chance against the kabane, and Ikoma’s not giving up his piercing gun for kabaneri powers. Not yet. \nMumei isn’t the only female character who can count as a co-protagonist either. Aragane Station, as all fortresses in the realm, is led by a ruling family. In this case, the Yomogawas. Ayame is the eldest daughter of this clan, and when her father inevitably dies while fighting off the kabane horde that overruns the fortress, she inherits the leadership of Aragane Station and what’s left of the station’s population. Ayame, young and untested, is tasked with finding her people a new place to live. She orders them aboard the gigantic locomotive known as the Koutetsujo , and they embark on a journey as refugees. Ayame struggles with leadership, as some don’t wish to acknowledge her authority because of her gender. It’s no real wonder why she feels a kinship to Ikoma. Both experience distrust from former friends and both find strength in confiding with each other. Without Ayame’s help and influence, Ikoma would’ve been tossed off the train as soon as his kabaneri status became known. \nBut perhaps the best female character in this whole show is Yukina. Since the train left the station so quickly and since so many of the train’s crew were lost to the kabane, Yukina becomes the train’s default engineer. Yukina is capable and reliable, with unwavering loyalty to Ayame, which is a good thing. You do want to stay in the good graces of the person in charge of keeping the train moving. She is one of the show’s secondary characters, but her character design makes her definitely stand out among the show’s cast. She looks like she should be a train engineer in a steampunk universe: \nHer design is pretty beefy as far as female anime characters go. She’s not dressed to titillate. She’s in coveralls because that makes sense for an engineer who works at the head of the locomotive. She’s practical and pragmatic, with her mind on her job. And when there’s a trainful of refugees barrelling across a zombie-infested landscape, you don’t want to have someone at the helm who’s easily distracted. In short, Yukina is amazing and the best secondary character in the show. \nThe series is peppered with these great details. Overall the animation is gorgeously detailed, and the way the series portrays scale is amazing. The trains are impressively huge, and when a train cuts a thin swathe through the swarms of kabane, there’s a sense of triumph, even if that feeling is woefully temporary. The kabane hordes are particularly effective, especially during night scenes and the kabane’s glowing eyes and glowing bodies pierce through the darkness. \nPerhaps the one major misstep in this series is the antagonist who shows up in the second half. Yes, even with the scores of undead lurking everywhere, the series has to show that humanity’s greatest threat is within itself. This comes in the form of Biba Tenshin, a kabaneri who is the leader of a small group of elite kabaneri. See, he believes that the kabane aren’t a threat at all, but an inevitable part of evolution, a plague which will offer the planet a clean slate to start over with kabaneri at the top of the ladder. Humanity, as a whole, is too weak to even attempt to battle the kabane, so they should be left to die. The future, Biba believes, is with the kabaneri, but not every human deserves to be saved, only those who wish to become stronger. And naturally, he wants Ikoma to join him or die. \nYep, Biba’s decided to start a war in the middle of the zombie apocalypse. \nGood luck with that. \nIt’s here where the narrative begins to fall apart. The squabbles between the various factions of humans and kabaneri (plus the far-fetched possibility of a cure for the virus) aren’t nearly as engaging as the initial kabane attacks. While it’s during this political posturing that Ayame comes into her own as a leader, one can’t help but think that everyone should just stop fighting among themselves, face the kabane head on, and perhaps try to figure out if that possible virus cure actually works. Then again, the series makes this compelling argument that humans are selfish creatures who want to make it all about them, even when the world is ending. \nMaybe Biba’s plan isn’t so far-fetched after all. \nKabaneri of the Iron Fortress is a polarizing title. Mention it to an anime fan and they’ll most likely dismiss it as a poor Attack on Titan clone, from the people who made Attack on Titan , and will say that you’re better off watching Attack on Titan instead. But the show has earned a solid 4.5 star rating on Amazon Prime. So, why the discrepancy? Blame it on unrealistic expectations. Those anime fans who have already watched Attack on Titan will notice the similarities between the two titles. Replace the ravenous giants from Titan with zombies, and you have Kabaneri . It doesn’t feel new to them, but for those whose knowledge of anime is a bit more limited, Kabaneri of the Iron Fortress is a fitting introduction to the medium. It’s action-packed, it’s gory, the animation is stunning, and once you get past the Walking Dead/Snowpiercer elevator pitch, the show is pretty engaging. It also avoids one of the pitfalls of many anime shows, the dreaded “adapted from another source” problem. Instead of being based on a currently running manga (like Attack on Titan ), Kabaneri is a self-contained story, told in 12 episodes. There aren’t any filler episodes because the show ran out of plot while waiting for the manga to catch up. \nKabaneri of the Iron Fortress is well worth the time it takes to watch it, and here’s hoping Amazon Prime continues to offer even more unique titles which challenge the anime norm.",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "michelle villanueva",
+            "sentiment": "positive"
+          },
+          {
+            "name": "kabaneri",
+            "sentiment": "positive"
+          },
+          {
+            "name": "biba",
+            "sentiment": "none"
+          },
+          {
+            "name": "yukina",
+            "sentiment": "none"
+          },
+          {
+            "name": "biba tenshin",
+            "sentiment": "none"
+          },
+          {
+            "name": "mumei",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "amazon",
+            "sentiment": "positive"
+          },
+          {
+            "name": "aragane station",
+            "sentiment": "none"
+          },
+          {
+            "name": "ikoma",
+            "sentiment": "none"
+          },
+          {
+            "name": "iron fortress",
+            "sentiment": "none"
+          },
+          {
+            "name": "amazon prime",
+            "sentiment": "none"
+          },
+          {
+            "name": "attack on titan",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "aragane station",
+            "sentiment": "none"
+          },
+          {
+            "name": "yukina",
+            "sentiment": "none"
+          },
+          {
+            "name": "koutetsujo",
+            "sentiment": "none"
+          },
+          {
+            "name": "amazon",
+            "sentiment": "none"
+          },
+          {
+            "name": "ayame",
+            "sentiment": "none"
+          },
+          {
+            "name": "japan",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-06T00:42:37.937+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "bf0ddad2868b0815486d0e63101423ef10967279",
+        "url": "http://omgili.com/ri/jHIAmI4hxg8aIAeVfX9x6wS4P_F6tOsMwCHpd1HeNKfdIeLY8FBEheClJjWano7xbg6H2JNXfO6Vf0LBrgqZTN6uLfh0LTLV2H7m5LqFrEqP4MOEKXn31XqhxsgJb6T_.Pjq_0Dq10MA4s3Ag.Ld7c12LTReFnSm",
+        "site_full": "www.upi.com",
+        "site": "upi.com",
+        "site_section": "http://pheed.upi.com/news/news_rss",
+        "site_categories": [
+          "news",
+          "business"
+        ],
+        "section_title": "Latest News - UPI.com",
+        "title": "Amazon planning smart app-based 'Go' stores in U.S. next year",
+        "title_full": "Amazon planning smart app-based 'Go' stores in U.S. next year",
+        "published": "2016-12-06T02:56:47.877+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://cdnph.upi.com/sv/ph/og/upi/6781480980680/2016/1/84a8730d08ef133458fd8e9c1cd5597e/v1.5/Amazon-planning-smart-app-based-Go-stores-in-US-next-year.jpg",
+        "performance_score": 0,
+        "domain_rank": 3692,
+        "social": {
+          "facebook": {
+            "likes": 8,
+            "comments": 0,
+            "shares": 8
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "bf0ddad2868b0815486d0e63101423ef10967279",
+      "url": "http://omgili.com/ri/jHIAmI4hxg8aIAeVfX9x6wS4P_F6tOsMwCHpd1HeNKfdIeLY8FBEheClJjWano7xbg6H2JNXfO6Vf0LBrgqZTN6uLfh0LTLV2H7m5LqFrEqP4MOEKXn31XqhxsgJb6T_.Pjq_0Dq10MA4s3Ag.Ld7c12LTReFnSm",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-12-06T02:56:47.877+02:00",
+      "title": "Amazon planning smart app-based 'Go' stores in U.S. next year",
+      "text": "Amazon planning smart app-based 'Go' stores in U.S. next year Convenience-type, app-based stores are expected to open next year. By Doug G. Ware | Dec. 5, 2016 at 7:44 PM Comments | License Photo \nSEATTLE, Dec. 5 (UPI) -- E-commerce giant Amazon.com on Monday unveiled plans to open brick and mortar app-based grocery stores in the United States -- a venture the company hopes will fill an enduring need for millions of Americans. \nThe company announced Amazon Go, which will feature a no-checkout process called \"Just Walk Out Shopping\" -- in which shoppers can enter the convenience-style store, take what they need and walk out. Advanced retail technology automatically detects what items were taken and bills customers' Amazon accounts. \n\"Our checkout-free shopping experience is made possible by the same types of technologies used in self-driving cars: computer vision, sensor fusion, and deep learning,\" it states on the Amazon Go website. RECOMMENDED Cyber Monday was biggest online sales day in history \n\"With our Just Walk Out Shopping experience, simply use the Amazon Go app to enter the store, take the products you want, and go! No lines, no checkout. (No, seriously.)\" \nAmazon is already testing the concept in Seattle, and if the beta process goes well the company plans to open many Go stores nationwide. The stores will occupy about 1,800 square feet of retail space -- \"conveniently compact so busy customers can get in and out fast.\" \nAmazon is attempting to tackle the small store format because it believes online grocery shopping is a niche corner of the market not yet adequately addressed. \n\"Four years ago we asked ourselves: what if we could create a shopping experience with no lines and no checkout? Could we push the boundaries of computer vision and machine learning to create a store where customers could simply take what they want and go?\" the website states. \"Our answer to those questions is Amazon Go.\" \nThe stores will feature ready-made meals and individual grocery items like bread, milk, and many items you would find in a large grocery chain. \nAmazon said it expects to make Amazon Go available to the public early next year. \nThe Wall Street Journal reported Monday that Amazon Go is one of at least three physical store concepts the company is exploring -- including large multifunctional stores with curb pickup service. \nIn all, more than 2,000 Amazon grocery stores could open in the near future, the report said. \nThe stores are part of Amazon's Project Como, which the company hopes will capture a larger share of the food market. \nShares of Amazon ( Nasdaq: AMZN ) rose by $19.02 (2.57 percent) during trading Monday.",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "doug g. ware",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "amazon",
+            "sentiment": "positive"
+          },
+          {
+            "name": "wall street journal",
+            "sentiment": "none"
+          },
+          {
+            "name": "upi",
+            "sentiment": "none"
+          },
+          {
+            "name": "amazon.com",
+            "sentiment": "none"
+          },
+          {
+            "name": "amazon go",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "u.s.",
+            "sentiment": "none"
+          },
+          {
+            "name": "united states",
+            "sentiment": "none"
+          },
+          {
+            "name": "seattle",
+            "sentiment": "none"
+          },
+          {
+            "name": "seattle",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-06T02:56:47.877+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "21e8c108b9a45eb81fc13fa2c01890db5204d0bb",
+        "url": "http://omgili.com/ri/2wGaacqxApvQboY7on5a1l9L3GcBODsgg0QtL0JzN42dstbhyvXj.vUh0ZQBk_AH.83HD2GYXx5UzoXKdY8jtoI8O.k4K7mh1P38jq3VNdJW0iX8ZJv7aA--",
+        "site_full": "markets.financialcontent.com",
+        "site": "financialcontent.com",
+        "site_section": "http://stocks.investingdaily.com/investingdaily/action/rssfeed?ChannelID=6471",
+        "site_categories": [
+          "finance",
+          "business"
+        ],
+        "section_title": "Latest News - UPI.com",
+        "title": "Amazon planning smart app-based 'Go' stores in U.S. next year",
+        "title_full": "Amazon planning smart app-based 'Go' stores in U.S. next year",
+        "published": "2016-12-06T03:02:22.639+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 86243,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "21e8c108b9a45eb81fc13fa2c01890db5204d0bb",
+      "url": "http://omgili.com/ri/2wGaacqxApvQboY7on5a1l9L3GcBODsgg0QtL0JzN42dstbhyvXj.vUh0ZQBk_AH.83HD2GYXx5UzoXKdY8jtoI8O.k4K7mh1P38jq3VNdJW0iX8ZJv7aA--",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-12-06T03:02:22.639+02:00",
+      "title": "Amazon planning smart app-based 'Go' stores in U.S. next year",
+      "text": "  19:44 PM EST Amazon planning smart app-based 'Go' stores in U.S. next year Doug G. Ware SEATTLE, Dec. 5 (UPI) -- Amazon.com unveiled plans Monday to open app-based grocery stores in the United States -- a venture it hopes fills an enduring need for millions of shoppers.",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "doug g. ware",
+            "sentiment": "positive"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "est amazon",
+            "sentiment": "positive"
+          },
+          {
+            "name": "amazon",
+            "sentiment": "positive"
+          },
+          {
+            "name": "upi",
+            "sentiment": "none"
+          },
+          {
+            "name": "amazon.com",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "seattle",
+            "sentiment": "none"
+          },
+          {
+            "name": "u.s.",
+            "sentiment": "none"
+          },
+          {
+            "name": "united states",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-06T03:02:22.639+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "f4703d0b5420f6490566ab53e1685f322b8646e5",
+        "url": "http://omgili.com/ri/2wGaacqxApvQboY7on5a1l9L3GcBODsgg0QtL0JzN42dstbhyvXj.vUh0ZQBk_AH.83HD2GYXx5RqYKDiv8g29.BORq83eCHucfhS.4.V7aI9xGXndEj6w--",
+        "site_full": "markets.financialcontent.com",
+        "site": "financialcontent.com",
+        "site_section": "http://stocks.investingdaily.com/investingdaily/action/rssfeed?ChannelID=6536",
+        "site_categories": [
+          "finance",
+          "business"
+        ],
+        "section_title": "Business News - UPI.com",
+        "title": "Amazon planning smart app-based 'Go' stores in U.S. next year",
+        "title_full": "Amazon planning smart app-based 'Go' stores in U.S. next year",
+        "published": "2016-12-06T03:14:13.958+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 86243,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "f4703d0b5420f6490566ab53e1685f322b8646e5",
+      "url": "http://omgili.com/ri/2wGaacqxApvQboY7on5a1l9L3GcBODsgg0QtL0JzN42dstbhyvXj.vUh0ZQBk_AH.83HD2GYXx5RqYKDiv8g29.BORq83eCHucfhS.4.V7aI9xGXndEj6w--",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-12-06T03:14:13.958+02:00",
+      "title": "Amazon planning smart app-based 'Go' stores in U.S. next year",
+      "text": "December 05, 2016 at 19:44 PM EST Amazon planning smart app-based 'Go' stores in U.S. next year Doug G. Ware SEATTLE, Dec. 5 (UPI) -- Amazon.com unveiled plans Monday to open app-based grocery stores in the United States -- a venture it hopes fills an enduring need for millions of shoppers.",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "doug",
+            "sentiment": "positive"
+          },
+          {
+            "name": "g. ware",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "est amazon",
+            "sentiment": "positive"
+          },
+          {
+            "name": "amazon",
+            "sentiment": "positive"
+          },
+          {
+            "name": "upi",
+            "sentiment": "none"
+          },
+          {
+            "name": "amazon.com",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "u.s.",
+            "sentiment": "none"
+          },
+          {
+            "name": "united states",
+            "sentiment": "none"
+          },
+          {
+            "name": "seattle",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-06T03:14:13.958+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "fc149bcca5f39f85d2feadf64e7407ee594b4c3b",
+        "url": "http://omgili.com/ri/rPCDLkAl21TRShG6rZQ7ckFOOGTAn36EAfGEVNVqxPsCHg_.EHj14I6hbpEM8GmbAusXTvcnyzSqBupwSqQy43.bW7N5ZH.9DC8On3gRUpQvQZYU7fyKxQ--",
+        "site_full": "abc11.com",
+        "site": "abc11.com",
+        "site_section": "http://abc11.com/feed",
+        "site_categories": [
+          "news"
+        ],
+        "section_title": "abc11.com RSS Feed",
+        "title": "Buying a used car with Amazon gift cards? It's a scam",
+        "title_full": "Buying a used car with Amazon gift cards? It's a scam",
+        "published": "2016-12-06T05:30:04.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://cdn.abclocal.go.com/content/wtvd/images/cms/automation/vod/1641120_1280x720.jpg",
+        "performance_score": 0,
+        "domain_rank": 28361,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "fc149bcca5f39f85d2feadf64e7407ee594b4c3b",
+      "url": "http://omgili.com/ri/rPCDLkAl21TRShG6rZQ7ckFOOGTAn36EAfGEVNVqxPsCHg_.EHj14I6hbpEM8GmbAusXTvcnyzSqBupwSqQy43.bW7N5ZH.9DC8On3gRUpQvQZYU7fyKxQ--",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-12-06T05:30:04.000+02:00",
+      "title": "Buying a used car with Amazon gift cards? It's a scam",
+      "text": "  06:37PM GARNER (WTVD) -- Many go online to find a new vehicle. Craigslist and Facebook groups are filled with vehicles for sale. Along with legitimate cars for sale, you need to watch out for fake vehicle ads.Monique London thought she found the perfect used car advertised in a Facebook group she belongs to. It was an ad for a 2004 Lexus RX330 for $2,500. She adds, \"It was in really good shape. It was a decent price.\"Monique responded to the Facebook ad and received emails from the seller with more pictures of the SUV and an explanation of why she wanted to sell it. \nThe Facebook group ad Monique saw. It turned out to be an Amazon card scam. \"She said she went through a divorce, and it was painful to have the car. I was like OK she just wanted to unload it.\" Monique said.It seemed like the perfect fit so Monique wanted to buy the Lexus. When she reached out to the seller, she was surprised with how the seller wanted to be paid.Monique said, \"She said I'll send you over the information from Amazon car payments, that way we are both protected and you won't have any issues and both of us can feel safe during this transaction.\"Monique wasn't familiar with this type of payment, but she thought it seemed legit when the seller sent her this invoice along with a purchase protection. SEE THE BOGUS INVOICE MONIQUE RECEIVED (.pdf) The red flags started to go up as she read through the invoice. Plus, she continued to ask the seller to see the vehicle in person and that wasn't an option.\"That's when I started thinking, this seems kind of weird. I don't want to just buy a car I haven't seen. I won't buy a car like that, I have to see what it looks like,\" she said.With a little research, Monique found the same SUV advertised for sale on several different Facebook groups under different sellers. Also, a quick check on Amazon shows it has warnings about this scam on its website. It clearly states people should not send money by using Amazon Payments where the seller claims that Amazon or Amazon Payments will guarantee the transaction.Scammers are using fake invoices to make it appear they are from Amazon, but they are not. Here's more advice from Amazon on how to avoid getting scammed .Monique wasn't wasting any more time on the bad deal.She said, \"I sent an email back to the email address that sent me an invoice and I said 'I will not be paying for this with Amazon gift cards, instead I will be using my American Express card. Will you please provide me the information to pay you through that source? No response.\"Luckily Monique didn't fall for this scam. However, I have heard from several drivers who have lost thousands of dollars to this scam.The best advice is you should never buy a vehicle, no matter how good the price is, without seeing it in person. Also, do not pay for the vehicle in gift cards. If the seller won't let you test drive it, walk away from the deal.",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "monique",
+            "sentiment": "none"
+          },
+          {
+            "name": "monique",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "amazon",
+            "sentiment": "positive"
+          },
+          {
+            "name": "facebook",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "american express",
+            "sentiment": "none"
+          },
+          {
+            "name": "amazon payments",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "amazon",
+            "sentiment": "none"
+          },
+          {
+            "name": "london",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-06T05:30:04.000+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "c26e85eb56198bc5cbf38859b857b4f145b44aac",
+        "url": "http://omgili.com/ri/.wHSUbtEfZTpAYNeM5CifTfjdeUT710WMumDw9vqcov3SNFAP62c3dVTDg5LKp76B2DOnBs2S0t5I3ffB3uAoPufNiRupCkZ16HwxBLYZtOy_Veh2.3BycaVXCnHFGja47E0OxNBwrnwevqsMTI3XhIQIVqmV8XAzuLVOlSUJ3qg9zjIkOioGIiPqOVV56LYwEXxg70W_o6PVp4FtIxZQrPhFWQLzBO6",
+        "site_full": "slickdeals.net",
+        "site": "slickdeals.net",
+        "site_section": "https://slickdeals.net/forums/forumdisplay.php?f=9",
+        "site_categories": [
+          "shopping"
+        ],
+        "section_title": "Slickdeals Hot Deals Forum",
+        "title": "Amazon: Majestic Pure Helichrysum Essential Oil, Premium Quality Helichrysum Italicum $10.80",
+        "title_full": "Amazon: Majestic Pure Helichrysum Essential Oil, Premium Quality Helichrysum Italicum $10.80",
+        "published": "2016-12-06T06:12:40.793+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": null,
+        "performance_score": 0,
+        "domain_rank": 269,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "c26e85eb56198bc5cbf38859b857b4f145b44aac",
+      "url": "http://omgili.com/ri/.wHSUbtEfZTpAYNeM5CifTfjdeUT710WMumDw9vqcov3SNFAP62c3dVTDg5LKp76B2DOnBs2S0t5I3ffB3uAoPufNiRupCkZ16HwxBLYZtOy_Veh2.3BycaVXCnHFGja47E0OxNBwrnwevqsMTI3XhIQIVqmV8XAzuLVOlSUJ3qg9zjIkOioGIiPqOVV56LYwEXxg70W_o6PVp4FtIxZQrPhFWQLzBO6",
+      "ord_in_thread": 0,
+      "author": "Marcokit",
+      "published": "2016-12-06T06:12:40.793+02:00",
+      "title": "Amazon: Majestic Pure Helichrysum Essential Oil, Premium Quality Helichrysum Italicum $10.80",
+      "text": "\nThumb Score: 0 https://www.amazon.com/Majestic-P...B01JRV494K \nAmazon is offering Majestic Pure Helichrysum Essential Oil, Premium Quality Helichrysum Italicum, 1 Fluid Ounce for $10.80 . Lightening Deal. ",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "amazon",
+            "sentiment": "positive"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-12-06T06:12:40.793+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "caa9a00e2510bc3bfdf3433348cffbf8739bcc45",
+        "url": "http://omgili.com/ri/m1nCBNv_poy0p_uGrkdVF4pCAlbhKtRNIfOP6MgUw_dBhQ1.1zghfmUbui6zINPl",
+        "site_full": "innovation-village.com",
+        "site": "innovation-village.com",
+        "site_section": "http://innovation-village.com",
+        "site_categories": [
+          "education"
+        ],
+        "section_title": "Innovation Village",
+        "title": "Amazon Introduces ‘Amazon Go’, a Grab-and-Go Grocery Store",
+        "title_full": "Amazon Introduces ‘Amazon Go’, a Grab-and-Go Grocery Store",
+        "published": "2016-12-06T06:19:22.756+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": null,
+        "performance_score": 0,
+        "domain_rank": 90098,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "caa9a00e2510bc3bfdf3433348cffbf8739bcc45",
+      "url": "http://omgili.com/ri/m1nCBNv_poy0p_uGrkdVF4pCAlbhKtRNIfOP6MgUw_dBhQ1.1zghfmUbui6zINPl",
+      "ord_in_thread": 0,
+      "author": "Chidi",
+      "published": "2016-12-06T06:19:22.756+02:00",
+      "title": "Amazon Introduces ‘Amazon Go’, a Grab-and-Go Grocery Store",
+      "text": "Amazon is expanding its empire beyond the virtual space and into the real world. The online retail giant announced Amazon Go, a physical grocery store, ... The post Amazon Introduces ‘Amazon...\n\nVisit the site for more about this article ",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "grocery store amazon",
+            "sentiment": "positive"
+          },
+          {
+            "name": "amazon",
+            "sentiment": "positive"
+          },
+          {
+            "name": "amazon introduces ‘amazon",
+            "sentiment": "none"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-12-06T06:19:22.756+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "5d6fee2171d65d968cab1e87c55a4b9e44f79e44",
+        "url": "http://omgili.com/ri/jHIAmI4hxg.R9M6RBHurip_hPkVssqG9XdpIoKLtgX_wzUUjLRAlBel2ACx1Un0bZOYIbIhgJ3Jih9bvRUw0mJyRFDgX4u9eaS43TtSMwyItAOzGqmG6_SY_CchEMLRcCMy1cjM999ikoRVrFHn8aELKYarijLaK",
+        "site_full": "www.livemint.com",
+        "site": "livemint.com",
+        "site_section": "http://www.livemint.com/rss/homepage",
+        "site_categories": [
+          "news",
+          "education",
+          "business"
+        ],
+        "section_title": "homepage",
+        "title": "Amazon LaunchPad: Cool Indian start-up products on showcase",
+        "title_full": "Amazon LaunchPad: Cool Indian start-up products on showcase",
+        "published": "2016-12-06T08:23:04.862+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://www.livemint.com/rf/Image-621x414/LiveMint/Period2/2016/12/07/Photos/Processed/tech-kOWG--621x414@LiveMint.jpg",
+        "performance_score": 0,
+        "domain_rank": 4429,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "5d6fee2171d65d968cab1e87c55a4b9e44f79e44",
+      "url": "http://omgili.com/ri/jHIAmI4hxg.R9M6RBHurip_hPkVssqG9XdpIoKLtgX_wzUUjLRAlBel2ACx1Un0bZOYIbIhgJ3Jih9bvRUw0mJyRFDgX4u9eaS43TtSMwyItAOzGqmG6_SY_CchEMLRcCMy1cjM999ikoRVrFHn8aELKYarijLaK",
+      "ord_in_thread": 0,
+      "author": "Vishal Mathur",
+      "published": "2016-12-06T08:23:04.862+02:00",
+      "title": "Amazon LaunchPad: Cool Indian start-up products on showcase",
+      "text": "  Amazon LaunchPad: Cool Indian start-up products on showcase This could be a good platform for Indian start-ups to take advantage of, in terms of pushing their products out to a large number of potential buyers  ",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "amazon",
+            "sentiment": "positive"
+          }
+        ],
+        "locations": [
+          {
+            "name": "amazon",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-06T08:23:04.862+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "4676ea5b3a5862bc84d7c889dcc932c6c12d7b1d",
+        "url": "http://omgili.com/ri/.wHSUbtEfZSCskm_gl44z7ncuIu174qQDg9ucyKkBqWl364fBIhuuWjaE5tSYlOREHu_lKQVo5.N4pRakT5NtlT7Xak3WKUEGkMjSWq1hnk8M3Y5BKxguTE2DWw3yluDZb2B7TJ3deJKLo43UWKNGA--",
+        "site_full": "www.dealsplus.com",
+        "site": "dealsplus.com",
+        "site_section": "http://feeds.feedburner.com/dealspl/all",
+        "site_categories": [],
+        "section_title": "DealsPlus: all deals",
+        "title": "Amazon | Up to 50% Off Best-Selling Jewelry: Clothing, Shoes & Jewelry $42.99+ (amazon.com)",
+        "title_full": "Amazon | Up to 50% Off Best-Selling Jewelry: Clothing, Shoes & Jewelry $42.99+ (amazon.com)",
+        "published": "2016-12-06T11:10:16.863+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "https://img.dealspluscdn.com/ai/0_0/dealimage/20000/6923000/6923781_1481011662.jpg?crop=0",
+        "performance_score": 0,
+        "domain_rank": 5159,
+        "social": {
+          "facebook": {
+            "likes": 1,
+            "comments": 0,
+            "shares": 1
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "4676ea5b3a5862bc84d7c889dcc932c6c12d7b1d",
+      "url": "http://omgili.com/ri/.wHSUbtEfZSCskm_gl44z7ncuIu174qQDg9ucyKkBqWl364fBIhuuWjaE5tSYlOREHu_lKQVo5.N4pRakT5NtlT7Xak3WKUEGkMjSWq1hnk8M3Y5BKxguTE2DWw3yluDZb2B7TJ3deJKLo43UWKNGA--",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-12-06T11:10:16.863+02:00",
+      "title": "Amazon | Up to 50% Off Best-Selling Jewelry: Clothing, Shoes & Jewelry $42.99+ (amazon.com)",
+      "text": "Was this a great deal for you? 5 likes",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "amazon",
+            "sentiment": "positive"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-12-06T11:10:16.863+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "da79f461d0b8bab79215e4adbd38ff307d089b1e",
+        "url": "http://omgili.com/ri/.wHSUbtEfZSCskm_gl44z7ncuIu174qQzO5nDdY1VDyuhEW7z4ee2CIt1pt7MdQpWpRcmOBNlqlvDjc9oh6AulS.NBCKOwwc",
+        "site_full": "www.dealsplus.com",
+        "site": "dealsplus.com",
+        "site_section": "http://feeds.feedburner.com/dealspl/all",
+        "site_categories": [],
+        "section_title": "DealsPlus: all deals",
+        "title": "Amazon|Save 50% On Select Frozen Sale (amazon.com)",
+        "title_full": "Amazon|Save 50% On Select Frozen Sale (amazon.com)",
+        "published": "2016-12-06T11:10:20.788+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "https://img.dealspluscdn.com/ai/0_0/dealimage/20000/6923000/6923777_1481011569.jpg?crop=0",
+        "performance_score": 0,
+        "domain_rank": 5159,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "da79f461d0b8bab79215e4adbd38ff307d089b1e",
+      "url": "http://omgili.com/ri/.wHSUbtEfZSCskm_gl44z7ncuIu174qQzO5nDdY1VDyuhEW7z4ee2CIt1pt7MdQpWpRcmOBNlqlvDjc9oh6AulS.NBCKOwwc",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-12-06T11:10:20.788+02:00",
+      "title": "Amazon|Save 50% On Select Frozen Sale (amazon.com)",
+      "text": "Was this a great deal for you? 5 likes",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "amazon",
+            "sentiment": "positive"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-12-06T11:10:20.788+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "e26a8b752d15199bf39d4f3358e85b1f67bfcc92",
+        "url": "http://omgili.com/ri/jHIAmI4hxg9zTmDOB9c_Pf.UYGVCtKz2aS3e0VmpRrL25.aSrI7sxsjp51pRHdWx7dnx1b_5Llb1P_mgaRKYkanM228yCju60nzZmH6NJd61nC.mkJS6epUZu7arHhDFtcII3Oj2ml7CnKY0T3ctLP.dc.p4rZaYONff_IKFJ_E6arvgVbEjKGydTXtN1T_TM2ZmQRptCICQyDCB2Lo2rQ--",
+        "site_full": "www.mediapost.com",
+        "site": "mediapost.com",
+        "site_section": "http://feeds.mediapost.com/video-daily#",
+        "site_categories": [
+          "news",
+          "business"
+        ],
+        "section_title": "MediaPost.com: video",
+        "title": "Nice Tech, Amazon -- What About Us Humans?",
+        "title_full": "Nice Tech, Amazon -- What About Us Humans? 12/06/2016",
+        "published": "2016-12-06T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://s3.amazonaws.com/static.mediapost.com/publications/images/mp-logo-fb.jpg",
+        "performance_score": 0,
+        "domain_rank": 25145,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "667bf8a8410728fd0c005a31e80d64942c780a4c",
+      "url": "http://omgili.com/ri/jHIAmI4hxg9zTmDOB9c_Pf.UYGVCtKz2aS3e0VmpRrL25.aSrI7sxsjp51pRHdWxrT.T0PWidLw-",
+      "ord_in_thread": 0,
+      "author": "mediapost.com",
+      "published": "2016-12-06T02:00:00.000+02:00",
+      "title": "Nice Tech, Amazon -- What About Us Humans?",
+      "text": "Can you have a supermarket without the checkout? Amazon certainly thinks so, and it has unveiled a store  in Seattle where so far, staff are shopping for pre-packed goods and ready meals with just an app and a pair of hands.\nNow, to express an interest up front. Amazon is the brand I probably shop with more than any other but also dislike more than any other, in a way that I have reserved for huge companies that are rumoured to treat staff badly and use clever accountants to make sure mega profits are super low rates. So any idea from a brand that is permanently in the headlines for rumoured questionable treatment of their warehouse staff will fall flat with me if it's about reducing the number of people that supermarkets need to employ. Hey, investors, they might as well shout, we've worked out a way of dodging loads of costs -- and now we have even found a way to build a supermarket without the need for people on cash registers.\nI just wonder whether Amazon gets what humans are like. In real life, out in the wild. Online, we're very focussed on getting the shopping done and just want a way of clicking to get our stuff delivered. Nobody does a better job at this than Amazon. However, in real life, how's all this tech going to work? I get it in the promo video. Amazon's app is fired up when you enter the store and then items are added as you pick them up as well as deleted from your \"trolley\" as you put them back if you change your mind. For convenience, it can't be beaten. You stroll in, pick up dinner and a drink and walk out. The bill is tallied up and your'e informed what you've been charged with assurance and the e-receipt is on its way.\nThere are just a few human things in the way. For starters, we're just apes in suits. We've moved beyond delousing one another with our fingertips, and eating any captured fleas, but we still like contact. Shopping is a social thing. Take away the staff and part of the experience is diminished. We often shop as families, so how would the store deal with one of the kids taking back that pack of doughnuts when mum or dad says \"no?\" If one of the kids or the other half of a couple walks to the other end of the store to pick up, say, cereal, how does that get added to the shopping basket that's still near the entrance picking up fruit and vegetables?\nPresumably a lot of this technology is working through IoT, so there are sensors communicating with one another, telling the app what has been removed from the shelf. But how on earth would you do this for the aforementioned fruit and vegetable aisle where a store is selling multiple, small, loose items? \nWe're also quite cheeky little blighters, us humans. I would love to know how the app prevents people just going in and taking stuff? Or even taking a full item and replacing with an empty one. You can tell I'm no criminal mastermind, but a shop where you get to walk in, grab stuff and walk out just seems to be asking for theft levels to shoot through the roof, doesn't it? OK, so that's how theft works anyway -- people grab and walk out regardless of apps and technology, so any store is susceptible. I just have a feeling that by encouraging this as a way to shop, retailers will rue a rise in \"shrinkage\" -- a retail euphemism for theft. If walking out with produce in your hands is encouraged, as per the promo video, a thief would have a very easy excuse that they forget to fire up the app or the phone running it must have just switched itself off.\nIf I were rushing to catch a plane or train, on my own, this tech would be an amazing time-saver. The rest of the time? Sorry, Amazon, I just don't get it because I don't think it gets me.",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "amazon",
+            "sentiment": "positive"
+          }
+        ],
+        "locations": [
+          {
+            "name": "nice tech",
+            "sentiment": "none"
+          },
+          {
+            "name": "amazon",
+            "sentiment": "none"
+          },
+          {
+            "name": "seattle",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-06T16:26:31.404+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "d8317cf9021d9c4a959a90b8a240decb83ff40bb",
+        "url": "http://omgili.com/ri/.wHSUbtEfZSCskm_gl44z7ncuIu174qQvJSBsp_HWvj54DlBqz8jmdyev4OQeIQ6DvAHYdhQiocWmFuW3b9weqkVlZtOHoBrsHlkp7dqGUcf7CNNsMED5qqUSIKvQZF.CaFmb2SiB67Sty8WrBd3WQ--",
+        "site_full": "www.dealsplus.com",
+        "site": "dealsplus.com",
+        "site_section": "http://feeds.feedburner.com/dealspl/all",
+        "site_categories": [],
+        "section_title": "DealsPlus: all deals",
+        "title": "Here's a Look At Some of Amazon's Ugliest Christmas Sweaters (usatoday.com)",
+        "title_full": "Here's a Look At Some of Amazon's Ugliest Christmas Sweaters (usatoday.com)",
+        "published": "2016-12-07T01:23:04.183+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "https://img.dealspluscdn.com/ai/0_0/dealimage/20000/6925000/6925129_1481063800.jpg?crop=0",
+        "performance_score": 0,
+        "domain_rank": 5159,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "d8317cf9021d9c4a959a90b8a240decb83ff40bb",
+      "url": "http://omgili.com/ri/.wHSUbtEfZSCskm_gl44z7ncuIu174qQvJSBsp_HWvj54DlBqz8jmdyev4OQeIQ6DvAHYdhQiocWmFuW3b9weqkVlZtOHoBrsHlkp7dqGUcf7CNNsMED5qqUSIKvQZF.CaFmb2SiB67Sty8WrBd3WQ--",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-12-07T01:23:04.183+02:00",
+      "title": "Here's a Look At Some of Amazon's Ugliest Christmas Sweaters (usatoday.com)",
+      "text": "Was this a great deal for you? 5 likes",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "amazon",
+            "sentiment": "positive"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-12-07T01:23:04.183+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "f5a5090f67211528ccb173f23dc372cdedf4ef18",
+        "url": "http://omgili.com/ri/.wHSUbtEfZQZZlTHOo_51IKyQUAj4egkIFTsmbthjQ28acdye5Iepy1kQgRLBvZ191LQhiyjKwMhn3YoR2uOZT9ynWya0Yea6aDsPIjL47gUn_QpdKRTkA9sPsmkrLxSwTPVFgSLY7w-",
+        "site_full": "www.slashgear.com",
+        "site": "slashgear.com",
+        "site_section": "http://feeds.slashgear.com/slashgear",
+        "site_categories": [
+          "tech"
+        ],
+        "section_title": "SlashGear",
+        "title": "The Snowy Day is Amazon’s budding Christmas classic for Prime",
+        "title_full": "The Snowy Day is Amazon’s budding Christmas classic for Prime",
+        "published": "2016-12-07T03:25:02.495+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 10823,
+        "social": {
+          "facebook": {
+            "likes": 5,
+            "comments": 0,
+            "shares": 5
+          },
+          "gplus": {
+            "shares": 1
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "f5a5090f67211528ccb173f23dc372cdedf4ef18",
+      "url": "http://omgili.com/ri/.wHSUbtEfZQZZlTHOo_51IKyQUAj4egkIFTsmbthjQ28acdye5Iepy1kQgRLBvZ191LQhiyjKwMhn3YoR2uOZT9ynWya0Yea6aDsPIjL47gUn_QpdKRTkA9sPsmkrLxSwTPVFgSLY7w-",
+      "ord_in_thread": 0,
+      "author": "Brittany A. Roston",
+      "published": "2016-12-07T03:25:02.495+02:00",
+      "title": "The Snowy Day is Amazon’s budding Christmas classic for Prime",
+      "text": "Reddit \nWe’re officially counting down the days until Christmas, and that means holiday classics are on every channel. Many of these movies have stood the test of time, but they’re feeling a bit stale…there’s only so many times you can watch a certain claymation special or three. Enter Amazon’s new ‘The Snowy Day,’ an original Christmas animation based on the book by the same name. It could, perhaps, one day be a Christmas classic…but only for those with a Prime membership. \nThe Snowy Day movie (it’s about 38 minutes long, so we use the term movie lightly) is available now on Amazon Prime Video, and it is based on the book by Ezra Jack Keats. Amazon’s animated adaption is narrated by actor Laurence Fishburne, and it comes in a style that is akin to the artwork in the Snowy Day picture book. \nAmazon has its animation listed as “Episode 1,” but it’s not clear whether there will be future episodes starring the book’s character. Keats wrote many books featuring the character, so it’s entirely possible. For now, though, we have the most iconic from the bunch — The Snowy Day — and it follows Peter on his way to his grandma’s house after a snow storm hits his neighborhood. \nIn addition to featuring narration from Fishburne, the movie has some music from Boyz II Men and includes notable voice acts like Angela Bassett and Regina King. The movie has been available for a little more than a week now, and it enjoys a healthy five out of five stars from more than one hundred ratings. The movie currently sits at 8.4 out of 10 on IMDB.",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "angela bassett",
+            "sentiment": "none"
+          },
+          {
+            "name": "fishburne",
+            "sentiment": "none"
+          },
+          {
+            "name": "peter",
+            "sentiment": "none"
+          },
+          {
+            "name": "laurence fishburne",
+            "sentiment": "none"
+          },
+          {
+            "name": "ezra jack keats",
+            "sentiment": "none"
+          },
+          {
+            "name": "keats",
+            "sentiment": "none"
+          },
+          {
+            "name": "regina king",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "amazon",
+            "sentiment": "positive"
+          },
+          {
+            "name": "amazon prime video",
+            "sentiment": "none"
+          },
+          {
+            "name": "imdb",
+            "sentiment": "none"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-12-07T03:25:02.495+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "bb95bd40b1e1d5d80c416787f63b2344053cf162",
+        "url": "http://omgili.com/ri/.0rSU5LtMgwxhVu4uw52IXys2B81_6Pdtof.PezPjhBAHBYT0ybiZGFREXQBW2rqZJnLTt1hR2qC5TXiGegtsBK4hTLNgZQDSNFAWh1_ewOOZcA.zG3SwiHp6i.pME25jZkQRLrf7To-",
+        "site_full": "feeds.feedblitz.com",
+        "site": "feedblitz.com",
+        "site_section": "http://www.mymusiccitymommy.com/",
+        "site_categories": [
+          "business"
+        ],
+        "section_title": "MyMusicCityMommy",
+        "title": "Happy Belly Nuts and Trail Mixes $7.04 - $12.10 (50% Off)",
+        "title_full": "Happy Belly Nuts and Trail Mixes $7.04 - $12.10 (50% Off)",
+        "published": "2016-12-06T23:30:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": null,
+        "performance_score": 0,
+        "domain_rank": 28055,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "bb95bd40b1e1d5d80c416787f63b2344053cf162",
+      "url": "http://omgili.com/ri/.0rSU5LtMgwxhVu4uw52IXys2B81_6Pdtof.PezPjhBAHBYT0ybiZGFREXQBW2rqZJnLTt1hR2qC5TXiGegtsBK4hTLNgZQDSNFAWh1_ewOOZcA.zG3SwiHp6i.pME25jZkQRLrf7To-",
+      "ord_in_thread": 0,
+      "author": "Amy Harvey (noreply@blogger.com)",
+      "published": "2016-12-06T23:30:00.000+02:00",
+      "title": "Happy Belly Nuts and Trail Mixes $7.04 - $12.10 (50% Off)",
+      "text": "Loving this deal! Right now *Amazon Prime Members* can grab  Happy Belly California Nuts  $7.04 - $12.10! \nBrowse around  for your favorites. Don't forget, with Prime you also get unlimited Fast, FREE Shipping, unlimited streaming of movies, TV shows, and music, free e-books, and much more.  Join Prime  today.               Related Stories *HIGHLY RATED* SaluSpa Palm Springs AirJet Inflatable 6-Person Hot Tub $299.99 (Retail $414.10) PORTER-CABLE 15-Amp Corded Circular Saw $49.97 (Retail $59.98) + Free Shipping Home Depot: 41% Off Select Outdoor Lighting   ",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "amazon",
+            "sentiment": "positive"
+          }
+        ],
+        "locations": [
+          {
+            "name": "palm springs",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-07T05:53:27.256+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "7ca9d728e1c8fdb2b0a57b3497d56961bf679930",
+        "url": "http://omgili.com/ri/jHIAmI4hxg8lUsictWmtlCKc6qzFbped.GhwXMyv2pLgCJQiDIHpFoOdCkuvNTiqPJ.SJRCZeLkCpQgZK54flkKNQKdx8YAB",
+        "site_full": "www.spoofee.com",
+        "site": "spoofee.com",
+        "site_section": "http://www.spoofee.com/rss.xml",
+        "site_categories": [
+          "forums"
+        ],
+        "section_title": "Spoofee Deals",
+        "title": "Dominion and Other Strategy Board Games for $26.67",
+        "title_full": "Dominion and Other Strategy Board Games for $26.67",
+        "published": "2016-12-07T15:26:20.420+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://www.spoofee.com/images/dealofday/original/898898.jpg",
+        "performance_score": 0,
+        "domain_rank": 29252,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "7ca9d728e1c8fdb2b0a57b3497d56961bf679930",
+      "url": "http://omgili.com/ri/jHIAmI4hxg8lUsictWmtlCKc6qzFbped.GhwXMyv2pLgCJQiDIHpFoOdCkuvNTiqPJ.SJRCZeLkCpQgZK54flkKNQKdx8YAB",
+      "ord_in_thread": 0,
+      "author": "Jennifer Miller",
+      "published": "2016-12-07T15:26:20.420+02:00",
+      "title": "Dominion and Other Strategy Board Games for $26.67",
+      "text": "Amazon is offering a few strategy board games for a good price. Tokaido for $21.59 Betrayal at House on the Hill for $16.80 Dominion 2nd Edition for $26.67 One Night Ultimate Werewolf Daybreak for $12.49 Lost Cities for $13.39 Magic The Gathering for $11.19 Risk Europe Game for $24.75 and more Free shipping with Prime or with $49 purchase Trending Deals",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "amazon",
+            "sentiment": "positive"
+          },
+          {
+            "name": "house",
+            "sentiment": "neutral"
+          }
+        ],
+        "locations": [
+          {
+            "name": "hill",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-07T15:26:20.420+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "9de474e553b6d910dadc71d9286e0b4cf2d0c224",
+        "url": "http://omgili.com/ri/.wHSUbtEfZTpAYNeM5CifTfjdeUT710WY8N39Jm98oO641d4VneSz2PNf.A6rIOju7DRzsB23hMjE1BYmqUwq4dj4Fn0E0j76RsZ1LfJHpmVKij8yuob8izHdsLyaJ1pFVSkMSxWEvwNJF15MdKnmA--",
+        "site_full": "slickdeals.net",
+        "site": "slickdeals.net",
+        "site_section": "https://slickdeals.net/forums/forumdisplay.php?f=9",
+        "site_categories": [
+          "shopping"
+        ],
+        "section_title": "Slickdeals Hot Deals Forum",
+        "title": "Bose Cinemate (30% price drop!)",
+        "title_full": "Bose Cinemate (30% price drop!)",
+        "published": "2016-12-07T19:48:28.831+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": null,
+        "performance_score": 0,
+        "domain_rank": 269,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "9de474e553b6d910dadc71d9286e0b4cf2d0c224",
+      "url": "http://omgili.com/ri/.wHSUbtEfZTpAYNeM5CifTfjdeUT710WY8N39Jm98oO641d4VneSz2PNf.A6rIOju7DRzsB23hMjE1BYmqUwq4dj4Fn0E0j76RsZ1LfJHpmVKij8yuob8izHdsLyaJ1pFVSkMSxWEvwNJF15MdKnmA--",
+      "ord_in_thread": 0,
+      "author": "JoeyJ6522",
+      "published": "2016-12-07T19:48:28.831+02:00",
+      "title": "Bose Cinemate (30% price drop!)",
+      "text": "Thumb Score: -9 30% price drop. Bose website still lists for $499.99. Amazon and Best Buy are selling for $349.99 and I think this is on par for their Black Friday deal but not 100% sure. Either way it is a good deal for a compact sound bar\n\nAmazon Link - https://www.amazon.com/Bose-CineM...B00N1SSWXU \n\nBest Buy Link - http://www.bestbuy.com/site/bose-...aQod3WIEuA ",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "bose cinemate",
+            "sentiment": "negative"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "amazon",
+            "sentiment": "positive"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-12-07T19:48:28.831+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "0f5f3c073f4ac1870fc6526bd2929f11c090cb6a",
+        "url": "http://omgili.com/ri/jHIAmI4hxg8KSMTvPVjIlisnYmQDt50k3dtGZxnThm0.se6vceu2dxmskHHY2ssG",
+        "site_full": "www.ooyuz.com",
+        "site": "ooyuz.com",
+        "site_section": "http://www.ooyuz.com/newsanalysis?term=cinemax",
+        "site_categories": [],
+        "section_title": "cinemax News Results and Analysis |OOYUZ",
+        "title": "Amazon adds live HBO and Cinemax to its cord-cutting offerings",
+        "title_full": "Amazon adds live HBO and Cinemax to its cord-cutting offerings : Related Articles | OOYUZ",
+        "published": "2016-12-02T03:06:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.089,
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 53324,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "0f5f3c073f4ac1870fc6526bd2929f11c090cb6a",
+      "url": "http://omgili.com/ri/jHIAmI4hxg8KSMTvPVjIlisnYmQDt50k3dtGZxnThm0.se6vceu2dxmskHHY2ssG",
+      "ord_in_thread": 0,
+      "author": "BGR",
+      "published": "2016-12-02T03:06:00.000+02:00",
+      "title": "Amazon adds live HBO and Cinemax to its cord-cutting offerings",
+      "text": "If you’re still looking for reasons to join Amazon Prime, then Amazon has a brand new offer for you, one that may help with your cord-cutting efforts. Starting December 1st, Prime subscribers will find two new streaming options in Amazon Channels that they’ll certainly appreciate: HBO and Cinemax. DON’T MISS: This is why your iPhone 7’s battery might die in a year If you’re a Amazon Prime subscriber, you can get an HBO streaming subscription for $14.99 a month after a 30-day trial period. C.. Advertisement",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "cinemax",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "hbo",
+            "sentiment": "positive"
+          },
+          {
+            "name": "amazon prime",
+            "sentiment": "positive"
+          },
+          {
+            "name": "cinemax",
+            "sentiment": "positive"
+          },
+          {
+            "name": "amazon",
+            "sentiment": "positive"
+          },
+          {
+            "name": "amazon channels",
+            "sentiment": "none"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-12-07T20:02:11.813+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "4258d67d7821f7875bfcc7e916829776b3551ffe",
+        "url": "http://omgili.com/ri/_0JOtn.4SCoRuTimvW9_C7.ADwuwe2N4tVEA38Q3MzvuQcKq6vktXs057MZT3lhwTHKHDVEsHxMF9kgd5LCercc8naW6R4xa",
+        "site_full": "bgr.com",
+        "site": "bgr.com",
+        "site_section": "http://bgr.com",
+        "site_categories": [
+          "news",
+          "tech"
+        ],
+        "section_title": "BGR",
+        "title": "Buy an Oculus Rift and Amazon will give you a $100 gift card, today only",
+        "title_full": "Buy an Oculus Rift and Amazon will give you a $100 gift card, today only",
+        "published": "2016-12-07T20:23:03.941+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": null,
+        "performance_score": 0,
+        "domain_rank": 2702,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "4258d67d7821f7875bfcc7e916829776b3551ffe",
+      "url": "http://omgili.com/ri/_0JOtn.4SCoRuTimvW9_C7.ADwuwe2N4tVEA38Q3MzvuQcKq6vktXs057MZT3lhwTHKHDVEsHxMF9kgd5LCercc8naW6R4xa",
+      "ord_in_thread": 0,
+      "author": "Maren Estrada",
+      "published": "2016-12-07T20:23:03.941+02:00",
+      "title": "Buy an Oculus Rift and Amazon will give you a $100 gift card, today only",
+      "text": "There is no question that the Oculus Rift is the best virtual reality headset currently on the market. The VR device that started it all remains a market leader, providing the very best virtual reality experience that money can buy right now that's also supported by the largest VR content library. The problem, of course, is that it takes a whole lot of money to buy that top-notch VR experience. With the holidays approaching fast though, Amazon has a deal that simply can't be beat: Pick up an Oculus Rift Virtual Reality Headset today, and Amazon will toss in a $100 gift card.\nContinue reading... \nTrending right now: \n10 great iOS 10 widgets that should be on every iPhone Apple killed MagSafe on the MacBook Pro, but you can have it on your iPhone 7 Trump might move iPhone manufacturing to America after all ",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "amazon",
+            "sentiment": "positive"
+          },
+          {
+            "name": "trump",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "america",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-07T20:23:03.941+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "36a04b70d55d6ef07e42241691b75b70f983ff08",
+        "url": "http://omgili.com/ri/jHIAmI4hxg.eiPAthrPVxAVPwWHyoQCZBPLtmfjPpj5n7sL89M2InP1h4VYzgn2wksfPykX2XAC7JytI.AQCV_tpLa_ApQo38VhSt1GJu5rFfmm1N9Jq_cJb9FVLKVUjX1UHynblHpo-",
+        "site_full": "www.geekwire.com",
+        "site": "geekwire.com",
+        "site_section": "http://www.geekwire.com",
+        "site_categories": [
+          "news",
+          "education",
+          "business"
+        ],
+        "section_title": "GeekWire",
+        "title": "Amazon list of 2016’s best-selling books proves ‘the power of Potter is still strong’",
+        "title_full": "Amazon list of 2016’s best-selling books proves ‘the power of Potter is still strong’",
+        "published": "2016-12-07T20:26:01.043+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": null,
+        "performance_score": 0,
+        "domain_rank": 11795,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "36a04b70d55d6ef07e42241691b75b70f983ff08",
+      "url": "http://omgili.com/ri/jHIAmI4hxg.eiPAthrPVxAVPwWHyoQCZBPLtmfjPpj5n7sL89M2InP1h4VYzgn2wksfPykX2XAC7JytI.AQCV_tpLa_ApQo38VhSt1GJu5rFfmm1N9Jq_cJb9FVLKVUjX1UHynblHpo-",
+      "ord_in_thread": 0,
+      "author": "Monica Nickelsburg",
+      "published": "2016-12-07T20:26:01.043+02:00",
+      "title": "Amazon list of 2016’s best-selling books proves ‘the power of Potter is still strong’",
+      "text": "The fundamental drive to read is the desire to be transported to some place new — and like Harry Potter yearning to escape his dreary muggle life, the number one place we want to go is Hogwarts.\nThat’s according to Amazon’s roundup of the best-selling books of 2016. Harry Potter and the Cursed Child (a post-Battle for Hogwarts play written by J.K. Rowling, Jack Thorne, and John Tiffany) topped the list of the 20 best-sellers across all categories.\nIt’s the first time a play earned a spot on the top 20 best-sellers list, showing the magic of Harry Potter is still alive and well.\n“The power of Potter is still strong, and readers of all ages can’t get enough of Hogwarts,” said Amazon Senior Book Editor Chris Schluep in a press release. “ Harry Potter and the Cursed Child was the most anticipated book of the year, breaking pre-order records months before its release.”\nThe play was also number one in the top 20 best-selling kids and teens books. It was one of three books in the Harry Potter universe that made that list — even though it’s been nearly a decade since the final book in the original series was released.\nContinue reading for Amazon’s complete list of the top 20 best-selling books of 2016. \n1. Harry Potter and the Cursed Child , Parts 1 & 2 , Special Rehearsal Edition Script by J.K. Rowling, Jack Thorne and John Tiffany\n2. When Breath Becomes Air by Paul Kalanithi\n3. The Whistler by John Grisham\n4. The Last Mile (Amos Decker series) by David Baldacci\n5 . Killing the Rising Sun: How America Vanquished World War II Japan by Bill O’Reilly and Martin Dugard\n6. Hillbilly Elegy: A Memoir of a Family and Culture in Crisis by J.D. Vance\n7. Truly Madly Guilty by Liane Moriarty\n8. Night School: A Jack Reacher Novel by Lee Child\n9. The Black Widow: Book 16 of Gabriel Allon Series by Daniel Silva\n10. Diary of a Wimpy Kid # 11: Double Down by Jeff Kinney\n11. 15th Affair (Women’s Murder Club) by James Patterson and Maxine Paetro\n12. Before the Fall by Noah Hawley\n13. Fool Me Once by Harlan Coben\n14. Crisis of Character: A White House Secret Service Officer Discloses His Firsthand Experience with Hillary, Bill, and How They Operate by Gary J. Byrne\n15. The Wrong Side of Goodbye: A Harry Bosch Novel by Michael Connelly\n16. The Magnolia Story by Chip Gaines and Joanna Gaines\n17. The Nest by Cynthia D’Aprix Sweeney\n18. One with You: Book 5 of A Crossfire Series by Sylvia Day\n19. The Obsession by Nora Roberts\n20. Everything We Keep by Kerry Lonsdale",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "harry pot",
+            "sentiment": "positive"
+          },
+          {
+            "name": "potter",
+            "sentiment": "positive"
+          },
+          {
+            "name": "joanna gaines",
+            "sentiment": "none"
+          },
+          {
+            "name": "daniel silva",
+            "sentiment": "none"
+          },
+          {
+            "name": "nora roberts",
+            "sentiment": "none"
+          },
+          {
+            "name": "liane moriarty",
+            "sentiment": "none"
+          },
+          {
+            "name": "john tiffany",
+            "sentiment": "none"
+          },
+          {
+            "name": "jeff kinney",
+            "sentiment": "none"
+          },
+          {
+            "name": "gary j. byrne",
+            "sentiment": "none"
+          },
+          {
+            "name": "kerry lonsdale",
+            "sentiment": "none"
+          },
+          {
+            "name": "james patterson",
+            "sentiment": "none"
+          },
+          {
+            "name": "maxine paetro",
+            "sentiment": "none"
+          },
+          {
+            "name": "chip gaines",
+            "sentiment": "none"
+          },
+          {
+            "name": "noah hawley",
+            "sentiment": "none"
+          },
+          {
+            "name": "j.k. rowling",
+            "sentiment": "none"
+          },
+          {
+            "name": "gabriel allon",
+            "sentiment": "none"
+          },
+          {
+            "name": "chris schluep",
+            "sentiment": "none"
+          },
+          {
+            "name": "amos decker",
+            "sentiment": "none"
+          },
+          {
+            "name": "harry potter",
+            "sentiment": "none"
+          },
+          {
+            "name": "michael connelly",
+            "sentiment": "none"
+          },
+          {
+            "name": "martin dugard",
+            "sentiment": "none"
+          },
+          {
+            "name": "paul kalanithi",
+            "sentiment": "none"
+          },
+          {
+            "name": "bill o’reilly",
+            "sentiment": "none"
+          },
+          {
+            "name": "bill",
+            "sentiment": "none"
+          },
+          {
+            "name": "david baldacci",
+            "sentiment": "none"
+          },
+          {
+            "name": "lee",
+            "sentiment": "none"
+          },
+          {
+            "name": "cynthia d’aprix sweeney",
+            "sentiment": "none"
+          },
+          {
+            "name": "harlan coben",
+            "sentiment": "none"
+          },
+          {
+            "name": "jack thorne",
+            "sentiment": "none"
+          },
+          {
+            "name": "hillary",
+            "sentiment": "none"
+          },
+          {
+            "name": "john grisham",
+            "sentiment": "none"
+          },
+          {
+            "name": "j.d. vance",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "amazon",
+            "sentiment": "positive"
+          },
+          {
+            "name": "hogwarts",
+            "sentiment": "none"
+          },
+          {
+            "name": "women’s murder club",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "hogwarts",
+            "sentiment": "none"
+          },
+          {
+            "name": "japan",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-07T20:26:01.043+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "a99f416c34a51f2a593c53b9956eaf9b689fabe7",
+        "url": "http://omgili.com/ri/jHIAmI4hxg9YzE9LUYmiEqvdGG02kKDY6PeroLi7qjVV.qmuLfzz4bD1xgEKrzWfQt_zBYI6doGOeztTlDtIac3vSjjFv5KPefLh6lW2tK5Jnjhf2QqNpA--",
+        "site_full": "www.vox.com",
+        "site": "vox.com",
+        "site_section": "http://www.vox.com/rss/index.xml",
+        "site_categories": [
+          "news",
+          "education"
+        ],
+        "section_title": "Vox -  All",
+        "title": "Automation is inevitable. Here's how to make sure we create jobs, not just destroy them.",
+        "title_full": "Automation is inevitable. Here's how to make sure we create jobs, not just destroy them.",
+        "published": "2016-12-07T22:32:54.612+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "https://cdn0.vox-cdn.com/thumbor/GmSClKbSxP8wEHmewUDTPaf90g8=/0x0:850x472/1080x600/cdn0.vox-cdn.com/uploads/chorus_image/image/52182225/amazon_go.0.0.png",
+        "performance_score": 0,
+        "domain_rank": 902,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "a99f416c34a51f2a593c53b9956eaf9b689fabe7",
+      "url": "http://omgili.com/ri/jHIAmI4hxg9YzE9LUYmiEqvdGG02kKDY6PeroLi7qjVV.qmuLfzz4bD1xgEKrzWfQt_zBYI6doGOeztTlDtIac3vSjjFv5KPefLh6lW2tK5Jnjhf2QqNpA--",
+      "ord_in_thread": 0,
+      "author": "Timothy B. Lee",
+      "published": "2016-12-07T22:32:54.612+02:00",
+      "title": "Automation is inevitable. Here's how to make sure we create jobs, not just destroy them.",
+      "text": "share Amazon In October, Uber-owned Otto announced that it had completed the first commercial driverless truck delivery in Colorado. In November, McDonald’s announced that it was rolling out touchscreen ordering systems nationwide. Now, Amazon is opening a new convenience store with no checkout lines and no cashiers. Add it all up, and it looks like an apocalyptic future for low-skilled workers. Cashiers and fast food workers are near the top of the government’s list of the jobs that employ the most people in the United States, with 3.3 million and 2.9 million workers working at these jobs, respectively. Truck drivers account for another 1.6 million jobs . This article is part of New Money , a new section on economics, technology, and business. And even before these latest innovations hit the market, the data showed declining employment among less-educated workers — especially men. In a September post , economist Larry Summers wrote that if recent employment trends continue, “by mid-century about a quarter of men between 25 and 54 will not be working at any moment.” At the same time, economists are having another debate that might seem unrelated but is actually hugely relevant to this question about the future of jobs. In an August blog post , Summers warned the Fed not to raise interest rates in September. (The Fed kept rates unchanged in September but may raise rates at its meeting next week.) He followed up with a post warning that low interest rates may leave the Fed unable to adequately support the economy during the next recession. Summers doesn’t draw a connection between these posts, but these are really two ways of looking at the same problem. When society invents a new technology that makes workers more efficient, it has two options: It can employ the same number of workers and produce more goods and services, or it can employ fewer workers to produce the same number of goods and services. Jargon-filled media coverage makes this hard to see, but the Federal Reserve plays a central role in this decision. When the Fed pumps more money into the economy, people spend more and create more jobs. If the Fed fails to supply enough cash, then faster technological progress can lead to faster job losses — something we might be experiencing right now. So if you’re worried that technological progress will lead to mass unemployment — and especially if you think this process is already underway — you should be very interested in what the Federal Reserve does. The Fed is widely expected to raise interest rates again at its meeting next week. But if it wanted to, it could cut rates instead, sparking a big economic boom that could help to reverse the declining employment of recent years. Automation won’t destroy all the jobs — and it might even create some Photo by Scott Olson/Getty Images It seems clear that technological progress will eliminate a lot of jobs over the next couple of decades. Some people are worried that technology will eliminate all jobs — or at least all jobs that some classes of less educated workers are likely to get. But that misunderstands what’s going on. Take McDonald’s, for example. The store is rolling out touchscreen kiosks that could eliminate some jobs taking orders at fast food restaurants. At the same time, McDonald’s doesn’t have a burger-flipping robot, so if fast food meals get cheaper it’s likely to attract more customers and create more jobs preparing the food. McDonald’s has also been experimenting with table service , which could create some new jobs as the fast food giant tries to move a bit upscale. If that experiment fails, a lot of customers will move upscale anyway. Last year, consumer spending on dining out overtook spending on groceries . As society gets richer, people are spending more and more money on dining out in general and upscale dining in particular. And the more upscale options are inherently labor-intensive. People might be okay with ordering McDonald’s on a touchscreen, but nobody is going to take a date to an automated fast food restaurant. At the same time, we’ve seen huge growth in demand for workers in labor-intensive fields like education, medicine, child care, and elder care. Some of these jobs require a lot of education (like professors and doctors), some are middle-skilled jobs (nurses, barbers, and schoolteachers) while others (nannies and home health aides) require relatively little training. And none of them are in immediate danger of being automated, since the jobs inherently involve interacting with other people. The key thing to note here is that there isn’t a fixed number of jobs that have to be parceled out. Lots of people would like their kids to go to schools with smaller student-teacher ratios. They struggle to find affordable child care. They’d like to eat out more. They’d like to have more cops on the beat in their neighborhoods. They’d like their kitchens remodeled, their lawns mowed, and their taxes prepared. There’s lots of work that society would, collectively, like to have done. If you want more jobs, give people more money Photo by Joe Raedle/Getty Images At any given point in time, the economy is creating a lot of jobs even as it destroys a lot of other jobs. The big question is whether the economy can create more jobs than it destroys overall. The economy needs to create around 150,000 jobs per month just to keep up with population growth. In the past few years, we’ve been doing a bit better than that, with about 200,000 jobs being created in a typical month. But that topline figure actually masks huge churn in the labor market. In October 2016, for example, employers hired 5.1 million new workers , while 4.9 million workers quit or were fired or laid off. This means it can be misleading to worry too much about job losses in any specific sector of the economy. If job destruction speeds up, that’s not a problem so long as job creation speeds up at least as quickly. And fundamentally, the key to job creation is consumer spending. If consumers spend more, companies will need to hire more people to keep up with demand. The Federal Reserve has a simple and effective way to get consumers to spend more: putting more money in their pockets. The Fed does this in a somewhat convoluted way — conventionally, they buy government bonds, lowering interest rates in the process — but the practical effect isn’t that different from directly giving people money. As people have more cash on hand, they become more inclined to spend more of it and spending goes up. Almost everyone agrees with this analysis during a recession like we had in 2009. It becomes more controversial during periods when the economy is stronger, like right now. The conventional view holds that if the Fed tried to boost the economy more at its meeting next week, we’d just get more inflation, not more employment. But there’s reason to doubt this view. The share of “prime age” workers (those between ages 25 and 54) who have jobs was 80 percent in 2007 and almost 82 percent in 2000. Today, it’s just 77 percent. That suggests that there are millions of workers who could be drawn back into the workforce if the Fed gave us the kind of economic boom that got prime age employment above 80 percent in the late 1990s. Narayana Kocherlakota, an economist who was president of the Minneapolis Fed from 2009 to 2016, has become a leading voice for the view that easier money could boost the economy and draw more workers into the workforce. In an October speech, Fed Chair Janet Yellen signaled that she wasn’t yet persuaded by these arguments, but she was taking them seriously. Geography makes monetary stimulus more difficult Other writers who have pondered this problem believe that it’s not so easy. The Economist’s Ryan Avent, for example, wrote a whole book about the challenges new technologies are creating for the labor market. Avent does talk about monetary policy late in his book, but he treats it as a fairly peripheral issue, and isn’t optimistic about its prospects for offsetting automation-driven job losses. One important reason for this is geography. The declining sectors of the economy and the growing sectors of the economy are not necessarily in the same metropolitan area — and most service sector jobs require the customer and the provider to be in the same place. A lot of towns in the Rust Belt are declining, for example, while Silicon Valley is booming. So it’s possible that easier money would mostly create more jobs in places like Silicon Valley and New York where a lot of normal people can’t afford housing. I think that’s a valid concern, but it’s also somewhat overblown. If overall spending went up, that would partly lead to a higher demand for barbers in Manhattan and fine dining in Palo Alto — demand that might be impossible to meet given high housing costs in those places. But it would also lead to more demand for cars and steel and machine tools that are produced in the Rust Belt. Declining towns near major cities would see higher tourism revenue as city dwellers took day trips to historical sites and stayed at bed and breakfasts in the countryside. Perhaps most importantly, looser money could create booms in second-tier cities like Minneapolis, St. Louis, and Philadelphia where there are significant local industries but housing costs have not yet become astronomical. People who can’t find work in rural Missouri, Pennsylvania, Minnesota, or Wisconsin could find jobs as nurses, police officers, or barbers in nearby cities. A booming economy won’t help everyone who’s stuck in a declining town. There are some laid off 55-year-old factory workers who just aren’t going to move to a new city to start a second career as a barber or nurse. But it would help a lot of people, especially young people who have the most to lose from a life of under-employment. A final possibility is that the Fed will be unable to boost the economy because interest rates are already at zero. Many, though not all , economists believe that monetary policy becomes ineffective at this point because interest rates can’t go any lower. Rather than dig into that complicated debate, I’ll just note that right now interest rates are not zero, and the Fed is even thinking about raising rates. So whether or not you think the Fed was powerless to do more in 2009, it’s definitely not powerless today. Was this article helpful?",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "janet yellen",
+            "sentiment": "none"
+          },
+          {
+            "name": "larry summers",
+            "sentiment": "none"
+          },
+          {
+            "name": "narayana kocherlakota",
+            "sentiment": "none"
+          },
+          {
+            "name": "avent",
+            "sentiment": "none"
+          },
+          {
+            "name": "ryan avent",
+            "sentiment": "none"
+          },
+          {
+            "name": "joe raedle/getty",
+            "sentiment": "none"
+          },
+          {
+            "name": "summers",
+            "sentiment": "none"
+          },
+          {
+            "name": "scott",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "amazon",
+            "sentiment": "positive"
+          },
+          {
+            "name": "mcdonald",
+            "sentiment": "none"
+          },
+          {
+            "name": "federal reserve",
+            "sentiment": "none"
+          },
+          {
+            "name": "fed",
+            "sentiment": "none"
+          },
+          {
+            "name": "economist",
+            "sentiment": "none"
+          },
+          {
+            "name": "minneapolis fed",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "united states",
+            "sentiment": "none"
+          },
+          {
+            "name": "minnesota",
+            "sentiment": "none"
+          },
+          {
+            "name": "missouri",
+            "sentiment": "none"
+          },
+          {
+            "name": "philadelphia",
+            "sentiment": "none"
+          },
+          {
+            "name": "minneapolis",
+            "sentiment": "none"
+          },
+          {
+            "name": "st. louis",
+            "sentiment": "none"
+          },
+          {
+            "name": "new york",
+            "sentiment": "none"
+          },
+          {
+            "name": "manhattan",
+            "sentiment": "none"
+          },
+          {
+            "name": "silicon valley",
+            "sentiment": "none"
+          },
+          {
+            "name": "rust belt",
+            "sentiment": "none"
+          },
+          {
+            "name": "palo alto",
+            "sentiment": "none"
+          },
+          {
+            "name": "wisconsin",
+            "sentiment": "none"
+          },
+          {
+            "name": "pennsylvania",
+            "sentiment": "none"
+          },
+          {
+            "name": "colorado",
+            "sentiment": "none"
+          },
+          {
+            "name": "amazon",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-07T22:32:54.612+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "a194491e0c403e83b1d96f5aee0b3bae257d0dc7",
+        "url": "http://omgili.com/ri/8HG_hanVOKw042PJks0n5EdIRAFxt.MZoqsL8ChdxvvJprSJcUSF6.g.77_ubcRO",
+        "site_full": "phandroid.com",
+        "site": "phandroid.com",
+        "site_section": "http://phandroid.com/feed/",
+        "site_categories": [
+          "tech"
+        ],
+        "section_title": "Phandroid",
+        "title": "GIVEAWAY: Best gifts for robot enthusiasts",
+        "title_full": "GIVEAWAY: Best gifts for robot enthusiasts",
+        "published": "2016-12-07T23:17:45.656+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://phandroid.s3.amazonaws.com/wp-content/uploads/2016/11/best-robots-640x237.jpg",
+        "performance_score": 0,
+        "domain_rank": 14390,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "a194491e0c403e83b1d96f5aee0b3bae257d0dc7",
+      "url": "http://omgili.com/ri/8HG_hanVOKw042PJks0n5EdIRAFxt.MZoqsL8ChdxvvJprSJcUSF6.g.77_ubcRO",
+      "ord_in_thread": 0,
+      "author": "Nick Gray",
+      "published": "2016-12-07T23:17:45.656+02:00",
+      "title": "GIVEAWAY: Best gifts for robot enthusiasts",
+      "text": "Buy on Amazon There are plenty of smart security systems available these days, but what good is a security system if it only monitors one area of your house? iPatrol Riley is a security robot which patrols your house. The robot features a 5MP camera which can be used to record video or capture pictures which it senses motion in your house. It also comes with a rotating docking station which allows Riley to monitor the room it’s in even while charging. iPatrol Riley can even be used as a two-way communications device with the included app since it has a built-in speaker and microphone. This means you can chase your pets around the house and talk with them while you’re at work. GIVEAWAY: LEGO Ideas Wall-E \nThe LEGO Ideas Wall-E is the perfect gift for robot enthusiasts – no matter how old they are. This robot won’t be fetching you coffee or cleaning your house, but we don’t know anyone who’s refuse to have Wall-E on their desk. Enter Giveaway To enter, click the ENTER GIVEAWAY button above. In order to enter, all you will have to do is follow Phandroid on Twitter and then you’ll be automatically entered to win. From there, the giveaway will last for 7 days with one lucky winner getting the LEGO Ideas Wall-E just in time for Christmas. Amazon will take care of the rest. Be sure to leave a comment below if you win! \nWe have plenty more planned, so make sure you’re checking back every day for the chance to win bigger and better prizes from your friends at Phandroid. To stay in the loop, follow us on our social media pages:",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "riley",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "amazon",
+            "sentiment": "positive"
+          }
+        ],
+        "locations": [
+          {
+            "name": "phandroid",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-07T23:17:45.656+02:00"
+    }
+  ],
+  "totalResults": 38,
+  "moreResultsAvailable": 0,
+  "next": "/search?token=c6052904-f312-436b-a6d8-d915084ac866&format=json&ts=1481145465656&q=language%3A%28english%29+thread.country%3AUS+organization.positive%3A%22Amazon%22",
+  "requestsLeft": 458
+}

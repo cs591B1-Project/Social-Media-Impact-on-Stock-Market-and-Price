@@ -1,0 +1,1416 @@
+{
+  "posts": [
+    {
+      "thread": {
+        "uuid": "1ee5f12fe5e433864f5d9d4c6f227681841a5e7e",
+        "url": "http://omgili.com/ri/jHIAmI4hxg_lXD5cNG56Yn7FsrOQ2Z2qbAG7YmvLHoIbRXgyVM8V0x0xZpBfMU93gdK.KCtxWyG5u8aftfAUi4IjonpC.Ta3zY5Hp98xLpRAvf76Td85u_F51kqOCjZj",
+        "site_full": "www.fool.com",
+        "site": "fool.com",
+        "site_section": "http://www.fool.com/feeds/index.aspx?id=foolwatch&format=rss2",
+        "site_categories": [
+          "news"
+        ],
+        "section_title": "Motley Fool Headlines",
+        "title": "Is General Electric’s $32 Billion Baker-Hughes Team Up a Bullish Sign for Oil Prices?",
+        "title_full": "Is General Electric’s $32 Billion Baker-Hughes Team Up a Bullish Sign for Oil Prices? -- The Motley Fool",
+        "published": "2016-11-08T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://g.foolcdn.com/assets/images/fool/tmf-logo.png",
+        "performance_score": 0,
+        "domain_rank": 1336,
+        "social": {
+          "facebook": {
+            "likes": 1,
+            "comments": 0,
+            "shares": 1
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "1ee5f12fe5e433864f5d9d4c6f227681841a5e7e",
+      "url": "http://omgili.com/ri/jHIAmI4hxg_lXD5cNG56Yn7FsrOQ2Z2qbAG7YmvLHoIbRXgyVM8V0x0xZpBfMU93gdK.KCtxWyG5u8aftfAUi4IjonpC.Ta3zY5Hp98xLpRAvf76Td85u_F51kqOCjZj",
+      "ord_in_thread": 0,
+      "author": "foxnews.com",
+      "published": "2016-11-08T02:00:00.000+02:00",
+      "title": "Is General Electric’s $32 Billion Baker-Hughes Team Up a Bullish Sign for Oil Prices?",
+      "text": "GE just placed a big bet on the energy industry -- could this be a sign of better days ahead?",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "ge",
+            "sentiment": "positive"
+          },
+          {
+            "name": "general electric",
+            "sentiment": "negative"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-11-08T20:20:31.721+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "6f58b2ac011f647c1eac79ecccc1838f80dd320d",
+        "url": "http://omgili.com/ri/8HG_hanVOKyeBmlsPHNCbtA9ITnPzZEK1ttAk2Rl4Lfj2EnuP9mqzUnWXfbvTE65lnr4_mVYxTU-",
+        "site_full": "palmsprings.craigslist.org",
+        "site": "craigslist.org",
+        "site_section": "http://palmsprings.craigslist.org/search/sss?format=rss",
+        "site_categories": [
+          "forums"
+        ],
+        "section_title": "craigslist palm springs | for sale search",
+        "title": "GE gas stove (Banning,ca) $250",
+        "title_full": "GE gas stove (Banning,ca) $250",
+        "published": "2016-11-12T11:52:54.616+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "https://images.craigslist.org/01313_8w8tGiLN2f8_600x450.jpg",
+        "performance_score": 0,
+        "domain_rank": 71,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "6f58b2ac011f647c1eac79ecccc1838f80dd320d",
+      "url": "http://omgili.com/ri/8HG_hanVOKyeBmlsPHNCbtA9ITnPzZEK1ttAk2Rl4Lfj2EnuP9mqzUnWXfbvTE65lnr4_mVYxTU-",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-11-12T11:52:54.616+02:00",
+      "title": "GE gas stove (Banning,ca) $250",
+      "text": "Good condition and works great. Free delivery up to 3 miles. Small delivery fee more than 3 miles. Free haul away for old appliances Please call or text me at show contact info In business hours from 9am tp 6pmm After that please leave a message, Hablo Espanol. do NOT contact me with unsolicited services or offers post id: 5872592752",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "hablo espanol",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "ge",
+            "sentiment": "positive"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-11-12T11:52:54.616+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "ba7113d6d80e8d5fe21589a81dd15ba4ea96198b",
+        "url": "http://omgili.com/ri/7aBdisT0NOrO1_KRh30qwogLBAUlEvcqid9xGeFh8PjmBA6wH6l6edmk.ZUE56K1zZnjoMlv3n_ki8hzirzPmm0tgC25c9uRkYPGEyiKKjLyybBaM_71AoRLQYvLvYo8kWv7ydZGduppCb0jt0vlfA--",
+        "site_full": "seekingalpha.com",
+        "site": "seekingalpha.com",
+        "site_section": "http://seekingalpha.com/feed.xml",
+        "site_categories": [
+          "business"
+        ],
+        "section_title": "All Articles on Seeking Alpha",
+        "title": "The 'Trump Put' Ignites General Electric's Rally - Fancy An Obvious Short Trade?",
+        "title_full": "The 'Trump Put' Ignites General Electric's Rally - Fancy An Obvious Short Trade?",
+        "published": "2016-11-14T01:29:38.052+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "https://staticseekingalpha1.a.ssl.fastly.net/uploads/2016/11/12/35274025-1478942506680803_origin.png",
+        "performance_score": 0,
+        "domain_rank": 1432,
+        "social": {
+          "facebook": {
+            "likes": 1,
+            "comments": 0,
+            "shares": 1
+          },
+          "gplus": {
+            "shares": 1
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 4
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "ba7113d6d80e8d5fe21589a81dd15ba4ea96198b",
+      "url": "http://omgili.com/ri/7aBdisT0NOrO1_KRh30qwogLBAUlEvcqid9xGeFh8PjmBA6wH6l6edmk.ZUE56K1zZnjoMlv3n_ki8hzirzPmm0tgC25c9uRkYPGEyiKKjLyybBaM_71AoRLQYvLvYo8kWv7ydZGduppCb0jt0vlfA--",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-11-14T01:29:38.052+02:00",
+      "title": "The 'Trump Put' Ignites General Electric's Rally - Fancy An Obvious Short Trade?",
+      "text": "Election week was fun, and GE stock delivered solid gains. \nIt has outperformed the market by several percentage points since early November. \nA top-down approach indicates more upside than downside these days. Or does it? \nElsewhere, action on the corporate side suggests that GE could shrink further. In a market where a massive repricing of risk is under way, the shares of General Electric (NYSE: GE ) have risen 8.5% to $30.7 from a nine-month closing low of $28.3 on 3 November, outperforming the S&P 500 by several percentage points during the period. (Source: Marketwatch.com) Election week, of course, gave the stock a boost, up $2.3 since close on Tuesday. Risk Guess what? The performance of Dr Copper, which as the chart below shows recorded its best week in five years , was even more stunning -- in short, it's all about perception rather than hard data and fundamentals. Click to enlarge (Source: Bloomberg Terminal) Infrastructure spending on the up and rapidly rising budget deficit are a boon, the bulls argue. And that's why GE stock surged in recent days, also trading on significantly higher volumes than in previous weeks, although economic data and outlook remain unchanged. (Source: usatoday.com) Elsewhere As risk-on trades dominate the headlines, gold prices and 10-year US Treasury prices have plummeted since Mr Trump was elected. Click to enlarge (Source: bullionvault.com) While on Monday Alan Greenspan informed us that \"bond yields rising as high as 5%\" are a distinct possibility, the 'Trump put' -- and all the buzz that came with it a couple of days later -- did the trick, although, at least initially on Wednesday, risk-off trades prevailed in the future market. The Dow futures fell 800 points before markets started to come to terms with the idea that Mr Trump would be the elected president, with Asia feeling the pinch of a very unlikely outcome for some . The fortunes of politics and finance are intimately tied; clearly, there was good news for GE shareholders this week, but other recent events are probably more important than any of the latest political development in a country that surely has more problems than certain short-term trends seem to indicate. (Source: Linkedin.com) On this note, The Wall Street Journal wrote : \nThe economy has been growing for more than seven years, ranking the expansion the fourth-longest since 1949 (when quarterly data became available). If economic growth continues through Mr. Trump's first term, it will be the longest,\" as the chart below suggests. (Source: wsj.com) So, given that fundamentals mean very little in this market, let's look at a couple of corporate events that could move the needle for GE shareholders. Oil, Power & Healthcare While Bloomberg speculates that the deal between GE and Baker Hughes (NYSE: BHI ) has left a third company heartbroken , I think the tie-up is a good move in the right direction for GE, although shareholders are entitled to question whether its capital deployment strategy is appropriate, given they have begged for a higher yield from dividends for some time now. Regardless of the price GE agreed to pay , I do not necessarily think the deal was a masterstroke , but surely it helps the group insulate the reminder of its portfolio from cyclical swings and more volatile end market, given the structure of the acquisition, as well as the synergy potential . Click to enlarge (Source: ge.com) As GE bulks up, it continues to de-risk its balance sheet, focusing on less cyclical operations that should render its performance much more predictable than in the past. In fact, the merger of its oil and gas assets with Baker Hughes will lead to the creation of a separate, listed entity that could help GE release value. In a presentation titled \" The New GE Power \", management painted a brighter picture this week for the power business -- its main revenue driver -- although it must continue to achieve higher returns in order to justify a likely rising cost of capital in the Trump era. Click to enlarge (Source: ge.com) In this context, news that one if its main rivals in the healthcare industry, Germany's Siemens ( OTCPK:SIEGY ), was planning to spin-off its healthcare operations could serve as a blueprint for GE, which doesn't necessarily have to retain healthcare equipment stuff on its books, given its stronger industrial/tech focus and that underlying profitability in healthcare is structurally lower than in power, aviation, and transportation. \nSiemens announced plans to spin off its $15 billion health-care division in one of the German engineering giant's biggest portfolio revamps as it narrows focus on energy, transport and factory gear,\" Bloomberg reported on Thursday . In this Brave New World , GE is pulling all the stops to thrive, but rivals have become more aggressive, taking aim at their corporate trees, which is the inevitable route is a market where prospects of growth and rising earnings have become more difficult to achieve, as the quarterly performance of several transport brokers clearly demonstrates . This, along with oil prices trends, could be a leading indicator. Target Extraordinary corporate action and flawless execution will determine whether GE shareholders will end up being short-changed or whether they will actually enjoy the ride. For the time being, I have raised my personal price target to $24.5 from $24 for the second time since March, up from $23 in the first quarter. Which means that, if I were after an opportunistic short-term trade, I would likely play with options and/or short GE stock at $31 a share . But for investors seeking long-term value, then a price tag of $60 a share could well be conceivable over the long term. Disclosure: I/we have no positions in any stocks mentioned, and no plans to initiate any positions within the next 72 hours. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article. Editor's Note: This article discusses one or more securities that do not trade on a major U.S. exchange. Please be aware of the risks associated with these stocks. About this article: Expand Author payment: $35 + $0.01/page view. Authors of PRO articles receive a minimum guaranteed payment of $150-500. Become a contributor »",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "baker hughes",
+            "sentiment": "none"
+          },
+          {
+            "name": "trump",
+            "sentiment": "none"
+          },
+          {
+            "name": "alan greenspan",
+            "sentiment": "none"
+          },
+          {
+            "name": "mr trump",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "ge",
+            "sentiment": "positive"
+          },
+          {
+            "name": "general electric",
+            "sentiment": "negative"
+          },
+          {
+            "name": "trump",
+            "sentiment": "none"
+          },
+          {
+            "name": "usatoday.com",
+            "sentiment": "none"
+          },
+          {
+            "name": "us treasury",
+            "sentiment": "none"
+          },
+          {
+            "name": "siemens",
+            "sentiment": "none"
+          },
+          {
+            "name": "s&p",
+            "sentiment": "none"
+          },
+          {
+            "name": "marketwatch.com",
+            "sentiment": "none"
+          },
+          {
+            "name": "wall street journal",
+            "sentiment": "none"
+          },
+          {
+            "name": "power & healthcare while bloomberg",
+            "sentiment": "none"
+          },
+          {
+            "name": "bloomberg",
+            "sentiment": "none"
+          },
+          {
+            "name": "nyse",
+            "sentiment": "none"
+          },
+          {
+            "name": "bloomberg terminal",
+            "sentiment": "none"
+          },
+          {
+            "name": "bhi",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "linkedin.com",
+            "sentiment": "none"
+          },
+          {
+            "name": "u.s.",
+            "sentiment": "none"
+          },
+          {
+            "name": "germany",
+            "sentiment": "none"
+          },
+          {
+            "name": "asia",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-11-14T01:29:38.052+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "9f748ef77fb1d0916554f136fc4b62761c4770d6",
+        "url": "http://omgili.com/ri/WOapK6QZrmlisoIn8rI0FZiDGbBkZObqsh46Emnqsaq.Frff9YbGa6rs3ckFlsHyB6_4YI0SCrNgn1Fn5APeY.tnImN.7eBRXLCbVGwb1iisaworVTsclg--",
+        "site_full": "refrigerators.reviewed.com",
+        "site": "reviewed.com",
+        "site_section": "http://refrigerators.reviewed.com/articles.atom",
+        "site_categories": [
+          "shopping"
+        ],
+        "section_title": "Reviewed: Latest Articles",
+        "title": "2016 Best of Year Refrigerator Awards",
+        "title_full": "2016 Best of Year Refrigerator Awards",
+        "published": "2016-11-14T23:12:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "https://reviewed-production.s3.amazonaws.com/1478898995000/BY-2016-Refrigerators-alt.jpg",
+        "performance_score": 0,
+        "domain_rank": 13591,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "9f748ef77fb1d0916554f136fc4b62761c4770d6",
+      "url": "http://omgili.com/ri/WOapK6QZrmlisoIn8rI0FZiDGbBkZObqsh46Emnqsaq.Frff9YbGa6rs3ckFlsHyB6_4YI0SCrNgn1Fn5APeY.tnImN.7eBRXLCbVGwb1iisaworVTsclg--",
+      "ord_in_thread": 0,
+      "author": "Reviewed.com Staff (editorial-staff@reviewed.com)",
+      "published": "2016-11-14T23:12:00.000+02:00",
+      "title": "2016 Best of Year Refrigerator Awards",
+      "text": "$3,099.99 Buy \nFor four years in a row, a GE French door refrigerator has won our coveted Best Refrigerator award. This year, the award once again goes to the CFE28TSHSS, which is built in GE’s Appliance Park factory in Louisville, KY and features a built-in hot water dispenser. \nIn addition to its features, we’re fans of how well this fridge performed in our tests. We recorded consistent temperatures over time in both the fridge and freezer, which can help prevent fresh food from spoiling and frozen food from developing freezer burn. Though this GE is an upscale appliance, it earns its keep by cutting down on food waste. Read our full review Best Fridge for Entertaining: Kenmore Elite 72483 Where to Buy $2,399.99 Buy \nSometimes, four doors are better than three. There are a lot of four- and even five-door refrigerators on the market, but we think the Kenmore Elite 72483 is a good bet if you host a lot of parties. \nThat’s largely thanks to its full-width middle drawer. It can be set to a variety of temperatures for everything from chilling wine to keeping a cold cut tray fresh. In addition, the 72483’s AirTight crisper drawers did an exceptionally good job keeping produce fresh and crisp, and adjustable shelves made it easy to fit everything from large cakes to tall bottles. Read our full review Best Fridge for the Money: Samsung RF260BEAESR Where to Buy",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "ge",
+            "sentiment": "positive"
+          },
+          {
+            "name": "samsung",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "louisville",
+            "sentiment": "none"
+          },
+          {
+            "name": "ky",
+            "sentiment": "none"
+          },
+          {
+            "name": "appliance park",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-11-15T04:26:56.583+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "d67097a8e48323150bab97dbb21eb912d4a50134",
+        "url": "http://omgili.com/ri/WOapK6QZrmngEMEKxhwjmoA5Yn26oJBzl2sTJQxCfsOaReGDRsIT2jrscnvc099C3eCML6n14XA-",
+        "site_full": "richmondin.craigslist.org",
+        "site": "craigslist.org",
+        "site_section": "http://richmondin.craigslist.org/search/sss?format=rss",
+        "site_categories": [],
+        "section_title": "craigslist richmond, IN | for sale search",
+        "title": "Deep freezer (Connersville) $125",
+        "title_full": "Deep freezer (Connersville) $125",
+        "published": "2016-11-15T13:01:47.311+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "https://images.craigslist.org/00h0h_5oBxaOD3RH8_600x450.jpg",
+        "performance_score": 0,
+        "domain_rank": 71,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "d67097a8e48323150bab97dbb21eb912d4a50134",
+      "url": "http://omgili.com/ri/WOapK6QZrmngEMEKxhwjmoA5Yn26oJBzl2sTJQxCfsOaReGDRsIT2jrscnvc099C3eCML6n14XA-",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-11-15T13:01:47.311+02:00",
+      "title": "Deep freezer (Connersville) $125",
+      "text": "make / manufacturer: GE   Works great! Ge freezer has a few dents but works perfectly. Selling due to space issues and lack of need. Text 765-3o nine six OO nine or reply to post. Thanks Great for deer season or pork/beef do NOT contact me with unsolicited services or offers post id: 5851588776",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "ge",
+            "sentiment": "positive"
+          }
+        ],
+        "locations": [
+          {
+            "name": "connersville",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-11-15T13:01:47.311+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "75400b253b441bfc20130734d781a47d39d55625",
+        "url": "http://omgili.com/ri/jHIAmI4hxg9drpy6c2vVhZqVcJvbTdS.o9TLUuJEKPAIEFEPlUghSCi.4b1mfPMkALuAmgES3gUJ59u2hYl4v3GrQlxvI3Fl",
+        "site_full": "www.sltrib.com",
+        "site": "sltrib.com",
+        "site_section": "http://www.sltrib.com/rss/feed/",
+        "site_categories": [
+          "news"
+        ],
+        "section_title": "Latest Stories - The Salt Lake Tribune",
+        "title": "Boeing taps GE veteran to lead its jet unit",
+        "title_full": "Boeing taps GE veteran to lead its jet unit",
+        "published": "2016-11-23T12:49:00.702+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://www.sltrib.com/csp/mediapool/sites/shared/assets/img/tribune1200x630.jpg",
+        "performance_score": 0,
+        "domain_rank": 8518,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "75400b253b441bfc20130734d781a47d39d55625",
+      "url": "http://omgili.com/ri/jHIAmI4hxg9drpy6c2vVhZqVcJvbTdS.o9TLUuJEKPAIEFEPlUghSCi.4b1mfPMkALuAmgES3gUJ59u2hYl4v3GrQlxvI3Fl",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-11-23T12:49:00.702+02:00",
+      "title": "Boeing taps GE veteran to lead its jet unit",
+      "text": "Boeing taps GE veteran to lead its jet unit By JULIE JOHNSSON Bloomberg News First Published Nov 22 2016 07:15PM • Updated 3 hours ago Share This Article Boeing is turning to an outsider for the first time to head the commercial airplanes division, replacing Ray Conner with Kevin McAllister, a 27-year veteran of General Electric's aviation business. McAllister, 53, former chief executive of GE Aviation Services, assumed the leadership of Boeing's largest business on Monday, according to a statement by the planemaker. Conner, 61, will stay on as vice chairman through 2017. The company also promoted Stan Deal to the role of president and CEO of Boeing Global Services, creating a third division that combines customer-service groups within the commercial airplane and defense units. Boeing CEO Dennis Muilenburg sees the potential to build a $50 billion business by bolstering service offerings, from providing spare parts to conducting round-the-clock maintenance. VIDEOS TOP JOBS \"We've always said that growing services was a key part of our strategy,\" Muilenburg told reporters during a conference call Monday. The latest leadership changes underscore that \"actions follow words,\" he said. Muilenburg, who took over last year, has made a series of management shifts that place the company's largest businesses under executives with backgrounds in services. The latest move reshapes the manufacturer's largest business with new leadership amid a turbulent market for commercial aircraft. The Chicago-based company announced Oct. 14 that Ihssane Mounir would replace the retiring John Wojick, a key Conner deputy, early next year as chief airplane salesman. With McAllister, Boeing gains an executive with deep ties to airlines worldwide, including some who are exclusively Airbus Group SE customers, and a reputation for using data to analyze airlines' wants and needs. He'd been viewed as a potential successor to David Joyce, who heads GE Aviation and is a vice chairman, said Rick Kennedy, a spokesman for GE. McAllister has been GE's \"face\" to all of its airline customers for 15 years, first leading the sales team and more recently as the head of the unit selling long-term service contracts and spare parts. The business is a major source of profit for GE, accumulating a backlog of services worth more than $120 billion, Kennedy said. McAllister is a \"very solid guy with a great background in aviation,\" said Richard Aboulafia, an aerospace analyst at Teal Group in Fairfax, Virginia. \"He's a big customer and part of their biggest industrial partner company, too. That's a unique combination.\" A materials engineer by training and University of Pittsburgh graduate, McAllister will be the first outsider to lead Boeing Commercial Airplanes since the unit was formed in 1965. The company selected McAllister after considering a mix of external and internal candidates to succeed Conner. McAllister has worked closely with Boeing over the years, Muilenburg said. \"I'm not sure I'd call him an outsider,\" the CEO said. \"He's been very, very close to us for a couple of decades.\" While McAllister masters the nuances of Boeing's culture and works to earn the respect of its factory workers and engineers, he also will face crucial product-strategy decisions. Perhaps the most critical is the call expected next year on Boeing's first all-new airplane since the 787 Dreamliner: a new plane family aimed at the market gap between Boeing's largest single-aisle and smallest twin-aisle jetliners. Through his role at GE, McAllister \"saw both the challenges and failures of the 787,\" Howard Rubel, an aerospace analyst at Jefferies, said by phone. \"So, he knows how hard it is to run an airplane company. He saw how hard it was to launch a new engine.\" McAllister also will be under pressure to bolster margins as the planemaker slows production of the 777, its second-largest source of profit. He may also have to navigate potential fall-out from the economic penalties President-elect Donald Trump has threatened to impose on China, Boeing's largest overseas market. Conner has served as corporate vice chairman since 2013, and president and CEO of commercial airplanes since 2012. A 39-year Boeing veteran, he led the division during an era of historic jetliner sales, then warned workers that tougher times and cost reductions lay ahead. During his watch, record output at Boeing's factories boosted the segment's revenue to $66 billion, up 34 percent from 2012. He is a throwback, known for close ties forged with customers as the planemaker's former sales chief. A native of Burien, Wash., a working-class suburb south of Seattle, Conner joined his father and brother at Boeing in 1977, landing a job as a mechanic building 727 jetliners. Conner will help smooth the transition to a new generation of leaders, Muilenburg said, while helping Deal knit together the government and commercial services businesses. Conner will also stay \"engaged in our product development activities, including the production transformation under way,\" Muilenburg said. Deal, 52, who was rumored to be an heir to Conner, had served as senior vice-president of Boeing's Commercial Aviation Services business since 2014. His new business will have about 20,000 employees and will maintain a headquarters staff of a \"couple dozen\" in Dallas. The lines between Deal's new unit and Boeing airplane and defense divisions will be blurry in places, with some customer-facing groups staying in place inside the current business units. Deal's current operation has more than 12,000 employees and provides airlines and leasing companies with wide ranging support services, from maintenance training to digital crew scheduling. Another 13,000 employees support military and government customers worldwide.",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "julie johnsson",
+            "sentiment": "positive"
+          },
+          {
+            "name": "dennis muilenburg",
+            "sentiment": "none"
+          },
+          {
+            "name": "donald trump",
+            "sentiment": "none"
+          },
+          {
+            "name": "ihssane mounir",
+            "sentiment": "none"
+          },
+          {
+            "name": "conner",
+            "sentiment": "none"
+          },
+          {
+            "name": "richard aboulafia",
+            "sentiment": "none"
+          },
+          {
+            "name": "ray conner",
+            "sentiment": "none"
+          },
+          {
+            "name": "mcallister",
+            "sentiment": "none"
+          },
+          {
+            "name": "howard rubel",
+            "sentiment": "none"
+          },
+          {
+            "name": "rick kennedy",
+            "sentiment": "none"
+          },
+          {
+            "name": "john wojick",
+            "sentiment": "none"
+          },
+          {
+            "name": "kennedy",
+            "sentiment": "none"
+          },
+          {
+            "name": "kevin mcallister",
+            "sentiment": "none"
+          },
+          {
+            "name": "stan deal",
+            "sentiment": "none"
+          },
+          {
+            "name": "david joyce",
+            "sentiment": "none"
+          },
+          {
+            "name": "muilenburg",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "boeing",
+            "sentiment": "positive"
+          },
+          {
+            "name": "ge",
+            "sentiment": "positive"
+          },
+          {
+            "name": "bloomberg news",
+            "sentiment": "positive"
+          },
+          {
+            "name": "teal group",
+            "sentiment": "none"
+          },
+          {
+            "name": "airbus group",
+            "sentiment": "none"
+          },
+          {
+            "name": "ge aviation services",
+            "sentiment": "none"
+          },
+          {
+            "name": "general electric",
+            "sentiment": "none"
+          },
+          {
+            "name": "boeing global services",
+            "sentiment": "none"
+          },
+          {
+            "name": "commercial aviation services",
+            "sentiment": "none"
+          },
+          {
+            "name": "university of pittsburgh",
+            "sentiment": "none"
+          },
+          {
+            "name": "ge aviation",
+            "sentiment": "none"
+          },
+          {
+            "name": "jefferies",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "burien",
+            "sentiment": "none"
+          },
+          {
+            "name": "fairfax",
+            "sentiment": "none"
+          },
+          {
+            "name": "seattle",
+            "sentiment": "none"
+          },
+          {
+            "name": "virginia",
+            "sentiment": "none"
+          },
+          {
+            "name": "wash.",
+            "sentiment": "none"
+          },
+          {
+            "name": "dallas",
+            "sentiment": "none"
+          },
+          {
+            "name": "china",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-11-23T12:49:00.702+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "334f309c06eef67eedb70d3953b8889a2729cf10",
+        "url": "http://omgili.com/ri/DyQaNGXlfMpPkNnyh1_ScmUd1GlkH8DMcdWTcZfobwlnoLmaKo8fZwvW0QWjQ7JXiXiAkxa4ch.Wavmn1lxmqLw2PWfO6cjyv2rFa0F5cPuthC_xju3rh54VjPlfyxN0",
+        "site_full": "tulsa.backpage.com",
+        "site": "backpage.com",
+        "site_section": "http://oklahoma.backpage.com/online/exports/Rss.xml?section=4378",
+        "site_categories": [
+          "shopping",
+          "business"
+        ],
+        "section_title": "backpage.com | buy, sell, trade | oklahoma",
+        "title": "$150, GE. electric dryer extra large capacity!",
+        "title_full": "$150, GE. electric dryer extra large capacity!",
+        "published": "2016-11-24T01:46:22.013+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 949,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "334f309c06eef67eedb70d3953b8889a2729cf10",
+      "url": "http://omgili.com/ri/DyQaNGXlfMpPkNnyh1_ScmUd1GlkH8DMcdWTcZfobwlnoLmaKo8fZwvW0QWjQ7JXiXiAkxa4ch.Wavmn1lxmqLw2PWfO6cjyv2rFa0F5cPuthC_xju3rh54VjPlfyxN0",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-11-24T01:46:22.013+02:00",
+      "title": "$150, GE. electric dryer extra large capacity!",
+      "text": "GE electric dryer extra large capacity. Looks good also performs great and runs quiet! 76th Street North and 169 Expressway 76th Street North and 169 Expressway, 74055 google map | yahoo map • Location: Owasso, Tulsa   \nMost  ",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "ge",
+            "sentiment": "positive"
+          }
+        ],
+        "locations": [
+          {
+            "name": "tulsa",
+            "sentiment": "none"
+          },
+          {
+            "name": "owasso",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-11-24T01:46:22.013+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "8e07d21b231f5f27d926829ac904edfb534f225e",
+        "url": "http://omgili.com/ri/jHIAmI4hxg8s0aobjARSOUm.4uu_G4nxulJLJKiGFrMdXuZzPNOWzxRvnEqlZ4vG2pagomTkunmvRibGyJluGpkRln7VE1xOio84qLyn4HkGot6_JZDbJQ--",
+        "site_full": "www.ldsliving.com",
+        "site": "ldsliving.com",
+        "site_section": "http://www.ldsliving.com/rss/mr",
+        "site_categories": [
+          "education"
+        ],
+        "section_title": "Mormon Report | LDS Living",
+        "title": "Watch This Stunning Version of \"O Holy Night\" by GENTRI",
+        "title_full": "Watch This Stunning Version of \"O Holy Night\" by GENTRI",
+        "published": "2016-11-25T19:54:50.593+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "https://d3ewd3ysu1dfsj.cloudfront.net/images/stories/large/33186.jpg?1480095916",
+        "performance_score": 0,
+        "domain_rank": 23938,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "8e07d21b231f5f27d926829ac904edfb534f225e",
+      "url": "http://omgili.com/ri/jHIAmI4hxg8s0aobjARSOUm.4uu_G4nxulJLJKiGFrMdXuZzPNOWzxRvnEqlZ4vG2pagomTkunmvRibGyJluGpkRln7VE1xOio84qLyn4HkGot6_JZDbJQ--",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-11-25T19:54:50.593+02:00",
+      "title": "Watch This Stunning Version of \"O Holy Night\" by GENTRI",
+      "text": "Comments \nCheck out this beautiful music video of \"O Holy Night\" sung by GENTRI. About the video, GENTRI posted to Facebook. \"We live in a world where we are sometimes prone to judgment. Perception becomes our reality. In our haste, we can jump to false conclusions and lose opportunities to lift and lighten the loads of others. As we allow the light of Christ to work miracles within our own heart, we then are empowered to work wonders in the lives of others. May His perfect example of love and compassion for all guide us in our own charity towards those around us this Christmas season and always. \n\"Please help us #LIGHTtheWORLD by tagging and sharing this video with those you love.\" \nAfter their incredible Christmas mashup hit No. 1 on the Billboard charts last year, GENTRI has released a full-length holiday album , two years in the making. The 12-track album features classics like “The First Noel,” “O Holy Night,” and, of course, “God Rest Ye Merry, Gentlemen” as well as a few original songs, all arranged and produced in GENTRI’s sweepingly epic and joyful style. \nCheck out GENTRI's chart-topping mashup of \"I Wonder As I Wander\" and \"What Child Is This\" below:  ",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "christ",
+            "sentiment": "none"
+          },
+          {
+            "name": "ye merry",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "gentri",
+            "sentiment": "positive"
+          },
+          {
+            "name": "ge",
+            "sentiment": "positive"
+          },
+          {
+            "name": "ntri",
+            "sentiment": "none"
+          },
+          {
+            "name": "facebook",
+            "sentiment": "none"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-11-25T19:54:50.593+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "65cb06010dbb9e377d2715d6ec049112f5cf3258",
+        "url": "http://omgili.com/ri/rDNjs.ZgPA93Z0MxEyVau5rxO.gXmBdT5PxGNngEVJH.oeHzQ9X5lrW7TYjgZPtfjiE_bmVvVQDqxYtYBdUHYhPX9D5AkNlLKIzD_5hTafrkiFN3jpjEzNP3PlTr5Sw6",
+        "site_full": "qz.com",
+        "site": "qz.com",
+        "site_section": "",
+        "site_categories": [
+          "education",
+          "business"
+        ],
+        "section_title": "",
+        "title": "A top GE executive says organizations must prepare for the \"Emergent Era\" — Quartz",
+        "title_full": "A top GE executive says organizations must prepare for the \"Emergent Era\" — Quartz",
+        "published": "2016-12-01T20:09:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.196,
+        "main_image": "https://qzprod.files.wordpress.com/2016/12/ap_16328483493361-e1480601949543.jpg?quality=80&amp;strip=all&amp;w=1600",
+        "performance_score": 0,
+        "domain_rank": 1461,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "65cb06010dbb9e377d2715d6ec049112f5cf3258",
+      "url": "http://omgili.com/ri/rDNjs.ZgPA93Z0MxEyVau5rxO.gXmBdT5PxGNngEVJH.oeHzQ9X5lrW7TYjgZPtfjiE_bmVvVQDqxYtYBdUHYhPX9D5AkNlLKIzD_5hTafrkiFN3jpjEzNP3PlTr5Sw6",
+      "ord_in_thread": 0,
+      "author": "Written Beth Comstock",
+      "published": "2016-12-01T20:09:00.000+02:00",
+      "title": "A top GE executive says organizations must prepare for the \"Emergent Era\" — Quartz",
+      "text": "It’s going to be a wild ride. (AP Photo/Kirsty Wigglesworth) Share Beth Comstock December 01, 2016 \nIn the wake of Brexit and the election of US president Donald Trump, it’s clear that big global changes are afoot. But before we can begin to explain how these unexpected , tumultuous events will impact our lives, we have more fundamental questions to answer. How has our widely accepted picture of reality fallen so far behind the true scope and pace of change? How can the systems we use to synthesize our collective opinions and motivations keep pace? What other major, near-term events might be in our blind spot? \nThe answer is so large that it has become difficult to see, yet it has urgent implications for everything we do. It’s this: as our planet-wide, instantaneous digital nervous system grows, it is causing a mass reorganization of people, money, information, and things. Our digital information flow has become the main driver of change—and we need new frameworks to understand and anticipate what’s coming next. \nOne of those frameworks is known as emergence . Up until recently, it’s been used primarily to explain natural systems. Basically, the term describes how, when individual agents interact en masse according to a set of simple rules, highly complex structures and behaviors emerge. The billions of neurons that join together in a brain, the multitude of birds in a flock, and the individual ants in a colony are all examples of emergent systems in nature. \nWe’re seeing this same dynamic everywhere today—but in human systems. Emergent properties are what allow the ranks of individual circuits, weak on their own, to join together into a powerful computer. And because of computers, and especially their continuing extension into the physical world via the Internet of Things, emergence has become one of the key forces reshaping our institutions and essential systems. \nWelcome to The Emergent Era. And fasten your seat belt, because it’s going to be a wild ride. \nOne characteristic of emergent change is that it seems impossible until it happens, at which point it feels overwhelming, sudden, and inevitable. The moment when water droplets and wind combine into a hurricane is one example. Another example is the moment when, at about 11:00pm Eastern Time in the United States, election predictions made a wild and irrevocable swing in favor of Trump. \nIn business, emergence explains the huge leaps in value and expansions in functionality that have punctuated the lives of successful start-ups. When a network of people, linked by a new information stream in the form of an app or connected device passes a certain threshold in size, emergence kicks in, and the network doesn’t just get bigger, it transforms. \nAs of 2016, for example, Facebook has grown so populous that it is no longer just a social network. Through changes in the atomic content contributions of its two-billion plus users, it has become a de facto political organizer, advertiser, news company, video company, and a marketplace for goods and even jobs. By the time you are reading this, it is likely to have acquired or evolved even more functions. Similar things are happening across the world as other networks, like Tencent’s WeChat in China, continue to expand rapidly. Together, these platforms link together 2.55 billion people, just a little over a third of the world’s population. \nFor business, the environment created by this massive shift toward connectivity means that the most valuable companies for some time to come will continue to be those presiding over the reorganization of assets and experiences around the digital information flow. \nTwo of Silicon Valley’s most celebrated and studied start-ups, Uber (worth $62 billion as of this writing) and AirBnB (worth $25 billion), are precisely these types of companies. Neither invented or makes the key asset they trade in (transportation in the case of Uber and lodging in the case of AirBnB). But both provided a new stream of information that equipped individual agents (people with smartphones) to respond in new but consistent ways to the real time location of those assets. The interaction of Uber and AirBnB users as a network lead to the emergence of new behaviors and new markets built on them. \nIt’s as if ants were given a new set of rules by which to respond to their immediate environment, or brain cells a new set of commands to relay signals. In any system with the potential for emergence, a small change in what economist Thomas Schelling calls micromotives can lead to radically different macrostructures. And in The Emergent Era, with its profusion of new, ambient information streams, human micromotives are changing all the time. \nTo get a sense of the sheer scale of our new information streams, consider that in the next 18-24 months, a full one-third of the global population will be going online for the first time. By 2020, there will be over 50 billion machines connected to the internet. \nThis presents a unique challenge to those who have to shepherd organizations through this period of change. All the rules and subsequent benefits that have come with command-and-control style bureaucracies no longer apply. The word bureaucracy itself is an artifact of old information technology. A bureau is a writing desk, a physical enclosure for information, fixed in one place, around which power and people tend to accumulate like fat around a cell. \nBureaucracies were necessary when information was scarce. But in The Emergent Era, bureaucratic structures act as bottlenecks for information and inevitably throttle change. Organizations should instead use these six concepts to adapt to life in The Emergent Era. Organize around information flows; ditch hierarchy and bureaucracy. \nAn adaptive business culture begins with a radically open communication system. It’s only when people have access to real-time data and believe they have permission to both pass it on and act on it, that you get the speed and resiliency that characterize emergent structures. \nEmergent systems in nature are a good reminder of what the stakes are. If you erase the pheromone trails left by ants, the colony loses direction. Disrupt the human nervous system, and the result is confusion or paralysis. \nUnlike natural systems, there is no automatic mechanism in human institutions to keep the lines of communication open. That job falls to everyone who is responsible for shaping a company’s culture and core beliefs, at every level, and often at every moment of the day. Empower individuals \nReally empower them. No matter what our official title in an organization may be, everybody needs to get over the illusion that by controlling others, we can control outcomes. Because of accelerated change, we are all, by necessity, becoming collaborators rather than merely managers and employees. \nIn the Emergent Era, it’s best for organizations to mimic emergent systems in nature by distributing the decision making process as widely across the network as possible. In effect, to empower individual “cells” to relay signals and respond to their local conditions as they see fit, when they see fit. Replace long lists of rules with a good M.O. \nBy M.O. I don’t just mean modus operandi , a characteristic way of doing things. I also mean “mission objective” and “mindset orientation.” A good M.O. is an intuitive habit of mind that connects the larger vision of an organization with the immediate, tactical objectives of a person or team. It is part habit and part intuition, somewhere between mission and mindset. \nLeaders provide a vision while allowing their teams to find their own route to achieving it, with room to experiment along the way. \nAn M.O. can be a powerful tool for unleashing creativity within an organization, because it combines skilled perception with speed and fluidity of execution. An employee with a well-developed M.O. will have a knack for recombining the skills and assets of their organization in new ways in the same way that a jazz improviser recombines notes. Both make decisions partly according to a kind of muscle memory of the established rules and partly according to the unique possibilities and requirements of the moment. Establish feedback loops. They are critical. \nDon’t be afraid of feedback—seek it, give it, use it—but make sure it’s the right feedback. \nHealthy, adaptive systems tend to be highly feedback tolerant. That doesn’t mean they merely amplify the signals that flow through them; they sometimes dampen those signals by incorporating “negative” feedback. Despite the negative connotation of the phrase, the results of negative feedback are actually positive. It’s the mechanism our bodies use to maintain the right temperature and blood sugar levels, and it’s the way people and processes in organizations stay in accord with larger strategies and goals. \nIn a company where the information flow is obstructed by bureaucracy, or by managers who create a culture which disproportionately rewards people who confirm existing beliefs, healthy feedback is impossible. For a system to be adaptive, it needs to create regular conditions tolerant of both positive and negative feedback. Get Used to Living in the “In Between.” \nLearning to live in the In Between is a mindset change—perhaps the defining mindset change—of The Emergent Era. It means abandoning the idea that we can operate with total knowledge, or even with the certainty that the tools we have are sufficient to address the possibilities and problems that face us. \nAs these new digitally-shaped structure formed, what’s emerging is also disrupting. It isn’t fully clear, and it hasn’t scaled. But emerge it will. There will be many new things that emerge, even if they aren’t fully formed, or we dismiss them as too insignificant, or worse, too crazy. \nMore data faster is creating more options, but not absolute certainty. We must be creative how we deal with constant change, track early signals int he noise, create multiple options and most importantly, keep moving forward. Tap into the power of minds and machines together. \nThe work of the future won’t be dominated by people or technology. It will emerge from the collaboration between people and technology. \nAs tools, the progress of AI and machine learning in all industries is starting to follow a pattern. Repetitive work is being obviated, freeing up humans to provide the finesse, creativity, or strategic thinking needed to finish the job. \nFor companies and individual employees, the combination of a good M.O. and a powerful A.I. will seem at first impossible, then inevitable, and finally invincible. In the Emergent Era, companies that combine a transparent, reliable information flow, a sound feedback system, and meaningful intelligence will see solutions to their problems consistently and spontaneously emerge—before they become a catastrophe or emergency to confront. Emergence-ready organizations need to adopt an agile, adaptive decision-making formula optimized for our accelerating world—with its unprecedented levels of speed and unpredictability. \nBut even in this new era, some things will remain the same. Emergent organizations will still need leaders to hire the right people, define goals, values, and beliefs, and provide and point to sources of inspiration and renewal. Ant colonies and brain cells don’t need visionaries—but human institutions always will. \nThis is the first article in an ongoing series on the Emergent Era . Learn how to write for Quartz Ideas . We welcome your comments at . Read full story ",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "wigglesworth",
+            "sentiment": "negative"
+          },
+          {
+            "name": "trump",
+            "sentiment": "none"
+          },
+          {
+            "name": "donald trump",
+            "sentiment": "none"
+          },
+          {
+            "name": "thomas schelling",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "ge",
+            "sentiment": "positive"
+          },
+          {
+            "name": "ap",
+            "sentiment": "negative"
+          },
+          {
+            "name": "tencent",
+            "sentiment": "none"
+          },
+          {
+            "name": "eastern time",
+            "sentiment": "none"
+          },
+          {
+            "name": "facebook",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "united states",
+            "sentiment": "none"
+          },
+          {
+            "name": "us",
+            "sentiment": "none"
+          },
+          {
+            "name": "silicon valley",
+            "sentiment": "none"
+          },
+          {
+            "name": "brexit",
+            "sentiment": "none"
+          },
+          {
+            "name": "china",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-02T09:52:19.695+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "c95ebb345915995832a6d05f0c7d5fe819309926",
+        "url": "http://omgili.com/ri/jHIAmI4hxg.Jv2YShZLK5E0Vn3wbiWkyMkgRrQsiEpRWOv3oYklb.DEWJHdB6vuOZr1WdL2rs6g2V8CNA0fEflJRf5SwL40MNkAOLX70gBvfHcPq5VvX6K5vrP5jabVtD9WqEZFd93w-",
+        "site_full": "www.ctpost.com",
+        "site": "ctpost.com",
+        "site_section": "http://www.topix.com/rss/wire/business/financial-services",
+        "site_categories": [
+          "news"
+        ],
+        "section_title": "",
+        "title": "Tree lighting at former GE campus to shine again",
+        "title_full": "Tree lighting at former GE campus to shine again",
+        "published": "2016-12-03T19:31:44.759+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://ww4.hdnux.com/photos/55/37/61/11926603/5/rawImage.jpg",
+        "performance_score": 0,
+        "domain_rank": 37289,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "c95ebb345915995832a6d05f0c7d5fe819309926",
+      "url": "http://omgili.com/ri/jHIAmI4hxg.Jv2YShZLK5E0Vn3wbiWkyMkgRrQsiEpRWOv3oYklb.DEWJHdB6vuOZr1WdL2rs6g2V8CNA0fEflJRf5SwL40MNkAOLX70gBvfHcPq5VvX6K5vrP5jabVtD9WqEZFd93w-",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-12-03T19:31:44.759+02:00",
+      "title": "Tree lighting at former GE campus to shine again",
+      "text": "Tree lighting at former GE campus to shine again By Jim Shay | on December 3, 2016 Photo: Brian A. Pounds / Hearst Connecticut Media Image 1 of / 7 Close Image 1 of 7 The GE Christmas tree is lit up at dusk outside outside GE Headquarters at 3135 Easton Turnpike in Fairfield, Conn. on Sunday, December 20, 2015. The tree was an exact replica of the National Christmas Tree at the White House, which GE has been designing and lighting since 1963.While the General Electric Company may be gone, the tradition of lighting a Christmas tree at the former corporate headquaters will continue. Sacred Heart University - the new owner of the former corporate campus - announced that a Christmas tree will be lit at 5:30 p.m. on Wednesday, Dec. 7, 2016. The public is invited to join members of the SHU choirs in singing carols and Christmas songs on Wednesday. Hot chocolate and cookies will be served. less The GE Christmas tree is lit up at dusk outside outside GE Headquarters at 3135 Easton Turnpike in Fairfield, Conn. on Sunday, December 20, 2015. The tree was an exact replica of the National Christmas Tree at ... more Photo: Brian A. Pounds / Hearst Connecticut Media Image 2 of 7 While the General Electric Company may be gone, the tradition of lighting a Christmas tree at the former corporate headquaters will continue. On Friday, Sacred Heart University - the new owner of the former corporate campus - announced that a Christmas tree will be lit at 5:30 p.m. on Wednesday, Dec. 7, 2016. The public is invited to join members of the SHU choirs in singing carols and Christmas songs on Wednesday. Hot chocolate and cookies will be served. less While the General Electric Company may be gone, the tradition of lighting a Christmas tree at the former corporate headquaters will continue. On Friday, Sacred Heart University - the new owner of the former ... more Photo: Brian A. Pounds / Hearst Connecticut Media Image 3 of 7 The brilliantly illuminated Christmas tree in front of the GE corporate headquarters on Easton Turnpike is shown in this file photo. While the General Electric Company may be gone, the tradition of lighting a Christmas tree at the former corporate headquaters will continue. Sacred Heart University - the new owner of the former corporate campus - announced that a Christmas tree will be lit at 5:30 p.m. on Wednesday, Dec. 7, 2016. The public is invited to join members of the SHU choirs in singing carols and Christmas songs on Wednesday. Hot chocolate and cookies will be served. less The brilliantly illuminated Christmas tree in front of the GE corporate headquarters on Easton Turnpike is shown in this file photo. While the General Electric Company may be gone, the tradition of lighting a ... more Photo: Genevieve Reilly / Genevieve Reilly Image 4 of 7 For years, the Christmas tree at GE headquarters in Fairfield was a replica of the National Christmas Tree on the White House lawn. While the General Electric Company may be gone, the tradition of lighting a Christmas tree at the former corporate headquaters will continue. Sacred Heart University - the new owner of the former corporate campus - announced that a Christmas tree will be lit at 5:30 p.m. on Wednesday, Dec. 7, 2016. The public is invited to join members of the SHU choirs in singing carols and Christmas songs on Wednesday. Hot chocolate and cookies will be served. less For years, the Christmas tree at GE headquarters in Fairfield was a replica of the National Christmas Tree on the White House lawn. While the General Electric Company may be gone, the tradition of lighting a ... more Photo: Genevieve Reilly / Genevieve Reilly Image 5 of 7 For years, the Christmas tree at GE headquarters in Fairfield was a replica of the National Christmas Tree on the White House lawn. While the General Electric Company may be gone, the tradition of lighting a Christmas tree at the former corporate headquaters will continue. Sacred Heart University - the new owner of the former corporate campus - announced that a Christmas tree will be lit at 5:30 p.m. on Wednesday, Dec. 7, 2016. The public is invited to join members of the SHU choirs in singing carols and Christmas songs on Wednesday. Hot chocolate and cookies will be served. less For years, the Christmas tree at GE headquarters in Fairfield was a replica of the National Christmas Tree on the White House lawn. While the General Electric Company may be gone, the tradition of lighting a ... more Photo: Genevieve Reilly / Genevieve Reilly Image 6 of 7 For years, the Christmas tree at GE headquarters in Fairfield was a replica of the National Christmas Tree on the White House lawn. While the General Electric Company may be gone, the tradition of lighting a Christmas tree at the former corporate headquaters will continue. Sacred Heart University - the new owner of the former corporate campus - announced that a Christmas tree will be lit at 5:30 p.m. on Wednesday, Dec. 7, 2016. The public is invited to join members of the SHU choirs in singing carols and Christmas songs on Wednesday. Hot chocolate and cookies will be served. less For years, the Christmas tree at GE headquarters in Fairfield was a replica of the National Christmas Tree on the White House lawn. While the General Electric Company may be gone, the tradition of lighting a ... more Photo: Genevieve Reilly / Genevieve Reilly Image 7 of 7 This photo provided by GE shows iTwinkle G35 bulbs. GE offers the latest in lighting technology with its new iTwinkle holiday light sets and pre-lit Christmas trees. Each of the bulbs holds three LEDs -- red, green and blue -- that can be combined to create thousands of color choices. (AP Photo/GE) less This photo provided by GE shows iTwinkle G35 bulbs. GE offers the latest in lighting technology with its new iTwinkle holiday light sets and pre-lit Christmas trees. Each of the bulbs holds three LEDs -- red, ... more Photo: Associated Press Tree lighting at former GE campus to shine again 1 / 7 Back to Gallery \nFAIRFIELD - While the General Electric Company may be gone, the tradition of lighting a Christmas tree at the former corporate headquarters will continue. \nOn Friday, Sacred Heart University - the new owner of the former corporate campus - announced that a Christmas tree will be lit at 5:30 p.m. on Wednesday, Dec. 7. The public is invited to join members of the SHU choirs in singing carols and Christmas songs on Wednesday. Hot chocolate and cookies will be served. \nOn Nov. 21, SHU purchased the 66-acre General Electric property on Easton Turnpike for $31.5 million. The property is scheduled officially transfer into Sacred Heart’s ownership on Dec. 16. GE’s headquarters had been at the Fairfield site for more than 40 years. GE had moved its headquarters to Boston. \n“One of the first things we heard when news broke of the purchase—especially on social media—was that folks hoped we would continue the tradition of the tree,” said SHU President John J. Petillo . “We intend to do exactly that—in SHU style, of course.” \nFor years at its Fairfield headquarters, the GE tree was a replica of the national Christmas Tree, which stands in Washington on The Ellipse, near the White House. GE Lighting designed the lights display and provided bulbs and lamps for the national tree for more than 50 years. The Fairfield GE tree stood outside the main gatehouse on Easton Turnpike where everybody in the neighborhood or those passing on the Merritt Parkway could see it. \nWith an assessment over $70 million, GE had been Fairfield’s largest property-tax payer for years. Its most recent tax bill was $1.5 million for real estate property and another $291,000 in personal property taxes. The town will receive the full $1.5 million through 2018 fiscal year, because the 2017 tax bill is based how the property is assessed on the grand list as of October of this year. \nThe former corporate headquarters includes 550,000 square feet for current and future use, 800 above/underground parking spaces, and room for SHU to expand. The purchase of the parcel will bring the total acreage of Sacred Heart’s campus to nearly 200 acres, not including the 150-acre Great River Golf Club in Milford purchased last year. \nSHU plans to relocate its College of Education , art & design program and the university’s business office to the site, eliminating the need to rent space in Trumbull. The university will also move certain elements of its Jack Welch College of Business to the new campus and expand its new School of Computing .",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "brian a. p",
+            "sentiment": "positive"
+          },
+          {
+            "name": "jim shay",
+            "sentiment": "positive"
+          },
+          {
+            "name": "john j. petillo",
+            "sentiment": "none"
+          },
+          {
+            "name": "brian a. pounds",
+            "sentiment": "none"
+          },
+          {
+            "name": "genevieve reilly",
+            "sentiment": "none"
+          },
+          {
+            "name": "shu",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "ge",
+            "sentiment": "positive"
+          },
+          {
+            "name": "school of computing",
+            "sentiment": "none"
+          },
+          {
+            "name": "college of education",
+            "sentiment": "none"
+          },
+          {
+            "name": "general electric",
+            "sentiment": "none"
+          },
+          {
+            "name": "associated press tree",
+            "sentiment": "none"
+          },
+          {
+            "name": "sacred heart university",
+            "sentiment": "none"
+          },
+          {
+            "name": "jack welch college of business",
+            "sentiment": "none"
+          },
+          {
+            "name": "ge headquarters",
+            "sentiment": "none"
+          },
+          {
+            "name": "genevieve reilly / genevieve reilly image",
+            "sentiment": "none"
+          },
+          {
+            "name": "easton turnpike",
+            "sentiment": "none"
+          },
+          {
+            "name": "general electric company",
+            "sentiment": "none"
+          },
+          {
+            "name": "hearst connecticut media image",
+            "sentiment": "none"
+          },
+          {
+            "name": "fairfield ge",
+            "sentiment": "none"
+          },
+          {
+            "name": "ap",
+            "sentiment": "none"
+          },
+          {
+            "name": "shu",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "washington",
+            "sentiment": "none"
+          },
+          {
+            "name": "gallery  fairfield",
+            "sentiment": "none"
+          },
+          {
+            "name": "great river golf club",
+            "sentiment": "none"
+          },
+          {
+            "name": "white house",
+            "sentiment": "none"
+          },
+          {
+            "name": "easton turnpike",
+            "sentiment": "none"
+          },
+          {
+            "name": "conn.",
+            "sentiment": "none"
+          },
+          {
+            "name": "trumbull",
+            "sentiment": "none"
+          },
+          {
+            "name": "boston",
+            "sentiment": "none"
+          },
+          {
+            "name": "milford",
+            "sentiment": "none"
+          },
+          {
+            "name": "fairfield",
+            "sentiment": "none"
+          },
+          {
+            "name": "ellipse",
+            "sentiment": "none"
+          },
+          {
+            "name": "merritt parkway",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-03T19:31:44.759+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "54be471f1524f7861e572f7965b16b6962341013",
+        "url": "http://omgili.com/ri/DyQaNGXlfMpabjFEI9brHZkv_d_VAhRHJbloNXQuZHjgepmBL78oEdOkOCzBcABeqcAwef9Zjy3gp48Brwth7mH_xr9TZdJIeIl41sCTCW1TiGhWz84rigmXcUiS_CFogDuOwscL6Wk-",
+        "site_full": "toronto.backpage.com",
+        "site": "backpage.com",
+        "site_section": "http://ontario.backpage.com/online/exports/Rss.xml?category=4443&key=FemaleEscorts&section=4381",
+        "site_categories": [
+          "business"
+        ],
+        "section_title": "backpage.com | escorts | ontario, on",
+        "title": "🍒👄🍒👄🍒👄🍒👄 NEW ASIAN GIRLs $6O/30min🍒👄🍒👄🍒👄 🍒👄🍒👄🍒👄 amazing menu🍒👄 647-739-6928💋 - 20",
+        "title_full": "🍒👄🍒👄🍒👄🍒👄 NEW ASIAN GIRLs $6O/30min🍒👄🍒👄🍒👄 🍒👄🍒👄🍒👄 amazing menu🍒👄 647-739-6928💋 - 20",
+        "published": "2016-12-05T12:54:24.177+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 949,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "54be471f1524f7861e572f7965b16b6962341013",
+      "url": "http://omgili.com/ri/DyQaNGXlfMpabjFEI9brHZkv_d_VAhRHJbloNXQuZHjgepmBL78oEdOkOCzBcABeqcAwef9Zjy3gp48Brwth7mH_xr9TZdJIeIl41sCTCW1TiGhWz84rigmXcUiS_CFogDuOwscL6Wk-",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-12-05T12:54:24.177+02:00",
+      "title": "🍒👄🍒👄🍒👄🍒👄 NEW ASIAN GIRLs $6O/30min🍒👄🍒👄🍒👄 🍒👄🍒👄🍒👄 amazing menu🍒👄 647-739-6928💋 - 20",
+      "text": "Hey Gentlemen, my name is Coco 5'5 106lbs. 36D bra. 20yrs I have super Good services available to GENEROUS Men who desire the BEST in companionship. We’re Sincere, Sweet, Sensual, Sexy & and love to PLEASE and BE PLEASED!! Also providing a 24hr service. If u really interest what u see then give me a call",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "ge",
+            "sentiment": "positive"
+          },
+          {
+            "name": "coco",
+            "sentiment": "negative"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-12-05T12:54:24.177+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "3cffbd2d8eef9a86d5df2fe4d1f8b98b45361d8b",
+        "url": "http://omgili.com/ri/jHIAmI4hxg9BcPFu_4VOJxXOPE7_XaSqHHmPvWoFDz9eYQTio3NGK9gRCw1mAgaSSeW1PEImzibCwzwwCfOAGtYkNborksQyrbACgGlsvosC42nw1.kycIhjckK.SWzd",
+        "site_full": "www.onenewspage.com",
+        "site": "onenewspage.com",
+        "site_section": "http://www.onenewspage.com/rss/latest/Technology.rss",
+        "site_categories": [
+          "news",
+          "entertainment",
+          "education"
+        ],
+        "section_title": "Latest Technology News on One News Page",
+        "title": "C by GE smart lamp can take commands from Alexa and give them, too",
+        "title_full": "C by GE smart lamp can take commands from Alexa and give them, too - One News Page",
+        "published": "2016-12-07T16:32:27.843+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://cdn.newsserve.net/700/i/20161207/1254-by-GE-smart-lamp-can-take-commands.jpg",
+        "performance_score": 0,
+        "domain_rank": 91686,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "3cffbd2d8eef9a86d5df2fe4d1f8b98b45361d8b",
+      "url": "http://omgili.com/ri/jHIAmI4hxg9BcPFu_4VOJxXOPE7_XaSqHHmPvWoFDz9eYQTio3NGK9gRCw1mAgaSSeW1PEImzibCwzwwCfOAGtYkNborksQyrbACgGlsvosC42nw1.kycIhjckK.SWzd",
+      "ord_in_thread": 0,
+      "author": "onenewspage.com",
+      "published": "2016-12-07T16:32:27.843+02:00",
+      "title": "C by GE smart lamp can take commands from Alexa and give them, too",
+      "text": "Rather than just take commands from Alexa, the new C by GE smart LED table lamp will be able to give the commands thanks to integrated Alexa Voice Service. GE Lighting views the Alexa Lamp as a crucial first step in smart home control.",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "alexa",
+            "sentiment": "positive"
+          },
+          {
+            "name": "alexa lamp",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "ge",
+            "sentiment": "positive"
+          },
+          {
+            "name": "ge lighting",
+            "sentiment": "none"
+          },
+          {
+            "name": "alexa voice service",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "alexa",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-07T16:32:27.843+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "6ebd52e348de5d937042f40249286084b8979673",
+        "url": "http://omgili.com/ri/jHIAmI4hxg91AAFr2hsw6aUJPFr3T8dQzby0YX1WEUvJzMKynRIQPSz.U3W3tFjG1ibeWq4iJLE78KThrhB1ZcBcGOyme1u9",
+        "site_full": "www.digitaltrends.com",
+        "site": "digitaltrends.com",
+        "site_section": "http://www.digitaltrends.com/home/feed/",
+        "site_categories": [
+          "news",
+          "entertainment"
+        ],
+        "section_title": "Home–Digital Trends",
+        "title": "This GE smart lamp is also a full voice assistant, thanks to Alexa",
+        "title_full": "This GE smart lamp is also a full voice assistant, thanks to Alexa",
+        "published": "2016-12-07T17:25:10.001+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://icdn3.digitaltrends.com/image/c-by-ge-10-1200x630-c.jpg",
+        "performance_score": 0,
+        "domain_rank": 1067,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "6ebd52e348de5d937042f40249286084b8979673",
+      "url": "http://omgili.com/ri/jHIAmI4hxg91AAFr2hsw6aUJPFr3T8dQzby0YX1WEUvJzMKynRIQPSz.U3W3tFjG1ibeWq4iJLE78KThrhB1ZcBcGOyme1u9",
+      "ord_in_thread": 0,
+      "author": "Bruce Brown",
+      "published": "2016-12-07T17:25:10.001+02:00",
+      "title": "This GE smart lamp is also a full voice assistant, thanks to Alexa",
+      "text": "Don't Fall Behind Stay current with a recap of today's Tech News from Digital Trends \nHere’s a switch. There are plenty of smart lights that can be controlled by Amazon Alexa voice commands, but now GE Lighting is about to integrate Alexa Voice Service (AVS) components into its C by GE LED smart table lamp so you can talk to it to control both the lamp and all your other Alexa-enabled smart home devices and appliances. You’ll also be able to ask the lamp about the news and weather, and even have it tell you a joke. \nThe C by GE smart lamp is the first lighting product with Alexa built in to be announced. Alexa already has more than 5,000 locally enabled, cloud-based skills. The library of Alexa skills is building fast, so there will soon be a seemingly unlimited selection of actions at your command. With Alexa-enabled smart appliances, you could sit and read by the lamp light while cooking a meal or change your mind and use the lamp to place an order and have your dinner delivered. \nMore: Leaving home? These smart light bulbs repel robberies by mimicking your patterns \nGE Lighting’s C by GE brand is focusing on building its own line of connected home devices for convenience, control, and security. GE sees the Alexa-integrated lamp as a “first step in unleashing the ultimate living experience.” GE is developing applications in-house, working with outside firms such as Amazon, and inviting homeowners to share their ideas. \nThe circular LED C by GE table lamp has a contemporary geometric form designed in part by Richard Clarkson, who designed The Cloud, a ceiling fixture that responds to motion with lightning and thunder. \nPre-orders for the as-yet-unnamed C by GE Alexa-enabled table lamp will be available starting in early 2017 on the C by GE website . Shipping is scheduled for the second quarter of 2017. To learn more about the table lamp with Alexa inside and to sign up for ordering notification, you can go to this site . Also watch:",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "alexa",
+            "sentiment": "positive"
+          },
+          {
+            "name": "richard clarkson",
+            "sentiment": "none"
+          },
+          {
+            "name": "amazon alexa",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "ge",
+            "sentiment": "positive"
+          },
+          {
+            "name": "ge lighting",
+            "sentiment": "none"
+          },
+          {
+            "name": "alexa voice service",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "amazon",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-07T17:25:10.001+02:00"
+    }
+  ],
+  "totalResults": 13,
+  "moreResultsAvailable": 0,
+  "next": "/search?token=c6052904-f312-436b-a6d8-d915084ac866&format=json&ts=1481124310001&q=language%3A%28english%29+thread.country%3AUS+organization.positive%3A%22GE%22",
+  "requestsLeft": 998
+}

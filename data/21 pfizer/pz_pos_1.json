@@ -1,0 +1,163 @@
+{
+  "posts": [
+    {
+      "thread": {
+        "uuid": "4b88cc9a4e4331430ca80bf7471abae10907c9db",
+        "url": "http://omgili.com/ri/jHIAmI4hxg8G1d.Ln07PoSWRZsHStYBJ6f_QxUVm9P2aF4HAOqhzwN_GGCUaZoHj",
+        "site_full": "www.forbes.com",
+        "site": "forbes.com",
+        "site_section": "http://www.forbes.com/real-time/",
+        "site_categories": [
+          "news"
+        ],
+        "section_title": "Forbes Real Time",
+        "title": "Exciting News From Pfizer And IBM",
+        "title_full": "Exciting News From Pfizer And IBM",
+        "published": "2016-12-01T15:15:31.829+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": null,
+        "performance_score": 0,
+        "domain_rank": 196,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "4b88cc9a4e4331430ca80bf7471abae10907c9db",
+      "url": "http://omgili.com/ri/jHIAmI4hxg8G1d.Ln07PoSWRZsHStYBJ6f_QxUVm9P2aF4HAOqhzwN_GGCUaZoHj",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-12-01T15:15:31.829+02:00",
+      "title": "Exciting News From Pfizer And IBM",
+      "text": "The pairing of Pfizer and IBM Watson is changing the field of research. Forbes' Bruce Japsen speaks with IBM's Deborah DiSanzo about the company's exciting new venture.",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "forbes",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "bruce japsen",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "deborah disanzo",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "ibm",
+            "sentiment": "positive"
+          },
+          {
+            "name": "ibm watson",
+            "sentiment": "positive"
+          },
+          {
+            "name": "pfizer",
+            "sentiment": "positive"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-12-01T15:15:31.829+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "c66209137d8a016558bd25b83ec301efdbd9f463",
+        "url": "http://omgili.com/ri/.wHSUbtEfZSv.0gLBQa29ReN1EJkqZ05yWnW0BMrH_blm9FTbzGd7FD2Dv_ZZv3rXc2ohniqQkN_c2mwg6of.lUbULc7MYBgzHqPdvPvQ.BXJXTh0jG6Mktrp6aYus9lZIm.GqLFVosd5w5YFFRW4hS2AdEduGV3a0huiBmBueLCfx22131UnM_I1_y9MKk6f0RLSUiIYMEFj5SPqe.669ZKD.DpPuiCAoV83Mt.O1EQ0OjBPGyQFk1N6sV0r12.bLmaksLm5RugUgvTL6eGJYAw11LjhzI4._KOa5iuDUPk2uo.RujjqWBH2Nh5IH2w9gE118AtuV5MDml_UAFfnKxWvyl1VGWnhTVHL5luMWVHBMiWyo14TBbqlcqye9Frac_FJQhEmPw-",
+        "site_full": "subscribe.ft.com",
+        "site": "ft.com",
+        "site_section": "http://www.ft.com/rss/home/asia",
+        "site_categories": [],
+        "section_title": "Asia homepage",
+        "title": "Pfizer hit by record £84m competition fine over anti-epilepsy drug",
+        "title_full": "Pfizer hit by record £84m competition fine over anti-epilepsy drug",
+        "published": "2016-12-07T11:24:21.211+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 1571,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "c66209137d8a016558bd25b83ec301efdbd9f463",
+      "url": "http://omgili.com/ri/.wHSUbtEfZSv.0gLBQa29ReN1EJkqZ05yWnW0BMrH_blm9FTbzGd7FD2Dv_ZZv3rXc2ohniqQkN_c2mwg6of.lUbULc7MYBgzHqPdvPvQ.BXJXTh0jG6Mktrp6aYus9lZIm.GqLFVosd5w5YFFRW4hS2AdEduGV3a0huiBmBueLCfx22131UnM_I1_y9MKk6f0RLSUiIYMEFj5SPqe.669ZKD.DpPuiCAoV83Mt.O1EQ0OjBPGyQFk1N6sV0r12.bLmaksLm5RugUgvTL6eGJYAw11LjhzI4._KOa5iuDUPk2uo.RujjqWBH2Nh5IH2w9gE118AtuV5MDml_UAFfnKxWvyl1VGWnhTVHL5luMWVHBMiWyo14TBbqlcqye9Frac_FJQhEmPw-",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-12-07T11:24:21.211+02:00",
+      "title": "Pfizer hit by record £84m competition fine over anti-epilepsy drug",
+      "text": "  Pfizer hit by record £84m competition fine over anti-epilepsy drug",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "pfizer",
+            "sentiment": "positive"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-12-07T11:24:21.211+02:00"
+    }
+  ],
+  "totalResults": 2,
+  "moreResultsAvailable": 0,
+  "next": "/search?token=c6052904-f312-436b-a6d8-d915084ac866&format=json&ts=1481102661211&q=language%3A%28english%29+thread.country%3AUS+organization.positive%3A%22Pfizer%22",
+  "requestsLeft": 911
+}

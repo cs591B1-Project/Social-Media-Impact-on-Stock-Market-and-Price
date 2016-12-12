@@ -1,0 +1,991 @@
+{
+  "posts": [
+    {
+      "thread": {
+        "uuid": "8ed3c4e19503723f08185c5f0ed7075f297dd0ff",
+        "url": "http://omgili.com/ri/snFTpiOKdJUuIVrIb9IQS_mwQ_kESQlECzRQD0eRSufZ90sEH9rg3msZomfD0Q5EfTKs_w8H6XE95GWZNBDLMIamfc1UyKygWdmAxzQXhBghFCfJ.e8aBBEJQqQ16UlVvkLOVioCZJtzA2_Dk6CEdA--",
+        "site_full": "news.morningstar.com",
+        "site": "morningstar.com",
+        "site_section": "http://news.morningstar.com/all/dow-jones/us-markets.aspx",
+        "site_categories": [
+          "business"
+        ],
+        "section_title": "News Archive: U.S. Markets",
+        "title": "Correction to obituary of Erich Bloch",
+        "title_full": "Correction to obituary of Erich Bloch",
+        "published": "2016-12-02T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.033,
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 2618,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "8ed3c4e19503723f08185c5f0ed7075f297dd0ff",
+      "url": "http://omgili.com/ri/snFTpiOKdJUuIVrIb9IQS_mwQ_kESQlECzRQD0eRSufZ90sEH9rg3msZomfD0Q5EfTKs_w8H6XE95GWZNBDLMIamfc1UyKygWdmAxzQXhBghFCfJ.e8aBBEJQqQ16UlVvkLOVioCZJtzA2_Dk6CEdA--",
+      "ord_in_thread": 0,
+      "author": "morningstar.com",
+      "published": "2016-12-02T02:00:00.000+02:00",
+      "title": "Correction to obituary of Erich Bloch",
+      "text": "Erich Bloch's wife's name was Renée. \"Erich Bloch Helped Pioneer IBM's Most Successful Computer,\" at 10:15 am ET, incorrectly stated that her name was Sarah in the 9th and 19th paragraphs. (Dec. 2)\n 12:27 ET (17:27 ",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [
+        "http://im.mstar.com/Im/Mbr/Form_PremCheckbox_Checked.gif",
+        "http://s7.addthis.com/static/btn/sm-share-en.gif",
+        "http://www.addthis.com/bookmark.php?v=250",
+        "http://im.mstar.com/Im/Mbr/Form_PremCheckbox_Unchecked.gif"
+      ],
+      "entities": {
+        "persons": [
+          {
+            "name": "erich bloch",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "renée",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "erich bloch erich bloch",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "sarah",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "ibm",
+            "sentiment": "neutral"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-12-02T21:26:19.558+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "5bbd123a0b8ca98b9fec73a9aaf9b5f323a14341",
+        "url": "http://omgili.com/ri/.wHSUbtEfZSo8MhXnoVklMfvLW7bMmVyyHUp161xfqrFZqNyP1PUugxyDBcDGWfEeAxIy42kleJsECzuE7QFBR6qGNm9Ngz5g2POab09FQ8-",
+        "site_full": "dzone.com",
+        "site": "dzone.com",
+        "site_section": "http://feeds.dzone.com/integration",
+        "site_categories": [
+          "tech"
+        ],
+        "section_title": "DZone Integration Zone",
+        "title": "Software-Defined Integration: A New Trend or Just a Fancy Name?",
+        "title_full": "Software-Defined Integration: A New Trend or Just a Fancy Name?",
+        "published": "2016-12-05T09:16:17.546+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 5231,
+        "social": {
+          "facebook": {
+            "likes": 3,
+            "comments": 0,
+            "shares": 3
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 1
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "5bbd123a0b8ca98b9fec73a9aaf9b5f323a14341",
+      "url": "http://omgili.com/ri/.wHSUbtEfZSo8MhXnoVklMfvLW7bMmVyyHUp161xfqrFZqNyP1PUugxyDBcDGWfEeAxIy42kleJsECzuE7QFBR6qGNm9Ngz5g2POab09FQ8-",
+      "ord_in_thread": 0,
+      "author": "Olga Annenko",
+      "published": "2016-12-05T09:16:17.546+02:00",
+      "title": "Software-Defined Integration: A New Trend or Just a Fancy Name?",
+      "text": "Join For Free \nVisually compose APIs with easy-to-use tooling. Learn how IBM API Connect provides near-universal access to data and services both on-premises and in the cloud,   IBM . Have you ever heard of software-defined integration? If you haven’t, you are by far not in the minority. The term and the phenomenon that it describes are quite new. Even though you find some entries on the internet, most of them use the term as a catchy phrase, but in reality talk about software-defined networking. So, what is software-defined integration, and why you should care about it in the first place? Below I will elaborate on a concrete definition of this concept, the conditions under which software-defined integration can be identified as such, and mention a few real-life implementation examples. What Does \"Software-Defined\" Mean? Recently, software-defined something has sprung up like mushrooms after the rain. More often than not, you come across software-defined networking, but there are also software-defined storage, software-defined visibility, software-defined data center, and quite many other software-defined things. So, what concept is hiding behind the word software-defined ? Webopedia gives us quite a neat (and simple) explanation: “With software-defined everything, the computing infrastructure is virtualized and delivered as a service. In a software-defined everything environment, management and control of the networking, storage, and/or data center infrastructure are automated by intelligent software rather than by the hardware components of the infrastructure.” So far, so good. Software-Defined Integration and What It's Good For Now, if we use the above definition, then we can define software-defined integration as integration that is delivered as a service. Of course, I must admit that there is nothing unusual about this concept, either. However, the real-life implementation of software-defined integration is what makes it special. Imagine that you have a cloud-based software product or service. It can be a platform as a service such as cPaaS (communication platform as a service), it can be a SaaS application (say, for hotel management), or it can even be customer-based application integration service, like the one that many digital agencies or implementation partners offer. Your product or service is good, you know that for sure. But there are similar products and services that are equally good. So, how do you stand out? In these times, when everything seems to be connected to everything (and if not, then it will definitely be connected first thing the next day), the answer to how to find your competitive differentiation is quite simple: equip your product or service with wider integration capabilities than your competitors do. This way, your cPaaS can be quickly and easily connected to leading enterprise-grade CRM systems, saving your customer development costs. Your SaaS hotel management application will provide out-of-the-box connectivity to major property management, marketing automation, workflow management, accounting, and CRM software solutions. Or, you will be able to standardize and scale your integration services to address more customers and reduce own implementation costs. The Role of the API Economy in Software-Defined Integration The scenarios mentioned in the previous paragraph are not just some stories made out of thin air. These are real-life examples of how technology companies use iPaaS (integration platform as a service) to build new and better products or services or to improve the existing ones. Beware, though, as not any iPaaS is fit for this purpose. In effect, software-defined integration automates and standardizes applications integration via integration management API delivered by an iPaaS provider. As such, it enables integration specialists to reuse their integrations consistently across multiple products and systems. This means that an absolute must for an iPaaS offering to be considered for software-defined integration is the availability of its own API. In this scenario, an iPaaS’s RESTful Application Programming Interface (API) is integrated directly into another SaaS or PaaS or integration service offering to allow any external software system or solution to interact with it directly and on an as-needed basis. This approach ensures that that offering has integration capability that is easily programmable, pervasive, and dynamic. As a rule, such integration management API helps reduce own development and implementation costs and time considerably, which by default leads to faster time-to-market of the new or upgraded SaaS, PaaS or integration service offering. So, a definition for software-defined integration would be something along these lines: Software-defined integration (SDI) is an emerging concept for applications integration that is easily manageable, cost-effective, and Agile, making it ideal for the dynamic nature of today’s technology market. This concept decouples the integration functionality and integration software enabling the integration functionality to become directly embeddable and the underlying infrastructure to be abstracted for applications and integration services. An integration management API is a fundamental element for an SDI solution. Main Features of Software-Defined Integration and Their Benefits Based on our newly outlined definition, we can now name at least four main features of the so call SDI: Directly embeddable. Integration functionality of iPaaS is directly embeddable because it is decoupled from the actual integration software. Agile. Abstracting integration functionality from the actual integration software lets integration specialists dynamically create new products or improve existing ones to meet changing business needs or address market challenges. Centrally managed. The business logic of integration platform, features and functionalities, updates, and patches are centralized in the actual integration software. The integration specialists are freed from installing any updates or fixes and new features are available immediately through the integration management API. Dynamically configured. Software-defined integration lets developers configure, manage, secure, and optimize integration workflows very quickly via API calls. Requirements for Delivering Software-Defined Integration As already mentioned earlier, not any iPaaS is good for software-defined integration. Of course, the most obvious requirement is the availability of integration management API, but there are also some other crucial requirements without which it is impossible to deliver SDI. Multi-tenancy. This requirement should be actually regarded as default, and it’s quite obvious why. As we have already mentioned, integration functionality in SDI is decoupled from the software, and the software is managed centrally, which means that it makes sense if this one software instance is able to serve multiple tenants (or, in other words, customers). Isolation of resources. Derived from the multi-tenancy requirement, it can be safely concluded that with SDI, proper isolation of resources is utterly important. In the end, no one wants that their data is accidentally seen by another tenant. There are various ways to achieve good isolation, but probably the best indication of that is the application of the containers technology (Docker) in the iPaaS architecture. Elastic scalability. This requirement has also something to do with multi-tenancy. After all, since one environment is shared between several customers, it can happen that one customer adversely affects the rest by suddenly overloading the system or certain resources. Therefore, in addition to proper resources isolation, it is also crucial for iPaaS to be elastically scalable, preferably in an automated fashion. Resource-based pricing. This requirement is actually connected to the availability of integration management API. API simply doesn’t make any sense to SaaS, PaaS, or integration services providers if there iPaaS vendor doesn’t offer resource-based pricing. Which basically means that the sheer existence of API obliges iPaaS vendors to provide this type of pricing and billing. \nVisually compose APIs with easy-to-use tooling. Learn how IBM API Connect provides near-universal access to data and services both on-premises and in the cloud,   IBM . Topics:",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "ibm",
+            "sentiment": "neutral"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-12-05T09:16:17.546+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "122264abae452bff14be83d496de13294df308b9",
+        "url": "http://omgili.com/ri/.wHSUbtEfZSo8MhXnoVklMfvLW7bMmVyMtu1TR2xbXs3BLhiY1Z_RinFaXH0rzpD1jA.c1RB87LkARoNVRTV9Sb4XZrKBTlDs9Mxh3FWeFA-",
+        "site_full": "dzone.com",
+        "site": "dzone.com",
+        "site_section": "http://feeds.feedburner.com/dzone/BLxQ",
+        "site_categories": [
+          "tech"
+        ],
+        "section_title": "DZone.com Feed",
+        "title": "How to Make Your Own Web Spreadsheet App: Tools Review",
+        "title_full": "How to Make Your Own Web Spreadsheet App: Tools Review",
+        "published": "2016-12-05T11:28:12.977+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 5231,
+        "social": {
+          "facebook": {
+            "likes": 7,
+            "comments": 0,
+            "shares": 7
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 2
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "122264abae452bff14be83d496de13294df308b9",
+      "url": "http://omgili.com/ri/.wHSUbtEfZSo8MhXnoVklMfvLW7bMmVyMtu1TR2xbXs3BLhiY1Z_RinFaXH0rzpD1jA.c1RB87LkARoNVRTV9Sb4XZrKBTlDs9Mxh3FWeFA-",
+      "ord_in_thread": 0,
+      "author": "Ivan Petrenko",
+      "published": "2016-12-05T11:28:12.977+02:00",
+      "title": "How to Make Your Own Web Spreadsheet App: Tools Review",
+      "text": "Join For Free \nVisually compose APIs with easy-to-use tooling. Learn how IBM API Connect provides near-universal access to data and services both on-premises and in the cloud, brought   IBM . In this article, we’ll take a look at three components that you can use to create online office applications, specifically apps that work with the Excel tables. If you are interested in a credible SpreadSheet component for your enterprise web app take a look at these tools. We’ll try to overview three different types of solutions that will work for you whatever your goals are. The List of Components SpreadSheet by Webix is a widget that is available as a part of the Webix framework, which means that this time developers have something more to offer. Indeed, Webix includes a wide range of components. From a simple button to complex data components, Data Table, and Tree Table – you can combine them for creating something more multi-purpose than an online spreadsheet app. And you can get much more than just a spreadsheet widget: Webix SpreadSheet works only with the whole UI library that consists of 80 widgets and controls. Regarding cost, it’s a golden mean comparing to the other options. Kendo UI SpreadSheet allows editing and visualizing tabular data with a variety of cell formatting options, styles, and themes. Kendo UI is probably one of the most popular JavaScript UI frameworks which you might have heard about if you have ever tried your hand at web development. If you choose Kendo, you get the spreadsheet widget with 70+ jQuery-based widgets. The professional edition offers you 70+ jQuery-based widgets along with the tech support. As you probably guessed, it's costly. Kendo UI SpreadSheet is the most expensive option of the three. Handsontable is a spreadsheet component for web apps written in JavaScript and HTML. This one will be a pretty good option for those who wants to save money since it has the lowest price among the others. Looks like a pretty good choice, but besides the spreadsheet, there are no other components available. We defined what we want to build and have a list of tools that can help us with our task. Now, let’s make a small comparison. We’ll check the documentation pages to make sure that there will be no trouble for those who are only going to start working with these components. We’ll create a spreadsheet to see how much efforts are required and how they’ll be rewarded. Webix Spreadsheet Webix provides you with a way wider range of possibilities than just building a spreadsheet app. This framework allows creating responsive user interfaces using a minimum amount of code and then adding a more complex functionality. For example, you can quickly create a prototype of your future application and then, after you make sure that each component is in its place, start configuring everything. Webix released updates for the SpreadSheet ion September 2016. Let's have a look inside. The documentation page has everything you need to know. The getting started guide, guides for every available widget along with the demos do their thing. Each page is marked with the required level of knowledge (such as “beginner,” “intermediate,” etc.), which can be pretty handy for beginners. Let’s continue with the coding process. To install the required files, you can use a preferable package manager, such as npm or Bower. And, of course, it’s always possible to include the files from the downloaded package: <link rel=\"stylesheet\" href=\"codebase/webix.css\" type=\"text/css\"><script src=\"codebase/webix.js\" type=\"text/javascript\"></script> To work with spreadsheet you have to include two extra files: <script src=\"codebase/spreadsheet.js\" type=\"text/javascript\"></script><link rel=\"stylesheet\" type=\"text/css\" href=\"codebase/spreadsheet.css\"> After that, you can initialize Webix and create a spreadsheet on the page. For creating components, Webix uses a view the value of which defines what widget you want to use. For example, view: \"button\" will add a button to your app. Besides the type of widget, we can define the source of data. Here’s how the required code looks like: /* we use webix.ready() function to execute the code after the page is loaded */ webix.ready(function(){ /* object constructor */ webix.ui({ /* create a spreadsheet */ view:\"spreadsheet\", /* loaded data object */ data: base_data }); }); That’s it. Besides the initialization that is required in any case, all we need to do, is to define the type of the widget and the data it’ll use.Here’s the result: We can edit tables, change the font and its size, select the text color and background color, adjust horizontal align, apply the desired number format, etc. To cut it short, we can do almost everything that a normal online office app allows us to do. In most cases, Webix allows you to configure your apps using a single line of code. For example, you can set the number of columns using this code line: columnCount:10 Surely, more complex customizations require more work. But still, fast developing speed is one of the distinctive features of this framework. Kendo UI Spreadsheet It will be the shortest part of our “contest” since there’s no need to introduce Kendo UI to you. This framework made by the Telerik company became a true classic. The range of solutions that Kendo developers can offer to you is pretty impressive. There are .NET UI controls, reporting and developer productivity tools, cross-platform tools to design, build, deploy, manage and measure all your mobile apps, JavaScript/HTML5 UI widgets for responsive web visualization and tons of other handy stuff. The documentation page contains all required info about the existing components. There’s even a bunch of video tutorials for those who is tired of reading. Let’s take a look at how the process of spreadsheet creation looks like. To install the required files, you can use Bower, npm, or NuGet package managers, or include the files in the <head> tag of your page. After that, you will only have two steps to complete to achieve your goal: create an empty <div> element and initialize the spreadsheet. <div id=\"spreadsheet\"></div><script> $(\"#spreadsheet\").kendoSpreadsheet(); </script> And here’s the result: With minimum effort, you’ll get a fully-functional JavaScript spreadsheet. Further configuration will depend on your needs. For example, if you want to create a document with multiple sheets, initialization can look like this: $(\"#spreadsheet\").kendoSpreadsheet({ sheets: [ { name:\"Orders\", /*other preferences*/ }, { name:\"Contacts\", /*other prefs*/ } ] }); This code will create two tabs, one for each sheet: If you’re curious about the Kendo UI Spreadsheet look and feel, you can check this demo . Handsontable List of features looks promising: data binding, sorting data, data validation, searching, context menu, and so on. Moreover, basic functionality can be extended by using one of the many available plugins. At first glance, the documentation page may seem a little bit humble, but it contains all the useful information you may wish to find: from the 5-minute jump start guide to the detailed API reference. One of the main concepts of Handsontable is the brick-by-brick structure, which means that you can add the features you want and leave out the rest. So, you should clearly understand what features you want to get and prepare yourself to spend some time reading documentation. Well, let’s check how the process of a widget creation looks like. You can install Handsontable using Bower : $ bower install https://my.handsontable.com/handsontable/handsontable-pro.git Or npm : npm install git+https://{username}:{password}@my.handsontable.com/handsontable/handsontable-pro.git Also, you can prefer the installation that implies using SSH keys or a custom build containing only the core engine and selected plugins. And, of course, there’s always a possibility to add the required JavaScript and CSS files to the page: <script src=\"/dist/handsontable.full.js\"></script><link rel=\"stylesheet\" media=\"screen\" href=\"/dist/handsontable.full.css\"> When you finish the preparations, you’ll be able to initialize the spreadsheet. First of all, you’ll need to create a <div> container that will be turned into a spreadsheet: <div id=\"spreadsheet\"></div> Then you need to pass a reference to the created container into the spreadsheet constructor, and define the configuration: specify the data source, enable headers, and optionally add the drop down menus: /* data that we're going to use */ var data = [ [\"\", \"Ford\", \"Volvo\", \"Toyota\", \"Honda\"], [\"2016\", 10, 11, 12, 13], [\"2017\", 20, 11, 14, 13], [\"2018\", 30, 15, 12, 13] ]; /* our DIV container */ var container = document.getElementById('spreadsheet'); /* spreadsheet initialization */ var hot = new Handsontable(container, { data: data, rowHeaders: true, colHeaders: true, dropdownMenu: true }); The result is shown below: Looks neat, but still pretty far from the working spreadsheet software. We can render the data that we have on the screen and configure the columns according to our needs. Styling, saving, and loading – these and other useful features require additional coding, which goes beyond this brief review. To see how possible results can look like, check this demo page . Conclusion Let’s summarize the acquired experience. Webix SpreadSheet has a lot to offer. Besides the fully configurable SpreadSheet, you’ll get 80 JavaScript/HTML5 widgets. Fast development, high functionality out-of-the-box, and acceptable price make this option the golden mean. Kendo UI Spreadsheet is the well-proven framework that offers you 70+ jQuery-based widgets along with the tech support. Developers do care of their customers and provide them with the high-performance components, well-written documentation, and even video tutorials. But everything has its price. And, we must say, it’s quite high in this case. Handsontable is an awesome tool for those who don’t want any unclaimed functionality in their apps. Very functional, the cheapest of those we chose for our review, it can be a pretty reasonable choice. \nVisually compose APIs with easy-to-use tooling. Learn how IBM API Connect provides near-universal access to data and services both on-premises and in the cloud, brought   IBM . Topics:",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "bower",
+            "sentiment": "none"
+          },
+          {
+            "name": "kendo",
+            "sentiment": "none"
+          },
+          {
+            "name": "webix",
+            "sentiment": "none"
+          },
+          {
+            "name": "kendo ui",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "ibm",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "kendo ui spreadsheet",
+            "sentiment": "none"
+          },
+          {
+            "name": "webix spreadsheet",
+            "sentiment": "none"
+          },
+          {
+            "name": "css",
+            "sentiment": "none"
+          },
+          {
+            "name": "volvo",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "kendo",
+            "sentiment": "none"
+          },
+          {
+            "name": "handsontable",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-05T11:28:12.977+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "ad63a8cde45bdf46d6d64df82e252c87239d4598",
+        "url": "http://omgili.com/ri/jHIAmI4hxg9BcPFu_4VOJxXOPE7_XaSqQMP_vfwCA1Ya6nJpT0HHhuZc0cjhn0tMF2hjf.eEN08D8bueVKmNga_A0ogTx6sSGxG9SXR8FZI-",
+        "site_full": "www.onenewspage.com",
+        "site": "onenewspage.com",
+        "site_section": "http://www.onenewspage.com/rss/latest/Money.rss",
+        "site_categories": [
+          "news",
+          "entertainment",
+          "education"
+        ],
+        "section_title": "Latest Money News on One News Page",
+        "title": "WANdisco: an awkward age",
+        "title_full": "WANdisco: an awkward age - One News Page",
+        "published": "2016-12-05T20:18:59.894+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://cdn.newsserve.net/ONPglobe128.png",
+        "performance_score": 0,
+        "domain_rank": 91686,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "ad63a8cde45bdf46d6d64df82e252c87239d4598",
+      "url": "http://omgili.com/ri/jHIAmI4hxg9BcPFu_4VOJxXOPE7_XaSqQMP_vfwCA1Ya6nJpT0HHhuZc0cjhn0tMF2hjf.eEN08D8bueVKmNga_A0ogTx6sSGxG9SXR8FZI-",
+      "ord_in_thread": 0,
+      "author": "onenewspage.com",
+      "published": "2016-12-05T20:18:59.894+02:00",
+      "title": "WANdisco: an awkward age",
+      "text": "With IBM’s help, the former tech darling should get past its tricky phase",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "ibm",
+            "sentiment": "neutral"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-12-05T20:18:59.894+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "5d4ca11c4d0e1ad2e0425af5c9493c5b54335b40",
+        "url": "http://omgili.com/ri/jHIAmI4hxg9BcPFu_4VOJxXOPE7_XaSqHHmPvWoFDz9eYQTio3NGK_G_IFIfWcNuPAmSdo30b_PrQZflNNfFwfTtS1EhskLqdEkSBFVqP14-",
+        "site_full": "www.onenewspage.com",
+        "site": "onenewspage.com",
+        "site_section": "http://www.onenewspage.com/rss/latest/Technology.rss",
+        "site_categories": [
+          "news",
+          "entertainment",
+          "education"
+        ],
+        "section_title": "Latest Technology News on One News Page",
+        "title": "WANdisco: an awkward age",
+        "title_full": "WANdisco: an awkward age - One News Page",
+        "published": "2016-12-05T20:40:16.429+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://cdn.newsserve.net/ONPglobe128.png",
+        "performance_score": 0,
+        "domain_rank": 91686,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "5d4ca11c4d0e1ad2e0425af5c9493c5b54335b40",
+      "url": "http://omgili.com/ri/jHIAmI4hxg9BcPFu_4VOJxXOPE7_XaSqHHmPvWoFDz9eYQTio3NGK_G_IFIfWcNuPAmSdo30b_PrQZflNNfFwfTtS1EhskLqdEkSBFVqP14-",
+      "ord_in_thread": 0,
+      "author": "onenewspage.com",
+      "published": "2016-12-05T20:40:16.429+02:00",
+      "title": "WANdisco: an awkward age",
+      "text": "With IBM’s help, the former tech darling should get past its tricky phase",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "ibm",
+            "sentiment": "neutral"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-12-05T20:40:16.429+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "b826ed9930f233d5adf8e47ad213de70b80c70c5",
+        "url": "http://omgili.com/ri/jHIAmI4hxg_lXD5cNG56Yn7FsrOQ2Z2qbAG7YmvLHoJP1czI.x92WBEOcdAn.JU99Tn3oB3SlR7cOTJALqat0W4jXK8fgbJ3Xb20wquFYgaxoqWdvNWXKWwPRo65epIjKdnqxiPhm7s-",
+        "site_full": "www.fool.com",
+        "site": "fool.com",
+        "site_section": "http://feeds-project.fool.com/feeds/foolwatch",
+        "site_categories": [
+          "news"
+        ],
+        "section_title": "Motley Fool Headlines",
+        "title": "Better Buy: Cisco Systems vs. IBM",
+        "title_full": "Better Buy: Cisco Systems vs. IBM",
+        "published": "2016-12-06T15:53:56.299+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": null,
+        "performance_score": 0,
+        "domain_rank": 1336,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "b826ed9930f233d5adf8e47ad213de70b80c70c5",
+      "url": "http://omgili.com/ri/jHIAmI4hxg_lXD5cNG56Yn7FsrOQ2Z2qbAG7YmvLHoJP1czI.x92WBEOcdAn.JU99Tn3oB3SlR7cOTJALqat0W4jXK8fgbJ3Xb20wquFYgaxoqWdvNWXKWwPRo65epIjKdnqxiPhm7s-",
+      "ord_in_thread": 0,
+      "author": "newsfeedback@fool.com (Tim Brugger)",
+      "published": "2016-12-06T15:53:56.299+02:00",
+      "title": "Better Buy: Cisco Systems vs. IBM",
+      "text": "The question of which tech behemoth's stock is the better buy, Cisco 's (NASDAQ: CSCO) or IBM 's (NYSE: IBM) , poses a nice dilemma. Both are transitioning away from traditional, enterprise-centric hardware and other outdated solutions, and are laser-focused on the Internet of Things (IoT), cloud, data centers, and technology that secures the growing amount of information collected in today's digital world.\nThat said, Cisco and IBM are taking different tacks to dominate their respective markets. At Cisco, an all-out push into the cloud, smart cities, and other IoT-related opportunities still entails selling its switches and routers, though CEO Chuck Robbins is focused on software and other solutions to drive a more stable, long-term recurring-revenue model.\nIBM's fast-growing cloud and IoT units have it near the front of the pack in both areas, but its emphasis is less about its SoftLayer cloud-hosting platform and more about offering advanced cognitive-computing solutions so its clients can interpret and ultimately utilize all that data.\nContinue reading ",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "chuck robbins",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "ibm",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "cisco systems",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "cisco",
+            "sentiment": "neutral"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-12-06T15:53:56.299+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "c150be2a6c36d385435f6594b31a7cc07080d627",
+        "url": "http://omgili.com/ri/jHIAmI4hxg8HXGwTYSrScIS7k8HLXzNdXc7gkKtE07QroVEnYf4HUyZDvpqN25sFE7z_hbOK66rWM1BsvPRUkrIu4W.4jAeXNRy6tMlfdoQWFgbXzDfLWw--",
+        "site_full": "www.cio.com",
+        "site": "cio.com",
+        "site_section": "http://www.networkworld.com/index.rss",
+        "site_categories": [
+          "news",
+          "tech"
+        ],
+        "section_title": "Network World",
+        "title": "IBM building blockchain ecosystem",
+        "title_full": "IBM building blockchain ecosystem",
+        "published": "2016-12-06T20:33:40.267+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://images.techhive.com/images/article/2016/12/blockchain_ecosystem-100697393-large.3x2.jpg",
+        "performance_score": 0,
+        "domain_rank": 7905,
+        "social": {
+          "facebook": {
+            "likes": 19,
+            "comments": 0,
+            "shares": 19
+          },
+          "gplus": {
+            "shares": 7
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 154
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "c150be2a6c36d385435f6594b31a7cc07080d627",
+      "url": "http://omgili.com/ri/jHIAmI4hxg8HXGwTYSrScIS7k8HLXzNdXc7gkKtE07QroVEnYf4HUyZDvpqN25sFE7z_hbOK66rWM1BsvPRUkrIu4W.4jAeXNRy6tMlfdoQWFgbXzDfLWw--",
+      "ord_in_thread": 0,
+      "author": "Thor Olavsrud",
+      "published": "2016-12-06T20:33:40.267+02:00",
+      "title": "IBM building blockchain ecosystem",
+      "text": "IBM building blockchain ecosystem Show More \nIBM believes blockchain technology, with its capability to create an essentially immutable ledger of digital events, will alter the way whole industries conduct transactions. To make that happen, Big Blue asserts, requires a complete ecosystem of industry players working together. \nTo that end, IBM today said it is building a blockchain ecosystem , complete with a revenue sharing program, to accelerate the growth of networks on the Linux Foundation's Hyperledger Fabric. IBM envisions the ecosystem as an open environment that allows organizations to collaborate using the Hyperledger Fabric. \n\"The future growth and adoption of blockchain is reliant upon building a strong ecosystem,\" Bridget Van Kralingen, senior vice president, IBM Industry Platforms, said in a statement today. \"Business networks will only reach critical mass when innovators, industry experts and infrastructure providers come together in new ways to reinvent how business transactions happen. The growing maturity of Hyperledger Project code is a major milestone. That's why IBM is investing to help developers accelerate the creation of blockchain networks by providing an environment where these players can work together.\" \n[ Related: How blockchain will disrupt your business ] \nBlockchain is a distributed database that records digital events in such a way that it is, for all intents and purposes, impossible to alter those records. Records can be amended, but the original remains. The blockchain consists of blocks of items — each block is a timestamped batch of valid individual transactions and the hash of the previous block, creating a link between the two. Because each timestamp includes the previous timestamp in its hash, it forms a chain. Each new transaction must be authenticated across the distributed network of computers that form the blockchain before it can form the next block in the chain. \n+ ALSO ON NETWORK WORLD What is blockchain and how does it work? + \nIBM's 2017 revenue sharing program is designed to enable organizations that create blockchain networks to earn income when they use IBM's blockchain platform and network services. It says it designed the ecosystem program for venture capitalists (VCs), startups, systems integrators (SIs), independent software vendors (ISVs) and enterprise developers. \n[ Related: Financial sector expands use of blockchain databases ] \nIn addition to the revenue sharing, IBM is offering education and tools to help partners jumpstart their ideas, and adds that IBM blockchain experts will hold \"office hours\" via the Hyperledger Fabric Slack channel. IBM already offers courses and learning modules for business users and developers on developerWorks , and says it will expand that with code libraries, smart contract templates and tools. \n[ Related: How blockchain can benefit IT outsourcing providers ] \nOrganizations already participating in the IBM Blockchain ecosystem include the following: Cloudsoft. This software company provides multi-cloud application management with open source tools. It provides Cloudsoft Blockchain Service, which helps enterprises set up Hyperledger blockchain networks running across multiple geographies. EY. The global provider of assurance, tax, transaction and advisory services says blockchain has the potential to profoundly disrupt industries and may require businesses to adopt new structures and business models to survive and thrive in a blockchain world. Everledger. This U.K.-based startup uses IBM Blockchain to authenticate and trace the origin of high-value and luxury goods, like diamonds and wine. Gliding Eagle. This California-based company provides a cloud- and mobile-based technology system for tracking individual products from the producer to the end consumer, anywhere in the world. The Hive. An early-stage fund and venture studio focused on AI and big data applications, The Hive is co-creating ventures within IBM's blockchain ecosystem. IntellectEU. An international financial integration specialist with blockchain development teams (both Hyperledger and Ethereum) in Portugal and Ukraine, IntellectEU is a founding member of the Linux Foundation Hyperledger Project. It offers specialized professional services, application development and integration services. Loyyal. This loyalty and rewards platform uses blockchain and smart contracts to provide an interoperable loyalty and rewards infrastructure. Mooti Blockchain Digital Identity. Mooti provides advanced self-sovereign identity validation via blockchain. It can run Identity Chains across any blockchain, providing enhanced data privacy and features like time-based revocation and ring signature anonymity. NetKi. NetKi is a Los Angeles-based digital identity startup that provides a suite of standards-based solutions for building blockchain-based applications and services. Sensify Security. This Palo Alto-based IoT security startup helps operators enforce access control in a decentralized manner within their operating environments. Skuchain. This startup is building a blockchain-based platform for collaborative commerce, called Brackets. This story, \"IBM building blockchain ecosystem\" was originally published by CIO . To comment on this article and other Network World content, visit our Facebook page or our Twitter stream . Related:",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "mooti",
+            "sentiment": "none"
+          },
+          {
+            "name": "bridget van kralingen",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "ibm",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "ibm industry platforms",
+            "sentiment": "none"
+          },
+          {
+            "name": "mooti blockchain digital identity",
+            "sentiment": "none"
+          },
+          {
+            "name": "linux foundation hyperledger project",
+            "sentiment": "none"
+          },
+          {
+            "name": "cloudsoft blockchain service",
+            "sentiment": "none"
+          },
+          {
+            "name": "linux foundation",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "portugal",
+            "sentiment": "none"
+          },
+          {
+            "name": "ukraine",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-06T20:33:40.267+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "c4b126a6cfd820e6c22058ddfcd178e99e400c46",
+        "url": "http://omgili.com/ri/rPCDLkAl21T9UAWnqdADXY..MfidXHht8wSq.V0qHwLKVTpN.oZa8vlRQGaCx7WXsNmgvtDjvtY0.eMtMz8aqItlitIvhc.K0IPEPvpoMq85.xN4GO8xrV0bd7bJYe2G",
+        "site_full": "askubuntu.com",
+        "site": "askubuntu.com",
+        "site_section": "http://askubuntu.com/feeds",
+        "site_categories": [
+          "tech",
+          "forums"
+        ],
+        "section_title": "Recent Questions - Ask Ubuntu",
+        "title": "How to overcome os not being found after installation",
+        "title_full": "How to overcome os not being found after installation",
+        "published": "2016-12-06T22:19:58.481+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "https://cdn.sstatic.net/Sites/askubuntu/img/apple-touch-icon@2.png?v=c492c9229955",
+        "performance_score": 0,
+        "domain_rank": 1055,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "c4b126a6cfd820e6c22058ddfcd178e99e400c46",
+      "url": "http://omgili.com/ri/rPCDLkAl21T9UAWnqdADXY..MfidXHht8wSq.V0qHwLKVTpN.oZa8vlRQGaCx7WXsNmgvtDjvtY0.eMtMz8aqItlitIvhc.K0IPEPvpoMq85.xN4GO8xrV0bd7bJYe2G",
+      "ord_in_thread": 0,
+      "author": "PeterEmile",
+      "published": "2016-12-06T22:19:58.481+02:00",
+      "title": "How to overcome os not being found after installation",
+      "text": "up vote 0 down vote favorite \nI installed lubuntu 12.04 on IBM Thinkpad R50 without any other OS. At end of installation I restarted as instructed but had error OS not found. Have repeated installation with both DVD and USB stick but same result. Parted, used via trial version after installation, seems to show boot partition exists. Obviously with only trial version, can't make any changes to HDD. I should mention that I am installing 12.04 because of PAE problem with intention to update to 16.04. I am also an Ubuntu beginner.",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "ibm",
+            "sentiment": "neutral"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-12-06T22:19:58.481+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "824306a4fadc9f61e1a31cff581faccb27652eac",
+        "url": "http://omgili.com/ri/.wHSUbtEfZQD1RVKFqxhq.rA7v2LAkhjYVCfkjFLpQp13i5RloSX60JQUoAQYV8iMyAqaodDEAqPRygPPAlglMNFHiVpMuUyzbbTs14spfa88aOgwcFFk2pf_K54nOEjP8JY72qwgE8JFWZjAwtZ1I14eorObG80wBe9ma6CTGLNZwaGPMpbd_INIsZuy7Rthb2sDNqiY6mFxRiv8lq3tP.rU3NDbeRT.6utEHoBOtk7ZjiG09qF9semxS2XeNE.RGNI.lAIh6LsZN_ETtPLQr72h1hxnXs5",
+        "site_full": "www.thestreet.com",
+        "site": "thestreet.com",
+        "site_section": "http://www.thestreet.com:80/feeds/rss/search.html?topicSearch=Banks",
+        "site_categories": [
+          "news",
+          "finance"
+        ],
+        "section_title": "TheStreet Search RSS Feed: Banks",
+        "title": "DDN And IBM Japan Team To Deliver Yahoo! JAPAN A 50 TB Per Day, Inter-Continental Active Archive Solution That Offers Lower Cost, Rapid Data Access In Japan And U.S.",
+        "title_full": "DDN And IBM Japan Team To Deliver Yahoo! JAPAN A 50 TB Per Day, Inter-Continental Active Archive Solution That Offers Lower Cost, Rapid Data Access In Japan And U.S.",
+        "published": "2016-12-07T03:27:10.912+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/all-pics/press_releases_4_article_600px.jpg",
+        "performance_score": 0,
+        "domain_rank": 2567,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "824306a4fadc9f61e1a31cff581faccb27652eac",
+      "url": "http://omgili.com/ri/.wHSUbtEfZQD1RVKFqxhq.rA7v2LAkhjYVCfkjFLpQp13i5RloSX60JQUoAQYV8iMyAqaodDEAqPRygPPAlglMNFHiVpMuUyzbbTs14spfa88aOgwcFFk2pf_K54nOEjP8JY72qwgE8JFWZjAwtZ1I14eorObG80wBe9ma6CTGLNZwaGPMpbd_INIsZuy7Rthb2sDNqiY6mFxRiv8lq3tP.rU3NDbeRT.6utEHoBOtk7ZjiG09qF9semxS2XeNE.RGNI.lAIh6LsZN_ETtPLQr72h1hxnXs5",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-12-07T03:27:10.912+02:00",
+      "title": "DDN And IBM Japan Team To Deliver Yahoo! JAPAN A 50 TB Per Day, Inter-Continental Active Archive Solution That Offers Lower Cost, Rapid Data Access In Japan And U.S.",
+      "text": "Markets Today DDN And IBM Japan Team To Deliver Yahoo! JAPAN A 50 TB Per Day, Inter-Continental Active Archive Solution That Offers Lower Cost, Rapid Data Access In Japan And U.S. Joint System Supports OpenStack Swift Data and Delivers Significant Cost Savings, Leveraging Power Rates in the U.S. that are One-Fourth the Cost of Rates in Japan  00PMEST TOKYO and SANTA CLARA, Calif.   DataDirect Networks (DDN®) today announced that Yahoo Japan Corporation (\"Yahoo! JAPAN \") has deployed an active archive system jointly developed by DDN and IBM Japan. The new system allows Yahoo! JAPAN to cache dozens of petabytes of data from its OpenStack® Swift storage solution in a Japan -based data center, and transfer data to a U.S.-based data center at an astonishing rate of 50 TB of data per day - thus enabling energy cost savings of 74 percent due to lower energy rates in the United States versus Japan , while ensuring fast data access regardless of location. Prev 0 of 2  ",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "rapid data access in japan",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "ibm",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "ibm japan",
+            "sentiment": "none"
+          },
+          {
+            "name": "datadirect networks",
+            "sentiment": "none"
+          },
+          {
+            "name": "openstack swift data",
+            "sentiment": "none"
+          },
+          {
+            "name": "yahoo japan corporation",
+            "sentiment": "none"
+          },
+          {
+            "name": "prev",
+            "sentiment": "none"
+          },
+          {
+            "name": "ddn",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "u.s.",
+            "sentiment": "none"
+          },
+          {
+            "name": "united states",
+            "sentiment": "none"
+          },
+          {
+            "name": "tokyo",
+            "sentiment": "none"
+          },
+          {
+            "name": "santa clara",
+            "sentiment": "none"
+          },
+          {
+            "name": "calif",
+            "sentiment": "none"
+          },
+          {
+            "name": "japan",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-07T03:27:10.912+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "864900860f6c363535dd2e3ac1225ac7f718b306",
+        "url": "http://omgili.com/ri/.wHSUbtEfZQD1RVKFqxhq.rA7v2LAkhjYVCfkjFLpQp13i5RloSX60JQUoAQYV8iMyAqaodDEAqPRygPPAlglMNFHiVpMuUyzbbTs14spfa88aOgwcFFk2pf_K54nOEjP8JY72qwgE8JFWZjAwtZ1I14eorObG80wBe9ma6CTGLNZwaGPMpbd_INIsZuy7Rthb2sDNqiY6mFxRiv8lq3tP.rU3NDbeRT.6utEHoBOtk7ZjiG09qF9semxS2XeNE.RGNI.lAIh6LsZN_ETtPLQshyvnb1RpRhcOiw9oN31e4-",
+        "site_full": "www.thestreet.com",
+        "site": "thestreet.com",
+        "site_section": "http://feeds.thestreet.com/tsc/feeds/rss/business-news/press-releases",
+        "site_categories": [
+          "news",
+          "finance"
+        ],
+        "section_title": "TheStreet Search RSS Feed:",
+        "title": "DDN And IBM Japan Team To Deliver Yahoo! JAPAN A 50 TB Per Day, Inter-Continental Active Archive Solution That Offers Lower Cost, Rapid Data Access In Japan And U.S.",
+        "title_full": "DDN And IBM Japan Team To Deliver Yahoo! JAPAN A 50 TB Per Day, Inter-Continental Active Archive Solution That Offers Lower Cost, Rapid Data Access In Japan And U.S. - TheStreet",
+        "published": "2016-12-07T03:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/all-pics/press_releases_4_article_600px.jpg",
+        "performance_score": 0,
+        "domain_rank": 2567,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "864900860f6c363535dd2e3ac1225ac7f718b306",
+      "url": "http://omgili.com/ri/.wHSUbtEfZQD1RVKFqxhq.rA7v2LAkhjYVCfkjFLpQp13i5RloSX60JQUoAQYV8iMyAqaodDEAqPRygPPAlglMNFHiVpMuUyzbbTs14spfa88aOgwcFFk2pf_K54nOEjP8JY72qwgE8JFWZjAwtZ1I14eorObG80wBe9ma6CTGLNZwaGPMpbd_INIsZuy7Rthb2sDNqiY6mFxRiv8lq3tP.rU3NDbeRT.6utEHoBOtk7ZjiG09qF9semxS2XeNE.RGNI.lAIh6LsZN_ETtPLQshyvnb1RpRhcOiw9oN31e4-",
+      "ord_in_thread": 0,
+      "author": "PR Newswire",
+      "published": "2016-12-07T03:00:00.000+02:00",
+      "title": "DDN And IBM Japan Team To Deliver Yahoo! JAPAN A 50 TB Per Day, Inter-Continental Active Archive Solution That Offers Lower Cost, Rapid Data Access In Japan And U.S.",
+      "text": "TOKYO and SANTA CLARA, Calif. , Dec. 6, 2016 /PRNewswire/ --   DataDirect Networks (DDN®) today announced that Yahoo Japan Corporation (\"Yahoo! JAPAN \") has deployed an active archive system jointly developed by DDN and IBM Japan. The new system allows Yahoo! JAPAN to cache dozens of petabytes of data from its OpenStack® Swift storage solution in a Japan -based data center, and transfer data to a U.S.-based data center at an astonishing rate of 50 TB of data per day - thus enabling energy cost savings of 74 percent due to lower energy rates in the United States versus Japan , while ensuring fast data access regardless of location.",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "datadirect networks",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "rapid data",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "ibm",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "ibm japan",
+            "sentiment": "none"
+          },
+          {
+            "name": "yahoo japan corporation",
+            "sentiment": "none"
+          },
+          {
+            "name": "ddn",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "calif.",
+            "sentiment": "none"
+          },
+          {
+            "name": "u.s. tokyo",
+            "sentiment": "none"
+          },
+          {
+            "name": "santa clara",
+            "sentiment": "none"
+          },
+          {
+            "name": "japan",
+            "sentiment": "none"
+          },
+          {
+            "name": "united states",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-07T03:38:38.885+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "ff3fae07836e792774335bbfcc044f0352ec6dce",
+        "url": "http://omgili.com/ri/jHIAmI4hxg9mEfmTr4kCaN1lxvdM0H35iPJB1Kw0h1Y1jvjv08QzPEQIuAmMltZb",
+        "site_full": "www.latestnigeriannews.com",
+        "site": "latestnigeriannews.com",
+        "site_section": "http://www.latestnigeriannews.com/feed/allnews/rss",
+        "site_categories": [
+          "news",
+          "education"
+        ],
+        "section_title": "Latest Nigerian News Headlines",
+        "title": "IBM launches Watson for Cybersecurity beta program involving 40 companies across indurstries like finance, healthcare, and more (Brian Barrett/Wired)",
+        "title_full": "IBM launches Watson for Cybersecurity beta program involving 40 companies across indurstries like finance, healthcare, and more (Brian Barrett/Wired)",
+        "published": "2016-12-07T11:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 36301,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "ff3fae07836e792774335bbfcc044f0352ec6dce",
+      "url": "http://omgili.com/ri/jHIAmI4hxg9mEfmTr4kCaN1lxvdM0H35iPJB1Kw0h1Y1jvjv08QzPEQIuAmMltZb",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-12-07T11:00:00.000+02:00",
+      "title": "IBM launches Watson for Cybersecurity beta program involving 40 companies across indurstries like finance, healthcare, and more (Brian Barrett/Wired)",
+      "text": "IBM launches Watson for Cybersecurity beta program involving 40 companies across indurstries like finance, healthcare, and more (Brian Barrett/Wired) Published by Techmeme on Wed, 07 Dec 2016 Brian Barrett / Wired:IBM launches Watson for Cybersecurity beta program involving 40 companies across indurstries like finance, healthcare, and moreYou may know Watson as IBM's Jeopardy-winning, cookbook-writing, dress-designing, weather-predicting supercomputer-of-all trades. Sahara Reporters Headlines Today [Wed-07-Dec-2016]",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "brian barrett/wired",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "watson",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "brian barrett",
+            "sentiment": "none"
+          },
+          {
+            "name": "techmeme",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "ibm",
+            "sentiment": "neutral"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-12-07T13:37:27.865+02:00"
+    }
+  ],
+  "totalResults": 11,
+  "moreResultsAvailable": 0,
+  "next": "/search?token=c6052904-f312-436b-a6d8-d915084ac866&format=json&ts=1481110647865&q=language%3A%28english%29+thread.country%3AUS+organization.neutral%3A%22IBM%22",
+  "requestsLeft": 1304
+}

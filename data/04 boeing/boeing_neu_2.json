@@ -1,0 +1,3350 @@
+{
+  "posts": [
+    {
+      "thread": {
+        "uuid": "c7a426fc010be0b6a0dfe09675112c8b52c5e52d",
+        "url": "http://omgili.com/ri/jHIAmI4hxg8bl4OSeA8z7x1zh9ZvHPyru_SWY5J_RUsYuaZuh4i12yTK8Y6.FtZC7wimVgHPsc2FTkr5snTTIoGLc_9ozhgZpJJBYWMu4PBU5rmJM1YxJhsTZd6m9L7Z66vLygOsZfHTSs0O9NL1ng--",
+        "site_full": "www.thegazette.com",
+        "site": "thegazette.com",
+        "site_section": "http://feeds.feedburner.com/~r/GazetteOnlineLocalNews/~6/1",
+        "site_categories": [
+          "news",
+          "education",
+          "business"
+        ],
+        "section_title": "Local News from TheGazette.com",
+        "title": "President-elect on Air Force One: ‘Cancel order!’",
+        "title_full": "President-elect on Air Force One: ‘Cancel order!’",
+        "published": "2016-12-07T06:19:18.528+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://www.thegazette.com/storyimage/GA/20161206/ARTICLE/161209768/AR/0/AR-161209768.jpg",
+        "performance_score": 0,
+        "domain_rank": 43377,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "c7a426fc010be0b6a0dfe09675112c8b52c5e52d",
+      "url": "http://omgili.com/ri/jHIAmI4hxg8bl4OSeA8z7x1zh9ZvHPyru_SWY5J_RUsYuaZuh4i12yTK8Y6.FtZC7wimVgHPsc2FTkr5snTTIoGLc_9ozhgZpJJBYWMu4PBU5rmJM1YxJhsTZd6m9L7Z66vLygOsZfHTSs0O9NL1ng--",
+      "ord_in_thread": 0,
+      "author": "Tribune Washington Bureau",
+      "published": "2016-12-07T06:19:18.528+02:00",
+      "title": "President-elect on Air Force One: ‘Cancel order!’",
+      "text": "President-elect on Air Force One: 'Cancel order!' Calls $4 billion Boeing contract intended to update '80s-era jumbo jets 'ridiculous' Video Photo U.S. President-elect Donald Trump speaks to members of the press at Trump Tower in Manhattan, New York City, U.S., December 6, 2016. REUTERS/Brendan McDermid U.S. President-elect Donald Trump speaks to members of the press at Trump Tower in Manhattan, New York City, U.S., December 6, 2016. REUTERS/Brendan McDermid Reuters Donald Trump, speaking Tuesday at Trump Towers, called Boeing’s Air Force One contract “ridiculous.” Tribune Washington Bureau Dec 6, 2016 at 8:14 pm | Print View \nWASHINGTON — President-elect Donald Trump took aim Tuesday at Air Force One, criticizing the cost of the iconic 747 jumbo jet that has served as the president’s flying White House. \nThe aircraft used by President Barack Obama, built by Chicago-based Boeing Co., have been in service since the Reagan administration and are due to reach the end of a 30-year design life in 2017. \nBoeing, which has built presidential jets since the early 1960s, has been doing early development work on the replacement likely to be outfitted with the latest in gadgetry, including top-secret communications equipment, countermeasures to spoil missile attacks, and aerial refueling capability so it can fly for days without landing. \nTrump would not fly in a new Air Force One unless re-elected; the replacement would not begin flying until at least 2021. Boeing has been given three contracts totaling $170 million to develop the aircraft, based on the new and larger version of the 747 dubbed the 747-8 Intercontinental. \n“Boeing is building a brand new 747 Air Force One for future presidents, but costs are out of control, more than $4 billion. Cancel order!” Trump tweeted. \nTrump has no power as president-elect to cancel procurements, but the Air Force has yet to issue a contract for the next-generation Air Force One, which will consist of two planes. Federal budget documents published in February estimate research, test and development costs on the program at $2.8 billion. The figure doesn’t include the costs of the two planes, however. When that is factored in, the price tag might be about $4 billion, U.S. officials said. \n“We are currently under contract for $170 million to help determine the capabilities of this complex military aircraft that serves the unique requirements of the president of the United States,” Boeing said Tuesday in a statement. \nTrump told reporters Tuesday morning the Air Force One program is “ridiculous.” \n“Boeing is doing a little bit of a number,” he said. “We want Boeing to make a lot of money but not that much money.” Your next Nation & World articles",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "reagan",
+            "sentiment": "none"
+          },
+          {
+            "name": "trump",
+            "sentiment": "none"
+          },
+          {
+            "name": "barack obama",
+            "sentiment": "none"
+          },
+          {
+            "name": "donald trump",
+            "sentiment": "none"
+          },
+          {
+            "name": "reuters/brendan mcdermid reuters donald trump",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "boeing",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "trump towers",
+            "sentiment": "none"
+          },
+          {
+            "name": "boeing co.",
+            "sentiment": "none"
+          },
+          {
+            "name": "white house",
+            "sentiment": "none"
+          },
+          {
+            "name": "air force",
+            "sentiment": "none"
+          },
+          {
+            "name": "tribune washington bureau dec",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "united states",
+            "sentiment": "none"
+          },
+          {
+            "name": "new york city",
+            "sentiment": "none"
+          },
+          {
+            "name": "manhattan",
+            "sentiment": "none"
+          },
+          {
+            "name": "u.s.",
+            "sentiment": "none"
+          },
+          {
+            "name": "trump tower",
+            "sentiment": "none"
+          },
+          {
+            "name": "washington",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-07T06:19:18.528+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "e19633ac50b245e6657cc8a0d8daad5a4705ac8a",
+        "url": "http://omgili.com/ri/.wHSUbtEfZTr0s_L4enTgmB3HodY92.fbOzCzS2bnKecBXDTPl1J_BIm59CDJXyyWytOq_lECJ..aSI_UmstjTru0rMAOLuJTSicBFHVT3Zd0NkzLpoqVP9OJ_cBoOwDSNgBLnRymrjVzq..x.S39A--",
+        "site_full": "www.thenigerianvoice.com",
+        "site": "thenigerianvoice.com",
+        "site_section": "http://rss.thenigerianvoice.com/twitterfeed.xml",
+        "site_categories": [
+          "news",
+          "education",
+          "business"
+        ],
+        "section_title": "The Nigerian Voice News",
+        "title": "Boeing responds after Trump knocks contract for Air Force One jets",
+        "title_full": "Boeing responds after Trump knocks contract for Air Force One jets",
+        "published": "2016-12-07T06:39:05.442+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://cdn.thenigerianvoice.com/images/content/127201624326_airforceone.jpg",
+        "performance_score": 0,
+        "domain_rank": 92628,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "e19633ac50b245e6657cc8a0d8daad5a4705ac8a",
+      "url": "http://omgili.com/ri/.wHSUbtEfZTr0s_L4enTgmB3HodY92.fbOzCzS2bnKecBXDTPl1J_BIm59CDJXyyWytOq_lECJ..aSI_UmstjTru0rMAOLuJTSicBFHVT3Zd0NkzLpoqVP9OJ_cBoOwDSNgBLnRymrjVzq..x.S39A--",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-12-07T06:39:05.442+02:00",
+      "title": "Boeing responds after Trump knocks contract for Air Force One jets",
+      "text": "Boeing responds after Trump knocks contract for Air Force One jets By The Rainbow Previous | Next \nDonald Trump declared Tuesday morning that the Air Force should cancel its contract with Boeing to build two new presidential airplanes, asserting that the agreement had a $4 billion price tag. \n“Boeing is building a brand new 747 Air Force One for future presidents, but costs are out of control, more than $4 billion. Cancel order!” the president-elect tweeted. \nIt's not clear how Trump, who frequently tweets exaggerated or baseless claims, arrived at that number. Reuters, citing budget documents, reported that the “budgeted costs for the Air Force One replacement program are $2.87 billion for the fiscal years 2015 through 2021.” \nThe aircraft manufacturing company issued a statement clarifying that it is currently under contract for $170 million to determine the capabilities of the new aircraft. \n“We are currently under contract for $170 million to help determine the capabilities of these complex military aircraft that serve the unique requirements of the President of the United States. We look forward to working with the U.S. Air Force on subsequent phases of the program allowing us to deliver the best planes for the President at the best value for the American taxpayer.” \nThis preliminary process is expected to determine the ultimate cost that the forthcoming Air Force One aircraft will cost taxpayers. \n“Well, the plane is totally out of control,” Trump told reporters in Trump Tower. “It's going to be over $4 billion for the Air Force One program. And I think it's ridiculous. I think Boeing is doing a little bit of a number. We want Boeing to make a lot of money, but not that much money.” \nAn Air Force One aircraft at Joint Base Andrews near Washington, D.C. (Photo: Kevin Lamarque/Reuters) \nJason Miller, Trump's communications director, further told reporters that Trump's tweet “really speaks to the president-elect's focus on keeping costs down across the board with regard to government spending.” \nHe continued: “I think people are really frustrated with some of the big price tags that are coming out for programs even in addition to this one. So we're going to look for areas where we can keep costs down and look for ways where we can save money.” \nThe full details of the new contract have not yet been released, but some of the costs can be attributed to the high-end security and communications demands of a roaming commander in chief. \nA president needs the ability to travel anywhere on the planet quickly and with little notice. The aircraft has unlimited range because it is capable of refueling while airborne. The jet can function as a mobile command center if the U.S. is under attack. It contains sophisticated, secure communications equipment and onboard electronics that can protect against electromagnetic pulses. \nThe term “Air Force One” can be used to describe any aircraft carrying the president, but since the mid-20th century, it became associated with jets specifically equipped for the president. Now the term refers to one of two modified Boeing 747-200B series aircraft. \n“We have many decades of productive relationships with presidential administrations from both political parties and I would expect that we will reach the same point with the Trump administration,” Todd Blecher, a spokesman for Boeing, told Yahoo News. \nAboard Air Force One, White House press secretary Josh Earnest said there are unique technical requirements for the project to ensure that future presidents have upgraded capabilities while representing the United States abroad. \nAs for Trump's tweet, Earnest said, “I'd refer to my colleagues at the Department of Defense for the particulars of the procurement contract. Some on the statistics that have been, uh, cited, shall we say, don't appear to reflect the nature of the financial agreement between Boeing and the Department of Defense,” according to a pool report. \nHe said that the current Air Force One is “nearing the end of its projected life” and that future presidents should have a “modern presidential aircraft.” \nA profile on the White House's website says Air Force One is operated by the Presidential Airlift Group, founded during the administration of Franklin Roosevelt in 1944. The group is part of the White House Military Office. \n“Air Force One is one of the most recognizable symbols of the presidency, spawning countless references not just in American culture but across the world,” the website reads. “Emblazoned with the words 'United States of America,' the American flag, and the Seal of the President of the United States, it is an undeniable presence wherever it flies.” \nKevin W. Buckley, an executive officer at the Air Force Life Cycle Management Center at Wright-Patterson in Ohio, told the Dayton Daily News that it's become harder to keep Air Force One airborne now that the aircraft are reaching to end of their 30-year life expectancies. \n“The real challenge, and the challenge that is forcing us to buy newer aircraft for the president, is to overcome the fact that there are heroics going on every day to keep the current aircraft flying and it's becoming way too expensive and way too difficult to do that,” he said to the paper. \nAccording to the Associated Press, the new Air Force One planes would go into use around 2024, so Trump would not use them to travel around the world unless he won a second term. \nDonald Trump arrives in the lobby of Trump Tower in New York to speak to members of the media, Dec. 6, 2016. (Photo: Andrew Harnik/AP) \nTrump does have plenty of familiarity with Boeing's products. While campaigning, he crisscrossed the country in a private Boeing 757 with his last name emblazoned on the sides. As with all things bearing his name, Trump has praised his private jet as being the best of its kind. \nThe Trump Organization released a video gushing about the plane's Rolls Royce engine, 24-carat gold-plated seat belts and luxury amenities. \nBack in January 2013, Trump tweeted that he was buying stock in Boeing after it had gone “way down.” At the time, the Boeing 787 Dreamliner's lithium batteries were a widely reported problem. \n[email protected] stock went way down because of 787 — so I just bought stock in @Boeing — great company!” he wrote. \nHis comments Tuesday seemed to have knocked that stock price down some, but his net worth apparently won't be affected. “The president-elect sold all of his stock back in June,” Miller, Trump's spokesman, told Yahoo News on a conference call with reporters. \nAdditional reporting by Hunter Walker.",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "trump",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "kevin w. buckley",
+            "sentiment": "none"
+          },
+          {
+            "name": "kevin lamarque/reuters",
+            "sentiment": "none"
+          },
+          {
+            "name": "todd blecher",
+            "sentiment": "none"
+          },
+          {
+            "name": "donald trump",
+            "sentiment": "none"
+          },
+          {
+            "name": "franklin roosevelt",
+            "sentiment": "none"
+          },
+          {
+            "name": "josh earnest",
+            "sentiment": "none"
+          },
+          {
+            "name": "hunter walker",
+            "sentiment": "none"
+          },
+          {
+            "name": "miller",
+            "sentiment": "none"
+          },
+          {
+            "name": "jason miller",
+            "sentiment": "none"
+          },
+          {
+            "name": "andrew harnik/ap",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "boeing",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "trump organization",
+            "sentiment": "none"
+          },
+          {
+            "name": "white house military office",
+            "sentiment": "none"
+          },
+          {
+            "name": "trump",
+            "sentiment": "none"
+          },
+          {
+            "name": "reuters",
+            "sentiment": "none"
+          },
+          {
+            "name": "presidential airlift group",
+            "sentiment": "none"
+          },
+          {
+            "name": "dayton daily news",
+            "sentiment": "none"
+          },
+          {
+            "name": "department of defense",
+            "sentiment": "none"
+          },
+          {
+            "name": "u.s. air force",
+            "sentiment": "none"
+          },
+          {
+            "name": "associated press",
+            "sentiment": "none"
+          },
+          {
+            "name": "air force life cycle management center",
+            "sentiment": "none"
+          },
+          {
+            "name": "white house",
+            "sentiment": "none"
+          },
+          {
+            "name": "air force",
+            "sentiment": "none"
+          },
+          {
+            "name": "yahoo news",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "united states",
+            "sentiment": "none"
+          },
+          {
+            "name": "new york",
+            "sentiment": "none"
+          },
+          {
+            "name": "u.s.",
+            "sentiment": "none"
+          },
+          {
+            "name": "washington",
+            "sentiment": "none"
+          },
+          {
+            "name": "trump tower",
+            "sentiment": "none"
+          },
+          {
+            "name": "earnest",
+            "sentiment": "none"
+          },
+          {
+            "name": "white house",
+            "sentiment": "none"
+          },
+          {
+            "name": "united states of america",
+            "sentiment": "none"
+          },
+          {
+            "name": "wright-patterson",
+            "sentiment": "none"
+          },
+          {
+            "name": "d.c.",
+            "sentiment": "none"
+          },
+          {
+            "name": "ohio",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-07T06:39:05.442+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "18254ff38652971f897c1257f0e8b9d994d6c4d1",
+        "url": "http://omgili.com/ri/snFTpiOKdJX_Q.Hl4wZ3hP2nZo8dvp7hnjxfgg93aGXMe1Gpo2olc4Z7ntaJzCF4Mtn0ql2xXHHvTD6HADlyeJROVQj7BMZ_3gtGyqiNISlXurSCLEGRvDCvtt9n0ZRTUCdmZ724TP4-",
+        "site_full": "nymag.com",
+        "site": "nymag.com",
+        "site_section": "http://nymag.com/",
+        "site_categories": [
+          "news",
+          "entertainment"
+        ],
+        "section_title": "NYMag - Politics, Entertainment, Fashion, Restaurants &amp; NY",
+        "title": "Trump Tries Out His Strongman Act on Another Company",
+        "title_full": "Trump Tries Out His Strongman Act on Another Company",
+        "published": "2016-12-07T00:59:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://pixel.nymag.com/imgs/daily/intelligencer/2016/12/06/06-donald-trump-plane.w1200.h630.1x.jpg",
+        "performance_score": 0,
+        "domain_rank": 1627,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "18254ff38652971f897c1257f0e8b9d994d6c4d1",
+      "url": "http://omgili.com/ri/snFTpiOKdJX_Q.Hl4wZ3hP2nZo8dvp7hnjxfgg93aGXMe1Gpo2olc4Z7ntaJzCF4Mtn0ql2xXHHvTD6HADlyeJROVQj7BMZ_3gtGyqiNISlXurSCLEGRvDCvtt9n0ZRTUCdmZ724TP4-",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-12-07T00:59:00.000+02:00",
+      "title": "Trump Tries Out His Strongman Act on Another Company",
+      "text": "Maybe Trump just wants to keep flying around in his own branded plane. Otherwise the Boeing announcement sets another bad precedent. Photo: Joe Raedle/Getty Images When Donald Trump announced that he intended to cancel a contract with Boeing to build a new Air Force One, this startling action went well beyond the precedent he set with his earlier intervention in a relocation decision by the Carrier Corporation. The Carrier case was something he talked (and made promises) about on the campaign trail, and involved one of his signature issues, corporate outsourcing of jobs to Mexico as the alleged result of the satanic NAFTA agreement. It also involved inducements from a state government currently headed by the vice-president-elect.\nThe Boeing case is very different. The most charitable interpretation is that Trump was making tangible his apparent determination to reduce waste, fraud, and abuse in federal government operations. More likely it was an impulsive decision — it came minutes after the Chicago Tribune ran a piece about the company’s opposition to Trump’s China policies. And for all we know, Trump has simply decided he’d prefer to keep flying around in a plane with TRUMP emblazoned on the aircraft’s body instead of THE UNITED STATES OF AMERICA.\nBut any way you slice it, the incident is the second decision Trump has announced as president-elect affecting an individual company. It is probably going to escalate after January 20 when he assumes vast powers to make or break those companies who are affected by federal policies or contracts — basically all of them . While no president has done anything like this before, it is certainly congruent with the strongman persona Trump advertised during the campaign as central to his economic strategy and his foreign policy. And aside from the impact on the businesses he is singling out for censure or praise, this practice sends an unmistakable message to companies large and small that at any moment, they, too, could be on the receiving end of a thunderbolt from Washington.\nYes, presidents have in the past on occasion tried to persuade companies (usually large, economy-straddling companies) to do things they deemed important to public policy, like avoiding a crippling strike in a basic industry . It was called “jawboning.” Trump’s approach is more like jaw -breaking . He really should cut it out.\nTags: donald trump boeing private companies jaw-boning carrier Top Stories Poll: Republicans Are Now More Anti–Free Market Than Democrats Bob Dole Has Lobbied Trump on Taiwan’s Behalf for Months Louisiana Man Who Shot Ex-NFL Player Is Charged With Manslaughter Most Viewed Stories The Post-Trump Haircut The 10 Best Movies of 2016 — and 6 More Time to Go Home, Michelle Obama Already Wore the Best Holiday Look of the Year The 10 Best TV Shows of 2016 James Marsden Is One of the Best Actors of His Generation. Why Hasn’t Hollywood Noticed? Westworld Creators Reveal Whether Maeve Is in Control When She Gets Off the Train Life After Zika Susie Bubble’s Missing Boyfriend Has Been Found Donald Trump Shoots Down Boeing’s Stock Price Tom Ford Maintains His Position That All Men Should Get Penetrated at Least Once Most Watched on Daily Intelligencer Latest News from Daily Intelligencer Yesterday at 6:50 p.m. Poll: Republicans Are Now More Anti–Free Market Than Democrats YouGov finds that 57 percent of Republicans believe that the “free market” has been failing the United States — only 33 percent of Democrats agree.\nYesterday at 6:21 p.m. Bob Dole Has Lobbied Trump on Taiwan’s Behalf for Months The former senator was paid $20,000 a month to get Trump to cozy up to Taiwan.\nYesterday at 5:59 p.m. Louisiana Man Who Shot Ex-NFL Player Is Charged With Manslaughter Officials defended the decision to delay charging the suspect with Joe McKnight’s death.\nYesterday at 4:59 p.m. Trump Tries Out His Strongman Act on Another Private Company He’s called out Boeing on bad information and pushed Carrier into a deal. Is this the new normal?\nYesterday at 4:25 p.m. This Week’s Ludicrous House Vote to Impeach the IRS Commissioner He’s on his way out in a matter of weeks anyway.\nYesterday at 4:20 p.m. Brokers Pitch Secret Service As Hottest Trump Tower Amenity Gym, roof deck, doorman, and 24/7 armed security.\nYesterday at 3:25 p.m. Everybody Hates Chris Christie Th New Jersey governor has the lowest rating ever in a Quinnipiac University poll.\nYesterday at 2:01 p.m. The Gerontocracy of Democratic Party Leadership Joe Biden in 2020? Not all that crazy when you look at the age of other leaders.\nYesterday at 12:44 p.m. Turns Out Ben Carson Never Lived in Public Housing Supporters had cited that as a reason he would be a good HUD Secretary.\nYesterday at 12:16 p.m. Donald Trump Shoots Down Boeing’s Stock Price Trump cancels an “order” of new 747 Air Force One planes over Twitter, and one of the largest companies on the Dow sees its share price slide.\nYesterday at 11:55 a.m. This Company Is Transforming Vacant Land Within Slums Into Soccer Fields VIDEO: The odd-shaped pitches help reduce crime and make more space for children to play.\nYesterday at 11:31 a.m. Michael Flynn’s Conspiracy-Loving Son Is Out of Trump Transition Flynn Jr. has tweeted about Pizzagate and is a proud InfoWars supporter.\nYesterday at 11:09 a.m. Muslim MTA Worker Pushed Down the Stairs at Subway Station Hate-crime reports since Election Day are up 115 percent.\nYesterday at 10:45 a.m. Trump’s Carrier Deal Is a Hit With Voters Trump’s deal to keep a Carrier plant in Indiana is deeply popular. The president-elect, however, remains anything but.\nYesterday at 8:46 a.m. Paul Ryan Wants to Give Tax Breaks to Small Businessmen Like Donald Trump Tax cuts for the rich? Of course not! Why would you even say that?\nYesterday at 8:10 a.m. Trump’s America Could Be Like Alabama With Nukes More and more, the new administration seems to be taking on a southern-fried reactionary character.\nYesterday at 5:49 a.m. Congressional Republicans Claim They’ll Start Standing Up to Trump The GOP Establishment says they won’t start a trade war, regardless of what the president-elect tweets.\nYesterday at 2:23 a.m. The Pentagon Reportedly Wasted $125 Billion, Then Hid the Evidence An internally commissioned report found that the Defense Department could save billions without layoffs, but the Pentagon opted not to alert Congress.\nYesterday at 1:38 a.m. LeBron James, Cleveland Cavaliers Teammates Refuse to Stay in Trump Hotels The team will find alternate accommodations for players who are boycotting the Trump Soho this week.\nYesterday at 12:17 a.m. 36 Confirmed Dead in Oakland Inferno As D.A. Mulls Criminal Charges The fire was among the most deadly in California’s modern history.",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [
+        "http://www.vulture.com/2016/12/tom-ford-still-pro-penetration-for-all-men.html",
+        "http://www.facebook.com/sharer/sharer.php?u=http://nymag.com/daily/intelligencer/2016/12/trump-tries-out-his-strongman-act-on-another-company.html%3Fmid%3Dfb-share-di",
+        "https://twitter.com/share?text=Trump%20Tries%20Out%20His%20Strongman%20Act%20on%20Another%20Private%20Company&url=http://nymag.com/daily/intelligencer/2016/12/trump-tries-out-his-strongman-act-on-another-company.html%3Fmid%3Dtwitter-share-di&via=intelligencer",
+        "http://www.vulture.com/2016/12/james-marsden-is-one-of-the-best-actors-of-his-generation.html",
+        "http://www.vulture.com/2016/12/maeve-westworld-decision.html",
+        "http://www.vulture.com/2016/12/10-best-tv-shows-of-2016.html",
+        "http://www.forbes.com/forbes/welcome/?toURL=http%3A%2F%2Fwww.forbes.com%2Fsites%2Feriksherman%2F2016%2F12%2F04%2Ftrumps-carrier-deal-means-nothing-for-future-jobs%2F&refURL=https%3A%2F%2Fwww.google.com%2F&referrer=https%3A%2F%2Fwww.google.com%2F",
+        "http://www.vulture.com/2016/12/10-best-movies-of-2016-and-6-more.html",
+        "http://www.chicagotribune.com/business/columnists/ct-boeing-china-trump-robert-reed-1206-biz-20161205-column.html",
+        "http://stock-chartist.com/2010/01/jawboning-didnt-work-in-1962-it-doesnt/"
+      ],
+      "entities": {
+        "persons": [
+          {
+            "name": "trump",
+            "sentiment": "negative"
+          },
+          {
+            "name": "joe biden",
+            "sentiment": "none"
+          },
+          {
+            "name": "donald trump",
+            "sentiment": "none"
+          },
+          {
+            "name": "joe mcknight",
+            "sentiment": "none"
+          },
+          {
+            "name": "michael flynn",
+            "sentiment": "none"
+          },
+          {
+            "name": "joe",
+            "sentiment": "none"
+          },
+          {
+            "name": "michelle obama",
+            "sentiment": "none"
+          },
+          {
+            "name": "zika susie bubble",
+            "sentiment": "none"
+          },
+          {
+            "name": "bob dole has lobbied trump",
+            "sentiment": "none"
+          },
+          {
+            "name": "james marsden",
+            "sentiment": "none"
+          },
+          {
+            "name": "lebron james",
+            "sentiment": "none"
+          },
+          {
+            "name": "yougov",
+            "sentiment": "none"
+          },
+          {
+            "name": "paul ryan",
+            "sentiment": "none"
+          },
+          {
+            "name": "chris christie",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "another company maybe trump",
+            "sentiment": "negative"
+          },
+          {
+            "name": "boeing",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "trump soho",
+            "sentiment": "none"
+          },
+          {
+            "name": "quinnipiac university",
+            "sentiment": "none"
+          },
+          {
+            "name": "ludicrous house vote to impeach the irs",
+            "sentiment": "none"
+          },
+          {
+            "name": "trump",
+            "sentiment": "none"
+          },
+          {
+            "name": "congress",
+            "sentiment": "none"
+          },
+          {
+            "name": "cleveland cavaliers teammates refuse",
+            "sentiment": "none"
+          },
+          {
+            "name": "stock price tom ford",
+            "sentiment": "none"
+          },
+          {
+            "name": "pentagon",
+            "sentiment": "none"
+          },
+          {
+            "name": "trump transition flynn jr.",
+            "sentiment": "none"
+          },
+          {
+            "name": "dow",
+            "sentiment": "none"
+          },
+          {
+            "name": "trump",
+            "sentiment": "none"
+          },
+          {
+            "name": "trump hotels",
+            "sentiment": "none"
+          },
+          {
+            "name": "gop",
+            "sentiment": "none"
+          },
+          {
+            "name": "chicago tribune",
+            "sentiment": "none"
+          },
+          {
+            "name": "ben carson never lived in public housing supporters",
+            "sentiment": "none"
+          },
+          {
+            "name": "hud",
+            "sentiment": "none"
+          },
+          {
+            "name": "carrier corporation",
+            "sentiment": "none"
+          },
+          {
+            "name": "muslim mta",
+            "sentiment": "none"
+          },
+          {
+            "name": "nafta",
+            "sentiment": "none"
+          },
+          {
+            "name": "stock price trump",
+            "sentiment": "none"
+          },
+          {
+            "name": "confirmed dead",
+            "sentiment": "none"
+          },
+          {
+            "name": "defense department",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "california",
+            "sentiment": "none"
+          },
+          {
+            "name": "united states",
+            "sentiment": "none"
+          },
+          {
+            "name": "america",
+            "sentiment": "none"
+          },
+          {
+            "name": "taiwan",
+            "sentiment": "none"
+          },
+          {
+            "name": "washington",
+            "sentiment": "none"
+          },
+          {
+            "name": "mexico",
+            "sentiment": "none"
+          },
+          {
+            "name": "indiana",
+            "sentiment": "none"
+          },
+          {
+            "name": "oakland",
+            "sentiment": "none"
+          },
+          {
+            "name": "new jersey",
+            "sentiment": "none"
+          },
+          {
+            "name": "louisiana",
+            "sentiment": "none"
+          },
+          {
+            "name": "hollywood noticed",
+            "sentiment": "none"
+          },
+          {
+            "name": "china",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-07T07:44:55.581+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "cf15d5a8eeca4a7c7242e97f71348daed0eb876c",
+        "url": "http://omgili.com/ri/.0rSU5LtMgzBd3NfuGFlhxFFynOAGzB516ZVzW_XZAE0goHFsTleFodCRi7sL3njJSL.6TbbNNGWfh6iJN8maDSiWV0jefvxYvyKnQgbYVjFeBysXnGnzpZMo5UFnPYU",
+        "site_full": "fox13now.com",
+        "site": "fox13now.com",
+        "site_section": "",
+        "site_categories": [
+          "news"
+        ],
+        "section_title": "",
+        "title": "Trump wants to cancel $4 billion Air Force One order from Boeing | fox13now.com",
+        "title_full": "Trump wants to cancel $4 billion Air Force One order from Boeing | fox13now.com",
+        "published": "2016-12-07T00:08:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.065,
+        "main_image": "https://localtvkstu.files.wordpress.com/2016/11/trump1-1.jpg?quality=85&amp;strip=all",
+        "performance_score": 0,
+        "domain_rank": 20685,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "cf15d5a8eeca4a7c7242e97f71348daed0eb876c",
+      "url": "http://omgili.com/ri/.0rSU5LtMgzBd3NfuGFlhxFFynOAGzB516ZVzW_XZAE0goHFsTleFodCRi7sL3njJSL.6TbbNNGWfh6iJN8maDSiWV0jefvxYvyKnQgbYVjFeBysXnGnzpZMo5UFnPYU",
+      "ord_in_thread": 0,
+      "author": "Cnn Wire",
+      "published": "2016-12-07T00:08:00.000+02:00",
+      "title": "Trump wants to cancel $4 billion Air Force One order from Boeing | fox13now.com",
+      "text": "Trump wants to cancel $4 billion Air Force One order from Boeing By Chris Isidore and Jon Ostrower \nNEW YORK — Donald Trump wants to cancel a government order for a new Air Force One. \nThe president-elect said in a tweet early Tuesday that the new Boeing 747 jet that’s being built to carry “future presidents” already costs more than $4 billion, and that he wants to cancel the order. \n“Boeing is building a brand new 747 Air Force One for future presidents, but costs are out of control, more than $4 billion. Cancel order!” \nAsked by reporters Tuesday morning about the tweet, he responded, “Well the plane is totally out of control. It’s going to be over $4 billion for [the] Air Force One program,” he said. “And I think it’s ridiculous. I think Boeing is doing a little bit of a number. We want Boeing to make a lot of money, but not that much money.” \nSo far the Air Force has allocated $2.9 billion through 2021 for two new Air Force Ones, which will replace the current fleet. The new planes aren’t expected to be ready to fly until 2022. The Air Force has already spent about $93 million preparing to build the new jets. \nThe Air Force has yet to place a formal order for the planes. It has chosen the latest version of Boeing’s jumbo jet, the 747-8, as the platform for the new Air Force One planes. Building the basic planes would take about two years. Then modifications to protect the aircraft from attack, install VIP accommodations and allow it to be refueled mid-flight would delay the delivery two more years. \nBoeing builds the 747 at its factories in Washington state, and it currently has a large back order for its commercial jets, especially the 787 Dreamliner. And airlines regularly cancel orders for planes, although it would be a loss of both prestige and revenue should the Air Force drop plans to build two new Air Force Ones. \nThe 747-8 has a longer range, can travel faster with a heavier maximum takeoff weight and it gets better fuel economy than the 747-200 that’s used for the current Air Force Ones. \nBoeing, which is the nation’s largest exporter, has built the plane used by every president since Franklin Roosevelt. It did not immediately respond to a request for comment. Recently retired Boeing CEO Jim McNerney was named just last week to an all-star team of corporate executives who will advise Trump on jobs and the economy. Shares of Boeing were slightly lower after Trump’s comment. \n— CNN’s Kevin Liptak contributed to this story ",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "jon ostrower",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "chris isidore",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "trump",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "kevin liptak",
+            "sentiment": "none"
+          },
+          {
+            "name": "jim mcnerney",
+            "sentiment": "none"
+          },
+          {
+            "name": "donald trump",
+            "sentiment": "none"
+          },
+          {
+            "name": "franklin roosevelt",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "boeing",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "air force one",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "trump",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "air force ones",
+            "sentiment": "none"
+          },
+          {
+            "name": "air force",
+            "sentiment": "none"
+          },
+          {
+            "name": "cnn",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "washington",
+            "sentiment": "none"
+          },
+          {
+            "name": "new york",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-07T08:01:05.825+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "751428eac1d16e086c29bbe00666c30797903b30",
+        "url": "http://omgili.com/ri/jHIAmI4hxg_ZHKzoTUfwwtY6m_Rdu7ecKiBIkYvzTQBrj64SblnWWTOVVOV851AbtKEoZYgkzjyLngKkwZ8T3W4G68mZvLwIIKodYvszvkrF_nbTYAuBX0GNN.wqY31rnSqIi2BGR4GlRfgvnpbz3X_hZB85pOrl6wh3TU8xR7rp9e96WqsgrbY1qHLfPU10MRsY9ZCu3UYechucBmbHnpX_1iNoPQLdrpISIYo5GxrWKXHqI2G9_w--",
+        "site_full": "www.barenakedislam.com",
+        "site": "barenakedislam.com",
+        "site_section": "http://www.barenakedislam.com/feed/",
+        "site_categories": [
+          "blogs"
+        ],
+        "section_title": "BARE NAKED ISLAM",
+        "title": "Was Donald Trump sending a message to Boeing about something else when he complained about the $4 billion cost for the new Air Force One?",
+        "title_full": "Was Donald Trump sending a message to Boeing about something else when he complained about the $4 billion cost for the new Air Force One?",
+        "published": "2016-12-07T08:14:15.750+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "https://s0.wp.com/i/blank.jpg",
+        "performance_score": 0,
+        "domain_rank": 61606,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "751428eac1d16e086c29bbe00666c30797903b30",
+      "url": "http://omgili.com/ri/jHIAmI4hxg_ZHKzoTUfwwtY6m_Rdu7ecKiBIkYvzTQBrj64SblnWWTOVVOV851AbtKEoZYgkzjyLngKkwZ8T3W4G68mZvLwIIKodYvszvkrF_nbTYAuBX0GNN.wqY31rnSqIi2BGR4GlRfgvnpbz3X_hZB85pOrl6wh3TU8xR7rp9e96WqsgrbY1qHLfPU10MRsY9ZCu3UYechucBmbHnpX_1iNoPQLdrpISIYo5GxrWKXHqI2G9_w--",
+      "ord_in_thread": 0,
+      "author": "BareNakedIslam",
+      "published": "2016-12-07T08:14:15.750+02:00",
+      "title": "Was Donald Trump sending a message to Boeing about something else when he complained about the $4 billion cost for the new Air Force One?",
+      "text": "Notify me of follow-up comments by email. Notify me of new posts by email. PLEASE DONATE TO KEEP BARE NAKED ISLAM UP AND RUNNING. Choose DONATE for one-time donation or SUBSCRIBE for monthly donations Payment Options GET ALL NEW BNI POSTS/LINKS ON TWITTER Subscribe to Blog via Email \nEnter your email address to subscribe to this blog and receive notifications of new posts by email. Email Address",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "donald trump",
+            "sentiment": "neutral"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "boeing",
+            "sentiment": "neutral"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-12-07T08:14:15.750+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "c3e3fab315f82c3da6f29153c962c00afc5ffefd",
+        "url": "http://omgili.com/ri/jHIAmI4hxg_ScoimW67Wq3Y6B6xTnsVzVh5oI_Af6JZ6tLz1Xdv8tXZqAxWW_.Q48owBGzT77KhmUYMh79GHvm0WKsRYgjQLTlhzhOnGAQt9JN2jLRg.tLlveVFb7q6lK3DHGo_jYrU-",
+        "site_full": "www.chicagobusiness.com",
+        "site": "chicagobusiness.com",
+        "site_section": "http://www.chicagobusiness.com/newsFeed.xml",
+        "site_categories": [
+          "news",
+          "business"
+        ],
+        "section_title": "Chicago Business News",
+        "title": "Trump tweets at Boeing: 'Cancel order!'",
+        "title_full": "Trump tweets at Boeing: 'Cancel order!'",
+        "published": "2016-12-06T20:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://www.chicagobusiness.com/apps/pbcsi.dll/storyimage/CG/20161206/NEWS07/161209919/AR/0/donald-trump.jpg",
+        "performance_score": 0,
+        "domain_rank": 26805,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "c3e3fab315f82c3da6f29153c962c00afc5ffefd",
+      "url": "http://omgili.com/ri/jHIAmI4hxg_ScoimW67Wq3Y6B6xTnsVzVh5oI_Af6JZ6tLz1Xdv8tXZqAxWW_.Q48owBGzT77KhmUYMh79GHvm0WKsRYgjQLTlhzhOnGAQt9JN2jLRg.tLlveVFb7q6lK3DHGo_jYrU-",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-12-06T20:00:00.000+02:00",
+      "title": "Trump tweets at Boeing: 'Cancel order!'",
+      "text": "December 06, 2016 Trump tweets at Boeing: 'Cancel order!' \n(Bloomberg)—President-elect Donald Trump said the latest Air Force One order should be canceled because of “ridiculous” costs at Boeing Co., taking aim at plans to replace jets that are among the most visible symbols of the American presidency.“Boeing is building a brand new 747 Air Force One for future presidents, but costs are out of control, more than $4 billion,” Trump said Tuesday on Twitter. “Cancel order!”...",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "donald trump",
+            "sentiment": "negative"
+          },
+          {
+            "name": "trump",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "bloomberg",
+            "sentiment": "negative"
+          },
+          {
+            "name": "boeing",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "boeing co.",
+            "sentiment": "none"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-12-07T08:29:29.797+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "edae87262b77aed90b7902f3871ef83cbb09db6c",
+        "url": "http://omgili.com/ri/.wHSUbtEfZSi7P9p.Yd2gIEy6Kt0imPX_T.llM_7EgzmNOQS4XE_F_Xfu6As7dY3tkEiXB02U_GrEs2G9hh2dOT65C7Zz.FZA0ztO2GZV0SjSBt9OacBA8c9s1MfOg_QwqGj81BhxV8UsAfgRGPb0pEre9MM134vP.v091sBa5A-",
+        "site_full": "www.abqjournal.com",
+        "site": "abqjournal.com",
+        "site_section": "https://www.abqjournal.com/category/biz/real-estate/feed",
+        "site_categories": [
+          "education"
+        ],
+        "section_title": "Albuquerque Journal | New Mexico and ABQ News, Sports, Business and more",
+        "title": "Citing high costs, Trump wants Boeing contract to build new Air Force One canceled",
+        "title_full": "Citing high costs, Trump wants Boeing contract to build new Air Force One canceled | Albuquerque Journal",
+        "published": "2016-12-07T08:05:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "https://d3el53au0d7w62.cloudfront.net/wp-content/uploads/2016/12/07/Obama.jpg",
+        "performance_score": 0,
+        "domain_rank": 31237,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "edae87262b77aed90b7902f3871ef83cbb09db6c",
+      "url": "http://omgili.com/ri/.wHSUbtEfZSi7P9p.Yd2gIEy6Kt0imPX_T.llM_7EgzmNOQS4XE_F_Xfu6As7dY3tkEiXB02U_GrEs2G9hh2dOT65C7Zz.FZA0ztO2GZV0SjSBt9OacBA8c9s1MfOg_QwqGj81BhxV8UsAfgRGPb0pEre9MM134vP.v091sBa5A-",
+      "ord_in_thread": 0,
+      "author": "W.J. Hennigan / Tribune Washington Bureau (TNS)",
+      "published": "2016-12-07T08:05:00.000+02:00",
+      "title": "Citing high costs, Trump wants Boeing contract to build new Air Force One canceled",
+      "text": "Air Force One is seen on a rain-soaked tarmac in Andrews Air Force Base, Md., on Tuesday after President Barack Obama returned form MacDill Air Force Base in Tampa, Fla. (AP Photo/Carolyn Kaster)\nWASHINGTON — President-elect Donald Trump took aim at Air Force One on Tuesday, criticizing the cost of the 747 jumbo jet that has served as the president’s flying White House and projected America’s might wherever it lands.\nThe aircraft used by President Barack Obama, built by Chicago-based Boeing Co., have been in service since the Reagan administration and are due to reach the end of a 30-year design life in 2017.\nBoeing, which has built presidential jets since the early 1960s, has been doing early development work on the replacement likely to be outfitted with the latest in gadgetry, including top-secret communications equipment, countermeasures to spoil missile attacks and aerial refueling capability so it can fly for days without landing.\nTrump would not get a chance to fly in a new Air Force One unless he is re-elected; the replacement isn’t slated to begin flying until 2024 at the earliest. So far, Boeing has been given three contracts amounting to $170 million to develop the aircraft, which is based on the new and larger version of the 747 dubbed the 747-8 Intercontinental.\n“Boeing is building a brand new 747 Air Force One for future presidents, but costs are out of control, more than $4 billion. Cancel order!” Trump tweeted.\nTrump told reporters in the lobby of Trump Tower in New York on Tuesday that he thought the Air Force One program was “ridiculous.”\n“Boeing is doing a little bit of a number,” he said. “We want Boeing to make a lot of money — but not that much money.”\nAs president-elect, Trump has no power to cancel procurements, but the Air Force has yet to issue a contract for the next-generation Air Force One, which will include at least two planes.\nFederal budget documents published in February estimated research, test and development costs on the program to be around $2.87 billion through fiscal year 2021. The figure doesn’t include the costs of new planes, however. When that is factored in, the price tag may be around $4 billion, U.S. officials said.\n“We are currently under contract for $170 million to help determine the capabilities of this complex military aircraft that serves the unique requirements of the president of the United States,” Boeing said Tuesday in a statement.\n“We look forward to working with the U.S. Air Force on subsequent phases of the program allowing us to deliver the best plane for the president at the best value for the American taxpayer.”\nIt is rare for a president-elect to publicly call out a company by name because of the chilling effect it might have, and it wasn’t clear what prompted Trump’s complaint. Boeing’s shares were down $2 in early trading after Trump’s tweet, but recovered throughout the day, closing up 8 cents, or 0.05 percent, to $152.24.\nThe latest episode raised questions about Trump’s potential conflicts in light of his undisclosed financial holdings, and whether he held Boeing stock at the time of the tweet. Trump sold all his Boeing stock in June, transition spokesman Jason Miller insisted, though no documentation was made public.\n“This really speaks to the president-elect’s focus on keeping spending down across the board,” Miller told reporters. “We are going to look for areas where we can keep costs down and look for areas where we are going to try to save money.”\nWhite House spokesman Josh Earnest told reporters traveling on Air Force One that the plane was “nearing the end of its projected life” and the Obama administration wanted to ensure that future presidents would have a “modern presidential aircraft.”\n“The American people would expect that future U.S. presidents would benefit from unique and upgraded capabilities while they are traveling and representing the interests of the United States around the world,” he said, adding that the Pentagon and Boeing were acting on recommendations from national security and technical experts.\nWith worldwide demand steadily shrinking, Boeing has repeatedly slowed the 747 production rate to one per month. The company said this year that if new orders didn’t roll in, it was “reasonably possible that we could decide to end production of the 747.”\nIn its heyday, Boeing was producing 60 jumbo jets a year, with many of the components coming from Southern California.\nBoeing has several hundred suppliers in the U.S. supporting the 747 program. One of the largest is Triumph Aerostructures, which assembles the 747’s center fuselage panels in Hawthorne.\nTriumph ships fuselage panels and sends them in three custom railroad cars to Boeing’s assembly plant in Everett, Wash.\nRep. Rick Larsen and Sens. Patty Murray and Maria Cantwell, all Democrats from Washington state, defended Boeing, the largest exporter in the U.S. with customers in 150 countries.\n“Replacing the 26-year-old Air Force One aircraft will support good-paying jobs throughout northwest Washington and is important to ensuring the safety and security of future presidents,” they said in a statement. “The president-elect’s tweet does nothing to change those basic facts.”\nThe only other large commercial aircraft manufacturer is Airbus Group SE, which is based in Leiden, Netherlands.",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [
+        "https://d3el53au0d7w62.cloudfront.net/wp-content/uploads/2016/12/07/Obama-640x403.jpg",
+        "https://d3el53au0d7w62.cloudfront.net/wp-content/uploads/2016/12/07/Obama.jpg",
+        "https://d3el53au0d7w62.cloudfront.net/wp-content/uploads/2016/12/07/Obama-768x483.jpg",
+        "https://d3el53au0d7w62.cloudfront.net/wp-content/uploads/2016/12/07/Obama-400x252.jpg",
+        "https://d3el53au0d7w62.cloudfront.net/wp-content/uploads/2016/12/07/Obama-175x110.jpg"
+      ],
+      "entities": {
+        "persons": [
+          {
+            "name": "trump",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "reagan",
+            "sentiment": "none"
+          },
+          {
+            "name": "patty murray",
+            "sentiment": "none"
+          },
+          {
+            "name": "donald trump",
+            "sentiment": "none"
+          },
+          {
+            "name": "barack obama",
+            "sentiment": "none"
+          },
+          {
+            "name": "rick larsen",
+            "sentiment": "none"
+          },
+          {
+            "name": "maria cantwell",
+            "sentiment": "none"
+          },
+          {
+            "name": "josh earnest",
+            "sentiment": "none"
+          },
+          {
+            "name": "miller",
+            "sentiment": "none"
+          },
+          {
+            "name": "jason miller",
+            "sentiment": "none"
+          },
+          {
+            "name": "obama",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "air force",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "boeing",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "pentagon",
+            "sentiment": "none"
+          },
+          {
+            "name": "macdill air force base",
+            "sentiment": "none"
+          },
+          {
+            "name": "airbus group se",
+            "sentiment": "none"
+          },
+          {
+            "name": "u.s. air force",
+            "sentiment": "none"
+          },
+          {
+            "name": "triumph aerostructures",
+            "sentiment": "none"
+          },
+          {
+            "name": "trump",
+            "sentiment": "none"
+          },
+          {
+            "name": "boeing co.",
+            "sentiment": "none"
+          },
+          {
+            "name": "white house",
+            "sentiment": "none"
+          },
+          {
+            "name": "ap",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "andrews air force base",
+            "sentiment": "none"
+          },
+          {
+            "name": "md.",
+            "sentiment": "none"
+          },
+          {
+            "name": "united states",
+            "sentiment": "none"
+          },
+          {
+            "name": "washington",
+            "sentiment": "none"
+          },
+          {
+            "name": "trump tower",
+            "sentiment": "none"
+          },
+          {
+            "name": "leiden",
+            "sentiment": "none"
+          },
+          {
+            "name": "tampa",
+            "sentiment": "none"
+          },
+          {
+            "name": "wash",
+            "sentiment": "none"
+          },
+          {
+            "name": "fla.",
+            "sentiment": "none"
+          },
+          {
+            "name": "america",
+            "sentiment": "none"
+          },
+          {
+            "name": "new york",
+            "sentiment": "none"
+          },
+          {
+            "name": "u.s.",
+            "sentiment": "none"
+          },
+          {
+            "name": "southern california",
+            "sentiment": "none"
+          },
+          {
+            "name": "washington",
+            "sentiment": "none"
+          },
+          {
+            "name": "everett",
+            "sentiment": "none"
+          },
+          {
+            "name": "netherlands",
+            "sentiment": "none"
+          },
+          {
+            "name": "hawthorne",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-07T09:09:45.474+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "360985cb4bbf8c86922f91434619fd8be8024b21",
+        "url": "http://omgili.com/ri/jHIAmI4hxg_LcetXUDGNhsE62KF7G90n5VKuwSYLr_lUCS5JeVGlbAHxz3wlj_LVyxyewadgE1MXm2VbkiW3qbBbLORMUxB.C4hj2N9wtpcNmkRfVXmXYQ--",
+        "site_full": "www.myvidster.com",
+        "site": "myvidster.com",
+        "site_section": "http://www.myvidster.com/rss/myvidster",
+        "site_categories": [
+          "business"
+        ],
+        "section_title": "myVidster",
+        "title": "Trump on Japan pledge, Boeing, & Sec. of State",
+        "title_full": "Trump on Japan pledge, Boeing, & Sec. of State",
+        "published": "2016-12-07T11:10:08.331+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 4587,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "360985cb4bbf8c86922f91434619fd8be8024b21",
+      "url": "http://omgili.com/ri/jHIAmI4hxg_LcetXUDGNhsE62KF7G90n5VKuwSYLr_lUCS5JeVGlbAHxz3wlj_LVyxyewadgE1MXm2VbkiW3qbBbLORMUxB.C4hj2N9wtpcNmkRfVXmXYQ--",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-12-07T11:10:08.331+02:00",
+      "title": "Trump on Japan pledge, Boeing, & Sec. of State",
+      "text": "Permission: Public Description: CNN's Sunlen Serfaty sorts out a Japanese US investment, a Trump call to cancel a Boeing Air Force One contract, and the ongoing Secretary of Sta... ( more ) CNN's Sunlen Serfaty sorts out a Japanese US investment, a Trump call to cancel a Boeing Air Force One contract, and the ongoing Secretary of State search.Originally collected by CNN ( less ) Embed:",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "sunlen serfaty",
+            "sentiment": "negative"
+          },
+          {
+            "name": "trump",
+            "sentiment": "neutral"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "cnn",
+            "sentiment": "negative"
+          },
+          {
+            "name": "boeing",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "state",
+            "sentiment": "none"
+          },
+          {
+            "name": "trump",
+            "sentiment": "none"
+          },
+          {
+            "name": "boeing air force",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "us",
+            "sentiment": "none"
+          },
+          {
+            "name": "trump cal",
+            "sentiment": "none"
+          },
+          {
+            "name": "japan",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-07T11:10:08.331+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "32300cdd07683d24ba80f28ae96e59af6c71e8c5",
+        "url": "http://omgili.com/ri/jHIAmI4hxg.iJPgI2z6a7QKVpHUQD4IN_FCRRkIdRR_JG_RFdZ5PrIrw2WWxymVGFJvdYP1psljwOvW4BLYFPW34S0adImvwhHQCo5M2fFnt6HuS7GNdog--",
+        "site_full": "www.cnn.com",
+        "site": "cnn.com",
+        "site_section": "http://rss.cnn.com/rss/cnn_freevideo.rss",
+        "site_categories": [
+          "news"
+        ],
+        "section_title": "CNN.com - RSS Channel",
+        "title": "Trump on Japan pledge, Boeing, & Sec. of State",
+        "title_full": "Trump on Japan pledge, Boeing, & Sec. of State",
+        "published": "2016-12-07T11:25:19.602+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://i2.cdn.cnn.com/cnnnext/dam/assets/161207032351-trump-japan-boeing-sec-of-state-serfaty-dnt-00010014-super-tease.jpg",
+        "performance_score": 0,
+        "domain_rank": 81,
+        "social": {
+          "facebook": {
+            "likes": 6,
+            "comments": 0,
+            "shares": 6
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "32300cdd07683d24ba80f28ae96e59af6c71e8c5",
+      "url": "http://omgili.com/ri/jHIAmI4hxg.iJPgI2z6a7QKVpHUQD4IN_FCRRkIdRR_JG_RFdZ5PrIrw2WWxymVGFJvdYP1psljwOvW4BLYFPW34S0adImvwhHQCo5M2fFnt6HuS7GNdog--",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-12-07T11:25:19.602+02:00",
+      "title": "Trump on Japan pledge, Boeing, & Sec. of State",
+      "text": "MUST WATCH Trump on Japan pledge, Boeing, & Sec. of State CNN's Sunlen Serfaty sorts out a Japanese US investment, a Trump call to cancel a Boeing Air Force One contract, and the ongoing Secretary of State search.",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "trump",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "sunlen serfaty",
+            "sentiment": "neutral"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "boeing",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "cnn",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "state",
+            "sentiment": "none"
+          },
+          {
+            "name": "trump",
+            "sentiment": "none"
+          },
+          {
+            "name": "boeing air force",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "japan",
+            "sentiment": "none"
+          },
+          {
+            "name": "us",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-07T11:25:19.602+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "0ca0289757d33c2a69c89352720d01c9d61e96fb",
+        "url": "http://omgili.com/ri/jHIAmI4hxg8T_3330TWrL4PU7vAbYTyxkW4FlJZC2z.6GX4f0MKRlxAz0mO.CZLc8wEZjmp1WHBUOtD6HLh1bRxyFZn_eePIpwsZQidcX72dprDenfpcVIj11_MC3xFgKwbY3agD9azdj1gSsciuCAh9A5Izd8QkJpIuAJVRmz4Ybx7KO9OKQRYvzxxw4t0arYaw3UZcVdU-",
+        "site_full": "www.greensboro.com",
+        "site": "greensboro.com",
+        "site_section": "http://www.news-record.com/search/?q=&t=article&l=100&d=&d1=&d2=&s=start_time&sd=desc&nsa=eedition&c[]=/news/local_news,news/crime,news/goverment,news/north_carolina,news/north_carolina_ap,news/rockingham_county,news/schools,/news/local_news,news/crime,news/goverment,news/north_carolina,news/north_carolina_ap,news/rockingham_county,news/schools/*&f=rss",
+        "site_categories": [
+          "news"
+        ],
+        "section_title": "Greensboro News & Record - /news/local news,news/crime,news/goverment,news/north carolina,news/north carolina ap,news/rockingham county,news/schools,/news/local news,news/crime,news/goverment,news/north carolina,news/north carolina ap,news/rockingham county,news/schools/",
+        "title": "Trump wants Boeing contract to build new Air Force One canceled",
+        "title_full": "Trump wants Boeing contract to build new Air Force One canceled",
+        "published": "2016-12-07T02:08:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://bloximages.newyork1.vip.townnews.com/greensboro.com/content/tncms/assets/v3/editorial/3/6d/36d99290-3b41-5fa5-b448-02f03be6daa8/58470f64903bc.image.jpg?resize=512%2C341",
+        "performance_score": 0,
+        "domain_rank": 49623,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "0ca0289757d33c2a69c89352720d01c9d61e96fb",
+      "url": "http://omgili.com/ri/jHIAmI4hxg8T_3330TWrL4PU7vAbYTyxkW4FlJZC2z.6GX4f0MKRlxAz0mO.CZLc8wEZjmp1WHBUOtD6HLh1bRxyFZn_eePIpwsZQidcX72dprDenfpcVIj11_MC3xFgKwbY3agD9azdj1gSsciuCAh9A5Izd8QkJpIuAJVRmz4Ybx7KO9OKQRYvzxxw4t0arYaw3UZcVdU-",
+      "ord_in_thread": 0,
+      "author": "W.J. Hennigan Tribune Washington Bureau (TNS)",
+      "published": "2016-12-07T02:08:00.000+02:00",
+      "title": "Trump wants Boeing contract to build new Air Force One canceled",
+      "text": "The Associated Press 'Cancel It!' Trump says new Air Force One cost ridiculous \nPresident-elect Donald Trump speaks to members of the media in the lobby at Trump Tower in New York, Tuesday, Dec. 6, 2016. (AP Photo/Andrew Harnik) The Associated Press 'Cancel It!' Trump says new Air Force One cost ridiculous \nFILE - In this Nov. 6, 2016 file photo, military personnel salute as Air Force One, with President Barack Obama aboard, departs at Andrews Air Force Base, Md. President-elect Donald Trump wants the government's contract for a new Air Force One canceled. ( AP Photo/Jose Luis Magana) Posted: Tuesday, December 6, 2016 2:08 pm Trump wants Boeing contract to build new Air Force One canceled By W.J. Hennigan Tribune Washington Bureau (TNS) \nWASHINGTON — President-elect Donald Trump took aim at Air Force One on Tuesday, criticizing the cost of the iconic 747 jumbo jet that has served as the president’s flying White House and projected America’s might wherever it lands. \nThe aircraft used by President Barack Obama, built by Chicago-based Boeing Co., have been in service since the Reagan administration and are due to reach the end of a 30-year design life in 2017. WASHINGTON (AP) — President-elect Donald Trump suggested Tuesday that he would cancel Boeing's contract to build a new fleet of presidential aircraft to replace the aging Reagan-era models tha… \nBoeing, which has built presidential jets since the early 1960s, has been doing early development work on the replacement likely to be outfitted with the latest in gadgetry, including top-secret communications equipment, countermeasures to spoil missile attacks, and aerial refueling capability so it can fly for days without landing. \nTrump would not get a chance to fly in a new Air Force One unless he is re-elected; the replacement isn’t slated to begin flying until 2021 at the earliest. So far, Boeing has been given three contracts amounting to $170 million to develop the aircraft, which is based on the new and larger version of the 747 dubbed the 747-8 Intercontinental. \n“Boeing is building a brand new 747 Air Force One for future presidents, but costs are out of control, more than $4 billion. Cancel order!” Trump tweeted. \nAs president-elect, Trump has no power to cancel procurements, but the Air Force has yet to issue a contract for the next-generation Air Force One, which will include two planes. \nFederal budget documents published in February estimated research, test and development costs on the program to be around $2.8 billion. The figure doesn’t include the costs of the two planes, however. When that is factored in, the price tag may be around $4 billion, U.S. officials said. \n“We are currently under contract for $170 million to help determine the capabilities of this complex military aircraft that serves the unique requirements of the president of the United States,” Boeing said Tuesday in a statement. “We look forward to working with the U.S. Air Force on subsequent phases of the program allowing us to deliver the best plane for the president at the best value for the American taxpayer.” \nIt is rare for a president-elect to publicly call out a company by name because of the chilling effect it might have, and it wasn’t clear what prompted Trump’s complaint. Boeing’s shares were down 0.8 percent in early trading after Trump’s tweet before the stock market opened. \nTrump sold all his Boeing stock in June, transition spokesman Jason Miller insisted, though no documentation was made public. \n“This really speaks to president-elect’s focus on keeping spending down across the board,” Miller told reporters. “We are going to look for areas where we can keep costs down and look for areas where we are going to try to save money.” \n(EDITORS: STORY CAN END HERE) \nWith worldwide demand steadily shrinking, Boeing has repeatedly slowed the 747 production rate to one per month. The company said this year that if new orders didn’t roll in, it was “reasonably possible that we could decide to end production of the 747.” \nIn its heyday, Boeing was producing 60 jumbo jets a year, with many of the components coming from Southern California. Boeing has several hundred suppliers in the U.S. supporting the 747 program, many of them in California. \nOne of the largest is Triumph Aerostructures, which assembles the 747’s center fuselage panels in Hawthorne. \nThe only other large commercial aircraft manufacturer is Airbus Group SE, which is based in Leiden, Netherlands. \nTrump told reporters in the lobby of Trump Tower in New York Tuesday morning that he thought the Air Force One program was “ridiculous.” \n“I think Boeing is doing a little bit of a number,” he said. “We want Boeing to make a lot of money but not that much money.” \n——— \nVisit Tribune Co. at www.latimes.com \nDistributed by Tribune Content Agency, LLC. \n\nPHOTO (for help with images, contact 312-222-4194): AIRFORCEONE",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "dona",
+            "sentiment": "negative"
+          },
+          {
+            "name": "trump",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "reagan",
+            "sentiment": "none"
+          },
+          {
+            "name": "luis magana",
+            "sentiment": "none"
+          },
+          {
+            "name": "donald trump",
+            "sentiment": "none"
+          },
+          {
+            "name": "barack obama",
+            "sentiment": "none"
+          },
+          {
+            "name": "miller",
+            "sentiment": "none"
+          },
+          {
+            "name": "jason miller",
+            "sentiment": "none"
+          },
+          {
+            "name": "airforceone",
+            "sentiment": "none"
+          },
+          {
+            "name": "harnik",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "air force",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "boeing",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "tribune content agency",
+            "sentiment": "none"
+          },
+          {
+            "name": "llc",
+            "sentiment": "none"
+          },
+          {
+            "name": "airbus group se",
+            "sentiment": "none"
+          },
+          {
+            "name": "u.s. air force",
+            "sentiment": "none"
+          },
+          {
+            "name": "w.j. hennigan tribune washington bureau",
+            "sentiment": "none"
+          },
+          {
+            "name": "triumph aerostructures",
+            "sentiment": "none"
+          },
+          {
+            "name": "boeing co.",
+            "sentiment": "none"
+          },
+          {
+            "name": "trump",
+            "sentiment": "none"
+          },
+          {
+            "name": "white house",
+            "sentiment": "none"
+          },
+          {
+            "name": "ap",
+            "sentiment": "none"
+          },
+          {
+            "name": "visit tribune co.",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "california",
+            "sentiment": "none"
+          },
+          {
+            "name": "united states",
+            "sentiment": "none"
+          },
+          {
+            "name": "america",
+            "sentiment": "none"
+          },
+          {
+            "name": "new york",
+            "sentiment": "none"
+          },
+          {
+            "name": "u.s.",
+            "sentiment": "none"
+          },
+          {
+            "name": "southern california",
+            "sentiment": "none"
+          },
+          {
+            "name": "andrews air force base",
+            "sentiment": "none"
+          },
+          {
+            "name": "trump tower",
+            "sentiment": "none"
+          },
+          {
+            "name": "leiden",
+            "sentiment": "none"
+          },
+          {
+            "name": "washington",
+            "sentiment": "none"
+          },
+          {
+            "name": "netherlands",
+            "sentiment": "none"
+          },
+          {
+            "name": "hawthorne",
+            "sentiment": "none"
+          },
+          {
+            "name": "md",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-07T11:39:47.298+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "a29c87861650b31e800af7cd3808439923b47632",
+        "url": "http://omgili.com/ri/.0rSU5LtMgyKQiv3VCG_9DqeBl0GdP3kNWsNFYVZoxD07iYy2peltJ7hM8ViMVTS4xUTDA95sLcxxnLTMOm4NvUg7.sbPk8LLcvtg27_tLn2MIEHOfs2tQ--",
+        "site_full": "fox2now.com",
+        "site": "fox2now.com",
+        "site_section": "",
+        "site_categories": [
+          "news"
+        ],
+        "section_title": "",
+        "title": "Trump wants to cancel Air Force One order from Boeing | FOX2now.com",
+        "title_full": "Trump wants to cancel Air Force One order from Boeing | FOX2now.com",
+        "published": "2016-12-06T21:30:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.296,
+        "main_image": "https://localtvktvi.files.wordpress.com/2016/02/gettyimages-458724730.jpg?quality=85&amp;strip=all&amp;w=1200",
+        "performance_score": 0,
+        "domain_rank": 17747,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "a29c87861650b31e800af7cd3808439923b47632",
+      "url": "http://omgili.com/ri/.0rSU5LtMgyKQiv3VCG_9DqeBl0GdP3kNWsNFYVZoxD07iYy2peltJ7hM8ViMVTS4xUTDA95sLcxxnLTMOm4NvUg7.sbPk8LLcvtg27_tLn2MIEHOfs2tQ--",
+      "ord_in_thread": 0,
+      "author": "Cnn Wires",
+      "published": "2016-12-06T21:30:00.000+02:00",
+      "title": "Trump wants to cancel Air Force One order from Boeing | FOX2now.com",
+      "text": "Air Force One. (Photo by Lintao Zhang/Getty Images) × Trump wants to cancel Air Force One order from Boeing Air Force One. (Photo by Lintao Zhang/Getty Images) \nNEW YORK – Donald Trump wants to cancel a government order for a new Air Force One. \nThe president-elect said in a tweet early Tuesday that the new Boeing 747 jet that’s being built to carry “future presidents” already costs more than $4 billion, and that he wants to cancel the order. \n“Boeing is building a brand new 747 Air Force One for future presidents, but costs are out of control, more than $4 billion. Cancel order!” \nThe new Air Force One would be a 747-8, rather than the 747-200 which is now in use by President Obama. It has a longer range, can travel faster with a heavier maximum takeoff weight and it gets better fuel economy. \nBoeing, which is the nation’s largest exporter, has built the plane used by every president since Franklin Roosevelt. It did not immediately respond to a request for comment. \nBy Chris Isidore, CNNMoney ",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "lintao zhang/getty images",
+            "sentiment": "negative"
+          },
+          {
+            "name": "trump",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "donald trump",
+            "sentiment": "none"
+          },
+          {
+            "name": "lintao",
+            "sentiment": "none"
+          },
+          {
+            "name": "franklin roosevelt",
+            "sentiment": "none"
+          },
+          {
+            "name": "chris isidore",
+            "sentiment": "none"
+          },
+          {
+            "name": "obama",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "boeing",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "boeing air force",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "new york",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-07T13:20:57.441+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "4e757c474f06f417af10420c8258099fd90fcd68",
+        "url": "http://omgili.com/ri/jHIAmI4hxg_Onobag4zFn.hBe6y2DYjgoeN9CrnyPhVq3RxUIcI.zUByhxdT95RXNpogAc8US686k9ghbZ_UyCUqcjYre6BauobsNF6PIqBDwG.Qx2vwHZB8ZwAu7CFfj0U1_uIbLnFOdKt.0pkMVe8Z2qxXhcg1UBOpT7h4r2xx8n1bTlIL4RPQ4tu.SJ_4",
+        "site_full": "www.usatoday.com",
+        "site": "usatoday.com",
+        "site_section": "http://www.desmoinesregister.com/elections-2016/",
+        "site_categories": [
+          "news"
+        ],
+        "section_title": "Elections 2016 - The Des Moines Register",
+        "title": "For the Record: Thanking SoftBank, annoying Boeing in 140 characters or less",
+        "title_full": "For the Record: Thanking SoftBank, annoying Boeing in 140 characters or less",
+        "published": "2016-12-07T13:42:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://www.gannett-cdn.com/-mm-/cbbbe0a8d9e9a05299c292252a4e885d007b40d6/c=4-0-539-302&amp;r=x633&amp;c=1200x630/local/-/media/2016/12/07/USATODAY/USATODAY/636166884360414230-29906170001-5238254630001-5238232062001-vs.jpg",
+        "performance_score": 0,
+        "domain_rank": 313,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "4e757c474f06f417af10420c8258099fd90fcd68",
+      "url": "http://omgili.com/ri/jHIAmI4hxg_Onobag4zFn.hBe6y2DYjgoeN9CrnyPhVq3RxUIcI.zUByhxdT95RXNpogAc8US686k9ghbZ_UyCUqcjYre6BauobsNF6PIqBDwG.Qx2vwHZB8ZwAu7CFfj0U1_uIbLnFOdKt.0pkMVe8Z2qxXhcg1UBOpT7h4r2xx8n1bTlIL4RPQ4tu.SJ_4",
+      "ord_in_thread": 0,
+      "author": "Brett McGinness , USA TODAY",
+      "published": "2016-12-07T13:42:00.000+02:00",
+      "title": "For the Record: Thanking SoftBank, annoying Boeing in 140 characters or less",
+      "text": "Are we actually getting new investment and new jobs? The devil is in the (still unreleased) details. (Photo: Newslook)\nTime's Person of the Year 2016 will be announced Wednesday morning on the \"Today\" show. Will it be another trophy for Hillary Clinton to set next to her \"Political Tweet of the Year\" award ? (The honor has never been given to the loser of a presidential election, unless we're counting \"you\" -- and we're sorry to be harsh, but you're 0-for-58 on getting elected president.) Or will it be CRISPR scientists, the guys who are going to make us live forever? If living forever means we'll have to suffer through an infinite number of 2016-like years, we're not fans.\nOur president-to-be is a favorite for the spot, if only because he can alter global finance 140 characters at a time, several times a day. We take a look at SoftBank, Boeing and @realDonaldTrump in today's edition of For the Record.\nUSA TODAY\nFor the Record: Sign up for our politics newsletter\nSoftBank set to invest hard cash in the US\nDonald Trump and the CEO of a Japanese company announced the investment Tuesday. Newslook\nAfter last month's deal with Carrier to keep several hundred manufacturing jobs in the U.S., what would Trump do for a follow-up? On Tuesday, Trump met with Masayoshi Son , CEO of telecommunications giant SoftBank Group, and the pair announced the investment of $50 billion and the creation of 50,000 jobs. “We were talking about it, and then I said I’d like to celebrate his presidential job,” Son said during an impromptu press conference in the lobby of Trump Tower, in apparent reference to Trump's vow of deregulation. \"Masa said he would never do this had we (Trump) not won the election!\" Trump tweeted. At this exponential pace, every man, woman and child in America each will have 17 full-time jobs by the end of Trump's term.\nOr will we? As of now, details on the investment are sparse. Son told the Wall Street Journal that the $50 billion would come from a previously announced $100 billion tech fund established with a Saudi group -- although those funds weren't necessarily earmarked to be spent in the U.S. It's also possible that the investment is merely a renewed effort by SoftBank to purchase T-Mobile and merge it with Sprint (in which SoftBank has a 78% ownership stake). Plans for the acquisition and merger were abandoned in 2014 due to the expected objections of U.S. regulators ; presumably, a Trump administration will be more willing to allow a merger to move forward.\nBut specifically on the 50,000 jobs ... conveniently enough, T-Mobile's latest annual report showed that the company employed about 50,000 full- and part-time employees in 2015. Seriously, are these the jobs that Trump and Son were talking about? That's like telling everyone you're going to go out and catch a bunch of Pokemon, and then just buying the account of someone who already caught a bunch of Pokemon .\nAir Force None\nTrump thinks Boeing is pulling a number on the government and wants to halt their development of the new presidential aircraft. USA TODAY\nTrump railed against Boeing and its work on the development of a new Air Force One, replacing the current model from the 1980s. \"Boeing is building a brand new 747 Air Force One for future presidents, but costs are out of control, more than $4 billion. Cancel order!\" Trump tweeted , possibly in response to a Chicago Tribune article in which Boeing's CEO ripped Trump's anti-trade rhetoric. Trump later told reporters that he didn't think the program to develop a new plane should be scrapped altogether. \"I think Boeing is doing a little bit of a number. We want Boeing to make a lot of money, but not that much money,\" he said.\nThe budget to replace Air Force One actually is around $3.2 billion to be spent between 2010 and 2020 (although, let's face it, Trump's $4 billion figure will probably be more accurate -- it's a government project). But Boeing wouldn't necessarily receive all the billions. Boeing's current $170 million contract is just for initial research and development. Far from a standard-issue jumbo jet, Air Force One can operate like a mobile Oval Office. The current model can withstand a nuclear war, can repel attacks by heat-seeking missiles and is equipped with a parachute ramp which allows the First Family to personally foil hijackers while delivering pithy one-liners . A total of $2 billion in all is budgeted for development, with another $1.2 billion set aside for other expenses, like actually building the plane. Sorry, not \"plane\" ... planes . We get two planes out of the deal. These things come in pairs, like Twix.\nNew York City's hottest real estate amenity: getting frisked every day\nPresident-elect Donald Trump surprised the media waiting in the lobby of Trump Tower Tuesday morning when he emerged from an elevator accompanied by members of his secret service detail. (Dec. 6) AP\nWith Trump still in residence in New York's Trump Tower for the next month and a half -- and with First Family members Melania and Barron sticking around at least through the end of the school year -- the Secret Service has a 24/7 security detail there for the foreseeable future. And an enterprising real estate agency is hyping it up.\n“Fifth Avenue Buyers Interested in Secret Service Protection?” reads an email from real estate agency Douglas Elliman, according to Politico . \"The New Aminity [sic] – The United States Secret Service.” The price tag? Only $2.1 million for a little over 1,000 square feet of living space, plus a front-row seat to watch an untold number of security threats against the president-elect and his family. Seems like they should point out that the Secret Service won't take a bullet for prospective buyers, right?\nMore from the USA TODAY Network\nTrump to visit Ohio State attack victims ( Cincinnati Enquirer ) Ben Carson lived in subsidized housing while growing up, but not in public housing ( USA TODAY OnPolitics ) Minor discrepancies mean 17 Michigan precincts can't be recounted ( Detroit Free Press ) Megyn Kelly: 'I’ve been under armed guard for 16 months' ( USA TODAY OnPolitics ) Texas elector won't vote for Trump, backs Kasich instead. We're still not sure if Kasich ever dropped out or not ( USA TODAY OnPolitics ) Trump to attend Saturday's Army-Navy football game. He knows more about football than the head coaches do, believe me ( USA TODAY Sports ) Another overwhelming victory that has no effect on the Electoral College U.S. law will be based on Trump's tweet decrees just over six weeks from now, but @HillaryClinton's post-election tweet was the most popular political tweet of the year, racking up more than 637,000 retweets and 1,080,000 likes.\n\"To all the little girls watching...never doubt that you are valuable and powerful & deserving of every chance & opportunity in the world.\"\n— Hillary Clinton (@HillaryClinton) November 9, 2016 //usat.ly/2hhJoRf",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [
+        "http://content.time.com/time/magazine/article/0,9171,1570810,00.html",
+        "http://www.gannett-cdn.com/uxstatic/desmoinesregister/uscp-web-static-2137.0/images/social-icons/comments-copy@2x.png",
+        "http://usat.ly/2hhJoRf",
+        "http://videos.usatoday.net/Brightcove3/29906170001/201612/1754/29906170001_5237553179001_5237538885001-th.jpg?pubId=29906170001",
+        "http://www.gannett-cdn.com/media/2016/12/07/USATODAY/USATODAY/636166884360414230-29906170001-5238254630001-5238232062001-vs.jpg",
+        "http://videos.usatoday.net/Brightcove3/29906170001/201612/1474/29906170001_5237579176001_5237581168001-th.jpg?pubId=29906170001",
+        "http://usat.ly/2gMAJti",
+        "http://www.gannett-cdn.com/-mm-/9065941e142eb769bb76794c742e08d1e14ee558/r=300/http/www.gannett-cdn.com/sites/usatoday/images/site-masthead-logo@2x.png",
+        "http://www.gannett-cdn.com/-mm-/8fd48bebd8daf7c55f0e079d49dcfb62ca6edac8/c=4-0-539-302&r=x329&c=580x326/local/-/media/2016/12/07/USATODAY/USATODAY/636166884360414230-29906170001-5238254630001-5238232062001-vs.jpg",
+        "http://videos.usatoday.net/Brightcove3/29906170001/201612/1474/29906170001_5237579176001_5237581168001-th.jpg",
+        "http://videos.usatoday.net/Brightcove3/29906170001/201612/1474/29906170001_5237579174001_5237581168001-vs.jpg?pubId=29906170001",
+        "http://www.gannett-cdn.com/-mm-/d44bf9ac740cfa2e4c015e985cf20e4ec8d6fdc9/r=540/http/videos.usatoday.net/Brightcove3/29906170001/201612/1474/29906170001_5237579174001_5237581168001-vs.jpg",
+        "http://videos.usatoday.net/Brightcove3/29906170001/201612/3826/29906170001_5238254630001_5238232062001-vs.jpg?pubId=29906170001",
+        "http://www.gannett-cdn.com/uxstatic/desmoinesregister/uscp-web-static-2137.0/images/social-icons/comments-copy.png",
+        "http://www.usatoday.com/videos/news/2016/12/06/trump-tweets-",
+        "http://www.wsj.com/articles/donald-trump-says-softbank-pledges-to-invest-50-billion-in-u-s-1481053732",
+        "http://videos.usatoday.net/Brightcove3/29906170001/201612/1754/29906170001_5237553182001_5237538885001-vs.jpg",
+        "http://videos.usatoday.net/Brightcove2/29906170001/201612/1754/29906170001_5237553134001_5237538885001.mp4",
+        "http://www.wsj.com/articles/softbank-group-launches-investment-fund-1476398189",
+        "http://videos.usatoday.net/Brightcove2/29906170001/201612/3826/29906170001_5238254787001_5238232062001.mp4",
+        "http://www.twitter.com/realdonaldtrump",
+        "http://www.chicagotribune.com/business/columnists/ct-boeing-china-trump-robert-reed-1206-biz-20161205-column.html",
+        "http://www.gannett-cdn.com/uxstatic/desmoinesregister/uscp-web-static-2137.0/images/social-icons/oval-1-copy-twitter@3x.png",
+        "http://www.gannett-cdn.com/uxstatic/desmoinesregister/uscp-web-static-2137.0/images/social-icons/oval-1-facebook@3x.png",
+        "http://www.gannett-cdn.com/uxstatic/desmoinesregister/uscp-web-static-2137.0/images/social-icons/oval-1-copy-3-email@2x.png",
+        "http://videos.usatoday.net/Brightcove3/29906170001/201612/1754/29906170001_5237553179001_5237538885001-th.jpg",
+        "http://videos.usatoday.net/Brightcove3/29906170001/201612/3826/29906170001_5238254752001_5238232062001-th.jpg",
+        "http://videos.usatoday.net/Brightcove3/29906170001/201612/1754/29906170001_5237553182001_5237538885001-vs.jpg?pubId=29906170001",
+        "http://videos.usatoday.net/Brightcove3/29906170001/201612/1474/29906170001_5237579174001_5237581168001-vs.jpg",
+        "http://time.com/4589502/person-of-the-year-2016-shortlist/",
+        "http://www.gannett-cdn.com/uxstatic/desmoinesregister/uscp-web-static-2137.0/images/social-icons/oval-1-facebook.png",
+        "http://www.gannett-cdn.com/-mm-/d44bf9ac740cfa2e4c015e985cf20e4ec8d6fdc9/r=540/http/videos.usatoday.net/Brightcove3/29906170001/201612/1754/29906170001_5237553182001_5237538885001-vs.jpg",
+        "https://twitter.com/realDonaldTrump/status/806134244384899072?ref_src=twsrc%5Etfw",
+        "http://www.gannett-cdn.com/uxstatic/desmoinesregister/uscp-web-static-2137.0/images/social-icons/oval-1-copy-twitter.png",
+        "http://www.gannett-cdn.com/-mm-/d44bf9ac740cfa2e4c015e985cf20e4ec8d6fdc9/r=540/http/videos.usatoday.net/Brightcove3/29906170001/201612/3826/29906170001_5238254630001_5238232062001-vs.jpg",
+        "http://www.gao.gov/assets/680/676281.pdf",
+        "http://www.gannett-cdn.com/uxstatic/desmoinesregister/uscp-web-static-2137.0/images/social-icons/oval-1-facebook@2x.png",
+        "http://www.gannett-cdn.com/uxstatic/desmoinesregister/uscp-web-static-2137.0/images/social-icons/oval-1-copy-twitter@2x.png",
+        "http://www.usatoday.com/videos/news/world/2016/12/06/trump-says-his-win-convinced-company-invest-50b-us-startups/95068846/",
+        "http://videos.usatoday.net/Brightcove3/29906170001/201612/3826/29906170001_5238254630001_5238232062001-vs.jpg",
+        "http://videos.usatoday.net/Brightcove3/29906170001/201612/3826/29906170001_5238254752001_5238232062001-th.jpg?pubId=29906170001",
+        "http://investor.t-mobile.com/Cache/32965877.pdf",
+        "http://www.politico.com/story/2016/12/trump-tower-secret-service-amenities-232216",
+        "http://usat.ly/2hcqDyD",
+        "http://www.gannett-cdn.com/uxstatic/desmoinesregister/uscp-web-static-2137.0/images/social-icons/oval-1-copy-3-email@3x.png",
+        "http://usat.ly/2gQtNLE",
+        "http://arstechnica.com/business/2014/08/report-sprint-abandons-bid-for-t-mobile-because-us-would-block-merger/",
+        "http://www.usatoday.com/featured-newsletter/for_the_record/",
+        "http://www.youtube.com/watch?v=YdaeVone5qA",
+        "http://videos.usatoday.net/Brightcove2/29906170001/201612/1474/29906170001_5237582337001_5237581168001.mp4",
+        "https://twitter.com/HillaryClinton/status/796394920051441664",
+        "http://www.gannett-cdn.com/uxstatic/desmoinesregister/uscp-web-static-2137.0/images/social-icons/oval-1-copy-3-email.png",
+        "https://twitter.com/realDonaldTrump/status/806214236053667842?ref_src=twsrc%5Etfw",
+        "http://www.gannett-cdn.com/uxstatic/desmoinesregister/uscp-web-static-2137.0/images/social-icons/comments-copy@3x.png",
+        "https://twitter.com/intent/tweet?url=http%3A//usat.ly/2hhJoRf&text=For%20the%20Record%3A%20Thanking%20SoftBank%2C%20annoying%20Boeing%20in%20140%20characters%20or%20less&via=DMRegister",
+        "http://www.usatoday.com/videos/news/nation/2016/12/06/president-elect-surprises-media-trump-tower/95036344/",
+        "http://www.twitter.com/hillaryclinton"
+      ],
+      "entities": {
+        "persons": [
+          {
+            "name": "masa",
+            "sentiment": "none"
+          },
+          {
+            "name": "— hillary clinton",
+            "sentiment": "none"
+          },
+          {
+            "name": "donald trump",
+            "sentiment": "none"
+          },
+          {
+            "name": "trump",
+            "sentiment": "none"
+          },
+          {
+            "name": "network trump",
+            "sentiment": "none"
+          },
+          {
+            "name": "douglas elliman",
+            "sentiment": "none"
+          },
+          {
+            "name": "kasich",
+            "sentiment": "none"
+          },
+          {
+            "name": "hillary clinton",
+            "sentiment": "none"
+          },
+          {
+            "name": "masayoshi son",
+            "sentiment": "none"
+          },
+          {
+            "name": "@hillaryclinton",
+            "sentiment": "none"
+          },
+          {
+            "name": "ben carson",
+            "sentiment": "none"
+          },
+          {
+            "name": "son",
+            "sentiment": "none"
+          },
+          {
+            "name": "melania",
+            "sentiment": "none"
+          },
+          {
+            "name": "barron",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "softbank",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "boeing",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "air force none trump",
+            "sentiment": "none"
+          },
+          {
+            "name": "trump",
+            "sentiment": "none"
+          },
+          {
+            "name": "army-navy",
+            "sentiment": "none"
+          },
+          {
+            "name": "detroit free press",
+            "sentiment": "none"
+          },
+          {
+            "name": "t-mobile",
+            "sentiment": "none"
+          },
+          {
+            "name": "newslook",
+            "sentiment": "none"
+          },
+          {
+            "name": "wall street journal",
+            "sentiment": "none"
+          },
+          {
+            "name": "time",
+            "sentiment": "none"
+          },
+          {
+            "name": "cincinnati enquirer",
+            "sentiment": "none"
+          },
+          {
+            "name": "united states secret service",
+            "sentiment": "none"
+          },
+          {
+            "name": "softbank group",
+            "sentiment": "none"
+          },
+          {
+            "name": "chicago tribune",
+            "sentiment": "none"
+          },
+          {
+            "name": "secret service",
+            "sentiment": "none"
+          },
+          {
+            "name": "sprint",
+            "sentiment": "none"
+          },
+          {
+            "name": "electoral college",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "new york city",
+            "sentiment": "none"
+          },
+          {
+            "name": "new york",
+            "sentiment": "none"
+          },
+          {
+            "name": "america",
+            "sentiment": "none"
+          },
+          {
+            "name": "usa",
+            "sentiment": "none"
+          },
+          {
+            "name": "u.s.",
+            "sentiment": "none"
+          },
+          {
+            "name": "trump tower",
+            "sentiment": "none"
+          },
+          {
+            "name": "texas",
+            "sentiment": "none"
+          },
+          {
+            "name": "michigan",
+            "sentiment": "none"
+          },
+          {
+            "name": "ohio state",
+            "sentiment": "none"
+          },
+          {
+            "name": "oval office",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-07T13:55:21.277+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "24a62bbc3e7f2e9b4dc1e920dc23ff182f33bc48",
+        "url": "http://omgili.com/ri/jHIAmI4hxg.ou.sO8L4SDandLG5aUITdzGKD8.t.bLQKuPpq8bP1wuIMIFSwXbTv0vZ_aFe3ZXsFmEOpFbYg6vADlxM9Ap3y",
+        "site_full": "www.philly.com",
+        "site": "philly.com",
+        "site_section": "",
+        "site_categories": [
+          "news"
+        ],
+        "section_title": "",
+        "title": "UPDATE 7-Trump on Boeing's Air Force One contract: 'Cancel order!'",
+        "title_full": "UPDATE 7-Trump on Boeing's Air Force One contract: 'Cancel order!'",
+        "published": "2016-12-07T08:53:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.206,
+        "main_image": "http://media.philly.com/designimages/pcom-FB-2048.png",
+        "performance_score": 0,
+        "domain_rank": 3314,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "24a62bbc3e7f2e9b4dc1e920dc23ff182f33bc48",
+      "url": "http://omgili.com/ri/jHIAmI4hxg.ou.sO8L4SDandLG5aUITdzGKD8.t.bLQKuPpq8bP1wuIMIFSwXbTv0vZ_aFe3ZXsFmEOpFbYg6vADlxM9Ap3y",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-12-07T08:53:00.000+02:00",
+      "title": "UPDATE 7-Trump on Boeing's Air Force One contract: 'Cancel order!'",
+      "text": "UPDATE 7-Trump on Boeing's Air Force One contract: 'Cancel order!' Updated: December 6, 2016 — 8:53 PM EST Share \n(Adds Boeing call to Trump, paragraph 9) \nBy Andrea Shalal and Amy Tennery \nWASHINGTON/NEW YORK, Dec 6 (Reuters) - U.S. President-elect Donald Trump urged the government on Tuesday to cancel an order with Boeing Co for a revamped Air Force One - one of the most prominent symbols of the U.S. presidency - saying costs were out of control. \nIt was the latest example of Trump using his podium, often via Twitter messages, to rattle companies and foreign countries as he seeks to shake up business as usual in Washington. Trump, who takes office on Jan. 20, took aim at what he called cost overruns even though the plane is only in development stages. \n\"Boeing is building a brand new 747 Air Force One for future presidents, but costs are out of control, more than $4 billion. Cancel order!\" Trump said on Twitter. It was not immediately clear what prompted the timing of his complaint. \nTrump, who has vowed to use his skills as a businessman to make good deals that benefit American taxpayers, then made a surprise appearance in the lobby of Trump Tower in New York, where he amplified his comments. \n\"The plane is totally out of control. I think it's ridiculous. I think Boeing is doing a little bit of a number. We want Boeing to make a lot of money but not that much money,\" he told reporters. \nBoeing, which has built planes for U.S. presidents since 1943, has not yet begun building the two replacements for the current Air Force One planes, which are scheduled to be in service by 2024. \nBoeing has not yet been awarded the money to build the proposed replacements. \n\"We are currently under contract for $170 million to help determine the capabilities of these complex military aircraft that serve the unique requirements of the President of the United States,\" the company said in a statement. \nBoeing Chief Executive Dennis Muilenburg called Trump after his remarks and they had a constructive dialog, sources familiar with the conversation told Reuters. Muilenburg told Trump the cost of the airplane could be lowered if the U.S. Air Force changed its requirements and the issue would likely be resolved without a major dispute, the sources said. \nNOT A 'VANILLA' JUMBO JET \nThe Air Force, which operates the presidential planes, announced in January 2015 that Boeing's 747-8 would be used to replace the two current presidential planes. \nThe planes can fly direct from Washington to Hong Kong, 1,000 miles (1,600 km) farther than the current Air Force One. They are designed to be an airborne White House able to fly in worst-case security scenarios, such as nuclear war. \nPresident Barack Obama, who flew on the aging Air Force One to Tampa, Florida, on Tuesday, has called the plane one of the best perks of the presidency. \nHis spokesman, Josh Earnest, told reporters on board that the contracting arrangements for replacements were \"rather complicated\" and said the recommendations for upgrades had been made by national security experts. \nThe budgeted costs for the replacement program are $2.87 billion for the fiscal years 2015 through 2021, just on research and development, testing and evaluation, according to budget documents seen by Reuters. \nThe current Air Force plan envisions extensive modifications to a Boeing 747-8 plane, adding military avionics and advanced communications to a self-defense system. \n\"Of course it's not like buying a vanilla Boeing jumbo jet,\" said defense consultant Loren Thompson, who has close ties to Boeing and other companies. \nA March 2016 report from the Government Accountability Office, the investigative arm of Congress, estimated the cost of the overall program at $3.21 billion, including the purchase of two aircraft. \nBut the GAO estimated the costs for research and development would be lower, at just under $2 billion. If the GAO report used the same Air Force estimate for research and development, then its estimate would be around $4 billion. \nBoeing shares dipped after Trump's tweet but closed up 0.1 percent at $152.24. \nLATEST BROADSIDE \nTrump's broadside against Boeing comes as Washington's business lobbyists are bracing for a wild ride. \nA New York real estate developer, Trump took aim at big corporations during his campaign, saying that they often harmed ordinary Americans by sending jobs abroad. \nSince winning the Nov. 8 election, he has taken credit for pushing United Technologies Corp and Ford Motor Co to backtrack on outsourcing plans. \nTrump's attack on Boeing was the main topic of discussion at the annual luncheon of the Aerospace Industries Association, where the group's chief executive, Dave Melcher, urged the new administration to promote trade and bolster the high-paying manufacturing jobs that the $143 billion-a-year sector offers. \nIndustry executives say they are seeing willingness from the Trump team to take another look at export controls that limit exports of U.S. weapons. But in the short term, his tweets and comments on Boeing put defense contractors on notice. \n\"The chilling effect on industry is huge, if you are a contractor,\" said Franklin Turner, a partner specializing in government contracts at law firm McCarter & English. \nBoeing relies on the U.S. military and other arms of the federal government for a significant share of its defense, space and security business which is worth $30 billion a year. \nThe company clashed during the past year with Republicans in Congress over the Export-Import Bank, a federal program Boeing uses to finance sales to certain overseas customers. Boeing executives have also been outspoken supporters of the Trans-Pacific Partnership trade deal with Asia, which Trump opposed. \n(Additional reporting by Timothy Gardner, Emily Stephenson, Mike Stone, Susan Heavey, Andrea Shalal and Doina Chiacu in Washington; Ayesha Rascoe aboard Air Force One; Steve Holland, Alana Wise, Jeffrey Dastin, and Lewis Krauskopf in New York; Writing by Roberta Rampton and Amanda Becker; Editing by Alistair Bell and Peter Cooney) More Coverage ",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "dennis muilenburg",
+            "sentiment": "none"
+          },
+          {
+            "name": "franklin turner",
+            "sentiment": "none"
+          },
+          {
+            "name": "barack obama",
+            "sentiment": "none"
+          },
+          {
+            "name": "donald trump",
+            "sentiment": "none"
+          },
+          {
+            "name": "timothy gardner",
+            "sentiment": "none"
+          },
+          {
+            "name": "loren thompson",
+            "sentiment": "none"
+          },
+          {
+            "name": "mike stone",
+            "sentiment": "none"
+          },
+          {
+            "name": "alistair bell",
+            "sentiment": "none"
+          },
+          {
+            "name": "emily stephenson",
+            "sentiment": "none"
+          },
+          {
+            "name": "amanda becker",
+            "sentiment": "none"
+          },
+          {
+            "name": "muilenburg",
+            "sentiment": "none"
+          },
+          {
+            "name": "ayesha rascoe",
+            "sentiment": "none"
+          },
+          {
+            "name": "roberta rampton",
+            "sentiment": "none"
+          },
+          {
+            "name": "trump",
+            "sentiment": "none"
+          },
+          {
+            "name": "peter cooney",
+            "sentiment": "none"
+          },
+          {
+            "name": "alana wise",
+            "sentiment": "none"
+          },
+          {
+            "name": "jeffrey dastin",
+            "sentiment": "none"
+          },
+          {
+            "name": "steve holland",
+            "sentiment": "none"
+          },
+          {
+            "name": "josh earnest",
+            "sentiment": "none"
+          },
+          {
+            "name": "amy tennery",
+            "sentiment": "none"
+          },
+          {
+            "name": "lewis krauskopf",
+            "sentiment": "none"
+          },
+          {
+            "name": "susan heavey",
+            "sentiment": "none"
+          },
+          {
+            "name": "dave melcher",
+            "sentiment": "none"
+          },
+          {
+            "name": "doina chiacu",
+            "sentiment": "none"
+          },
+          {
+            "name": "andrea shalal",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "boeing",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "aerospace industries association",
+            "sentiment": "none"
+          },
+          {
+            "name": "export-import bank",
+            "sentiment": "none"
+          },
+          {
+            "name": "trump",
+            "sentiment": "none"
+          },
+          {
+            "name": "government accountability office",
+            "sentiment": "none"
+          },
+          {
+            "name": "ford motor co",
+            "sentiment": "none"
+          },
+          {
+            "name": "congress",
+            "sentiment": "none"
+          },
+          {
+            "name": "reuters",
+            "sentiment": "none"
+          },
+          {
+            "name": "gao",
+            "sentiment": "none"
+          },
+          {
+            "name": "boeing co",
+            "sentiment": "none"
+          },
+          {
+            "name": "u.s. air force",
+            "sentiment": "none"
+          },
+          {
+            "name": "white house",
+            "sentiment": "none"
+          },
+          {
+            "name": "air force",
+            "sentiment": "none"
+          },
+          {
+            "name": "united technologies corp",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "united states",
+            "sentiment": "none"
+          },
+          {
+            "name": "hong kong",
+            "sentiment": "none"
+          },
+          {
+            "name": "new york",
+            "sentiment": "none"
+          },
+          {
+            "name": "washington",
+            "sentiment": "none"
+          },
+          {
+            "name": "u.s.",
+            "sentiment": "none"
+          },
+          {
+            "name": "trump tower",
+            "sentiment": "none"
+          },
+          {
+            "name": "tampa",
+            "sentiment": "none"
+          },
+          {
+            "name": "washington/new york",
+            "sentiment": "none"
+          },
+          {
+            "name": "asia",
+            "sentiment": "none"
+          },
+          {
+            "name": "florida",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-07T14:13:26.680+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "9fca77c3ce9367895561dbbbe0fe181458d84dc2",
+        "url": "http://omgili.com/ri/jHIAmI4hxg.ou.sO8L4SDandLG5aUITdzGKD8.t.bLQKuPpq8bP1wuIMIFSwXbTv0vZ_aFe3ZXvgshQ9mKc6URrmN3RvFTIa",
+        "site_full": "www.philly.com",
+        "site": "philly.com",
+        "site_section": "",
+        "site_categories": [
+          "news"
+        ],
+        "section_title": "",
+        "title": "UPDATE 6-Trump on Boeing's Air Force One contract: 'Cancel order!'",
+        "title_full": "UPDATE 6-Trump on Boeing's Air Force One contract: 'Cancel order!'",
+        "published": "2016-12-07T04:59:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.206,
+        "main_image": "http://media.philly.com/designimages/pcom-FB-2048.png",
+        "performance_score": 0,
+        "domain_rank": 3314,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "9fca77c3ce9367895561dbbbe0fe181458d84dc2",
+      "url": "http://omgili.com/ri/jHIAmI4hxg.ou.sO8L4SDandLG5aUITdzGKD8.t.bLQKuPpq8bP1wuIMIFSwXbTv0vZ_aFe3ZXvgshQ9mKc6URrmN3RvFTIa",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-12-07T04:59:00.000+02:00",
+      "title": "UPDATE 6-Trump on Boeing's Air Force One contract: 'Cancel order!'",
+      "text": "UPDATE 6-Trump on Boeing's Air Force One contract: 'Cancel order!' Updated: December 6, 2016 — 4:59 PM EST Share \n(Updates with Air Force statement) \nBy Phil Stewart and Amy Tennery \nWASHINGTON/NEW YORK, Dec 6 (Reuters) - U.S. President-elect Donald Trump urged the government on Tuesday to cancel an order with Boeing Co for a revamped Air Force One - a prominent symbol of the U.S. presidency - complaining that costs were out of control. \nIt was the latest example of Trump using his podium, often via brief Twitter messages, to rattle companies and foreign countries as he seeks to shake up business as usual in Washington. Trump, who takes office on Jan. 20, took aim at what he called cost overruns even though the plane is only in development stages. \n\"Boeing is building a brand new 747 Air Force One for future presidents, but costs are out of control, more than $4 billion. Cancel order!\" Trump said on Twitter. It was not immediately clear what prompted the timing of his complaint. \nTrump, who has vowed to use his skills as a businessman to make good deals that benefit American taxpayers, then made a surprise appearance in the lobby of Trump Tower in New York, where he amplified his comments. \n\"The plane is totally out of control. I think it's ridiculous. I think Boeing is doing a little bit of a number. We want Boeing to make a lot of money but not that much money,\" he told reporters. \nBoeing, which has built planes for U.S. presidents since 1943, has not yet begun building the two replacements for the current Air Force One planes, which are scheduled to be in service by 2024. \nBoeing has not yet been awarded the money to build the proposed replacements. \n\"We are currently under contract for $170 million to help determine the capabilities of these complex military aircraft that serve the unique requirements of the President of the United States,\" the company said in a statement. \nNOT A 'VANILLA' JUMBO JET \nThe U.S. Air Force, which operates the presidential planes, first announced in January 2015 that Boeing's 747-8 would be used to replace the two current presidential planes. \nThe planes can fly direct from Washington to Hong Kong, 1,000 miles (1,600 km) farther than the current Air Force One. They are designed to be an airborne White House able to fly in worst-case security scenarios, such as nuclear war. \nPresident Barack Obama, who was flying on the aging Air Force One to Tampa, Florida, on Tuesday, has called the plane one of the best perks of the presidency. \nThe Air Force said in a statement that it had budgeted $2.7 billion in the coming year for the initial stage of the project involving research, development, testing and evaluation. \nThe current Air Force plan envisions extensive modifications to a Boeing 747-8, including military avionics, advanced communications and a self-defense system, according to budget documents seen by Reuters. \n\"Of course it's not like buying a vanilla Boeing jumbo jet,\" said defense consultant Loren Thompson, who has close ties to Boeing and other companies. \nA March report from the Government Accountability Office, the investigative arm of Congress, estimated the cost of the overall program at $3.21 billion, including the purchase of two aircraft. \nBut the GAO estimated the costs for research and development would be would be low, at just under $2 billion. If the GAO report used the same Air Force estimate for research and development, then its estimate would be around $4 billion. \nBoeing shares dipped after Trump's tweet but were flat at the end of the trading day. \nHIS OWN PLANE \nTrump is known for his love of his own Boeing 757 jet. In a 2015 Rolling Stone profile, he said his plane was \"bigger than Air Force One, which is a step down from this in every way.\" \n\"Did you know it was featured on the Discovery Channel as the world's most luxurious jetliner?\" he said. \nTrump's broadside against Boeing comes as Washington's business lobbyists are bracing for a wild ride. \nA New York real estate developer, Trump took aim at big corporations during his campaign, saying that they often harm ordinary Americans by sending jobs abroad. \nSince winning the Nov. 8 election he has taken credit for pushing United Technologies Corp and Ford Motor Co to backtrack on outsourcing plans. \nBoth Ford and United Technologies said they support Trump's efforts to cut corporate tax rates and overhaul regulations, which could save the companies billions in the long run. \nTrump's attack on Boeing was the main topic of discussion at the annual luncheon of the Aerospace Industries Association on Tuesday, where the group's CEO Dave Melcher urged the new administration to promote trade and bolster the high-paying manufacturing jobs that the $143 billion a year sector offers. \nIndustry executives say they are seeing willingness from the Trump team to take another look at export controls that limit exports of U.S. weapons. But in the short term, his tweets and comments on Boeing put defense contractors on notice. \n\"The chilling effect on industry is huge, if you are a contractor,\" said Franklin Turner, a partner specializing in government contracts at law firm McCarter & English. \nBoeing relies on the U.S. military and other arms of the federal government for a significant share of its defense, space and security business which is worth $30 billion a year. \nThe company clashed during the past year with Republicans in Congress over the Export-Import Bank, a federal program Boeing uses to finance sales to certain overseas customers. Boeing executives have also been outspoken supporters of the Trans-Pacific Partnership trade deal with Asia, which Trump opposed. \n(Additional reporting by Timothy Gardner, Emily Stephenson, Mike Stone, Susan Heavey, Andrea Shalal and Doina Chiacu in Washington; Ayesha Rascoe aboard Air Force One; Steve Holland, Alana Wise, Jeffrey Dastin, and Lewis Krauskopf in New York; Writing by Roberta Rampton; Editing by Frances Kerry and Alistair Bell) More Coverage ",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "roberta rampton",
+            "sentiment": "none"
+          },
+          {
+            "name": "franklin turner",
+            "sentiment": "none"
+          },
+          {
+            "name": "donald trump",
+            "sentiment": "none"
+          },
+          {
+            "name": "trump",
+            "sentiment": "none"
+          },
+          {
+            "name": "barack obama",
+            "sentiment": "none"
+          },
+          {
+            "name": "alana wise",
+            "sentiment": "none"
+          },
+          {
+            "name": "loren thompson",
+            "sentiment": "none"
+          },
+          {
+            "name": "timothy gardner",
+            "sentiment": "none"
+          },
+          {
+            "name": "jeffrey dastin",
+            "sentiment": "none"
+          },
+          {
+            "name": "steve holland",
+            "sentiment": "none"
+          },
+          {
+            "name": "alistair bell",
+            "sentiment": "none"
+          },
+          {
+            "name": "mike stone",
+            "sentiment": "none"
+          },
+          {
+            "name": "lewis krauskopf",
+            "sentiment": "none"
+          },
+          {
+            "name": "amy tennery",
+            "sentiment": "none"
+          },
+          {
+            "name": "susan heavey",
+            "sentiment": "none"
+          },
+          {
+            "name": "frances kerry",
+            "sentiment": "none"
+          },
+          {
+            "name": "dave melcher",
+            "sentiment": "none"
+          },
+          {
+            "name": "emily stephenson",
+            "sentiment": "none"
+          },
+          {
+            "name": "doina chiacu",
+            "sentiment": "none"
+          },
+          {
+            "name": "phil stewart",
+            "sentiment": "none"
+          },
+          {
+            "name": "andrea shalal",
+            "sentiment": "none"
+          },
+          {
+            "name": "ayesha rascoe",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "boeing",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "aerospace industries association",
+            "sentiment": "none"
+          },
+          {
+            "name": "export-import bank",
+            "sentiment": "none"
+          },
+          {
+            "name": "trump",
+            "sentiment": "none"
+          },
+          {
+            "name": "government accountability office",
+            "sentiment": "none"
+          },
+          {
+            "name": "ford motor co",
+            "sentiment": "none"
+          },
+          {
+            "name": "congress",
+            "sentiment": "none"
+          },
+          {
+            "name": "united technologies",
+            "sentiment": "none"
+          },
+          {
+            "name": "reuters",
+            "sentiment": "none"
+          },
+          {
+            "name": "ford",
+            "sentiment": "none"
+          },
+          {
+            "name": "gao",
+            "sentiment": "none"
+          },
+          {
+            "name": "boeing co",
+            "sentiment": "none"
+          },
+          {
+            "name": "u.s. air force",
+            "sentiment": "none"
+          },
+          {
+            "name": "white house",
+            "sentiment": "none"
+          },
+          {
+            "name": "air force",
+            "sentiment": "none"
+          },
+          {
+            "name": "united technologies corp",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "united states",
+            "sentiment": "none"
+          },
+          {
+            "name": "hong kong",
+            "sentiment": "none"
+          },
+          {
+            "name": "new york",
+            "sentiment": "none"
+          },
+          {
+            "name": "washington",
+            "sentiment": "none"
+          },
+          {
+            "name": "u.s.",
+            "sentiment": "none"
+          },
+          {
+            "name": "trump tower",
+            "sentiment": "none"
+          },
+          {
+            "name": "tampa",
+            "sentiment": "none"
+          },
+          {
+            "name": "washington/new york",
+            "sentiment": "none"
+          },
+          {
+            "name": "asia",
+            "sentiment": "none"
+          },
+          {
+            "name": "florida",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-07T14:13:57.747+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "1406ffb4a4b393d07e363cd43f210ab5f8386537",
+        "url": "http://omgili.com/ri/jHIAmI4hxg..9GyZPPywdZj_tjASnmJPkxRVMcZI4jjS9bqEASXdtpntuZM21asWfN07ncRunYU0OFOgMx87B0H2xYtW7KndxRPy6VKFoq7Xd_wMwAjIxuqlTHxCedYAYHbtOadd83nGTqTtzsmy0g--",
+        "site_full": "www.rawstory.com",
+        "site": "rawstory.com",
+        "site_section": "http://feeds.feedburner.com/TheRawStory",
+        "site_categories": [
+          "news",
+          "education"
+        ],
+        "section_title": "Raw Story",
+        "title": "Trump defends his comments on Boeing, sees markets going up: NBC interview",
+        "title_full": "Trump defends his comments on Boeing, sees markets going up: NBC interview",
+        "published": "2016-12-07T15:32:36.708+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://www.rawstory.com/wp-content/uploads/2016/12/Screen-Shot-2016-12-07-at-8.23.11-AM-800x430.png",
+        "performance_score": 0,
+        "domain_rank": 2437,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "1406ffb4a4b393d07e363cd43f210ab5f8386537",
+      "url": "http://omgili.com/ri/jHIAmI4hxg..9GyZPPywdZj_tjASnmJPkxRVMcZI4jjS9bqEASXdtpntuZM21asWfN07ncRunYU0OFOgMx87B0H2xYtW7KndxRPy6VKFoq7Xd_wMwAjIxuqlTHxCedYAYHbtOadd83nGTqTtzsmy0g--",
+      "ord_in_thread": 0,
+      "author": "Reuters",
+      "published": "2016-12-07T15:32:36.708+02:00",
+      "title": "Trump defends his comments on Boeing, sees markets going up: NBC interview",
+      "text": "Donald Trump at Trump Tower (Photo: Screen capture) Don't miss stories. Follow Raw Story! Follow @rawstory \nDonald Trump said companies should welcome his actions because they will prosper under his administration, the U.S. President-elect told NBC on Wednesday, one day after Boeing Co’s shares took a hit when he used Twitter to criticize one of its high-profile projects. \nTrump said he spoke with the head of Boeing on Tuesday about the cost of its work regarding new presidential planes, and “we’re going to work it out.” He added: “That’s what I’m here for. I’m going to negotiate prices.” \nTrump added that markets should welcome his actions. “I don’t know…how people are unnerved. It’s just the opposite. Frankly, I think we’re going to go up.” \n(Reporting by Susan Heavey and Doina Chiacu) \nWatch the video below via NBC: About the Author Reuters.com brings you the latest news from around the world, covering breaking news in business, politics, technology, and more. Next on Raw Story >",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "donald trump",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "trump",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "susan heavey",
+            "sentiment": "none"
+          },
+          {
+            "name": "doina chiacu",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "nbc",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "boeing",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "boeing co",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "trump tower",
+            "sentiment": "none"
+          },
+          {
+            "name": "u.s.",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-07T15:32:36.708+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "6ef99eb81c54337835b918d216e393b48184affb",
+        "url": "http://omgili.com/ri/2wGaacqxApvQboY7on5a1l9L3GcBODsgg0QtL0JzN42dstbhyvXj.vUh0ZQBk_AH.83HD2GYXx5VlTP6KDCdT_D_ZRVHQltlixUUry7JnwEaNDHsewlv3SvQSsEzmr8EMdJMJojeWgI-",
+        "site_full": "markets.financialcontent.com",
+        "site": "financialcontent.com",
+        "site_section": "http://finance.dailyherald.com/dailyherald/action/rssfeed?ChannelID=3242",
+        "site_categories": [
+          "finance",
+          "business"
+        ],
+        "section_title": "Reuters: Business News",
+        "title": "Trump defends his comments on Boeing, sees markets going up: NBC interview",
+        "title_full": "Trump defends his comments on Boeing, sees markets going up: NBC interview",
+        "published": "2016-12-07T15:41:59.685+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 86243,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "6ef99eb81c54337835b918d216e393b48184affb",
+      "url": "http://omgili.com/ri/2wGaacqxApvQboY7on5a1l9L3GcBODsgg0QtL0JzN42dstbhyvXj.vUh0ZQBk_AH.83HD2GYXx5VlTP6KDCdT_D_ZRVHQltlixUUry7JnwEaNDHsewlv3SvQSsEzmr8EMdJMJojeWgI-",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-12-07T15:41:59.685+02:00",
+      "title": "Trump defends his comments on Boeing, sees markets going up: NBC interview",
+      "text": "  08:17 AM EST Trump defends his comments on Boeing, sees markets going up: NBC interview WASHINGTON (Reuters) - Donald Trump said companies should welcome his actions because they will prosper under his administration, the U.S. President-elect told NBC on Wednesday, one day after Boeing Co's shares took a hit when he used Twitter to criticize one of its high-profile projects.",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "trump",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "donald trump",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "nbc",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "boeing",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "boeing co",
+            "sentiment": "none"
+          },
+          {
+            "name": "reuters",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "washington",
+            "sentiment": "none"
+          },
+          {
+            "name": "u.s.",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-07T15:41:59.685+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "116379bd9d4864cf8d63b779f03a97975f2e0377",
+        "url": "http://omgili.com/ri/jHIAmI4hxg90XV3OsZ1yecjVXH0razWUF0fjqN7wiOIWP6Kcasjb1Pdv7IdMGMIRGbV4NpwbsKYResHoDAqoF2yQytmF3QM5clC79O_IzrqsN7rDqoY_uKcfC.1OryHQkWma29wBrRSGhLXfWNpBYaFHZVlECWmpN3U1sb10yX4vOhKtiJy8kw--",
+        "site_full": "www.channelnewsasia.com",
+        "site": "channelnewsasia.com",
+        "site_section": "http://www.channelnewsasia.com/flipboard.xml",
+        "site_categories": [
+          "news",
+          "entertainment"
+        ],
+        "section_title": "Channel NewsAsia",
+        "title": "Trump defends his comments on Boeing, sees markets going up: NBC interview",
+        "title_full": "Trump defends his comments on Boeing, sees markets going up: NBC interview",
+        "published": "2016-12-07T15:51:47.904+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://www.channelnewsasia.com/image/3349566/1481116836000/large16x9/640/360/u-s-president-elect-donald-trump-speaks-at-a-usa-thank-you-tour.jpg",
+        "performance_score": 0,
+        "domain_rank": 6036,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "116379bd9d4864cf8d63b779f03a97975f2e0377",
+      "url": "http://omgili.com/ri/jHIAmI4hxg90XV3OsZ1yecjVXH0razWUF0fjqN7wiOIWP6Kcasjb1Pdv7IdMGMIRGbV4NpwbsKYResHoDAqoF2yQytmF3QM5clC79O_IzrqsN7rDqoY_uKcfC.1OryHQkWma29wBrRSGhLXfWNpBYaFHZVlECWmpN3U1sb10yX4vOhKtiJy8kw--",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-12-07T15:51:47.904+02:00",
+      "title": "Trump defends his comments on Boeing, sees markets going up: NBC interview",
+      "text": "A \nWASHINGTON: Donald Trump said companies should welcome his actions because they will prosper under his administration, the U.S. President-elect told NBC on Wednesday, one day after Boeing Co's shares took a hit when he used Twitter to criticize one of its high-profile projects. \nTrump said he spoke with the head of Boeing on Tuesday about the cost of its work regarding new presidential planes, and \"we're going to work it out.\" He added: \"That's what I'm here for. I'm going to negotiate prices.\" \nTrump added that markets should welcome his actions. \"I don't know...how people are unnerved. It's just the opposite. Frankly, I think we're going to go up.\" \n(Reporting by Susan Heavey and Doina Chiacu) - Reuters",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "donald trump",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "trump",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "susan heavey",
+            "sentiment": "none"
+          },
+          {
+            "name": "doina chiacu",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "nbc",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "boeing",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "boeing co",
+            "sentiment": "none"
+          },
+          {
+            "name": "reuters",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "washington",
+            "sentiment": "none"
+          },
+          {
+            "name": "u.s.",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-07T15:51:47.904+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "2a7ff0f96aeb51ee4fe773b2ded4a5acd8994618",
+        "url": "http://omgili.com/ri/2wGaacqxApvQboY7on5a1l9L3GcBODsgg0QtL0JzN42dstbhyvXj.vUh0ZQBk_AH.83HD2GYXx75hFhOajs4dGV4Mf.BpmUlHMJ61ivJifayJvWGptwtZHMTJsLSZmZjVp65gLGEDSE-",
+        "site_full": "markets.financialcontent.com",
+        "site": "financialcontent.com",
+        "site_section": "http://stocks.investingdaily.com/investingdaily/action/rssfeed?ChannelID=6719",
+        "site_categories": [
+          "finance",
+          "business"
+        ],
+        "section_title": "Reuters: Company News",
+        "title": "Trump defends his comments on Boeing, sees markets going up -NBC interview",
+        "title_full": "Trump defends his comments on Boeing, sees markets going up -NBC interview",
+        "published": "2016-12-07T16:23:00.120+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 86243,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "2a7ff0f96aeb51ee4fe773b2ded4a5acd8994618",
+      "url": "http://omgili.com/ri/2wGaacqxApvQboY7on5a1l9L3GcBODsgg0QtL0JzN42dstbhyvXj.vUh0ZQBk_AH.83HD2GYXx75hFhOajs4dGV4Mf.BpmUlHMJ61ivJifayJvWGptwtZHMTJsLSZmZjVp65gLGEDSE-",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-12-07T16:23:00.120+02:00",
+      "title": "Trump defends his comments on Boeing, sees markets going up -NBC interview",
+      "text": "  08:11 AM EST Trump defends his comments on Boeing, sees markets going up -NBC interview WASHINGTON, Dec 7 (Reuters) - Donald Trump said companies should welcome his actions because they will prosper under his administration, the U.S. President-elect told NBC on Wednesday, one day after Boeing Co's shares took a hit when he used Twitter to criticize one of its high-profile projects.",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "trump",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "donald trump",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "nbc",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "boeing",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "boeing co",
+            "sentiment": "none"
+          },
+          {
+            "name": "reuters",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "washington",
+            "sentiment": "none"
+          },
+          {
+            "name": "u.s.",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-07T16:23:00.120+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "e807b1e7ed70686b2de16b03f68f082844a1fd49",
+        "url": "http://omgili.com/ri/vkc1Z8ITDMvk_LtskrSKndhtxLwqxMZg9gUo5OBOiEixSO5MH6Ie9MVNeMOv8Zyq",
+        "site_full": "video.cnbc.com",
+        "site": "cnbc.com",
+        "site_section": "http://www.cnbc.com/id/100004038/device/rss/rss.html",
+        "site_categories": [
+          "business"
+        ],
+        "section_title": "Latest Video",
+        "title": "Boeing to work on controlling Air Force One costs",
+        "title_full": "Boeing to work on controlling Air Force One costs",
+        "published": "2016-12-07T21:00:31.368+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2016/12/07/104152287-4ED1-SOTS-LebeauBoeing-J-120716.600x400.jpg",
+        "performance_score": 0,
+        "domain_rank": 767,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "e807b1e7ed70686b2de16b03f68f082844a1fd49",
+      "url": "http://omgili.com/ri/vkc1Z8ITDMvk_LtskrSKndhtxLwqxMZg9gUo5OBOiEixSO5MH6Ie9MVNeMOv8Zyq",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-12-07T21:00:31.368+02:00",
+      "title": "Boeing to work on controlling Air Force One costs",
+      "text": "Boeing to work on controlling Air Force One costs 3 Hours Ago CNBC's Phil LeBeau reports the latest on the Air Force One replacement order from Boeing and President-elect Donald Trump's tweet about the costs.",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "phil lebeau",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "donald trump",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "cnbc",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "air force",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "boeing",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "air force one",
+            "sentiment": "neutral"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-12-07T21:00:31.368+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "23d2cd298ef7e207c0fa0fdaaa70e4b28a0d7e62",
+        "url": "http://omgili.com/ri/.wHSUbtEfZRYAL0cN0EkN2Y.3ZOZVLqFJNCcfQ1W58SKmiYXGgQENXs.KTKpd1jNNA7RT9LkMDFlSck1Be1sDpYDvrjC1pCGBIhwulOdbxg-",
+        "site_full": "uk.news.yahoo.com",
+        "site": "yahoo.com",
+        "site_section": "https://uk.finance.yahoo.com/news/topic-top-stories/?format=rss",
+        "site_categories": [
+          "news"
+        ],
+        "section_title": "Top stories from Yahoo! Finance UK",
+        "title": "Boeing promises Trump to control costs on Air Force One",
+        "title_full": "Boeing promises Trump to control costs on Air Force One",
+        "published": "2016-12-07T22:55:05.797+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "https://s.yimg.com/bt/api/res/1.2/5zbVJBjnwzuJ3cjN7.Kq_g--/YXBwaWQ9eW5ld3NfbGVnbztpbD1wbGFuZTtxPTc1O3c9NjAw/http://globalfinance.zenfs.com/images/UK_AFTP_AFP_LIVE_1/a36706e80a6d12f961a11f46cf0900e19aa09336_original.jpg",
+        "performance_score": 0,
+        "domain_rank": 5,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "23d2cd298ef7e207c0fa0fdaaa70e4b28a0d7e62",
+      "url": "http://omgili.com/ri/.wHSUbtEfZRYAL0cN0EkN2Y.3ZOZVLqFJNCcfQ1W58SKmiYXGgQENXs.KTKpd1jNNA7RT9LkMDFlSck1Be1sDpYDvrjC1pCGBIhwulOdbxg-",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-12-07T22:55:05.797+02:00",
+      "title": "Boeing promises Trump to control costs on Air Force One",
+      "text": "Tip : Use comma (,) to separate multiple quotes. Learn more... \nWed, Dec 7, 2016, 20:52 GMT - UK Markets closed Boeing promises Trump to control costs on Air Force One AFP – 1 hour 18 minutes ago View Photo \n\nBoeing (NYSE: BA - news ) has pledged to control costs on the redesign of Air Force One after President-elect Donald Trump blasted the aerospace giant for the ballooning expenses, a company spokesman said Wednesday. \nBoeing chief executive Dennis Muilenburg reassured Trump in a phone call Tuesday night about its commitment to keeping a tight rein on costs for the presidential plane, after the president-elect earlier in the day tweeted that the price tag was \"out of control.\" \n\"Muilenburg congratulated Mr. Trump on his election win and committed to working with the new administration to control costs as they establish requirements for the new Air Force One to keep the program as affordable as possible and deliver the best value to American taxpayers,\" a Boeing spokesman told AFP. \nMuilenburg's conversation with the president-elect came after Trump took to Twitter Tuesday morning and threatened to cancel the Air Force One contract, saying costs had ballooned to $4 billion. \nBoeing has not directly addressed Trump's statement, but said Tuesday it has a $170 million contract \"to help determine the capabilities of these complex military aircraft that serve the unique requirements of the President of the United States.\" \nTrump took a tough line with Boeing, as he has with other companies that draw his ire. \n\"If we don't get the prices down, we're not going to order them, we'll stay with what we have.\" the president-elect told the \"Today\" show broadcast Wednesday morning. \nThe legendary Air Force One jets -- light blue and white liveried, with \"United States of America\" emblazoned on the fuselage and an American flag on the tail -- are a powerful symbol of US might, but the current models are nearing the end of their 30-year lifespan. \nThe planes are equipped with numerous security and defensive measures, most of which are top secret, as well as the ability to refuel in flight. \nThough he has frequently singled out particular companies for criticism, Trump's latest attack-by-tweet came an hour after the Chicago Tribune posted an article on its website quoting Muilenburg expressing concern about the president-elect's protectionist bent, and noting the firm's growing business with China. \nIt was unclear if Trump was aware of Muilenburg's comments before his outburst, but several US media were raising the possibility of a connection. The pope says spreading fake news is like a fetish for �� Quartz - 1 hour 53 minutes ago Pope Francis said today that spreading false news and trying to smear politicians was “probably the greatest damage that the media can do.” Using exceptionally strong language, he used the word “coprophilia”, which means arousal from excrement, and … More » Fitbit is acquiring Kickstarter darling Pebble to keep afloat Quartz - 2 hours 37 minutes ago Just like its users, Fitbit is trying to stay healthy. Fitbit announced Dec. 7 that it had acquired technology and personnel from Pebble. The former Kickstarter-funded company announced on its own site that it would shut down as a result of the … More » A killer week for European stocks showed no signs of slowing on Wednesday Business Insider UK Finance - 4 hours ago Stocks across Europe charged on Wednesday as optimism over the future returned to the continent's financial sector ahead of a crucial European Central Bank meeting on Thursday. The European Central Bank's governing council will hold its December … More » African countries are finally rejecting cheap substandard fuel from Europe Quartz - 4 hours ago After years of inadvertently serving as dumping grounds for dirty diesel fuels deemed too toxic for Europe, five African countries—Nigeria, Benin, Togo, Ghana, and Ivory Coast—have decided to raise their fuel quality standards. The move is in … More » A high-speed train line in France could spell the end of Chanel No. 5 Quartz - 4 hours ago Chanel No. 5, a staple of vanities around the world for nearly a century, is in danger. Chanel, the fabled fashion house, is warning that state-owned railway company SNCF’s plans for a high-speed train line through a stretch of flower fields in … More » An eye full of sky: a spectacular £4 million Georgian house conversion, complete with retractable roof 5 hours ago \nBehind the elegant facade of a row of fine Georgian houses lies a truly jaw-dropping renovation. Located in the heart of Clerkenwell in London, the six bedroom property has been converted to feature a wonderful rear extension with retractable glazed Deutsche Bank suspends interest-rate trader for using WhatsApp Business Insider UK Finance - 5 hours ago A Deutsche Bank rates trader has been suspended after asking a trading counterparty to join a WhatsApp group, according to a source familiar with the matter. The WhatsApp group was formed to discuss views on interest rates, the person said. A … More » Slow and rude staff means 7 out of 10 shoppers vow never to return to high street stores after 'nightmare' experience Yahoo Finance UK - 6 hours ago Poor customer service could be stalling a revival on the high street, with seven out of ten shoppers vowing never to return to a particular store after a nightmare experience with staff. … More » Shell Makes Cuts to Boost Returns Morningstar UK - 7 hours ago With the BG acquisition in the books, Shell (RDSB) is embarking on the necessary steps to compete in a world of $60 a barrel oil. Like the rest of the integrated group, Shell is working to reduce its cost base, which has become bloated during the … More » South Sudan has deported a journalist who reported on ethnic violence in the world’s youngest country Quartz - 7 hours ago Justin Lynch, a reporter who has reported on ethnic violence amid the conflict in the world’s youngest country, South Sudan, was arrested and deported by the country’s state security agents, he reported on Twitter. Lynch said the officials didn’t … More » Definitive data on what poor people buy when they’re just given cash Quartz - 7 hours ago It is increasingly common for governments to give poor people money. Rather than grant services or particular goods to those in poverty, such as food or housing, governments have found that it is more effective and efficient to simply hand out cash. … More » Barclays lines up Debenhams chairman Cheshire to head UK bank Sky News - 7 hours ago Barclays is lining up Sir Ian Cheshire to lead its new ring-fenced UK bank as it prepares to adopt a new regulatory framework designed to insulate taxpayers in the event of a future financial crisis. … More » Do you know your APR from your AMC? Baffled Britons 'missing out on millions' over confusing financial jargon Yahoo Finance UK - 8 hours ago Baffled Brits could be missing out on millions of pounds as they cannot get their heads around financial jargon. Research shows common financial jargon such as ‘asset management’, ‘equities’ and ‘offshoring’ leave the majority of Brits confused. … More » Just crackers! Here's a Christmas hamper for £20,000 - and 11 (more affordable) others to tempt you 8 hours ago \nStuck for something to buy auntie Heather and uncle Terry? Then a Christmas hamper could be the answer. Most leading stores have a huge range of hampers packed with everything from booze to puddings to suit every budget – from the downright The newest high-tech prediction from the Google executive who foresaw the rise of mobile and the cloud Quartz - 8 hours ago Ray Kurzweil is one of those people whose name is often attended by the vague title “futurist.” An accomplished inventor, who in 2012 became a director of engineering at Google focused on machine learning, he’s well-known for the many predictions … More » EU slaps three banks with $520m in fines for price collusion Sky News - 8 hours ago Three major banks, including HSBC, have been fined a combined $520m (£413m) by EU regulators for alleged price collusion ahead of the financial crisis. The competition commissioner Margrethe Vestager said ... … More » JPMorgan is taking a $200 million hit after its new credit card went overboard with the rewards Quartz - 10 hours ago JPMorgan Chase’s coveted new credit card is putting a dent in the company’s profits. CEO Jamie Dimon told investors at a conference on Dec. 6 the Chase Sapphire Reserve, which was released this summer, will lower the company’s profit by $200 million … More » New year, new you? Here are the best companies to work for in the UK, as voted for by employees Yahoo Finance UK - 12 hours ago Top for the second year in a row is online travel site Expedia. It beat chip maker ARM into second, with heating service and engineering firm HomeServe UK in third. The rankings are based on anonymous reviews and feedback from real employees of … More » A Johannesburg company will build Africa’s first homegrown smartphones Quartz - 12 hours ago Johannesburg-based Onyx Connect is betting on local talent to build affordable Android-based smartphones for the African market after inking a software licensing deal with Google. After receiving a 150-million rand ($11 million) investment from … More » Brace yourself: the most disruptive phase of globalization is just beginning Quartz - 12 hours ago To properly understand globalization, you need to start 200,000 years ago. Richard Baldwin skillfully takes on this daunting task in a new book, starting all the way back with the hunter-gatherers. For too long, he says, traditional analysis of … More » Citi is being investigated for its role in the pound's 'flash crash' Business Insider UK Finance - 13 hours ago Citi's Japanese trading operation is being closely investigated by the Bank of England for its role in October's \"flash crash\" of the pound, the Financial Times reports. The report claims that while Citi did not start the crash, its Japanese … More » Steelworkers' union hopeful of a Tata deal to secure jobs Sky News - 13 hours ago A union representing steelworkers in Port Talbot says it is confident a deal will be reached in principle with Tata Group today, securing thousands of jobs and investment. There has been uncertainty in the town since the plant was put up for sale … More » 10 things you need to know in markets today Business Insider UK Finance - 14 hours ago Masayoshi Son, the CEO of the Japanese telecom SoftBank, announced Tuesday that his company will invest $50 billion (£39.5 billion) and bring 50,000 jobs to the US after he met with President-elect Donald Trump. According to The Wall Street Journal, … More » Schroders adds BAE and Google chiefs to board after pay revolt Sky News - Tue, Dec 6, 2016 20:02 GMT The FTSE-100 asset manager Schroders (Frankfurt: 929969 - news) will this week name executives from the defence and technology sectors to its board as it recovers from a bruising shareholder revolt earlier this year. Sky News ‎has learnt that … More » Elon Musk’s Hyperloop wants to solve India’s railway problem Quartz - Tue, Dec 6, 2016 18:22 GMT The future of transportation may reach India soon. Hyperloop Transportation Technologies (HTT), an American company that is working on an ultra-fast rail system, is in talks with the Indian government to bring the technology to the country. HTT is … More »",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "trump",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "dennis muilenburg",
+            "sentiment": "none"
+          },
+          {
+            "name": "donald trump",
+            "sentiment": "none"
+          },
+          {
+            "name": "jamie dimon",
+            "sentiment": "none"
+          },
+          {
+            "name": "pope francis",
+            "sentiment": "none"
+          },
+          {
+            "name": "talbot",
+            "sentiment": "none"
+          },
+          {
+            "name": "justin lynch",
+            "sentiment": "none"
+          },
+          {
+            "name": "hyperloop",
+            "sentiment": "none"
+          },
+          {
+            "name": "richard baldwin",
+            "sentiment": "none"
+          },
+          {
+            "name": "masayoshi son",
+            "sentiment": "none"
+          },
+          {
+            "name": "lynch",
+            "sentiment": "none"
+          },
+          {
+            "name": "heather",
+            "sentiment": "none"
+          },
+          {
+            "name": "terry",
+            "sentiment": "none"
+          },
+          {
+            "name": "ian cheshire",
+            "sentiment": "none"
+          },
+          {
+            "name": "ray kurzweil",
+            "sentiment": "none"
+          },
+          {
+            "name": "margrethe vestager",
+            "sentiment": "none"
+          },
+          {
+            "name": "muilenburg",
+            "sentiment": "none"
+          },
+          {
+            "name": "elon musk",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "boeing",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "sncf",
+            "sentiment": "none"
+          },
+          {
+            "name": "financial times",
+            "sentiment": "none"
+          },
+          {
+            "name": "debenhams",
+            "sentiment": "none"
+          },
+          {
+            "name": "bank of england",
+            "sentiment": "none"
+          },
+          {
+            "name": "expedia",
+            "sentiment": "none"
+          },
+          {
+            "name": "citi",
+            "sentiment": "none"
+          },
+          {
+            "name": "onyx connect",
+            "sentiment": "none"
+          },
+          {
+            "name": "tata group",
+            "sentiment": "none"
+          },
+          {
+            "name": "bg",
+            "sentiment": "none"
+          },
+          {
+            "name": "european central bank",
+            "sentiment": "none"
+          },
+          {
+            "name": "deutsche bank",
+            "sentiment": "none"
+          },
+          {
+            "name": "barclays",
+            "sentiment": "none"
+          },
+          {
+            "name": "shell",
+            "sentiment": "none"
+          },
+          {
+            "name": "united states of america",
+            "sentiment": "none"
+          },
+          {
+            "name": "sky news",
+            "sentiment": "none"
+          },
+          {
+            "name": "jpmorgan",
+            "sentiment": "none"
+          },
+          {
+            "name": "hyperloop transportation technologies",
+            "sentiment": "none"
+          },
+          {
+            "name": "bae",
+            "sentiment": "none"
+          },
+          {
+            "name": "chanel",
+            "sentiment": "none"
+          },
+          {
+            "name": "tata",
+            "sentiment": "none"
+          },
+          {
+            "name": "hsbc",
+            "sentiment": "none"
+          },
+          {
+            "name": "softbank",
+            "sentiment": "none"
+          },
+          {
+            "name": "eu",
+            "sentiment": "none"
+          },
+          {
+            "name": "yahoo finance uk",
+            "sentiment": "none"
+          },
+          {
+            "name": "ba",
+            "sentiment": "none"
+          },
+          {
+            "name": "jpmorgan chase",
+            "sentiment": "none"
+          },
+          {
+            "name": "wall street journal",
+            "sentiment": "none"
+          },
+          {
+            "name": "afp",
+            "sentiment": "none"
+          },
+          {
+            "name": "chicago tribune",
+            "sentiment": "none"
+          },
+          {
+            "name": "air force",
+            "sentiment": "none"
+          },
+          {
+            "name": "chase sapphire reserve",
+            "sentiment": "none"
+          },
+          {
+            "name": "homeserve uk",
+            "sentiment": "none"
+          },
+          {
+            "name": "nyse",
+            "sentiment": "none"
+          },
+          {
+            "name": "google",
+            "sentiment": "none"
+          },
+          {
+            "name": "schroders",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "uk",
+            "sentiment": "none"
+          },
+          {
+            "name": "clerkenwell",
+            "sentiment": "none"
+          },
+          {
+            "name": "united states",
+            "sentiment": "none"
+          },
+          {
+            "name": "ghana",
+            "sentiment": "none"
+          },
+          {
+            "name": "us",
+            "sentiment": "none"
+          },
+          {
+            "name": "nigeria",
+            "sentiment": "none"
+          },
+          {
+            "name": "ivory coast",
+            "sentiment": "none"
+          },
+          {
+            "name": "europe",
+            "sentiment": "none"
+          },
+          {
+            "name": "togo",
+            "sentiment": "none"
+          },
+          {
+            "name": "yahoo finance uk",
+            "sentiment": "none"
+          },
+          {
+            "name": "sudan",
+            "sentiment": "none"
+          },
+          {
+            "name": "frankfurt",
+            "sentiment": "none"
+          },
+          {
+            "name": "johannesburg",
+            "sentiment": "none"
+          },
+          {
+            "name": "london",
+            "sentiment": "none"
+          },
+          {
+            "name": "india",
+            "sentiment": "none"
+          },
+          {
+            "name": "france",
+            "sentiment": "none"
+          },
+          {
+            "name": "cheshire",
+            "sentiment": "none"
+          },
+          {
+            "name": "benin",
+            "sentiment": "none"
+          },
+          {
+            "name": "africa",
+            "sentiment": "none"
+          },
+          {
+            "name": "south sudan",
+            "sentiment": "none"
+          },
+          {
+            "name": "pebble",
+            "sentiment": "none"
+          },
+          {
+            "name": "china",
+            "sentiment": "none"
+          },
+          {
+            "name": "europe quartz",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-07T22:55:05.797+02:00"
+    }
+  ],
+  "totalResults": 20,
+  "moreResultsAvailable": 0,
+  "next": "/search?token=c6052904-f312-436b-a6d8-d915084ac866&format=json&ts=1481144105797&q=language%3A%28english%29+thread.country%3AUS+organization.neutral%3A%22boeing%22",
+  "requestsLeft": 660
+}

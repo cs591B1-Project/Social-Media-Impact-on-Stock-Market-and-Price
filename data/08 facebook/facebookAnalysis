@@ -1,0 +1,23 @@
+from numpy import *
+from operator import truediv
+from ast import literal_eval
+import matplotlib.pyplot as plt
+
+s = [ 120.75, 120.75, 122.150002, 124.220001, 123.18, 
+	120.800003, 119.019997, 119.019997, 119.019997, 115.080002,
+	117.199997, 116.339996, 117.790001, 117.019997, 117.019997, 
+	117.019997, 121.769997, 121.470001, 120.839996, 120.839996, 
+	120.379997, 120.379997, 120.379997, 120.410004, 120.870003, 
+	118.419998, 115.099998, 115.400002, 115.400002, 115.400002]
+
+p = [line.rstrip('\n') for line in open("positive.txt")]
+n = [line.rstrip('\n') for line in open("negative.txt")]
+a = [line.rstrip('\n') for line in open("all.txt")]
+
+pInt = map(int, p)
+nInt = map(int, n)
+nInt[32]  = 0.1
+pn_ratio = map(truediv, pInt,nInt)
+pn_ratio_short = pn_ratio[0:30]
+
+numpy.corrcoef([pn_ratio_short, s])

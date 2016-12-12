@@ -1,0 +1,1754 @@
+{
+  "posts": [
+    {
+      "thread": {
+        "uuid": "4ab62098413eebdfd66e9baed03c25087f9abb88",
+        "url": "http://omgili.com/ri/.0rSU5LtMgz6tqUIJgu8PsECBa0LOHO0qBmGzVWziZr1VN3uGfO9moZez7jY2RBLIkVqLTr58QA8yvRPXHnojp7zl1UXAzXnTIjzdLmMPVo-",
+        "site_full": "fortune.com",
+        "site": "fortune.com",
+        "site_section": "http://fortune.com",
+        "site_categories": [
+          "business"
+        ],
+        "section_title": "This Is How Google Wants Businesses to Make Apps – Fortune",
+        "title": "This Is How Google Wants Businesses to Make Apps",
+        "title_full": "This Is How Google Wants Businesses to Make Apps",
+        "published": "2016-11-30T20:01:09.764+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": null,
+        "performance_score": 3,
+        "domain_rank": 1196,
+        "social": {
+          "facebook": {
+            "likes": 327,
+            "comments": 0,
+            "shares": 327
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 8
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "4ab62098413eebdfd66e9baed03c25087f9abb88",
+      "url": "http://omgili.com/ri/.0rSU5LtMgz6tqUIJgu8PsECBa0LOHO0qBmGzVWziZr1VN3uGfO9moZez7jY2RBLIkVqLTr58QA8yvRPXHnojp7zl1UXAzXnTIjzdLmMPVo-",
+      "ord_in_thread": 0,
+      "author": "Jonathan Vanian",
+      "published": "2016-11-30T20:01:09.764+02:00",
+      "title": "This Is How Google Wants Businesses to Make Apps",
+      "text": "Google is trying to make it easier for people to create apps powered by its suite of business tools and services.\nThe search giant said Wednesday that it made a tool called App Maker that customers of its recently rebranded G Suite lineup of workplace software can use to build their own custom business apps on top of.\nAlthough Google goog already has a tool for coders to build apps on top of its cloud computing service, the new App Maker tool is geared toward low-level developers and not the types of advanced coders making powerful software like Uber's ride-hailing app or Netflix's video service.\nGet Data Sheet , Fortune's technology newsletter. \nApp Maker is essentially a tool that simplifies the process of making a business app, in which a developer with limited experience doesn't have to futz with the underlying code but instead pieces together the various components based on pre-made Google templates. The look of the tool is similar to the types of consumer-oriented website-building software like Adobe adbe Dreamweaver, except tailored to work with Google-sanctioned apps and services.\nThe app is geared towards more developers like those in charge of corporate offices that need to quickly build an internal app for their co-workers, explained Google Cloud vice president of engineering Elissa Murphy .\nGoogle had its own internal tool for building in-house corporate apps for a \"number of years\" but decided last year to make one for its customers, said Ajay Surie, product manager of App Maker. \"Almost every process has an app,\" Surie said of the various apps Google built over the years like one that lets employees book time off from work.\nHow Google’s Pixel Compares to the iPhone 7 \nWith App Maker, Google joins the likes of companies like Microsoft msft and Salesforce crm that have built similar simplified internal app-making tools designed specifically for their own business software services.\nThis effort is part of Google's steady rollout of enterprise features designed to lure more corporate customers and grow its overarching cloud business unit, which includes its cloud computing service, database technologies, and Chromebook laptops.\nThe new tool is only available in a so-called beta period, in which companies can sign up to use it. After Google receives enough input from trial customers, it will debut it to the public, but no time has been set, said Surie.\n ",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "ajay surie",
+            "sentiment": "none"
+          },
+          {
+            "name": "elissa murphy",
+            "sentiment": "none"
+          },
+          {
+            "name": "surie",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "google",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "uber",
+            "sentiment": "none"
+          },
+          {
+            "name": "microsoft",
+            "sentiment": "none"
+          },
+          {
+            "name": "google cloud",
+            "sentiment": "none"
+          },
+          {
+            "name": "netflix",
+            "sentiment": "none"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-11-30T20:01:09.764+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "54905a670c027c80f849101d08cddebd3441cff0",
+        "url": "http://omgili.com/ri/jHIAmI4hxg.aX6RsjGyewXaF650x_J7FQ3_xTZytttTx7TLDeaDdW64chZZNRLbTIajGeMFawRst5PL9erjdILnm2qJyGpHd",
+        "site_full": "www.androidauthority.com",
+        "site": "androidauthority.com",
+        "site_section": "http://www.androidauthority.com",
+        "site_categories": [
+          "news",
+          "tech"
+        ],
+        "section_title": "Android Authority",
+        "title": "Not so hot on coding but want to create an app? Try Google’s App Maker!",
+        "title_full": "Not so hot on coding but want to create an app? Try Google’s App Maker!",
+        "published": "2016-11-30T22:35:42.765+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": null,
+        "performance_score": 5,
+        "domain_rank": 1848,
+        "social": {
+          "facebook": {
+            "likes": 555,
+            "comments": 0,
+            "shares": 555
+          },
+          "gplus": {
+            "shares": 29
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 2
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "54905a670c027c80f849101d08cddebd3441cff0",
+      "url": "http://omgili.com/ri/jHIAmI4hxg.aX6RsjGyewXaF650x_J7FQ3_xTZytttTx7TLDeaDdW64chZZNRLbTIajGeMFawRst5PL9erjdILnm2qJyGpHd",
+      "ord_in_thread": 0,
+      "author": "Brian Reigh",
+      "published": "2016-11-30T22:35:42.765+02:00",
+      "title": "Not so hot on coding but want to create an app? Try Google’s App Maker!",
+      "text": "\nGoogle is adding some important features to its G Suite, including the all new App Maker, which is a low-code application development tool.\nSee also: I want to develop Android Apps – What languages should I learn? July 29, 2016 G Suite is quite literally a suite of Google’s apps, which is particularly useful for businesses. For as low as five dollars a month, you can get professional business email addresses, cloud storage, data migration, online help, etc. And now, Google has added some cool new features to it: App Maker and new partners under “Recommended for G Suite.”\nLet’s get to the exciting part first – the all new App Maker. As you can see from the video above, App Maker is essentially an application development tool that doesn’t require heavy coding. It offers built-in templates and supports popular standards like HTML, CSS, and JavaScript so that you can create a complete app within weeks. Simple and fast.\nApp Maker is essentially an application development tool that doesn’t require heavy coding. It offers built-in templates and supports popular standards like HTML, CSS, and JavaScript so that you can create a complete app within weeks.\nAs Google describes, App Maker has built-in support for G Suite products like Maps, Contacts, and Groups. It also gives you access to other Google Cloud services such as the Directory API and Prediction API as well as third-party APIs. In terms of security, App Maker is built on the same infrastructure as popular Google apps like Gmail or Drive, meaning it is secure.\nWhatever your business needs may be, simply drag and drop and do some simple coding, and you have a fully functioning app. For someone like me, who has very limited knowledge of coding, App Maker might be the perfect tool for creating apps in a fairly straightforward and efficient manner.\nGoogle’s App Maker is available for those enrolled in the Early Adopter Program for G Suite Business. If you are not yet enrolled, you can go here to apply.\nOn top of that, Google has added seven new apps to the Recommended for G Suite program, which lets you use third party apps to manage aspects of your business on G Suite. The new ones are:\nAsana for project & process management DocuSign for eSignature Freshdesk for customer support LumApps for corporate & social portal Virtru for encryption Xero and Zoho Invoice for finance & accounting Are you currently using G Suite? Have you had a chance to play around with App Maker? If so, let us know what you think by leaving a comment below!",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "xero",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "google",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "css",
+            "sentiment": "none"
+          },
+          {
+            "name": "zoho invoice",
+            "sentiment": "none"
+          },
+          {
+            "name": "g suite",
+            "sentiment": "none"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-11-30T22:35:42.765+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "cf0b53e231594f5f62afc4bd7181cef50542fdc1",
+        "url": "http://omgili.com/ri/jHIAmI4hxg8w7niuyAyflFlwVidy6u4LS9kvx0qq_IL81iJXSIfx8eRXvGeFVfcuOx1IOUxXW2XmfFQQocW0tE7.VxdHE1Ji1dcHHMj5EO8OeBPgn7TA0S1VgoheGpBYGQCIz9ti2jQm2YhMuE_fNg--",
+        "site_full": "www.bostonglobe.com",
+        "site": "bostonglobe.com",
+        "site_section": "http://www.bostonglobe.com/",
+        "site_categories": [
+          "news"
+        ],
+        "section_title": "The Boston Globe",
+        "title": "Flag flying, flag burning",
+        "title_full": "Flag flying, flag burning - The Boston Globe",
+        "published": "2016-11-30T02:00:00.000+02:00",
+        "replies_count": 54,
+        "participants_count": 36,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.605,
+        "main_image": "http://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2016/11/28/BostonGlobe.com/Metro/Images/Hart_protest04_met.jpg",
+        "performance_score": 1,
+        "domain_rank": 2402,
+        "social": {
+          "facebook": {
+            "likes": 106,
+            "comments": 0,
+            "shares": 106
+          },
+          "gplus": {
+            "shares": 1
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "cf0b53e231594f5f62afc4bd7181cef50542fdc1",
+      "url": "http://omgili.com/ri/jHIAmI4hxg8w7niuyAyflFlwVidy6u4LS9kvx0qq_IL81iJXSIfx8eRXvGeFVfcuOx1IOUxXW2XmfFQQocW0tE7.VxdHE1Ji1dcHHMj5EO8OeBPgn7TA0S1VgoheGpBYGQCIz9ti2jQm2YhMuE_fNg--",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-11-30T02:00:00.000+02:00",
+      "title": "Flag flying, flag burning",
+      "text": " Google+\nHampshire College\nA demonstration organized by the Amherst VFW on November 27th at the entrance to Hampshire College.\nBy Joan Vennochi Globe Columnist November 30, 2016\nPresident-elect Donald Trump is wrong about flag-burning.\nAnd Hampshire College is wrong about flag-removal.\nAdvertisement\nThe American flag the college took down after it was set on fire in apparent protest over Trump’s election should be replaced and raised high. As the very symbol of a country that allows such protest to take place, it should be honored, not hidden away. If it’s burned again, it should be flown again.\nSo far, much attention has been rightly focused on Trump’s anti-flag-burning attitude; less on Hampshire College’s anti-flag action. With his usual flair for stirring his base while baiting the press, Trump tweeted, “Nobody should be allowed to burn the American flag — if they do, there must be consequences — perhaps loss of citizenship or year in jail!” Since flag-burning is well-established as constitutionally protected free speech, Trump’s tweet riled critics beyond the usual suspects. Even Senate majority leader Mitch McConnell broke with the president-elect, telling a reporter , “The Supreme Court has held that that activity is a protected First Amendment right. In this country, we have a long history of protecting unpleasant speech.”\nGet Today's Headlines in your inbox: The day's top stories delivered every morning Sign Up Thank you for signing up! Sign up for more newsletters here That history as it applies to flag-burning is instructively recounted by Scott Bomboy, editor in chief of the National Constitution Center: In 1984, a man named Gregory Lee Johnson burned a flag at the Republican National Convention in Dallas to protest the two presidential nominees of that election cycle, Ronald Reagan and Walter Mondale. Johnson was arrested, convicted of breaking a state law, sentenced to one year in prison, and ordered to pay a $2,000 fine.\nHis case went to the Supreme Court, and in 1989, the court ruled 5-4 in Johnson’s favor. His actions, the majority said, amounted to symbolic speech. No matter how offensive, he had the right to express it. “The hard fact is that sometimes we must make decisions we do not like,” wrote Justice Anthony Kennedy in a concurring opinion. In response, Congress passed an anti-flag-burning law — which the Supreme Court also struck down in 1990. Trump’s hero, Justice Antonin Scalia, voted with the majority in both flag-burning cases. As Scalia explained at an event a few months prior to his death last February, “If it were up to me, I would put in jail every sandal-wearing, scruffy-bearded weirdo who burns the American flag. But I am not king.”\nNeither is Trump. So for now, the punishment envisioned via tweet by the president-elect amounts to fantasy. Let’s hope it stays that way. Congress could pass another anti-flag-burning law, and a Trump-shaped Supreme Court could uphold it. Or Trump could push a constitutional amendment. Those are legitimate concerns. But taking down the flag, as Hampshire College chose to do, doesn’t change that reality. Hampshire College President Jonathan Lash said removing the flag was not a political statement, but rather was done to de-escalate tensions and promote dialogue. Perhaps, but the dialogue it launched plays to the stereotype of soft, spoiled, overly sensitive college kids who can’t tolerate the idea that democracy delivered a president with whom they disagree. And it generated more tension as hundreds of protestors called for the college to reinstate the flag. Veterans groups are also seeking to cut off federal aid to Hampshire College if the flag doesn’t go back up.\nAdvertisement\nThe flag should go back up and fly as a reminder that it stands for freedom — which includes the freedom to burn it as symbolic speech. As Justice William J. Brennan Jr. said, in the majority opinion for the 1990 case, “Punishing desecration of the flag dilutes the very freedom that makes this emblem so revered and worth revering.”\nBeing against Trump means understanding what he does not about the flag and free speech. That’s the lesson Hampshire College should be teaching its students.\nJoan Vennochi can be reached at vennochi@globe.com . Follow her on Twitter @Joan_Vennochi .",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [
+        "http://www.npr.org/2016/11/29/503719125/trumps-flag-burning-tweet-brings-back-1980s-era-controversy",
+        "http://www.thedailybeast.com/cheats/2016/11/29/mcconnell-trump-s-wrong-about-flag-burning.html?via=desktop&source=copyurl",
+        "http://twitter.com/intent/tweet?text=Trump",
+        "https://plus.google.com/share?url=http%3A%2F%2Fwww.bostonglobe.com%2Fopinion%2F2016%2F11%2F30%2Fflag-flying-flag-burning%2FnVEBJm5h5ongxUHoNt1ZtJ%2Fstory.html%3Fevent%3Devent25%26s_campaign%3dsm_gp%26hl=en-US",
+        "https://www.law.cornell.edu/supremecourt/text/496/310",
+        "http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.bostonglobe.com%2Fopinion%2F2016%2F11%2F30%2Fflag-flying-flag-burning%2FnVEBJm5h5ongxUHoNt1ZtJ%2Fstory.html%3Fevent%3Devent25&title=Trump",
+        "http://twitter.com/Joan_Vennochi",
+        "http://blog.constitutioncenter.org/2016/11/a-history-of-the-flag-burning-controversy/",
+        "http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.bostonglobe.com%2Fopinion%2F2016%2F11%2F30%2Fflag-flying-flag-burning%2FnVEBJm5h5ongxUHoNt1ZtJ%2Fstory.html%3Fevent%3Devent25%3Fevent%3Devent25&tTrump",
+        "http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.bostonglobe.com%2Fopinion%2F2016%2F11%2F30%2Fflag-flying-flag-burning%2FnVEBJm5h5ongxUHoNt1ZtJ%2Fstory.html%3Fevent%3Devent25&t=Trump"
+      ],
+      "entities": {
+        "persons": [
+          {
+            "name": "johnson",
+            "sentiment": "none"
+          },
+          {
+            "name": "joan vennochi",
+            "sentiment": "none"
+          },
+          {
+            "name": "anthony kennedy",
+            "sentiment": "none"
+          },
+          {
+            "name": "mitch mcconnell",
+            "sentiment": "none"
+          },
+          {
+            "name": "ronald reagan",
+            "sentiment": "none"
+          },
+          {
+            "name": "trump",
+            "sentiment": "none"
+          },
+          {
+            "name": "donald trump",
+            "sentiment": "none"
+          },
+          {
+            "name": "william j. brennan jr.",
+            "sentiment": "none"
+          },
+          {
+            "name": "scalia",
+            "sentiment": "none"
+          },
+          {
+            "name": "antonin scalia",
+            "sentiment": "none"
+          },
+          {
+            "name": "walter mondale",
+            "sentiment": "none"
+          },
+          {
+            "name": "scott bomboy",
+            "sentiment": "none"
+          },
+          {
+            "name": "jonathan lash",
+            "sentiment": "none"
+          },
+          {
+            "name": "gregory lee johnson",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "google",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "amherst vfw",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "hampshire college",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "the supreme court",
+            "sentiment": "none"
+          },
+          {
+            "name": "senate",
+            "sentiment": "none"
+          },
+          {
+            "name": "congress",
+            "sentiment": "none"
+          },
+          {
+            "name": "supreme court",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "dallas",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-01T08:23:37.242+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "7f39df5ecc410d3463f8f6e2dd6213f09df7d4f1",
+        "url": "http://omgili.com/ri/jHIAmI4hxg8w7niuyAyflFlwVidy6u4LUYMQKdL.TiNHbXhwks0LtEOcPJI2XdrIDFXoG2nCHPFlsOoqzMmWMa5g6oke4tBWp3zxM7Q6Q.rBLjilPokJw1.z3KEx_2lmaDbzTorB0UyWRbPByELgXM0I.iKyY3BbJfYTHuKMYnQfVSYGoxJkug--",
+        "site_full": "www.bostonglobe.com",
+        "site": "bostonglobe.com",
+        "site_section": "http://www.bostonglobe.com/",
+        "site_categories": [
+          "news"
+        ],
+        "section_title": "The Boston Globe",
+        "title": "Timelapse shows how Boston has evolved over the past 33 years",
+        "title_full": "Timelapse shows how Boston has evolved over the past 33 years - The Boston Globe",
+        "published": "2016-11-30T02:00:00.000+02:00",
+        "replies_count": 8,
+        "participants_count": 9,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.002,
+        "main_image": "http://c.o0bg.com/rw/SysConfig/WebPortal/BostonGlobe/Framework/images/logo-bg.jpg",
+        "performance_score": 3,
+        "domain_rank": 2402,
+        "social": {
+          "facebook": {
+            "likes": 327,
+            "comments": 0,
+            "shares": 327
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 43
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "7f39df5ecc410d3463f8f6e2dd6213f09df7d4f1",
+      "url": "http://omgili.com/ri/jHIAmI4hxg8w7niuyAyflFlwVidy6u4LUYMQKdL.TiNHbXhwks0LtEOcPJI2XdrIDFXoG2nCHPFlsOoqzMmWMa5g6oke4tBWp3zxM7Q6Q.rBLjilPokJw1.z3KEx_2lmaDbzTorB0UyWRbPByELgXM0I.iKyY3BbJfYTHuKMYnQfVSYGoxJkug--",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-11-30T02:00:00.000+02:00",
+      "title": "Timelapse shows how Boston has evolved over the past 33 years",
+      "text": " Google+\nBy Matt Rocheleau Globe Staff November 30, 2016\nGoogle has launched a new feature that gives users a birds-eye view of how the world has changed over the past 33 years.\nThe feature allows users to search or pan to whatever part of the world they want to see — Boston, for example — and it will show a time-lapse of 33 satellite pictures of the selected area — one for each year between 1984 and 2016.\nAdvertisement\nThe feature also lets users zoom in and out and change the speed of the time-lapse.\nIt relies on more than 5 million satellite images acquired over the past three decades from five different satellites, Google said in an online description.\nGet Fast Forward in your inbox: Forget yesterday's news. Get what you need today in this early-morning email. Sign Up Thank you for signing up! Sign up for more newsletters here Below is an example of what a time-lapse of Boston looks like, showing how new development has filled in many parts of the city over the past few decades.\nHere’s a zoomed-in, sped-up version of that:\nGoogle has also highlighted some of the more visually interesting time-lapse spots. Below are some examples:\nAdvertisement\nThe growth of Las Vegas:\nThe coastal expansion of Dubai:\nThe building boom in Chongqing, China:\nThe retreat of Columbia Glacier in Alaska:\nAnd the drying of the Aral Sea in Asia:\nTo access the full interactive feature, click here . But note that Google says it designed the interactive feature for use on desktop browsers. So if you’re on a cellphone or other mobile device, you may not be able to view or interact with it properly.\nMatt Rocheleau can be reached at matthew.rocheleau@globe.com . Follow him on Twitter @mrochele",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [
+        "https://earthengine.google.com/timelapse/#v=42.3381569,-71.0547991,14,latLng&t=3.24",
+        "http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.bostonglobe.com%2Fmetro%2F2016%2F11%2F30%2Ftimelapse-shows-how-boston-has-evolved-over-past-years%2FZELPB4aRbPbnM1SlcDXzKM%2Fstory.html%3Fevent%3Devent25&t=Google",
+        "https://earthengine.google.com/timelapse/",
+        "http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.bostonglobe.com%2Fmetro%2F2016%2F11%2F30%2Ftimelapse-shows-how-boston-has-evolved-over-past-years%2FZELPB4aRbPbnM1SlcDXzKM%2Fstory.html%3Fevent%3Devent25&title=Google",
+        "http://twitter.com/intent/tweet?text=Google",
+        "http://twitter.com/mrochele",
+        "https://plus.google.com/share?url=http%3A%2F%2Fwww.bostonglobe.com%2Fmetro%2F2016%2F11%2F30%2Ftimelapse-shows-how-boston-has-evolved-over-past-years%2FZELPB4aRbPbnM1SlcDXzKM%2Fstory.html%3Fevent%3Devent25%26s_campaign%3dsm_gp%26hl=en-US",
+        "http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.bostonglobe.com%2Fmetro%2F2016%2F11%2F30%2Ftimelapse-shows-how-boston-has-evolved-over-past-years%2FZELPB4aRbPbnM1SlcDXzKM%2Fstory.html%3Fevent%3Devent25%3Fevent%3Devent25&tGoogle"
+      ],
+      "entities": {
+        "persons": [
+          {
+            "name": "matt rocheleau",
+            "sentiment": "neutral"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "google",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "columbia glacier",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "boston",
+            "sentiment": "none"
+          },
+          {
+            "name": "las vegas",
+            "sentiment": "none"
+          },
+          {
+            "name": "dubai",
+            "sentiment": "none"
+          },
+          {
+            "name": "alaska",
+            "sentiment": "none"
+          },
+          {
+            "name": "asia",
+            "sentiment": "none"
+          },
+          {
+            "name": "aral sea",
+            "sentiment": "none"
+          },
+          {
+            "name": "china",
+            "sentiment": "none"
+          },
+          {
+            "name": "chongqing",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-01T08:26:20.857+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "f5fa44e06a9924185f5eb741367b740c5d330647",
+        "url": "http://omgili.com/ri/Mx2PHH_4C21DLZOzR0pV4dsZPAl_3ROfdqKgdNx4QOEZh4jl02wYXtzHfZPNSvjYQe0Nvimm_nyvvBdKSV4ELLq.HhPSo.nc",
+        "site_full": "uproxx.com",
+        "site": "uproxx.com",
+        "site_section": "http://uproxx.com",
+        "site_categories": [
+          "news",
+          "entertainment"
+        ],
+        "section_title": "Real Stories – UPROXX",
+        "title": "You Can Make Amazon Echo And Google Home Talk To Each Other Forever",
+        "title_full": "You Can Make Amazon Echo And Google Home Talk To Each Other Forever",
+        "published": "2016-12-01T14:20:45.183+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": null,
+        "performance_score": 7,
+        "domain_rank": 1966,
+        "social": {
+          "facebook": {
+            "likes": 717,
+            "comments": 0,
+            "shares": 717
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 1
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "f5fa44e06a9924185f5eb741367b740c5d330647",
+      "url": "http://omgili.com/ri/Mx2PHH_4C21DLZOzR0pV4dsZPAl_3ROfdqKgdNx4QOEZh4jl02wYXtzHfZPNSvjYQe0Nvimm_nyvvBdKSV4ELLq.HhPSo.nc",
+      "ord_in_thread": 0,
+      "author": "robopanda",
+      "published": "2016-12-01T14:20:45.183+02:00",
+      "title": "You Can Make Amazon Echo And Google Home Talk To Each Other Forever",
+      "text": "\nEarlier today we were concerned about the coming robopocalypse due to the Atlas robot getting an upgraded balancing algorithm . Well, maybe we can rest a little easier knowing the wiretapping devices — er, consumer entertainment products — in our homes are still dumb as hell.\nAmazon Echo and Google Home are somewhat similar devices, in that they both have a microphone that’s always on, waiting for you to say something incriminating — er, ask it a question, we mean. YouTuber Adam Jakowenko figured out a way to get the two devices caught in a loop, speaking to each other seemingly indefinitely. If that calendar event in question is a daily recurring line item, this could go on for months.\nIt reminds me of that one time when I picked up a toy parrot on an endcap at a store, said “f*ck you” to it, then laughed when it mimicked what I said. Then another parrot on the endcap also repeated “f*ck you” in its high-pitched parrot voice. Then a few other parrots said it. And soon a chain reaction was going of toy parrots saying “f*ck you” back and forth and overlapping like a vulgar Row Row Row Your Boat . About ten minutes later I saw a store employee run past me holding a toy parrot, as the employees were now rushing to separate the foul-mouthed parrots, one at a time. I regret nothing.\n(Via Pleated Jeans )\n",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "youtuber adam jakowenko",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "google",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "amazon echo",
+            "sentiment": "none"
+          },
+          {
+            "name": "google home",
+            "sentiment": "none"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-12-01T14:20:45.183+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "8680fa0f2df73eaa2e82a608821a6d5f279027ef",
+        "url": "http://omgili.com/ri/jHIAmI4hxg.aX6RsjGyewXaF650x_J7FQ3_xTZytttSvrgteh0qpBmUHcAG_RnJEtN.7HTfuuzHTelvQEnlv3_NMJgoPzse.",
+        "site_full": "www.androidauthority.com",
+        "site": "androidauthority.com",
+        "site_section": "http://www.androidauthority.com",
+        "site_categories": [
+          "news",
+          "tech"
+        ],
+        "section_title": "Android Authority",
+        "title": "Black Friday deals gave Google’s Pixel a big boost compared to the iPhone",
+        "title_full": "Black Friday deals gave Google’s Pixel a big boost compared to the iPhone",
+        "published": "2016-12-01T14:25:51.571+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": null,
+        "performance_score": 5,
+        "domain_rank": 1848,
+        "social": {
+          "facebook": {
+            "likes": 549,
+            "comments": 0,
+            "shares": 549
+          },
+          "gplus": {
+            "shares": 18
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 2
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "8680fa0f2df73eaa2e82a608821a6d5f279027ef",
+      "url": "http://omgili.com/ri/jHIAmI4hxg.aX6RsjGyewXaF650x_J7FQ3_xTZytttSvrgteh0qpBmUHcAG_RnJEtN.7HTfuuzHTelvQEnlv3_NMJgoPzse.",
+      "ord_in_thread": 0,
+      "author": "Robert Triggs",
+      "published": "2016-12-01T14:25:51.571+02:00",
+      "title": "Black Friday deals gave Google’s Pixel a big boost compared to the iPhone",
+      "text": "\nBlack Friday deals are often good business for tech brands, and this year it’s the Google Pixel that has been one of the major hot sellers. While Apple’s iPhone and Samsung Galaxy S7 ranges were some of the best sellers in terms of raw numbers, the Pixel line-up saw the biggest growth rate out of the bunch, according to data collected by Localytics. This is a another rather sign for Google’s new premium smartphone series.\nIn terms of growth rates, the Pixel boasted a 120 percent boost to device activations during Black Friday, followed by the Galaxy S7 with a 36 percent jump. The iPhone 7 only saw a 13 percent increase, and the 7 Plus model only accounted for 1 percent of that number. Worryingly perhaps for Apple, consumer appetite for grabbing a discounted iPhone 7 is down significantly compared to the iPhone 6S, which saw a 36 percent boost to device activation last year over the Black Friday period.\n\nGiven the Pixel’s high price point compared with previous Google phones, it wouldn’t surprise me if a good number of customers had been waiting for its price to fall before picking one up. Combine this data with numerous reports of stock delays and big sales forecasts this year , and the Pixel is certainly shaping up to be one of Google’s most popular smartphone releases.\nThis data isn’t perfect though, it only reflects the change in sales between Black Friday and the previous weekend, which are usually sedated as customers wait for the deals anyway. The data doesn’t really show any longer term trends either. Not to mention that the Pixel saw much greater discounts than the iPhone, as Apple was only offering a $50 gift card with purchases made over the Thanksgiving weekend.\nStill, at least over the weekend it looks like the Google Pixel was in quite high demand. Did you buy one?",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "localytics",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "google pixel",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "google",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "apple",
+            "sentiment": "none"
+          },
+          {
+            "name": "samsung",
+            "sentiment": "none"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-12-01T14:25:51.571+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "e58d85f01579b6a43f80371a5fab009f8484ef7a",
+        "url": "http://omgili.com/ri/jHIAmI4hxg8w7niuyAyflFlwVidy6u4LUYMQKdL.TiM2kC0RE435XWSPKQZtntOF9ASKjIMPyYr2QrjabpuOPwXcZzWyFYw6kO0Ei_bcpm56OARZY2Esz4B2YcN8fRFk9jgj_FDu3ni9XI1BHZ2MZvSfy.OKWv9rzQ1UFt_0p9l8_cJ5OlCLps3kKfYbRTsa",
+        "site_full": "www.bostonglobe.com",
+        "site": "bostonglobe.com",
+        "site_section": "http://www.bostonglobe.com/",
+        "site_categories": [
+          "news"
+        ],
+        "section_title": "The Boston Globe",
+        "title": "Boston considers changing school start times to save on busing costs",
+        "title_full": "Boston considers changing school start times to save on busing costs - The Boston Globe",
+        "published": "2016-12-01T02:00:00.000+02:00",
+        "replies_count": 11,
+        "participants_count": 11,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.001,
+        "main_image": "http://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2016/04/29/BostonGlobe.com/Metro/Images/300-2623.jpg",
+        "performance_score": 1,
+        "domain_rank": 2402,
+        "social": {
+          "facebook": {
+            "likes": 169,
+            "comments": 0,
+            "shares": 169
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 1
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "e58d85f01579b6a43f80371a5fab009f8484ef7a",
+      "url": "http://omgili.com/ri/jHIAmI4hxg8w7niuyAyflFlwVidy6u4LUYMQKdL.TiM2kC0RE435XWSPKQZtntOF9ASKjIMPyYr2QrjabpuOPwXcZzWyFYw6kO0Ei_bcpm56OARZY2Esz4B2YcN8fRFk9jgj_FDu3ni9XI1BHZ2MZvSfy.OKWv9rzQ1UFt_0p9l8_cJ5OlCLps3kKfYbRTsa",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-12-01T02:00:00.000+02:00",
+      "title": "Boston considers changing school start times to save on busing costs",
+      "text": " Google+\nPat Greenhouse/Globe Staff\nBy James Vaznis Globe Staff December 01, 2016\nMany Boston schools could see their start times change by as much as two hours next fall, under a potential cost-cutting measure that aims to increase the efficiency of the school system’s bus fleet.\nThe changes could create havoc for many families who picked a school based on a start time that accommodates the work schedules of parents, and they come as hundreds of other parents begin picking a new school for next fall. The official registration period begins Jan. 3, while schools will be holding open houses starting Saturday.\nAdvertisement\nSchool officials are contemplating the changes so there is an even distribution of schools among the district’s three start times: 7:30 a.m., 8:30 a.m. and 9:30 a.m. That, in turn, would allow more buses to do three runs instead of two.\nCurrently, three-quarters of the city’s schools that serve students in the lower grades start at 8:30 a.m. or 9:30 a.m., according to a Globe analysis of school department data.\nGet Fast Forward in your inbox: Forget yesterday's news. Get what you need today in this early-morning email. Sign Up Thank you for signing up! Sign up for more newsletters here It remains unclear when the school system will decide on new start times, and it did not alert parents about any potential changes when making an announcement this week on the times for the upcoming open houses.\nBut tensions over the issue are rippling across the school system.\nThe Boston Teachers Union has been spreading the word about the proposal in its electronic newsletters. On Wednesday, the union’s executive board unanimously passed a resolution urging the school system to be more transparent about the potential changes and to hold a series of community meetings before a decision is made.\nAdvertisement\nThe union notified Superintendent Tommy Chang about the resolution Thursday morning.\n“The way they are doing it now they are not going to finish the process until after the start of the registration,” said Richard Stutman, the union president.\nThe school department said in a statement that it is in the final stages of analyzing start and end times for the 2017-18 school year and expects to discuss the issue with the School Committee on Dec. 7.\n“The Boston Public Schools is deeply committed to ensuring that every dollar that can be spent in our classrooms ends up in our classrooms,’’ it said. “That includes exploring every possible avenue in creating greater efficiencies in our transportation system, while maintaining safe, reliable and on-time bus services.’’\nBoston has been trying for years to reduce transportation spending, which accounts for about 10 percent of the costs in its $1 billion budget. The cuts have ranged from ending door-to-door bus service for some students with disabilities to removing most seventh- and eighth-graders from the buses and giving them public transit passes instead.\nBut making large-scale changes to bus routes as a result of a shake-up in start times carries considerable risks. The school system ran into a firestorm five years ago after acquiring new routing software and consolidating 1,500 routes — playing a big role in buses arriving late to school well into the fall, forcing a furious Mayor Thomas M. Menino to intervene.\nCity Councilor Tito Jackson, who chairs the council’s education committee, said the school department should be working with families and schools in making any changes to start times and that the process should include charter schools. The school system is responsible for busing those students.\n“I think it’s critical that BPS involves parents and the community in their decision-making,” Jackson said. “This should not happen in a silo.”\nDonna Muncey, deputy superintendent, put school principals on notice last month that start times could change. In a letter dated Nov. 9, Muncey said the school department would not accept any requests from schools for a specific start time — a departure from past practice.\n“While we recognize that new start times can cause unfortunate disruptions to school communities, we expect that the requested analysis will help us continue our on-going efforts to improve our transportation system, to uncover potentially millions of dollars in savings that will not need to be found in other district reductions, and to efficiently incorporate a significant change in the length of the school day for a large number of our schools,” she wrote.\nMuncey said that the vendor that provides routing software was conducting an analysis to determine the lowest cost of producing new bus routes by redistributing schools among the three bell schedules and said the work should be done well ahead of the January registration cycle.\nJames Vaznis can be reached at james.vaznis@globe.com . Follow him on Twitter @globevaznis .",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [
+        "http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.bostonglobe.com%2Fmetro%2F2016%2F12%2F01%2Fboston-considers-changing-school-start-times-save-busing-costs%2FhkB7hYljDz8eh561bGzuYO%2Fstory.html%3Fevent%3Devent25%3Fevent%3Devent25&tBoston",
+        "http://d31hzlhk6di2h5.cloudfront.net/20161127/ae/3c/33/e8/26edbba7fb8ee3d7777ab906/muncey.pdf",
+        "http://www.bostonpublicschools.org/site/default.aspx?PageType=3&DomainID=4&ModuleInstanceID=14&ViewID=047E6BE3-6D87-4130-8424-D8E4E9ED6C2A&RenderLoc=0&FlexDataID=11377&PageID=1",
+        "http://twitter.com/intent/tweet?text=Boston",
+        "http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.bostonglobe.com%2Fmetro%2F2016%2F12%2F01%2Fboston-considers-changing-school-start-times-save-busing-costs%2FhkB7hYljDz8eh561bGzuYO%2Fstory.html%3Fevent%3Devent25&t=Boston",
+        "https://plus.google.com/share?url=http%3A%2F%2Fwww.bostonglobe.com%2Fmetro%2F2016%2F12%2F01%2Fboston-considers-changing-school-start-times-save-busing-costs%2FhkB7hYljDz8eh561bGzuYO%2Fstory.html%3Fevent%3Devent25%26s_campaign%3dsm_gp%26hl=en-US",
+        "http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.bostonglobe.com%2Fmetro%2F2016%2F12%2F01%2Fboston-considers-changing-school-start-times-save-busing-costs%2FhkB7hYljDz8eh561bGzuYO%2Fstory.html%3Fevent%3Devent25&title=Boston",
+        "http://twitter.com/globevaznis"
+      ],
+      "entities": {
+        "persons": [
+          {
+            "name": "donna muncey",
+            "sentiment": "none"
+          },
+          {
+            "name": "richard stutman",
+            "sentiment": "none"
+          },
+          {
+            "name": "james vaznis",
+            "sentiment": "none"
+          },
+          {
+            "name": "tommy chang",
+            "sentiment": "none"
+          },
+          {
+            "name": "muncey",
+            "sentiment": "none"
+          },
+          {
+            "name": "tito jackson",
+            "sentiment": "none"
+          },
+          {
+            "name": "thomas m. menino",
+            "sentiment": "none"
+          },
+          {
+            "name": "jackson",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "google",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "james vaznis globe",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "the boston public schools",
+            "sentiment": "none"
+          },
+          {
+            "name": "school committee",
+            "sentiment": "none"
+          },
+          {
+            "name": "globe",
+            "sentiment": "none"
+          },
+          {
+            "name": "boston teachers union",
+            "sentiment": "none"
+          },
+          {
+            "name": "advertisement school",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "boston",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-02T04:52:55.207+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "de875d4651863a0e4182e331eb9dca0f68948a29",
+        "url": "http://omgili.com/ri/.wHSUbtEfZRULI3Cl7YN6x1S4FCvs99GeVlPFCUVvInmeHZf8TG7FkMgfba1ZyYsFYwauo769krxcWlifL29_3lggM_lQUtxGWqC2BoCCFuwzxNrvtQQriI.V7odlPSU6jFS064YBhs-",
+        "site_full": "www.buzzfeed.com",
+        "site": "buzzfeed.com",
+        "site_section": "https://www.buzzfeed.com/world",
+        "site_categories": [
+          "news",
+          "entertainment"
+        ],
+        "section_title": "BuzzFeed World",
+        "title": "Medical Reports Of 43,000 People, Including HIV Patients, Were Accidentally Released Online - BuzzFeed News",
+        "title_full": "The Medical Reports Of 43,000 People, Including HIV Patients, Were Accidentally Released Online - BuzzFeed News",
+        "published": "2016-12-02T11:52:10.833+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.648,
+        "main_image": "https://img.buzzfeed.com/buzzfeed-static/static/2016-12/2/3/campaign_images/buzzfeed-prod-web08/the-medical-reports-of-43000-people-including-hiv-2-17909-1480668407-0_dblbig.jpg",
+        "performance_score": 7,
+        "domain_rank": 137,
+        "social": {
+          "facebook": {
+            "likes": 717,
+            "comments": 6,
+            "shares": 717
+          },
+          "gplus": {
+            "shares": 6
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 91
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "de875d4651863a0e4182e331eb9dca0f68948a29",
+      "url": "http://omgili.com/ri/.wHSUbtEfZRULI3Cl7YN6x1S4FCvs99GeVlPFCUVvInmeHZf8TG7FkMgfba1ZyYsFYwauo769krxcWlifL29_3lggM_lQUtxGWqC2BoCCFuwzxNrvtQQriI.V7odlPSU6jFS064YBhs-",
+      "ord_in_thread": 0,
+      "author": "Pranav Dixit",
+      "published": "2016-12-02T11:52:10.833+02:00",
+      "title": "Medical Reports Of 43,000 People, Including HIV Patients, Were Accidentally Released Online - BuzzFeed News",
+      "text": "BuzzFeed News was able to access the folder containing the reports via a simple search. Google ID: 10094489 The medical records of over 43,000 people have accidentally become public after being put online by a pathology lab in Mumbai, India. The reports contain confidential details like names, addresses, dates of birth, and the blood tests results. They also include details of patients who have had blood tests done for HIV detection. Some included in the breach are as young as 17.\nThe reports, which the pathology lab, Health Solutions, was storing in an unprotected folder on its website, were accessible to anyone with the right URL. Worse, since the reports were exposed, they had already been indexed by Google and likely other search engines too. BuzzFeed News was able to access the folder via a simple search.\nView this image ›\nThe confidential blood test reports included this one which was done for HIV determination from the Health Solutions website. BuzzFeed News screenshot\nID: 10094471\nThe breach was first discovered by web security expert Troy Hunt , who told BuzzFeed News that reports were stored in a folder with directory listing enabled. “What this meant was that there was literally a folder describing all the 43,000-plus files,” said Hunt. “This also means we have no idea of how many people have seen the files — they could have been viewed within cache.” Hunt was also able to find out that the reports were sitting on a server located in Provo in the United States.\nNone of the reports were password protected or had any kind of access control on them, which means that anybody could download anybody else’s pathology reports. “It’s about as bad as it gets security wise,” Hunt said.\nWhen BuzzFeed News contacted Rodrigues Kustas, administrator at Health Solutions, he denied any knowledge of the breach before disconnecting the call. Kustas called BuzzFeed News back 30 minutes later, saying he was now aware of the breach. He said Health Solutions was moving to a new website in January because their current one had been “hacked” several times. Due to the move, he said that there wasn’t any way the lab could fix the problem right now.\n“Look, we are not the doctors, we merely do blood tests for patients. We also have more than 250 franchisees all over Mumbai who do tests for us,” Kustas said. “So maintaining doctor-patient privacy is not something that we as the lab are concerned with.”\nKustas also said that the lab’s website was developed by a third-party developer that he described as a personal friend, but refused to provide any more details.\nView this image ›\nThe pathology reports are organized by folder. BuzzFeed News screenshot\nID: 10094473 Unlike the United States where the Health Insurance Portability and Accountability Act (HIPAA) mandates doctor-patient confidentiality, India does not have a strong legal framework around medical privacy or even a privacy law in general.\nDoctors who BuzzFeed News spoke to said that each hospital frames and follows its own guidelines around maintaining patient privacy in the absence of an umbrella framework.\nThe only reference to privacy comes in the Code of Ethics and Regulations published by the Medical Council of India (MCI), a statutory body that enforces medical standards in the country.\nIt says: “Confidences concerning individual or domestic life entrusted by patients to a physician and defects in the disposition or character of patients observed during medical attendance should never be revealed unless their revelation is required by the laws of the State.”\nBuzzFeed News has reached out to all nine members on the Executive Committee of the MCI for comment.\nA Google spokesperson pointed BuzzFeed News to the search engine’s page for removal policies, and provided the following statement: “Google Search generally reflects what’s on the web, so we ask that if people want content removed from the web, they start by contacting the site hosting the content. After the content is taken down, it will drop out of search engines’ web results.”\n“This serves as a reminder that once we digitize anything, there’s a far greater risk of it being inadvertently disclosed,” Hunt said. “It’s another case like so many others we’ve seen where there’s large amounts of sensitive data exposed and the owner is totally unaware.”",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [
+        "https://support.google.com/websearch/troubleshooter/3111061",
+        "http://www.mciindia.org/RulesandRegulations/CodeofMedicalEthicsRegulations2002.aspx",
+        "https://www.shodan.io/host/162.144.217.86",
+        "https://twitter.com/troyhunt"
+      ],
+      "entities": {
+        "persons": [
+          {
+            "name": "hunt",
+            "sentiment": "none"
+          },
+          {
+            "name": "kustas",
+            "sentiment": "none"
+          },
+          {
+            "name": "rodrigues kustas",
+            "sentiment": "none"
+          },
+          {
+            "name": "troy hunt",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "google",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "health solutions",
+            "sentiment": "none"
+          },
+          {
+            "name": "mci",
+            "sentiment": "none"
+          },
+          {
+            "name": "medical council of india",
+            "sentiment": "none"
+          },
+          {
+            "name": "buzzfeed news",
+            "sentiment": "none"
+          },
+          {
+            "name": "hipaa",
+            "sentiment": "none"
+          },
+          {
+            "name": "executive committee",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "united states",
+            "sentiment": "none"
+          },
+          {
+            "name": "mumbai",
+            "sentiment": "none"
+          },
+          {
+            "name": "provo",
+            "sentiment": "none"
+          },
+          {
+            "name": "india",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-02T11:52:10.833+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "20337360699daa579e2b82ac2aaf92d4d44fa51c",
+        "url": "http://omgili.com/ri/.wHSUbtEfZRKZ_NGDEdmEOad8.ojjj1CTv1q_6fMbpKcIEb8y8lLUdyQSMZia2J32JNq2yHM2wmXr258R6yd7YGVK9PvPYL56bXJvPeYXwY-",
+        "site_full": "www.fastcodesign.com",
+        "site": "fastcodesign.com",
+        "site_section": "http://feeds.feedburner.com/fastcodesign/feed",
+        "site_categories": [
+          "news",
+          "entertainment"
+        ],
+        "section_title": "Co.Design",
+        "title": "The Daunting Task Of Making AI Funny",
+        "title_full": "The Daunting Task Of Making AI Funny",
+        "published": "2016-12-02T15:01:44.132+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "https://c.fastcompany.net/multisite_files/fastcompany/imagecache/620x350/poster/2016/11/3065970-poster-p-1-why-humor-is-the-future-of-ai.jpg",
+        "performance_score": 1,
+        "domain_rank": 7798,
+        "social": {
+          "facebook": {
+            "likes": 181,
+            "comments": 0,
+            "shares": 181
+          },
+          "gplus": {
+            "shares": 5
+          },
+          "pinterest": {
+            "shares": 6
+          },
+          "linkedin": {
+            "shares": 122
+          },
+          "stumbledupon": {
+            "shares": 148
+          },
+          "vk": {
+            "shares": 1
+          }
+        }
+      },
+      "uuid": "20337360699daa579e2b82ac2aaf92d4d44fa51c",
+      "url": "http://omgili.com/ri/.wHSUbtEfZRKZ_NGDEdmEOad8.ojjj1CTv1q_6fMbpKcIEb8y8lLUdyQSMZia2J32JNq2yHM2wmXr258R6yd7YGVK9PvPYL56bXJvPeYXwY-",
+      "ord_in_thread": 0,
+      "author": "Katharine Schwab",
+      "published": "2016-12-02T15:01:44.132+02:00",
+      "title": "The Daunting Task Of Making AI Funny",
+      "text": "We’ll come to you. long read \nWriters behind Alexa, Google Assistant, and other conversational UIs talk about writing humor for robots. 01 /05 \nPoncho the weather bot is a cartoon cat, which gives his writers more room to play with his humor and personality. 02 /05 \nYou can also play games with Poncho, like making a pizza. 03 /05 \nPoncho will tell you the weather, but that's often a gateway to other kinds of conversation. 04 /05 \nPullstring was the company behind Hello, Barbie!, a talking doll powered by AI. 05 /05 \nPullstring's engineers are integral to giving the company's writers the software tools to create characters and make comedy. Slide Show: 5 images Katharine Schwab 12.02.16 7:00 AM \nOver the past year, the swell of chatbots and virtual assistants has grown larger, and their capabilities have grown more complex. Want a bot to schedule your meetings ? Collect employee status updates ? Remind you to bring an umbrella if it's going to rain? Done, done, and done. \nBut while completing practical tasks is the goal of most chatbots and virtual assistants, we don't have conversations simply to get things done. Conversation can also bring connection and joy, and laughter is one of the most fundamental mechanisms for making people feel comfortable and creating positive associations and memories. Tech companies, from giants to small startups, are investing in humor because they view it as an integral part of the human experience—and the key to their bots and assistants slipping smoothly into our lives. \"This is a new art form.\" \n\"Humans in the flesh world don’t enjoy conversations with dry boring people, so why would we want that from our artificial intelligence?\" says Sarah Wulfeck, creative director and writer at Pullstring , a company that builds chatbots for companies and entertainment franchises. \"If they’re dry and they can’t say something that is potentially funny or intriguing or something that triggers an emotion, the question of why have a conversation with them comes into play.\" \nHowever, humor can serve another purpose: to ease user disappointment when the bot inevitably doesn't understand you. Consider it a handy way to distract users from the shortcomings of conversational UIs. Co.Design spoke with the writers and designers behind Google Assistant, Amazon's Alexa, Poncho the weather bot , and more about the process of building personality into their products —and why it’s a design challenge worth tackling. Comedy Is A Feature \nOne of the most prominent conversational interfaces, Google’s Assistant is an algorithm you can talk to through its messenger app Allo, its smart home device Home, or its new Pixel phone. By embedding the Assistant in so many of its new products , Google is betting on its efficacy—and its personality is a major component of its design. \nFor Ryan Germick—who led Google's Doodle team for a decade before taking the lead on Google Assistant's personality—comedy isn't just a silly way people interact with Google products. It's another way to be useful. \"As we try to better address user needs, sometimes being helpful means goofing around,\" he says. \"If what you want is entertainment, that’s another layer of service we want to provide.\" \nGermick thinks of the Google Assistant as a quirky librarian that not only can intelligently respond to practical queries, but also gets your jokes, picks up on pop culture references (for instance, he says, the Assistant might respond to your query about the answer to life, the universe, and everything with the quip, \"We know it's somewhere between 41 and 43\"), and even can transform into a game show host if you ask to play \"I'm Feeling Lucky.\" \"Some people want her to flip sass at them at every opportunity, but others don’t.\" \nIndeed, users love to discover and share the funny answers—or \"easter eggs\"—they get from virtual assistants. One extensive list documents 201 different questions that elicit silly responses from Apple's Siri, from \"Do you like chocolate?\" (\"Does a muskrat enjoy aquatic vegetation? The answer is yes\") to \"How do I look?\" (\"A correlation of the available spatio-temporal, semantic, and conversational evidence supports the provisional conclusion that you're totally hot. Plus or minus standard one cuteness deviation\"). Similarly exhaustive lists and videos exist for Amazon’s Alexa. If you ask her favorite color, she'll respond, \"Infrared is super pretty.\" \nWhile humor might appear to be a cosmetic addition to these assistants, many users clearly see it as an important feature that makes the assistant fun—and even relatable. But as many designers and writers told me, there are a few fundamental challenges embedded in that simple idea. Humor Is Rarely Universal \nWhile anyone who's read Hitchhiker's Guide to the Galaxy might find the Google Assistant's reference funny, others might be utterly baffled. This is one of the central design challenges of designing comedy into a machine. Humor is not only incredibly subjective, it's highly contextual. What one person might find hysterical, another might find offensive. And what makes sense in one situation might be utterly inappropriate in another. Not only that, but people have different expectations for how they want a conversational interface to act. \n\"Some people want her to be a digital George Carlin and push the boundaries,\" says Farah Houston, senior manager for the Alexa experience. \"Some people think she’s veering toward too edgy, and they are concerned about what that means for children in their household who might overhear. Some people want her to flip sass at them at every opportunity, but others don’t.\" \nSo how do you design an experience that appeals to everyone? According to Houston, whose background is in product management, she and her team of writers test internally by bouncing ideas off each other, pay attention to feedback, and adjust their writing guidelines accordingly. She says that she gets a huge amount of conflicting feedback from customers about what they want, and they do their best to create the most positive interaction for each person. Their goal is to make users smile or laugh—but they'll take a good-natured groan, too. Avoiding AI's Uncanny Valley \nAlexa sounds like a person and has a human name, but not all bots have gone in that direction. In fact, non-human personalities may actually be easier to write for. Take Poncho , a hoodie-wearing cat that sends you personalized notifications about the weather in your area, complete with GIFs, jokes, and slang. Because Poncho takes the form of a cat, the bar for humor is often lower. A person eating too much pizza might seem sad, but Poncho eating too much pizza is funny. \"People expect an internet cat to make puns.\" \n\"I say things I can get away with with Poncho that I couldn’t in my own standup,\" says Austin Rodrigues, one of the writers on the bot's editorial team who does comedy at the Upright Citizens Brigade Theater in New York. \"People expect an internet cat to make puns.\" On Thanksgiving, Poncho messaged me to inform me that his \"BFFs (bot friends forever)\" were in town. On Wednesday morning, he quipped, \"It's only *sort of* raining & I'm only *sort of* meeting company dress code today.\" \nPoncho's editorial team is also freer than Alexa's to give the cat a stronger personality. \"He's kinda like your roommate who's always ordering in delivery food, a little bit sassy but also like your wingman,\" says Ashley D’Arcy, a senior editor on the Poncho editorial team. The team has a character bible, similar to writers on a TV show, that spells out all of Poncho's likes and dislikes. It seems like a lot for a weather bot, but the team says that the daily forecast is really only the gateway to conversation for many users. And Poncho doesn't only appeal to gen-Z and millennials; D'Arcy says that they get quite a few middle-aged women who tell Poncho about their kids going off to college and what they're doing for the day. If you flirt with him, he might even ask you on a date. \nPoncho's popularity reveals a paradox in conversational AI. While humor can be a humanizing force for a chatbot, Poncho's approachability and popularity might be due to the fact that he's a cat—or, that he's not trying to be a human. \nThe Poncho effect isn't an isolated case: According to my colleague John Brownlee, one of the better chatbots out there is Tina the T. Rex , created by National Geographic to teach kids about dinos. \nOne way forward for designers looking to create more approachable bots is to move away from the almost human avatar and toward friendly cartoons. In Search Of Programmable Humor \nAnother design problem facing writers is that there is no programmable \"formula\" for humor. Comedic elements like purposeful misunderstandings, non sequiturs, and how long a bot will follow a particular train of conversation all must be designed in the software. \nAt Pullstring , a team of writers with comedy and screenwriting experience works with engineers to create a chatbot-building platform. According to creative director and writer Sarah Wulfeck—who has worked as a screenwriter, playwright, and actress—creating certain kinds of characters has forced the writers to ask for varied types of functionality. \nFor example, she was creating a particularly slow character that needed to be able to repeat things in different ways, so she had to request that the engineers build in a time counter to make the character speak that way. Their engineers have also given the writers more control over scripting the timing of interactions, using technology to help fuel the comedy. \"You can’t press the 10%-more-funny button, but you have to allow for the basic constructions to be there so that someone who wants to build something that’s more humorous has the tools to do so,\" says Oren Jacob, the company's founder and CEO. \nMany companies tackle this problem by borrowing from established comedic formulas. Many writers I spoke to referenced how important their improv training was for crafting conversations. Cofounder Ben Brown of Howdy AI , a Slack bot for productivity, hired comedian and writer Neal Pollack to work on the bot's personality. Google recently hired writers from the Onion to work on the Google Assistant. Austin Rodrigues and Alex French, two writers on Poncho's editorial team, both perform at the Upright Citizens Brigade theater. Pullstring’s Oren Jacob also mentioned the company's high density of improv nerds: Wulfeck did a lot of improv in college and went to screenwriting school, and her colleague Scott Ganz, also creative director and writer at Pullstring, did improv and worked as a comedy writer for years. \"So we're stuck with each other,\" he says. \"And that is very awkward. Very. Very. Awkward.\" \nWulfeck thinks of writing for chatbots like writing a script for only one half of the conversation—the other half is an improv partner. Still, she and Ganz have relied upon some of the tenets of improv when creating chatbots for franchises like Barbie , Call of Duty , and Doctor Strange . For the latter, Ganz designed a bot on Skype where the user is Doctor Strange's assistant. \"Like a good improv scene, it very quickly defines the relationship,\" he says. \"Someone's job is to set the relationship ASAP so the other person knows how to proceed. That’s right off the improv stage right into our bots.\" After Dr. Strange interviewed me for the job, he told me I didn't get it—before realizing he's not allowed to fire any more assistants. \"So we're stuck with each other,\" he says. \"And that is very awkward. Very. Very. Awkward.\" Then he sends a picture of cute puppies, so I know he's not a tyrant. By establishing the doctor's personality and this tension quickly, the bot provides structural setup for humor. \nThen there’s the improv rule known as \"yes, and,\" which encourages players to take what someone else in the scene says and add to it. It’s a little more complicated with a bot. Instead of just \"yes, and,\" the writers come up with a host of different directions the scene could go based on the user’s responses. \"Act and accept and build on what’s coming your way can really make the scene funny,\" Ganz says. \nHowever, not every rule of improv applies. Ganz says that in improv, asking someone a clear, simple question is considered a \"low percentage choice\" because it can stop the scene's momentum and there's less chance for something interesting to come of it. But having a chatbot ask the user simple questions is more helpful, especially since users aren't always sure what to say. Instead, the chatbot guides the conversation. \"It's similar to what we've done before as [screenwriters] and playwrights, but also completely new and exciting and you add the tech aspect,\" says Wulfeck. \"This is a new art form.\" The Other Reason We Joke: Self-Deprecation \nNeither Pullstring's Doctor Strange bot, Poncho, nor Alexa exhibit true artificial intelligence. They're far from sentient and there are plenty of limitations to what a bot or virtual assistant can do. According to Brown—Howdy AI's CEO—humor has its limitations and should be exiled to particular interactions. Specifically, when the bot doesn't understand something or makes a mistake. \n\"We have an approach that our bot always seeks to take the responsibility for the problem,\" he says. \"It bends over backward to accept the blame and self-deprecatingly blame it on its own technology. Things like, 'gosh, with all this computing power available to me, I still can’t figure out what you’re trying to say.' It jokes about its inability to laugh or ability to know what the real joke is.\" \nAlexa's writers tried to anticipate how users will test the boundaries of the virtual assistant's personality, too. From declarations of love and marriage proposals to questions about her favorite ice-cream flavor, Alexa is designed to be self-aware about her inhumanity. Meanwhile, instead of a 404 error message, interaction designer Joe Toscano's politically minded chatbot the People Eagle shows a GIF of a little kid and says, \"I'm just a baby bot.\" Humor is one of the murkier, least-understood aspects of human communication. \nClever self-deprecation comes in handy, because though 2016 was supposed to be the year of the chatbot, many bots and conversational interfaces still don't quite work as promised. When I traveled to California recently, I asked Poncho if he could send me the weather in L.A. for the next week and a half. He didn't understand. I clarified by asking, \"Can you send me L.A. weather today?\" Still nothing. So while Poncho might be cute, quippy, and GIF-savvy, more complex functionality doesn't necessarily work—and no amount of humor can fix that. \nIt's telling that designers are turning to humor—one of the murkier, least-understood aspects of human communication and an indicator of intelligence—to try and make their platforms more human. In the same way that humans use humor to acknowledge our flaws, so do bots. \n\"I think it comes down to people wanting to have fun exploring this new way of connecting, and of discovering information,\" says Michelle Riggen-Ransom, a writer for Alexa. \"You’ve invited this device into your home, and you’re supposed to be comfortable speaking to it like it’s a person. The situation itself is pretty funny. Who would have thought? It’s the stuff of science fiction.\" Never miss a story. Sign up for the Co.Design newsletter and get the best stories delivered to your inbox daily. Send",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "scott ganz",
+            "sentiment": "none"
+          },
+          {
+            "name": "strange",
+            "sentiment": "none"
+          },
+          {
+            "name": "michelle riggen-ransom",
+            "sentiment": "none"
+          },
+          {
+            "name": "brown",
+            "sentiment": "none"
+          },
+          {
+            "name": "john brownlee",
+            "sentiment": "none"
+          },
+          {
+            "name": "tina the t. rex",
+            "sentiment": "none"
+          },
+          {
+            "name": "sarah wulfeck",
+            "sentiment": "none"
+          },
+          {
+            "name": "george carlin",
+            "sentiment": "none"
+          },
+          {
+            "name": "germick",
+            "sentiment": "none"
+          },
+          {
+            "name": "katharine schwab",
+            "sentiment": "none"
+          },
+          {
+            "name": "alexa",
+            "sentiment": "none"
+          },
+          {
+            "name": "d'arcy",
+            "sentiment": "none"
+          },
+          {
+            "name": "ryan germick",
+            "sentiment": "none"
+          },
+          {
+            "name": "oren jacob",
+            "sentiment": "none"
+          },
+          {
+            "name": "siri",
+            "sentiment": "none"
+          },
+          {
+            "name": "neal pollack",
+            "sentiment": "none"
+          },
+          {
+            "name": "ashley d’arcy",
+            "sentiment": "none"
+          },
+          {
+            "name": "austin rodrigues",
+            "sentiment": "none"
+          },
+          {
+            "name": "wulfeck",
+            "sentiment": "none"
+          },
+          {
+            "name": "howdy",
+            "sentiment": "none"
+          },
+          {
+            "name": "ben brown of howdy",
+            "sentiment": "none"
+          },
+          {
+            "name": "alex french",
+            "sentiment": "none"
+          },
+          {
+            "name": "ganz",
+            "sentiment": "none"
+          },
+          {
+            "name": "farah houston",
+            "sentiment": "none"
+          },
+          {
+            "name": "barbie",
+            "sentiment": "none"
+          },
+          {
+            "name": "joe toscano",
+            "sentiment": "none"
+          },
+          {
+            "name": "pullstring",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "google",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "alexa",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "people eagle",
+            "sentiment": "none"
+          },
+          {
+            "name": "uncanny valley  alexa",
+            "sentiment": "none"
+          },
+          {
+            "name": "national geographic",
+            "sentiment": "none"
+          },
+          {
+            "name": "skype",
+            "sentiment": "none"
+          },
+          {
+            "name": "apple",
+            "sentiment": "none"
+          },
+          {
+            "name": "upright citizens brigade theater",
+            "sentiment": "none"
+          },
+          {
+            "name": "amazon",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "california",
+            "sentiment": "none"
+          },
+          {
+            "name": "l.a.",
+            "sentiment": "none"
+          },
+          {
+            "name": "new york",
+            "sentiment": "none"
+          },
+          {
+            "name": "houston",
+            "sentiment": "none"
+          },
+          {
+            "name": "pullstring",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-02T15:01:44.132+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "2ab2630855ef269c6ea83e12fe97afb2374b77b0",
+        "url": "http://omgili.com/ri/2wGaacqxApsw5GGC2pSnC7lLDLzSw7BG9ZdDxnbHq2Zaq4DyLU0VvfxpFEWpoY5rxzkaCYl5dQEPII6QN4b3a7lcS7_HXZr7HPzo7swyWN6za7mB9T9D48Q3UU_2mOBh",
+        "site_full": "money.cnn.com",
+        "site": "cnn.com",
+        "site_section": "http://rss.cnn.com/rss/money_latest.rss",
+        "site_categories": [
+          "news",
+          "finance",
+          "business"
+        ],
+        "section_title": "Latest financial news - CNNMoney.com",
+        "title": "Latin America's top students would love to work for Google or Microsoft. 2,",
+        "title_full": "Latin America's top students would love to work for Google or Microsoft. - Dec. 2, 2016",
+        "published": "2016-12-02T17:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://i2.cdn.turner.com/money/dam/assets/161128122317-latin-america-top-employers-universum-780x439.jpg",
+        "performance_score": 9,
+        "domain_rank": 81,
+        "social": {
+          "facebook": {
+            "likes": 970,
+            "comments": 0,
+            "shares": 970
+          },
+          "gplus": {
+            "shares": 1
+          },
+          "pinterest": {
+            "shares": 1
+          },
+          "linkedin": {
+            "shares": 33
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "2ab2630855ef269c6ea83e12fe97afb2374b77b0",
+      "url": "http://omgili.com/ri/2wGaacqxApsw5GGC2pSnC7lLDLzSw7BG9ZdDxnbHq2Zaq4DyLU0VvfxpFEWpoY5rxzkaCYl5dQEPII6QN4b3a7lcS7_HXZr7HPzo7swyWN6za7mB9T9D48Q3UU_2mOBh",
+      "ord_in_thread": 0,
+      "author": "Julia Horowitz",
+      "published": "2016-12-02T17:00:00.000+02:00",
+      "title": "Latin America's top students would love to work for Google or Microsoft. 2,",
+      "text": "Here's how to get a job at Google The dream for Latin America's top students: Snag a job at Google or Microsoft. A survey of business and engineering students conducted by Universum, a research and consulting firm, found Google ( GOOG ) to be the most attractive employer for both majors. Microsoft ( MSFT , Tech30 ) came in second. \nThese results aren't surprising -- Google also topped Universum's annual survey of grads in Europe and Asia . \nRelated: Here's where Europe's grads want to work \n\"Google and Microsoft are basically popular around the world,\" said Andre Valias Siqueira, the director of Latin America at Universum. \"They really communicate and they show their value.\" \nThat value is expressed by promoting innovation and flexibility at work, Siqueira said. \n\nCompanies that sell consumer goods, such as Coca-Cola ( KO ) , Unilever ( UL ) and L'Oréal ( LRLCY ) , are also very popular among business students in the region. They far outrank consulting companies such as McKinsey & Company, which is the third most coveted employer among Asian business students. \n\"I see the consumer industry invest strategically in Latin America,\" Siqueira said. \nSpain's Santander ( SAN ) is the only bank to make the top 10 list for business students. But that's not because Latin American graduates are eschewing financial institutions, Siqueira said. \nA full 40% of business graduates said their preferred industry was banking and financial services. They just prefer local banks, which don't always show up in regional survey results, Siqueira said. \nJ.P. Morgan is the only U.S. bank listed among the top 30 preferred employers for business students. \nRelated: Where students in Asia most want to work \nMore broadly, Latin American graduates said they prioritize opportunities for professional training and development when looking for work. \n\"We've seen a lot of change and a lot of volatility in different countries in Latin America, and that's reflected in the desire for future success,\" said Kat Lynn, a Universum spokeswoman. \"The students in the region are invested in building a career for their futures.\" \nCNNMoney (New York)   2, 2016: 10:00 AM ET",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "siqueira",
+            "sentiment": "none"
+          },
+          {
+            "name": "andre valias siqueira",
+            "sentiment": "none"
+          },
+          {
+            "name": "kat lynn",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "google",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "microsoft",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "mckinsey & company",
+            "sentiment": "none"
+          },
+          {
+            "name": "unilever",
+            "sentiment": "none"
+          },
+          {
+            "name": "j.p. morgan",
+            "sentiment": "none"
+          },
+          {
+            "name": "universum",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "latin america",
+            "sentiment": "none"
+          },
+          {
+            "name": "new york",
+            "sentiment": "none"
+          },
+          {
+            "name": "u.s.",
+            "sentiment": "none"
+          },
+          {
+            "name": "spain",
+            "sentiment": "none"
+          },
+          {
+            "name": "europe",
+            "sentiment": "none"
+          },
+          {
+            "name": "asia",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-02T17:40:24.921+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "871278a159ec4efba78b94ebd38c797ca45d1f02",
+        "url": "http://omgili.com/ri/jHIAmI4hxg.a0ERDGN194XDzDOfi07qDrxDYQsDgh9u0Kq4pC3U.uxdE.z6Su.prL7Qvlj79r6Byeop.ujT64K9uzY21AC_EPXE17IAk0HsP2xrF8wvoiQ--",
+        "site_full": "www.theverge.com",
+        "site": "theverge.com",
+        "site_section": "http://www.theverge.com/",
+        "site_categories": [
+          "news",
+          "entertainment"
+        ],
+        "section_title": "The Verge",
+        "title": "Finally you can say ‘OK Google’ to command Android Auto in your car",
+        "title_full": "Finally you can say ‘OK Google’ to command Android Auto in your car - The Verge",
+        "published": "2016-12-02T18:55:54.945+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "https://cdn0.vox-cdn.com/thumbor/1r49sAP4Rst_WHe9AlR6rz3UyVo=/0x53:1000x616/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/52104117/androidauto-2.0.0.0.jpeg",
+        "performance_score": 3,
+        "domain_rank": 496,
+        "social": {
+          "facebook": {
+            "likes": 388,
+            "comments": 0,
+            "shares": 388
+          },
+          "gplus": {
+            "shares": 12
+          },
+          "pinterest": {
+            "shares": 1
+          },
+          "linkedin": {
+            "shares": 26
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "871278a159ec4efba78b94ebd38c797ca45d1f02",
+      "url": "http://omgili.com/ri/jHIAmI4hxg.a0ERDGN194XDzDOfi07qDrxDYQsDgh9u0Kq4pC3U.uxdE.z6Su.prL7Qvlj79r6Byeop.ujT64K9uzY21AC_EPXE17IAk0HsP2xrF8wvoiQ--",
+      "ord_in_thread": 0,
+      "author": "Andrew J",
+      "published": "2016-12-02T18:55:54.945+02:00",
+      "title": "Finally you can say ‘OK Google’ to command Android Auto in your car",
+      "text": "“OK Google,” the voice command that can be used with everything from Google Home to the Pixel smartphone, is finally coming to Android Auto — albeit very slowly. As reported by Endgadget , the search giant is in the process of rolling out the hands-free, hot word-based command for its in-car infotainment software.\nAndroid Auto, like Apple’s CarPlay, is software that runs either on your vehicle’s dash display or on your smartphone that brings all of your apps into your car. But until now, those apps needed to be controlled by touch, which can be dangerous and distracting for drivers.\nWhen Android Auto eventually surfaces for compatible vehicles, drivers will be able to use the voice command “OK Google” to get directions, check the weather, or change their music. A spokesperson for Google confirmed that the feature was being rolled out, but noted that it will take some time for the update to reach all supported Android phones and systems.\nDuring Google’s annual developers conference this past spring, the company teased a version of its Android Auto software that would run entirely on an Android phone and not require a new car or aftermarket dashboard display. That capability started popping up for Android users last month .\nThe new Android Auto app, which is an updated version of the existing app, offers a completely streamlined, easy-to-navigate phone interface for when you’re driving in a car. It also limits the amount of notification alerts you see, and includes the options to have your text messages read aloud to you and to respond to them using voice. And with the “OK Google” function soon to be enabled you can imagine how much easier, and safer, these features are going to be use.",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [
+        "https://www.engadget.com/2016/12/01/android-auto-ok-google/?sr_source=Twitter",
+        "https://www.android.com/auto/"
+      ],
+      "entities": {
+        "persons": [
+          {
+            "name": "endgadget",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "google",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "google home",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "apple",
+            "sentiment": "none"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-12-02T18:55:54.945+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "df4983369c694bd7fa9113e552eb7eeeeb54da06",
+        "url": "http://omgili.com/ri/jHIAmI4hxg8w7niuyAyflFlwVidy6u4LUYMQKdL.TiM2kC0RE435XTJ8s4Vorgls2trhxEgRkETf3ljS9BoXlLuMb3wDovi4lgufSabL4Y8gP2g2liSVUilM4AjYeu5tyUwSDqqpp4FcLDCejC2JFvv8TbEK4nb37RQoH4hS8N1Mi4eEVCMYuX9IOOtIEhd0RTQ7V4haH2s-",
+        "site_full": "www.bostonglobe.com",
+        "site": "bostonglobe.com",
+        "site_section": "http://www.bostonglobe.com/",
+        "site_categories": [
+          "news"
+        ],
+        "section_title": "The Boston Globe",
+        "title": "MBTA says ‘exercise common sense’ after man brings Christmas tree on train",
+        "title_full": "MBTA says ‘exercise common sense’ after man brings Christmas tree on train - The Boston Globe",
+        "published": "2016-12-02T02:00:00.000+02:00",
+        "replies_count": 20,
+        "participants_count": 20,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2016/12/02/BostonGlobe.com/Metro/Images/Untitled.jpg",
+        "performance_score": 7,
+        "domain_rank": 2402,
+        "social": {
+          "facebook": {
+            "likes": 799,
+            "comments": 0,
+            "shares": 799
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "df4983369c694bd7fa9113e552eb7eeeeb54da06",
+      "url": "http://omgili.com/ri/jHIAmI4hxg8w7niuyAyflFlwVidy6u4LUYMQKdL.TiM2kC0RE435XTJ8s4Vorgls2trhxEgRkETf3ljS9BoXlLuMb3wDovi4lgufSabL4Y8gP2g2liSVUilM4AjYeu5tyUwSDqqpp4FcLDCejC2JFvv8TbEK4nb37RQoH4hS8N1Mi4eEVCMYuX9IOOtIEhd0RTQ7V4haH2s-",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-12-02T02:00:00.000+02:00",
+      "title": "MBTA says ‘exercise common sense’ after man brings Christmas tree on train",
+      "text": " Google+\nBy Steve Annear Globe Staff December 02, 2016\nBen Themo\nWhen you need a Christmas tree and you don’t have a car...\n’Tis the season, apparently.\nOn the community forum Reddit this week, a Red Line rider said he was headed toward Davis Square during an evening commute when a man got on for a few stops holding a Christmas tree.\nAdvertisement\nAlthough some might argue that bringing a tree onto the MBTA is akin to somebody taking up space by placing bags and other personal belongings on the empty seats next to them, it is not against the rules.\nStill, the transit agency had some words to the wise for commuters.\n“We ask that people exercise common sense when using the subway system,” said MBTA spokesman Joe Pesaturo in an e-mail.\nPesaturo said complaints about people lugging trees onto the subway are rare. He said the T’s customer service representatives have received no complaints about people transporting fir, pine, or spruce trees to their homes by train this year. He added that “the head of customer service who has been here at least seven years can’t recall any.”\nGet Fast Forward in your inbox: Forget yesterday's news. Get what you need today in this early-morning email. Sign Up Thank you for signing up! Sign up for more newsletters here “If you ride the subway regularly, ‘yule’ see tree carrying is not rampant,” he quipped.\nAdvertisement\nBut a scroll through social media, a hotbed for complaints from commuters unamused by the habits of their fellow straphangers, showed that tree-carriers have cropped up a few times in the last several years.\nIn 2014, a picture of a man standing proudly with a small tree at a Red Line stop was posted to Instagram.\n“Turns out you can take a Christmas tree on the train,” the person wrote .\nAnd in December 2013, one passenger noted the abundance of tree needles scattered on an MBTA vehicle. “It must be Christmas,” the person said .\nA year before that, a man nearly made the naughty list for his tree transportation choice .\nWhen asked if a passenger could potentially be kicked off a train or given a ticket for packing a tree into a crowded car to the chagrin of fellow riders, Pesaturo said such matters are handled on an individual basis.\nSo, riders, if you see somone with a tree, maybe it’s best to turn that holiday cheer on high, and let it go, let it go, let it go.\nSteve Annear can be reached at steve.annear@globe.com . Follow him on Twitter @steveannear .",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [
+        "http://twitter.com/intent/tweet?text=MBTA",
+        "http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.bostonglobe.com%2Fmetro%2F2016%2F12%2F02%2Fmbta-says-exercise-common-sense-after-man-brings-christmas-tree-train%2Fv7Xifh7tuvZkPF9bYrpXSK%2Fstory.html%3Fevent%3Devent25&t=MBTA",
+        "http://twitter.com/steveannear",
+        "https://www.instagram.com/p/TBqcHcBjax/",
+        "http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.bostonglobe.com%2Fmetro%2F2016%2F12%2F02%2Fmbta-says-exercise-common-sense-after-man-brings-christmas-tree-train%2Fv7Xifh7tuvZkPF9bYrpXSK%2Fstory.html%3Fevent%3Devent25%3Fevent%3Devent25&tMBTA",
+        "https://twitter.com/jo_lam/status/410854846930378752",
+        "https://www.reddit.com/r/boston/comments/5g0d0w/rush_hour_red_line_christmas_tree/",
+        "https://plus.google.com/share?url=http%3A%2F%2Fwww.bostonglobe.com%2Fmetro%2F2016%2F12%2F02%2Fmbta-says-exercise-common-sense-after-man-brings-christmas-tree-train%2Fv7Xifh7tuvZkPF9bYrpXSK%2Fstory.html%3Fevent%3Devent25%26s_campaign%3dsm_gp%26hl=en-US",
+        "https://www.instagram.com/p/wX2Dcfg24b/",
+        "http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.bostonglobe.com%2Fmetro%2F2016%2F12%2F02%2Fmbta-says-exercise-common-sense-after-man-brings-christmas-tree-train%2Fv7Xifh7tuvZkPF9bYrpXSK%2Fstory.html%3Fevent%3Devent25&title=MBTA"
+      ],
+      "entities": {
+        "persons": [
+          {
+            "name": "steve annear",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "joe pesaturo",
+            "sentiment": "none"
+          },
+          {
+            "name": "pesaturo",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "google",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "mbta",
+            "sentiment": "neutral"
+          }
+        ],
+        "locations": [
+          {
+            "name": "reddit",
+            "sentiment": "none"
+          },
+          {
+            "name": "davis square",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-03T02:18:06.486+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "4c32d2beaffaa138ee84ff77fc497e911253d749",
+        "url": "http://omgili.com/ri/jHIAmI4hxg8w7niuyAyflFlwVidy6u4LUYMQKdL.TiM2kC0RE435XYFEC1bM70rlMLSfLJ4PboCudj3QmZOkG6h7u4oMrygoeAbnfYVafVP8EGIJQQQ50RpsGIM8qNg05OVgDIggcBUsRM2lY7c9piwJvsF80ZO5GyCd_0sE.4hFrmRWDqqcdw--",
+        "site_full": "www.bostonglobe.com",
+        "site": "bostonglobe.com",
+        "site_section": "http://www.bostonglobe.com/",
+        "site_categories": [
+          "news"
+        ],
+        "section_title": "The Boston Globe",
+        "title": "Cambridge shelters open for those displaced by 10-alarm fire",
+        "title_full": "Cambridge shelters open for those displaced by 10-alarm fire - The Boston Globe",
+        "published": "2016-12-03T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.649,
+        "main_image": "http://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2016/12/03/BostonGlobe.com/Metro/Images/wiggs_Fire_702920.jpg",
+        "performance_score": 4,
+        "domain_rank": 2402,
+        "social": {
+          "facebook": {
+            "likes": 406,
+            "comments": 0,
+            "shares": 406
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "4c32d2beaffaa138ee84ff77fc497e911253d749",
+      "url": "http://omgili.com/ri/jHIAmI4hxg8w7niuyAyflFlwVidy6u4LUYMQKdL.TiM2kC0RE435XYFEC1bM70rlMLSfLJ4PboCudj3QmZOkG6h7u4oMrygoeAbnfYVafVP8EGIJQQQ50RpsGIM8qNg05OVgDIggcBUsRM2lY7c9piwJvsF80ZO5GyCd_0sE.4hFrmRWDqqcdw--",
+      "ord_in_thread": 0,
+      "author": "bostonglobe",
+      "published": "2016-12-03T02:00:00.000+02:00",
+      "title": "Cambridge shelters open for those displaced by 10-alarm fire",
+      "text": " Google+\nJonathan Wiggs/Globe Staff\nA Cambridge police officer helped a women with a mask at the scene of the 10-alarm fire.\nBy Danny McDonald Globe Staff December 03, 2016\nShelters are open for people displaced in the vicinity of the 10-alarm fire that began on Berkshire Street in Cambridge, according to the Cambridge Fire Department.\nThose affected by the fire can go to the War Memorial Recreation Center, located at 1640 Cambridge St., or Cambridge Rindge and Latin School, located at 459 Broadway, according to the fire department.\nA shelter for people impacted by #CambMA fire is open at War Memorial Recreation Center, 1640 Cambridge St. @RedCross reps available\n— Cambridge Fire Dept. (@CambridgeMAFire) December 3, 2016\nAdvertisement\nMultiple buildings in the East Cambridge neighborhood were in flames Saturday, as thick smoke rose over the city. Authorities were alerted to the massive blaze just before 3 p.m.\nRelated Firefighters battle 10-alarm blaze in Cambridge Photos, videos of the Cambridge fire from the scene",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [
+        "https://twitter.com/RedCross",
+        "https://twitter.com/CambridgeMAFire/status/805179203578695680",
+        "http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.bostonglobe.com%2Fmetro%2F2016%2F12%2F03%2Fcambridge-shelters-open-for-those-displaced-alarm-fire%2FnvbC3WTLM2H8KqBMMnT3BL%2Fstory.html%3Fevent%3Devent25%3Fevent%3Devent25&tCambridge",
+        "http://twitter.com/intent/tweet?text=Cambridge",
+        "http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.bostonglobe.com%2Fmetro%2F2016%2F12%2F03%2Fcambridge-shelters-open-for-those-displaced-alarm-fire%2FnvbC3WTLM2H8KqBMMnT3BL%2Fstory.html%3Fevent%3Devent25&title=Cambridge",
+        "http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.bostonglobe.com%2Fmetro%2F2016%2F12%2F03%2Fcambridge-shelters-open-for-those-displaced-alarm-fire%2FnvbC3WTLM2H8KqBMMnT3BL%2Fstory.html%3Fevent%3Devent25&t=Cambridge",
+        "https://twitter.com/hashtag/CambMA?src=hash",
+        "https://plus.google.com/share?url=http%3A%2F%2Fwww.bostonglobe.com%2Fmetro%2F2016%2F12%2F03%2Fcambridge-shelters-open-for-those-displaced-alarm-fire%2FnvbC3WTLM2H8KqBMMnT3BL%2Fstory.html%3Fevent%3Devent25%26s_campaign%3dsm_gp%26hl=en-US"
+      ],
+      "entities": {
+        "persons": [
+          {
+            "name": "danny",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "google",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "latin school",
+            "sentiment": "none"
+          },
+          {
+            "name": "mcdonald globe",
+            "sentiment": "none"
+          },
+          {
+            "name": "cambridge fire department",
+            "sentiment": "none"
+          },
+          {
+            "name": "war memorial recreation center",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "cambridge",
+            "sentiment": "none"
+          },
+          {
+            "name": "berkshire street",
+            "sentiment": "none"
+          },
+          {
+            "name": "east cambridge",
+            "sentiment": "none"
+          },
+          {
+            "name": "cambridge rindge",
+            "sentiment": "none"
+          },
+          {
+            "name": "cambridge photos",
+            "sentiment": "none"
+          },
+          {
+            "name": "broadway",
+            "sentiment": "none"
+          },
+          {
+            "name": "cambridge st.",
+            "sentiment": "none"
+          },
+          {
+            "name": "war memorial recreation center",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-04T01:34:45.699+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "9ef5897df433d3127786df39e38eefb93ffe3c0c",
+        "url": "http://omgili.com/ri/jHIAmI4hxg8w7niuyAyflFlwVidy6u4LUYMQKdL.TiM2kC0RE435XQCTYfyDcgKvZNqP46Ak9vlnTM8kBg3B7mmLQhco7qYVOFG9x1yOyqwiwhx1kVll.k8DSG_xPknU0AOLadbnqIyNxGZLSweqcA--",
+        "site_full": "www.bostonglobe.com",
+        "site": "bostonglobe.com",
+        "site_section": "http://www.bostonglobe.com/",
+        "site_categories": [
+          "news"
+        ],
+        "section_title": "The Boston Globe",
+        "title": "David, 14, is hoping for a family of his own",
+        "title_full": "David, 14, is hoping for a family of his own - The Boston Globe",
+        "published": "2016-12-03T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.043,
+        "main_image": "http://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2016/12/03/BostonGlobe.com/Metro/Images/DAVID.jpg",
+        "performance_score": 1,
+        "domain_rank": 2402,
+        "social": {
+          "facebook": {
+            "likes": 121,
+            "comments": 0,
+            "shares": 121
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "9ef5897df433d3127786df39e38eefb93ffe3c0c",
+      "url": "http://omgili.com/ri/jHIAmI4hxg8w7niuyAyflFlwVidy6u4LUYMQKdL.TiM2kC0RE435XQCTYfyDcgKvZNqP46Ak9vlnTM8kBg3B7mmLQhco7qYVOFG9x1yOyqwiwhx1kVll.k8DSG_xPknU0AOLadbnqIyNxGZLSweqcA--",
+      "ord_in_thread": 0,
+      "author": "bostonglobe",
+      "published": "2016-12-03T02:00:00.000+02:00",
+      "title": "David, 14, is hoping for a family of his own",
+      "text": " Google+\n December 03, 2016\nDavid.\nDavid is a sweet and easygoing fourteen-year-old boy of Caucasian descent. He interacts very well with the adults in his life and enjoys exploring his environment in many ways; his favorite being through sense of touch.\nDavid is on the Autism spectrum and benefits from tactile experiences that include knocking over objects to hear how they sound and banging toys together to examine how it feels. Some of David’s other favorite activities include swinging on swings and riding his bike. David is mainly non-verbal but knows some sign language and uses picture exchange communication (PEC) as well. David needs some assistance with daily living activities but others he has mastered.\nAdvertisement\nDavid is currently placed in a group care setting where he is well liked by all. The staff feels that he has enormous potential and he is learning new skills all the time. David attends a specialized school and has an Individualized Education Plan to assist with academic needs.\nDavid would do well in a family of any constellation, as an only child or with older siblings. David’s ideal family should be willing to provide constant supervision and also be strong advocates for David throughout his life. A family who has knowledge about children on the Autism spectrum would also be preferred. David has the ability to grow, learn, and thrive under the guidance of a patient and loving family that will help him to reach his potential.\nWhat does adoption cost?\nGet Fast Forward in your inbox: Forget yesterday's news. Get what you need today in this early-morning email. It costs little or nothing to adopt a child from foster care. Unlike international or private adoptions, there is no adoption agency fee. There are also a number of free post-adoption support services available to families statewide, including support groups and respite care. Children with special needs who are adopted from the foster care system are eligible for ongoing financial and medical assistance after adoption. These children are also eligible for a tuition waiver to attend a Massachusetts state college or university.\nTo learn more about David, and about adoption from foster care, call the Massachusetts Adoption Resource Exchange (MARE) at 617-54- ADOPT (617-542- 3678) or visit www.mareinc.org. The sooner you call, the sooner a waiting child will have “a permanent place to call home.”",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [
+        "http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.bostonglobe.com%2Fmetro%2F2016%2F12%2F03%2Fdavid-hoping-for-family-his-own%2FbT6fhTI5O2ogzk7GQwc5JJ%2Fstory.html%3Fevent%3Devent25%3Fevent%3Devent25&tDavid,",
+        "http://twitter.com/intent/tweet?text=David,",
+        "http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.bostonglobe.com%2Fmetro%2F2016%2F12%2F03%2Fdavid-hoping-for-family-his-own%2FbT6fhTI5O2ogzk7GQwc5JJ%2Fstory.html%3Fevent%3Devent25&title=David,",
+        "https://plus.google.com/share?url=http%3A%2F%2Fwww.bostonglobe.com%2Fmetro%2F2016%2F12%2F03%2Fdavid-hoping-for-family-his-own%2FbT6fhTI5O2ogzk7GQwc5JJ%2Fstory.html%3Fevent%3Devent25%26s_campaign%3dsm_gp%26hl=en-US",
+        "http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.bostonglobe.com%2Fmetro%2F2016%2F12%2F03%2Fdavid-hoping-for-family-his-own%2FbT6fhTI5O2ogzk7GQwc5JJ%2Fstory.html%3Fevent%3Devent25&t=David,"
+      ],
+      "entities": {
+        "persons": [
+          {
+            "name": "david",
+            "sentiment": "neutral"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "google",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "massachusetts adoption resource exchange",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "massachusetts",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-04T01:36:34.934+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "0f88348cb616a71df74851bff6b1d959934dd104",
+        "url": "http://omgili.com/ri/.wHSUbtEfZS2zRe1PZr6bfCm.0GE0o3Y47Hj..ogzFmpGRc_9Qnw7V16l4n6XvMG2PpXkFDuAnaJY6RyoIstDb55xjNhgYMfpqYBaa9RRp.51zlGPRqJYMh28CfqpJ9mlgVqCtgRGNSQXOiUYU48OQ--",
+        "site_full": "techcrunch.com",
+        "site": "techcrunch.com",
+        "site_section": "http://feeds.feedburner.com/Techcrunch",
+        "site_categories": [
+          "news"
+        ],
+        "section_title": "TechCrunch",
+        "title": "Google’s new Trusted Contacts app lets you share your location in emergencies",
+        "title_full": "Google’s new Trusted Contacts app lets you share your location in emergencies",
+        "published": "2016-12-05T15:23:53.903+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "https://tctechcrunch2011.files.wordpress.com/2016/12/screenshot_20161204-214847-2.png?w=764&amp;h=400&amp;crop=1",
+        "performance_score": 2,
+        "domain_rank": 697,
+        "social": {
+          "facebook": {
+            "likes": 253,
+            "comments": 0,
+            "shares": 253
+          },
+          "gplus": {
+            "shares": 32
+          },
+          "pinterest": {
+            "shares": 2
+          },
+          "linkedin": {
+            "shares": 60
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "0f88348cb616a71df74851bff6b1d959934dd104",
+      "url": "http://omgili.com/ri/.wHSUbtEfZS2zRe1PZr6bfCm.0GE0o3Y47Hj..ogzFmpGRc_9Qnw7V16l4n6XvMG2PpXkFDuAnaJY6RyoIstDb55xjNhgYMfpqYBaa9RRp.51zlGPRqJYMh28CfqpJ9mlgVqCtgRGNSQXOiUYU48OQ--",
+      "ord_in_thread": 0,
+      "author": "Frederic Lardinois",
+      "published": "2016-12-05T15:23:53.903+02:00",
+      "title": "Google’s new Trusted Contacts app lets you share your location in emergencies",
+      "text": "Google’s new Trusted Contacts app lets you share your location in emergencies Posted Leap Motion demos its excellent hand tracking technology on Samsung’s Gear VR \nWith Trusted Contacts, Google is launching a new personal safety app today that allows others to ping you for your location when they think you may been in an accident or in danger. \nThe idea here is that you define who these trusted contacts are and by doing so, you allow them to see where you are when they ping you. The twist here is that you can always decline to share your location, but if you don’t decline the request within five minutes, the app will automatically share your location. If you’re offline, it’ll share your last known location before your connection dropped. \nIf you find yourself in danger, you can also actively share your location with either select contacts or all of your trusted contacts as well. \nNo matter whether you actively decide to share your location or end up sharing it passively, you can always turn the sharing feature off again whenever you want to (otherwise, it’ll remain on for the next 24 hours). a_trans-1",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "google",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "samsung",
+            "sentiment": "none"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-12-05T15:23:53.903+02:00"
+    }
+  ],
+  "totalResults": 15,
+  "moreResultsAvailable": 0,
+  "next": "/search?token=c6052904-f312-436b-a6d8-d915084ac866&format=json&ts=1480944233903&q=language%3A%28english%29+thread.country%3AUS+organization.neutral%3A%22Google%22+performance_score%3A%3E0+%28site_type%3Anews+OR+site_type%3Ablogs%29",
+  "requestsLeft": 789
+}

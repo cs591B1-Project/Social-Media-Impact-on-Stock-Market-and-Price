@@ -1,0 +1,2441 @@
+{
+  "posts": [
+    {
+      "thread": {
+        "uuid": "9d326e998d31b56e9fd0a9a4f1c86cab2eff4a98",
+        "url": "http://omgili.com/ri/jHIAmI4hxg8qAjAGp3DjaPZuwgrHDl8evsOafaFYOF._EZqKrCWDyhLsW79js2tYU_dr.sUoQfbwC2MgW_1pXDFk0OoF1vohal3hD1uaAElt0KfBppyyzHpuFfF_2HeOtwy_ApTomL9KcEDHIQj8gA--",
+        "site_full": "www.networkworld.com",
+        "site": "networkworld.com",
+        "site_section": "http://www.networkworld.com/index.rss",
+        "site_categories": [
+          "tech"
+        ],
+        "section_title": "Network World",
+        "title": "IBM package brings Watson smarts to everything IoT",
+        "title_full": "IBM package brings Watson smarts to everything IoT",
+        "published": "2016-11-09T22:55:50.474+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://images.techhive.com/images/article/2015/12/1024px-ibm_watson-100632019-primary.idge.jpg",
+        "performance_score": 0,
+        "domain_rank": 10971,
+        "social": {
+          "facebook": {
+            "likes": 17,
+            "comments": 0,
+            "shares": 17
+          },
+          "gplus": {
+            "shares": 3
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 40
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "9d326e998d31b56e9fd0a9a4f1c86cab2eff4a98",
+      "url": "http://omgili.com/ri/jHIAmI4hxg8qAjAGp3DjaPZuwgrHDl8evsOafaFYOF._EZqKrCWDyhLsW79js2tYU_dr.sUoQfbwC2MgW_1pXDFk0OoF1vohal3hD1uaAElt0KfBppyyzHpuFfF_2HeOtwy_ApTomL9KcEDHIQj8gA--",
+      "ord_in_thread": 0,
+      "author": "Michael Cooney",
+      "published": "2016-11-09T22:55:50.474+02:00",
+      "title": "IBM package brings Watson smarts to everything IoT",
+      "text": "Layer 8 is written by Michael Cooney, an online news editor with Network World. IBM package brings Watson smarts to everything IoT IBM Intu package can work with everything from Raspberry PI to MacOS and Windows or Linux devices Related Use commas to separate multiple email addresses From Your message has been sent. Sorry Network World | Nov 9, 2016 8:43 AM PT RELATED TOPICS Comments \nIBM has released an experimental program developers can use to embed Watson cognitive intelligence features in all manner of IoT systems from robots and drones to sensors and avatars. \nIBM says the platform, called Project Intu lets Project Intu offers developers easily build cognitive or basically machine learning skills into a wide variety of operating systems – from Raspberry PI to MacOS, Windows to Linux devices. Devices using Intu can “interact more naturally with users, triggering different emotions and behaviors and creating more meaningful and immersive experience for users. Developers can simplify and integrate Watson services, such as Conversation, speech-to-text, Language and Visual Recognition, with the capabilities of the “device” to, in essence, act out the interaction with the user,” IBM stated. \n+More on Network World: IBM Watson/ XPrize open $5 million AI competition for world-changing applications + \nIBM said instead of a developer needing to program each individual movement of a device, Project Intu makes it easy to combine movements that are appropriate for performing specific tasks like assisting a customer in a retail setting or greeting a visitor in a hotel in a way that is natural for the end user. \nThe growth of cognitive-enabled applications is accelerating. IDC recently estimated that “by 2018, 75% of developer teams will include Cognitive/AI functionality in one or more applications/services.” This is a dramatic jump from last year’s prediction that 50% of developers would leverage cognitive/AI features by 2018. \n+More on Network World: The most momentous tech events of the past 30 years + \n“IBM is taking cognitive technology beyond a physical technology interface like a smartphone or a robot toward an even more natural form of human and machine interaction,” said Rob High, IBM Fellow, VP and CTO, IBM Watson in a statement. “Project Intu allows users to build embodied systems that reason, learn and interact with humans to create a presence with the people that use them – these cognitive-enabled avatars and devices could transform industries like retail, elder care, and industrial and social robotics.” \nProject Intu is now accessible via the Watson Developer Cloud and also available on Intu Gateway and GitHub . \nCheck out these other hot stories:",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "watson",
+            "sentiment": "positive"
+          },
+          {
+            "name": "michael cooney",
+            "sentiment": "positive"
+          },
+          {
+            "name": "rob high",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "network world",
+            "sentiment": "positive"
+          },
+          {
+            "name": "ibm",
+            "sentiment": "positive"
+          },
+          {
+            "name": "idc",
+            "sentiment": "none"
+          },
+          {
+            "name": "ibm watson",
+            "sentiment": "none"
+          },
+          {
+            "name": "watson developer cloud",
+            "sentiment": "none"
+          },
+          {
+            "name": "project intu",
+            "sentiment": "none"
+          },
+          {
+            "name": "visual recognition",
+            "sentiment": "none"
+          },
+          {
+            "name": "cto",
+            "sentiment": "none"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-11-09T22:55:50.474+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "df4e57d5f087cdf73b2a9d95bdbd32f4730906a3",
+        "url": "http://omgili.com/ri/jHIAmI4hxg9E2TIFDXh7_FOnBJD3wGKY54oY_3pQQR0vI.ZtyJi7h7kkBytkJBLSLqUgqf0Qgj6liLc5f9bZQ.4yCjGW__f7bNoTUC_HSy8XBekui4IpinkZEyfL_kZBwyjyVTi5yQgYE8j4Wkow4yv_5VDNj37Lv1.vCE8iFfRNL.4XBICfYx.JgUbQvwprMrNmjE6kO6E-",
+        "site_full": "www.freeclassifiedssites.com",
+        "site": "freeclassifiedssites.com",
+        "site_section": "http://www.freeclassifiedssites.com/feed/posts/",
+        "site_categories": [
+          "shopping",
+          "business"
+        ],
+        "section_title": "Free Classifieds Sites",
+        "title": "Highly successful IBM pSeries p5 520 Servers on Rentals Bangalore",
+        "title_full": "Highly successful IBM pSeries p5 520 Servers on Rentals Bangalore",
+        "published": "2016-11-13T08:59:06.624+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 34247,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "df4e57d5f087cdf73b2a9d95bdbd32f4730906a3",
+      "url": "http://omgili.com/ri/jHIAmI4hxg9E2TIFDXh7_FOnBJD3wGKY54oY_3pQQR0vI.ZtyJi7h7kkBytkJBLSLqUgqf0Qgj6liLc5f9bZQ.4yCjGW__f7bNoTUC_HSy8XBekui4IpinkZEyfL_kZBwyjyVTi5yQgYE8j4Wkow4yv_5VDNj37Lv1.vCE8iFfRNL.4XBICfYx.JgUbQvwprMrNmjE6kO6E-",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-11-13T08:59:06.624+02:00",
+      "title": "Highly successful IBM pSeries p5 520 Servers on Rentals Bangalore",
+      "text": "Highly successful IBM pSeries p5 520 Servers on Rentals Bangalore (India,  13  40  13 Reply to : (Use contact form below) \nHighly successful IBM pSeries p5 520 Servers on Rentals Bangalore. The System p5 520 is a follow-on to the highly successful IBM OpenPower 720 and the IBM p5 520. The p5-520 is available in a 1-core configuration using a 1.65 GHz POWER5+ processor with no L3 cache, \n1-core, 2-core, and 4-core SMP design (one processor card) p5-520 — 2-core 2.1 GHz with 36 MB L3 cache 1 GB of DDR-2 533 MHz ECC memory: Up to 32 GB. Eight hot-swap disk drive bays — two four packs: Up to 2400 GB of internal disk storage Two slimline media bays for DVD-ROM and DVD-RAM Six hot-swap PCI-X slots Three 133 MHz 64-bit PCI-X slots One 266 MHz 64-bit PCI-X slot Two 66 MHz 32-bit PCI-X slots IDE controller for connection to internal optical devices Dual 10/100/1000 Gb Ethernet Ultra320 SCSI controller with dual ports (internal) and optional RAID adapterOne GX slot Hot-swap and redundant fans Two USB ports,Two system ports and Two HMC/UPC ports One Power Supply, 850 Watt AC. \nContact Us: Serverental , Mobile: 098866 99666, Email: Sales@serverental.com » Website: http://serverental.com/ibm-pseries-p5-520-server-on-rental-upgrade-or-repair-bangalore-chennai-hyder abad-cochin-mumbai-pune-delhi-noida-gurgaon/ »  ",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "ibm",
+            "sentiment": "positive"
+          },
+          {
+            "name": "ecc",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "india",
+            "sentiment": "none"
+          },
+          {
+            "name": "bangalore",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-11-13T08:59:06.624+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "49b72cc4de7ae2d1fcaf52d584ad6d6d7d8f4cdb",
+        "url": "http://omgili.com/ri/jHIAmI4hxg8ZZA8UqCf0XY_ORDcdTiyWMHu3sz3U6ti0GIcNXGr86YVat5hmLLCnv7cgfMUGDpufzFarlwtMyBhDM_gwfulotLGWVhxExdEHzjtweF9cmj_li_VMlScI6ZQFOTX9rplfsfq5oBXJfNfpz5.GEUtL",
+        "site_full": "www.techrepublic.com",
+        "site": "techrepublic.com",
+        "site_section": "http://news.yahoo.com/rss/tech",
+        "site_categories": [
+          "news",
+          "tech",
+          "business"
+        ],
+        "section_title": "Tech News Headlines - Yahoo News",
+        "title": "IBM, NVIDIA partner for 'fastest deep learning enterprise solution' in the world",
+        "title_full": "IBM, NVIDIA partner for 'fastest deep learning enterprise solution' in the world",
+        "published": "2016-11-14T19:56:22.501+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://tr3.cbsistatic.com/hub/i/r/2016/11/14/e73d21ca-95e1-4f20-909e-9e1f7f526108/thumbnail/770x578/074fadb2b74507ae60da575765b10f4a/fastdata.jpg",
+        "performance_score": 0,
+        "domain_rank": 2614,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "49b72cc4de7ae2d1fcaf52d584ad6d6d7d8f4cdb",
+      "url": "http://omgili.com/ri/jHIAmI4hxg8ZZA8UqCf0XY_ORDcdTiyWMHu3sz3U6ti0GIcNXGr86YVat5hmLLCnv7cgfMUGDpufzFarlwtMyBhDM_gwfulotLGWVhxExdEHzjtweF9cmj_li_VMlScI6ZQFOTX9rplfsfq5oBXJfNfpz5.GEUtL",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-11-14T19:56:22.501+02:00",
+      "title": "IBM, NVIDIA partner for 'fastest deep learning enterprise solution' in the world",
+      "text": "Innovation IBM, NVIDIA partner for 'fastest deep learning enterprise solution' in the world IBM and NVIDIA recently teamed up to announce IBM PowerAI, a software toolkit that accelerates machine training for AI solutions and will boost IBM Watson's capabilities. By Conner Forrest | November 14, 2016, 7:25 AM PST Google Plus Image: iStockphoto/FotoMak \nIBM PowerAI, a new deep learning software toolkit announced Monday, could help train computers for machine learning and AI tasks faster than ever before. The solution, a joint project from IBM and NVIDIA, runs on an IBM server built specifically for AI and uses NVIDIA NVLink as well. \nAccording to a press email announcing the availability of the solution, IBM PowerAI is the \"world's fastest deep learning enterprise solution,\" and it will \"help train computers to think and learn in more human-like ways at a faster pace.\" \nThis new toolkit was designed to work with IBM's Power Systems LC lineup of Linux servers, specifically the IBM Power S822LC for High Performance Computing (HPC). That server has NVIDIA's latest GPU technology on board, which helps further its potential for use in deep learning and AI applications. \nSEE: IBM Watson: The smart person's guide \nWhile this new product is geared toward \"emerging computing methods of artificial intelligence\" like deep learning, it also has implications for IBM's better-known cognitive computing project, Watson. IBM PowerAI will bolster Watson's enterprise AI skills by providing the platform with additional training. More about Innovation Subscribe to TechRepublic's Next Big Thing newsletter. \n\"PowerAI democratizes deep learning and other advanced analytic technologies by giving enterprise data scientists and research scientists alike an easy to deploy platform to rapidly advance their journey on AI,\" Ken King, general manager for OpenPOWER, said in the email. \"Coupled with our high performance computing servers built for AI, IBM provides what we believe is the best platform for enterprises building AI-based software, whether it's chatbots for customer engagement, or real-time analysis of social media data.\" \nOf course, none of this matters if there aren't real-life applications for the technology. In the press email, IBM noted that technologies such as the deep learning this toolkit provides have been used for fraud protection in banks, facial recognition applications, and even in self-driving cars. \nIn the past, IBM Watson has been used in verticals like healthcare , legal, finance, retail, cybersecurity , and even fantasy football. So, it's possible that we will see IBM PowerAI in these fields as well. \nExisting IBM customers who have IBM's Power S822LC for HPC server can access IBM PowerAI immediately at no additional charge, the email said. The 3 big takeaways for TechRepublic readers IBM and NVIDIA recently partnered on IBM PowerAI, a new software toolkit, to accelerate deep learning initiatives in business. PowerAI is meant to run on the IBM Power S822LC for High Performance Computing and exists as a separate product, but will work with Watson. IBM sees these deep learning technologies as important to verticals like healthcare, finance, retail, and self-driving cars. Stay informed, click here to subscribe to the TechRepublic Next Big Thing newsletter. Subscribe",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "conner forrest",
+            "sentiment": "none"
+          },
+          {
+            "name": "watson",
+            "sentiment": "none"
+          },
+          {
+            "name": "ken king",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "ibm",
+            "sentiment": "positive"
+          },
+          {
+            "name": "nvidia",
+            "sentiment": "positive"
+          },
+          {
+            "name": "ibm watson",
+            "sentiment": "none"
+          },
+          {
+            "name": "ibm power",
+            "sentiment": "none"
+          },
+          {
+            "name": "power systems lc",
+            "sentiment": "none"
+          },
+          {
+            "name": "google",
+            "sentiment": "none"
+          },
+          {
+            "name": "gpu",
+            "sentiment": "none"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-11-14T19:56:22.501+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "2f9b7f2710850074cd3a60485fbf4e613e094528",
+        "url": "http://omgili.com/ri/7aBdisT0NOrO1_KRh30qwogLBAUlEvcqid9xGeFh8PixhFla55bbChwZFS.NDU4Fv8v47SLIIN_vsiedt836ds.UNocJ9NoBAC5C.yktx6c-",
+        "site_full": "seekingalpha.com",
+        "site": "seekingalpha.com",
+        "site_section": "http://seekingalpha.com/feed.xml",
+        "site_categories": [
+          "business"
+        ],
+        "section_title": "All Articles on Seeking Alpha",
+        "title": "IBM: Cloud Potential Underestimated",
+        "title_full": "IBM: Cloud Potential Underestimated",
+        "published": "2016-11-14T21:26:37.177+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "https://staticseekingalpha3.a.ssl.fastly.net/images/marketing_images/fair_use_logos_products/sacl_ibm_ibm.png",
+        "performance_score": 0,
+        "domain_rank": 1432,
+        "social": {
+          "facebook": {
+            "likes": 9,
+            "comments": 0,
+            "shares": 9
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 167
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "2f9b7f2710850074cd3a60485fbf4e613e094528",
+      "url": "http://omgili.com/ri/7aBdisT0NOrO1_KRh30qwogLBAUlEvcqid9xGeFh8PixhFla55bbChwZFS.NDU4Fv8v47SLIIN_vsiedt836ds.UNocJ9NoBAC5C.yktx6c-",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-11-14T21:26:37.177+02:00",
+      "title": "IBM: Cloud Potential Underestimated",
+      "text": "Summary \nIBM is in the process of growing a highly sophisticated cloud ecosystem.. \nShould the market for AI be as anticipated, this company is well on the way to establishing itself as a leader in this field.. \nMoreover, IBM is mitigating the decline in hardware sales through refocusing on high-powered computing services through Linux operating systems. \nI am strongly considering initiating a position in IBM over the next few months. IBM (NYSE: IBM ) is positioning itself as a leader in the cloud computing industry. With the company having previously suffered setbacks as a result of the decline in its hardware business, it appears that the after-effects of this have lingered from an investing standpoint. Consequently, there is a high degree of caution on the part of potential buyers in investing in this company. However, I strongly believe that within the next five years, IBM will have completely transformed itself from the hardware-focused company that it has traditionally been known as. Specifically, IBM has recognized the importance of cloud computing and analytics to its overall business, and is positioning itself as a primary provider in this industry, rather than taking the approach of merely integrating the service among a broader suite of products. The broad appeal of IBM's offering is that as far as cloud computing goes, it is catering to a wide range of demographics: from those who create software for a living to those who have never written a line of code in their lives. For instance, IBM's Bluemix platform has established itself as a key platform for software developers to deploy and manage applications in the cloud, integrating a vast array of programming languages for developers catering to languages such as Java and Python for heavy software development to integration of more statistical-based languages such as R through library extensions for more data-centric tasks. In the second quarter of this year, IBM reported quarterly revenue for its cloud business at $3.4 billion , which represents a 30 percent gain over the same quarter last year. Moreover, Bluemix represented a large part of this revenue increase, with the company having expanded the platform with an Apache Spark development environment. On a yearly basis, cloud revenue grew by more than 50 percent. Moreover, IBM's capabilities in artificial intelligence means the company has been able to expand beyond simply providing software development technologies to directly providing businesses with systems to organize unstructured data in a way that directly impacts business growth. As one example, IBM has been successful in collaborating with large companies such as Medtronic (NYSE: MDT ) through Watson Health in developing artificial intelligence systems to better manage the incidence of diabetes, which is set to be a growing market - according to the CDC more than a third of American adults have prediabetes, with 90% of those unaware of the condition. Granted, Watson is uncharted territory for the company as far as revenues go - especially so since the company appears to be holding its cards close to its chest by not disclosing revenues for this sector. However, as far as artificial intelligence goes, Google (NASDAQ: GOOG ) (NASDAQ: GOOGL ) is the only company to come close to competing with Watson, with other competitors such as Microsoft's (NASDAQ: MSFT ) Project Oxford suite not having been as successful in gaining traction. Should demand grow as anticipated for artificial intelligence, then IBM will have created a highly dominant position in this field. Of course, IBM still contends with falling revenues as a result of the decline in hardware sales. However, the company is also tailoring its hardware services to capture the growth in high-speed computing, rather than continuing to focus on mainstream UNIX operating systems. For instance, through the combination of Power8 processors with the Linux software, the result has been systems that have delivered 80 percent more performance in dollar terms than UNIX systems, with the uptake for the IBM Power System S822LC server having been vibrant among a variety of customers, including governments, research organizations and large businesses. With a continuing shift in focus to high-performance computing, IBM's hardware business will become more niche and I expect that a decline in hardware sales will not persist long-term. To conclude, I see IBM as a great business with huge potential as a cutting-edge cloud services provider. From a financial standpoint, the company continues to remain attractively valued on a free cash flow basis, and I may well initiate a position in this company in the next few months. Disclosure: I/we have no positions in any stocks mentioned, and no plans to initiate any positions within the next 72 hours. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article. Additional disclosure: I/we have no positions in any stocks mentioned, but may initiate a long position in IBM over the next few months. About this article: Expand Author payment: $35 + $0.01/page view. Authors of PRO articles receive a minimum guaranteed payment of $150-500. Become a contributor »",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "watson",
+            "sentiment": "none"
+          },
+          {
+            "name": "bluemix",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "ibm",
+            "sentiment": "positive"
+          },
+          {
+            "name": "watson health",
+            "sentiment": "none"
+          },
+          {
+            "name": "medtronic",
+            "sentiment": "none"
+          },
+          {
+            "name": "microsoft",
+            "sentiment": "none"
+          },
+          {
+            "name": "cdc",
+            "sentiment": "none"
+          },
+          {
+            "name": "google",
+            "sentiment": "none"
+          },
+          {
+            "name": "nyse",
+            "sentiment": "none"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-11-14T21:26:37.177+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "9e44c3ec29491875af127af2a5949309f8bb64b2",
+        "url": "http://omgili.com/ri/uBQNNiLKiWbqbA4MT5PamSI39m4B1431d2jnmraqvZiVrgDHDOVumnkhFob7wUMsbUbe4s6J19j6dhP1E99xgfzgdKMiAJd9bF6Vl.HsOySzdmctdKFmW6o0x8YME4RrnUMYAcXbxi5hGgAqSrvohQMkwDwImt6b",
+        "site_full": "hyderabad.classi4u.com",
+        "site": "classi4u.com",
+        "site_section": "http://hyderabad.classi4u.com/rssfeed.php",
+        "site_categories": [
+          "business"
+        ],
+        "section_title": "Local Ads in Hyderabad - Classi4U.com",
+        "title": "IBM Pseries 9111-285 Servers on Rentals Hyderabad excellent performance",
+        "title_full": "IBM Pseries 9111-285 Servers on Rentals Hyderabad excellent performance",
+        "published": "2016-11-15T21:44:07.987+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://images.classi4u.com/ads/1228730/ibm-pseries-9111-285.jpg",
+        "performance_score": 0,
+        "domain_rank": 41441,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "9e44c3ec29491875af127af2a5949309f8bb64b2",
+      "url": "http://omgili.com/ri/uBQNNiLKiWbqbA4MT5PamSI39m4B1431d2jnmraqvZiVrgDHDOVumnkhFob7wUMsbUbe4s6J19j6dhP1E99xgfzgdKMiAJd9bF6Vl.HsOySzdmctdKFmW6o0x8YME4RrnUMYAcXbxi5hGgAqSrvohQMkwDwImt6b",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-11-15T21:44:07.987+02:00",
+      "title": "IBM Pseries 9111-285 Servers on Rentals Hyderabad excellent performance",
+      "text": "show IBM Pseries 9111-285 Servers on Rentals Hyderabad excellent performance. The IBM 9111 IntelliStation POWER Model 285 workstation is available in a 1-core or 2-core configuration using state-of-the-art, 64-bit, copper-based POWER5+ microprocessors running at either 1.9 GHz or 2.1 GHz, all with 36 MB of L3 cache. IBM pSeries 9111-285 Specifications: One 1-core or 2-core state-of-the-art, 64-bit POWER5+ processor running at 1.9 or 2.1 GHz. Up to 1200 GB of internal disk storage 1-core or 2-core SMP design (one processor card) 1-core or 2-core 1.9 GHz with 36 MB L3 cache 1-core or 2-core 2.1 GHz with 36 MB L3 cache Four hot-swap disk bays and six PCI-X slots for feature expandability 73.4GB 10K, 146.8GB 10K and 36..4 GB 10K Ultra320 SCSI Disk Drive. 1 GB of DDR-2 533 MHz ECC memory: Expandable to 32 GB. Two slimline media bays for DVD-ROM and DVD-RAM One media bay for tape drive One Power Supply, 700 Watt ac. Contact Us: Serverental Mobile: 098866 99666, Email: Sales@serverental.com, Website: http://serverental.com/ibm-pseries-9111-285-server-on-rental-upgrade-or-repair-bangalore-chennai-hyderabad-cochin-mumbai-pune-delhi-noida-gurgaon/",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "watt",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "ibm",
+            "sentiment": "positive"
+          },
+          {
+            "name": "ecc",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "hyderabad",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-11-15T21:44:07.987+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "f4e2e03e0e483f53ccb1e4c9ad341f40b2c23779",
+        "url": "http://omgili.com/ri/rPCDLkAl21RPO9zS7OyuSzZOmRZ5xzrLthbmQZ8dzi8N.ZS3GdssdiUiwUwTz4m.",
+        "site_full": "apmblog.dynatrace.com",
+        "site": "dynatrace.com",
+        "site_section": "",
+        "site_categories": [
+          "education"
+        ],
+        "section_title": "",
+        "title": "Upgrade to IBM Commerce 8 with Confidence - about:performance",
+        "title_full": "Upgrade to IBM Commerce 8 with Confidence - about:performance",
+        "published": "2016-11-16T15:59:52.431+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.43,
+        "main_image": "http://apmblog.dynatrace.com/wp-content/uploads/2016/01/DogDuck.png",
+        "performance_score": 0,
+        "domain_rank": 53321,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "f4e2e03e0e483f53ccb1e4c9ad341f40b2c23779",
+      "url": "http://omgili.com/ri/rPCDLkAl21RPO9zS7OyuSzZOmRZ5xzrLthbmQZ8dzi8N.ZS3GdssdiUiwUwTz4m.",
+      "ord_in_thread": 0,
+      "author": "Brian Wilson",
+      "published": "2016-11-16T15:59:52.431+02:00",
+      "title": "Upgrade to IBM Commerce 8 with Confidence - about:performance",
+      "text": "Home > Best Practices > Upgrade to IBM Commerce 8 with Confidence About the Author \nBrian Wilson is a member of the Product Specialist and Sales Engineering teams at Dynatrace. Before joining Dynatrace, he spent 10 years in performance analysis. He loves seeing Dynatrace turn performance testers into performance engineers. In a parallel universe, he is touring the world with his band that became more influential than the Beatles. Upgrade to IBM Commerce 8 with Confidence January 12, 2016 | by Brian Wilson | 1 Comment \nOn November 30 th 2015 IBM released IBM Commerce v8.o . It’s been six years since IBM released a major version of IBM Commerce. While there have been many feature and fix packs released over the last 6 years, the idea of deploying a new major version of application software is one that can give the digital business owners and IT roles many restless nights. \nApplication upgrades can be a nerve-wracking experience for any organization, whether you’re a Continuous Integration/Continuous Delivery shop or, especially, still living in the waterfall world. When that system is responsible for generating the bulk of your revenue, it can be especially stressful. Questions arise: Did the developers incorporate the new features correctly? Did the testers cover all the new scenarios properly? What didn’t we think of? Will that little mysterious blip we saw in the dev/test environment blow up in production? Managing the risk is the name of the game. With the latest IBM Commerce FastPack from Dynatrace, you can manage that risk with confidence. The FastPack comes with several dashboards showing key technical and business metrics – detailing whether the deployment was a success or not: Fig 1. New User Experience KPI dashboard from the WebSphere Commerce FastPack \nWith our years of software analysis experience and close collaboration with IBM engineering we hope you find these metrics useful. You should also adbide by the following 3 rules when upgrading your application software. In Rule 3 below, I highlight a significant performance degradation due to a security setting that was enabled for our specific environment, which stress the importance of maintaining consistent settings across environments. Rule #1: Keep it simple. \nThis seems obvious, but then again, it also seems obvious not to leave your cell phone or loose change visible in your car overnight. Upgrades come with their own feature sets. \nIBM Commerce 8 includes new features based around customer support, customer & business user experience and Management Center, in addition to updating the underyling software components like the application server and database. Deploying and testing these new features while also ensuring that existing functionality still operates in parity with WebSphere Commerce 7 (now IBM Commerce) provides more than enough work and risk. But, if you’ve worked in technology long enough, I’m sure you’ve encountered the situation where somebody, from either product or marketing, starts making a lot of noise to get some of their wishlist items added to the release. Don’t do it. This is not the time. It will only add complexity and risk. If a difficult issue arises, you’ll now be trying to figure out if it’s due to something in the upgrade or something from the wishlist. Rule #2: If it quacks like a duck, make sure it actually still is a duck. \nThis rule is tempting to ignore, especially if you’re adhering to Rule #1. When deploying an upgrade where new features from the upgrade are involved, the tendency is to concentrate most efforts on thoroughly testing these new features. Regression testing is typically regulated to a few high level metrics, like CPU utilization, response time and placing a checkmark in the box to say it still works. Because it’s nearly impossible to create real world scenarios in a testing environment, it’s important to understand how code execution has changed in a new release and what impact that change may have. Imagine that the Checkout transaction passes a response time performance test and takes about the same amount of time as before the upgrade, but what if there were 3 more database queries added to the checkout function with the upgrade? The increased calls to the database could wreak havoc during a sale. We call this an architectural regression! \nBy monitoring deltas in key metrics like DB calls, response times, CPU usage of key transactions, exceptions, etc., instead of just thinking everything “feels about right”, you can have a comprehensive understanding of how the application utilizes resources and the confidence that there are no hidden gremlins in the system waiting to be fed after midnight. By using the proper tools to compare tests before/after the upgrade, you can gain this insight without taking extra time in the testing cycle, or worse, finding problems once the new store goes live. For more information on how to track meaningful performance KPI’s through the lifecycle, check out these two blog posts by my colleague Andreas Grabner: Key Performance Metrics For Load Tests Beyond Response Time- Part II Rule #3: Understand and address degradations quickly. \nI’ll illustrate this rule with the experiment I ran using the WebSphere Commerce 7 (now IBM Commerce) Aurora Store, the WebSphere Commerce 8 Aurora Store, the Dynatrace IBM Commerce FastPack , and Dynatrace Load . The Aurora Store is a template store provided by IBM with IBM Commerce. With Dynatrace AppMon (Application Monitoring) and the IBM Commerce FastPack installed on both Aurora stores, I generated load against both instances via Dynatrace Load. Upon completion, I loaded the two recorded Dynatrace AppMon sessions into the Regression Test Comparison dashboard included in the FastPack. When I first saw the results, I was ready to fail IBM Commerce 8. However, this brings us back to part 1 of Rule #3 – Understand the degradations. Fig 2. Regression Test Comparison dashboard showing significant overall performance degradation \nThe regression dashboard compares the test sessions from both Aurora instances and shows the differences: red is bad, green is good. Looking at the image above, we see a lot of red. What’s worse is that a major component of the degradation is the IBM Command Bod API. My first thoughts were about how I was going to be a hero to the IBM teams and help them fix a potentially fatal flaw in the new release of IBM Commerce 8. Instead, I found that this was the all too common problem of misconfigured test environments. While trying to understand the problem, I discovered my WebSphere Commerce 7 (now IBM Commerce) Aurora Store had a different WAS security configuration than my IBM Commerce 8 Aurora Store. Putting this in terms of a real world situation, when the new environment was built out, somebody changed a configuration setting that introduced latency. Misconfigured test environments are all too common and often are hard to detect, causing massive delays in releases. Let’s take a look at how I came to understand the problem. \nFirst, I switched the comparison view to look at Page Class performance. This compares page types as identified in the FastPack by the CmdImpl method invoked. TopCategoriesDisplayCmdImpl, the store home page, was impacted the greatest, so I decided to investigate in this reference as the home page is often the most critical page for a commerce site. A slow home page first impression can drive users away from your site. Fig 3. Regression Comparison showing differences along main page class types \nWe can see above an addition of about half a second on average, or a 171% degradation. Diving deeper down into the PurePath, we see the BusinessObjectDocument method running much slower. In the IBM Commerce 8 Aurora store, calls are being made to the IBM NTRegistryImpl Security API. These calls are responsible for the degradation. Fig 4. Calls to NTRegistry in WebSphere Commerce 8 adding latency \nUnder normal circumstances, as a performance tester, I might put on my superhero cape and declare this new release a failure. However, we’re not finished understanding the problem. Part of what makes an organization great is communication. It’s the foundation of the DevOps culture. Further, DevOps doesn’t just mean the development and operations teams keep an open line of communication. It means all teams keep an open line of communication. So, instead of donning my cape, my next step would be to approach the development team and IBM Commerce 8 (WebSphere) architects with the findings to understand why these security calls are here, which is precisely what I did. \nIn speaking to my counterparts at IBM, I learned that this is not any new function of IBM Commerce 8. Instead, it’s a security feature that was enabled in the latest version of the Aurora Store specifically for the Softlayer test/development template for technology partners such as Dynatrace, as it provides added security in the partner ecosystem. In short, configurations across my testing environments were not in sync. Administrative Security was off in my AuroraStore 7 environment but on in AuroraStore 8. Part 2 of Rule #3 – Addressing the degradation – is simple: configure security the same across the environments. Fig 5. WAS console global security settings \nConfiguration differences between test environments are a common problem. Deployment automation is something that helps quite a lot in this area, but it’s a practice not enough organizations have implemented. In this case, by leveraging Dynatrace Application Monitor, we were able to fully understand the nature of the latency, which led us directly to the cause, which was quickly addressed. By reconciling the security settings, I was able to confirm there were no other degradations originating from the new IBM Commerce 8 package. We avoided war rooms altogether. Most importantly, though, if this were to occur in your upgrade efforts, all the time that would typically be spent chasing down the cause of this issue can be better utilized in testing and deploying all the great new features in IBM Commerce 8. Learn more \nTake advantage of the Dynatrace 30 Day Free Trial and Dynatrace IBM Commerce FastPack to see a wealth of information including your end-user experience, business transactions, key page, process, and database performance. Be sure to check our other IBM FastPacks like the IBM MQ Channel Monitoring Plugin . \nAbout The Author Brian Wilson Brian Wilson is a member of the Product Specialist and Sales Engineering teams at Dynatrace. Before joining Dynatrace, he spent 10 years in performance analysis. He loves seeing Dynatrace turn performance testers into performance engineers. In a parallel universe, he is touring the world with his band that became more influential than the Beatles. ",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "brian wilson",
+            "sentiment": "positive"
+          },
+          {
+            "name": "andreas grabner",
+            "sentiment": "none"
+          },
+          {
+            "name": "brian wilson brian wilson",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "ibm",
+            "sentiment": "positive"
+          },
+          {
+            "name": "ibm commerce fastpack",
+            "sentiment": "none"
+          },
+          {
+            "name": "ibm mq channel monitoring plugin",
+            "sentiment": "none"
+          },
+          {
+            "name": "kpi",
+            "sentiment": "none"
+          },
+          {
+            "name": "ibm commerce",
+            "sentiment": "none"
+          },
+          {
+            "name": "aurora store",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "dynatrace",
+            "sentiment": "none"
+          },
+          {
+            "name": "aurora",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-11-16T15:59:52.431+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "d0fec035f190cc959aa033c87faf7a432dcbb4e9",
+        "url": "http://omgili.com/ri/jHIAmI4hxg9BcPFu_4VOJxXOPE7_XaSqHHmPvWoFDz9eYQTio3NGK5vEHDrSOH2NwCHRIrYcq94uCq1Uw_Q10ObjnCpij6rJHZwzh0pjYCCP.KLQ8ENGiOO.QdbNfCw4veK0ypXvWmOw9MpOBzD8Rg--",
+        "site_full": "www.onenewspage.com",
+        "site": "onenewspage.com",
+        "site_section": "http://www.onenewspage.com/rss/latest/Technology.rss",
+        "site_categories": [
+          "news",
+          "entertainment",
+          "education"
+        ],
+        "section_title": "Latest Technology News on One News Page",
+        "title": "IBM launches new platform to build IoT applications and solutions",
+        "title_full": "IBM launches new platform to build IoT applications and solutions - One News Page",
+        "published": "2016-11-22T12:49:52.005+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://cdn.newsserve.net/ONPglobe128.png",
+        "performance_score": 0,
+        "domain_rank": 91686,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "d0fec035f190cc959aa033c87faf7a432dcbb4e9",
+      "url": "http://omgili.com/ri/jHIAmI4hxg9BcPFu_4VOJxXOPE7_XaSqHHmPvWoFDz9eYQTio3NGK5vEHDrSOH2NwCHRIrYcq94uCq1Uw_Q10ObjnCpij6rJHZwzh0pjYCCP.KLQ8ENGiOO.QdbNfCw4veK0ypXvWmOw9MpOBzD8Rg--",
+      "ord_in_thread": 0,
+      "author": "onenewspage.com",
+      "published": "2016-11-22T12:49:52.005+02:00",
+      "title": "IBM launches new platform to build IoT applications and solutions",
+      "text": "Software giant IBM on Tuesday launched a new security -rich, scalable and open platform called ‘Watson IoT Consulting Solutions’ that allows developers to quickly connect, build and manage Internet of Things (IoT) applications and solutions. By integrating IBM Watson IoT Platform APIs and technologies, including cognitive, analytics, mobile, security and Cloud capabilities — together with development and implementation consulting and ongoing support — clients can embrace IoT without the risk and complexity of dealing with multiple vendors. “IBM is helping knock down the barriers to getting started with IoT, making it accessible for clients as they begin their digital transformation,” said Harriet Green, General Manager, IBM Watson IoT, Commerce and Education, in a statement. The IBM ‘Watson IoT Consulting Solutions’ will",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "harriet green",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "ibm",
+            "sentiment": "positive"
+          },
+          {
+            "name": "ibm ‘watson iot consulting solutions",
+            "sentiment": "none"
+          },
+          {
+            "name": "commerce and education",
+            "sentiment": "none"
+          },
+          {
+            "name": "ibm watson",
+            "sentiment": "none"
+          },
+          {
+            "name": "ibm watson iot",
+            "sentiment": "none"
+          },
+          {
+            "name": "iot consulting solutions",
+            "sentiment": "none"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-11-22T12:49:52.005+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "cfd44d12ac68d80f7228a5f94e8a0a8cee78658d",
+        "url": "http://omgili.com/ri/jHIAmI4hxg8qAjAGp3DjaPZuwgrHDl8evsOafaFYOF8QdrV0r44bMBv2H2rrC1BxjMPHB1w.uI1.4jCgpLQXRv7saU0duiFMxuhRUiP3gEcrkV3iufiSbkLhdzT_DnuUGLvhVxylHlWRzwjGf1ir12r3DQGo7CfJRePrgKftcgo-",
+        "site_full": "www.networkworld.com",
+        "site": "networkworld.com",
+        "site_section": "http://www.networkworld.com/category/data-center/index.rss",
+        "site_categories": [
+          "tech"
+        ],
+        "section_title": "Network World Data Center",
+        "title": "IBM will open the first of four new UK data centers next month",
+        "title_full": "IBM will open the first of four new UK data centers next month",
+        "published": "2016-11-22T18:52:16.404+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://images.techhive.com/images/article/2016/11/helen_kelisky_ibm_uk-100695037-large.3x2.jpg",
+        "performance_score": 0,
+        "domain_rank": 10971,
+        "social": {
+          "facebook": {
+            "likes": 1,
+            "comments": 0,
+            "shares": 1
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "cfd44d12ac68d80f7228a5f94e8a0a8cee78658d",
+      "url": "http://omgili.com/ri/jHIAmI4hxg8qAjAGp3DjaPZuwgrHDl8evsOafaFYOF8QdrV0r44bMBv2H2rrC1BxjMPHB1w.uI1.4jCgpLQXRv7saU0duiFMxuhRUiP3gEcrkV3iufiSbkLhdzT_DnuUGLvhVxylHlWRzwjGf1ir12r3DQGo7CfJRePrgKftcgo-",
+      "ord_in_thread": 0,
+      "author": "Peter Sayer",
+      "published": "2016-11-22T18:52:16.404+02:00",
+      "title": "IBM will open the first of four new UK data centers next month",
+      "text": "IBM will open the first of four new UK data centers next month The company is betting on the U.K.'s finance industry continuing to grow post-Brexit Paris Bureau Chief, IDG News Service | Nov 22, 2016 8:28 AM PT Email a friend Use commas to separate multiple email addresses From Your message has been sent. Sorry There was an error emailing this page. \nHelen Kelisky, Vice President of Cloud at IBM UK and Ireland, is seen in IBM cloud data center in London. Credit: IBM 2016 State of The Cloud \nIBM is opening four new data centers in the U.K., despite some of the gloomy forecasts for the country's economy following its vote to leave the European Union. \nIt's five years since the company began offering cloud services in the U.K., and two years since it opened its second cloud data center there. \nThe new data centers will raise the U.K.'s share of IBM's cloud capacity in Europe from one-sixth to more than one-third. That's an interesting bet on the U.K.'s future outside the E.U. MORE ON NETWORK WORLD: 10 Most Powerful IaaS Companies \nFollowing June's \"Brexit\" vote, the U.K. is set to withdraw from the 28-country bloc in a little more than two years, once the U.K. government makes up its mind when and how to leave. After that, it's anybody's guess what role data centers in the U.K. will play in the broader European economy. \nIn May 2018, the EU's General Data Protection Regulation will enter effect , tightening rules on the transfer of citizens' personal information outside the bloc. Unless the U.K. continues to respect EU regulations -- something the popular vote would seem to have rejected -- or negotiates its own equivalent of the EU-U.S. Privacy Shield, then processing such information in the U.K. will be out of the question. \nBut IBM could still find enough business to fill those data centers in other ways. \nLondon continues to thrive as a financial center and even if, post-Brexit, European banks are forced to move some trading activities to Paris or Frankfurt to comply with regulations, the City may be able to reinvent itself as an \"offshore\" market. \nHighly regulated industries such as finance are among the opportunities IBM said it is targeting with the new data centers. \nIBM also plans to support around 150 cloud APIs on its Bluemix development platform from its new U.K. data centers, including access to its Watson artificial intelligence tools and its blockchain technology, something increasingly drawing the attention of the financial industry. \nThe first of the four new data centers will open in Fareham, England, next month. But the company isn't having them all built from the ground up. \nThe second, due to be up and running by the middle of next year, will be in space leased from Ark Data Centers. That same facility already houses the Crown Hosting Framework, a joint venture between Ark and the U.K. government for hosting government data. The other two should also open in 2017, IBM said. To comment on this article and other Network World content, visit our Facebook page or our Twitter stream . Related:",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "helen kelisky",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "ibm",
+            "sentiment": "positive"
+          },
+          {
+            "name": "ark data centers",
+            "sentiment": "none"
+          },
+          {
+            "name": "general data protection regulation",
+            "sentiment": "none"
+          },
+          {
+            "name": "e.u",
+            "sentiment": "none"
+          },
+          {
+            "name": "european union",
+            "sentiment": "none"
+          },
+          {
+            "name": "eu",
+            "sentiment": "none"
+          },
+          {
+            "name": "idg news service",
+            "sentiment": "none"
+          },
+          {
+            "name": "ibm uk",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "uk",
+            "sentiment": "none"
+          },
+          {
+            "name": "u.k.",
+            "sentiment": "none"
+          },
+          {
+            "name": "paris",
+            "sentiment": "none"
+          },
+          {
+            "name": "ireland",
+            "sentiment": "none"
+          },
+          {
+            "name": "england",
+            "sentiment": "none"
+          },
+          {
+            "name": "watson",
+            "sentiment": "none"
+          },
+          {
+            "name": "europe",
+            "sentiment": "none"
+          },
+          {
+            "name": "bluemix",
+            "sentiment": "none"
+          },
+          {
+            "name": "fareham",
+            "sentiment": "none"
+          },
+          {
+            "name": "frankfurt",
+            "sentiment": "none"
+          },
+          {
+            "name": "london",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-11-22T18:52:16.404+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "882d495406e3d824d40510b39da529cbfc60b3a3",
+        "url": "http://omgili.com/ri/jHIAmI4hxg8HXGwTYSrScIS7k8HLXzNdu4_FR4i4lHkQRoJ5zhBQBsPMGcRTEh6kb_3jWOlszfZXHfqcC19l1.tD3w4BVkJwfTD3HmcCkbR_e3C39iDu_CSMcIrjG2crtjng7SKwGvhpIl3wmkT4xFIGCZSQxH3H",
+        "site_full": "www.cio.com",
+        "site": "cio.com",
+        "site_section": "",
+        "site_categories": [
+          "news",
+          "tech"
+        ],
+        "section_title": "",
+        "title": "IBM will open the first of four new UK data centers next month | CIO",
+        "title_full": "IBM will open the first of four new UK data centers next month | CIO",
+        "published": "2016-11-22T19:08:17.012+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.948,
+        "main_image": "http://images.techhive.com/images/article/2016/11/helen_kelisky_ibm_uk-100695037-large.3x2.jpg",
+        "performance_score": 0,
+        "domain_rank": 7905,
+        "social": {
+          "facebook": {
+            "likes": 4,
+            "comments": 0,
+            "shares": 4
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 25
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "882d495406e3d824d40510b39da529cbfc60b3a3",
+      "url": "http://omgili.com/ri/jHIAmI4hxg8HXGwTYSrScIS7k8HLXzNdu4_FR4i4lHkQRoJ5zhBQBsPMGcRTEh6kb_3jWOlszfZXHfqcC19l1.tD3w4BVkJwfTD3HmcCkbR_e3C39iDu_CSMcIrjG2crtjng7SKwGvhpIl3wmkT4xFIGCZSQxH3H",
+      "ord_in_thread": 0,
+      "author": "Peter Sayer",
+      "published": "2016-11-22T19:08:17.012+02:00",
+      "title": "IBM will open the first of four new UK data centers next month | CIO",
+      "text": "IBM will open the first of four new UK data centers next month The company is betting on the U.K.'s finance industry continuing to grow post-Brexit Paris Bureau Chief, IDG News Service | Nov 22, 2016 8:28 AM PT Email a friend Use commas to separate multiple email addresses From Your message has been sent. Sorry There was an error emailing this page. \nHelen Kelisky, Vice President of Cloud at IBM UK and Ireland, is seen in IBM cloud data center in London. Credit: IBM Does the Cloud Free up the Enterprise? \nIBM is opening four new data centers in the U.K., despite some of the gloomy forecasts for the country's economy following its vote to leave the European Union. \nIt's five years since the company began offering cloud services in the U.K., and two years since it opened its second cloud data center there. \nThe new data centers will raise the U.K.'s share of IBM's cloud capacity in Europe from one-sixth to more than one-third. That's an interesting bet on the U.K.'s future outside the E.U. \n[ Download the State of the CIO 2016 report ] \nFollowing June's \"Brexit\" vote, the U.K. is set to withdraw from the 28-country bloc in a little more than two years, once the U.K. government makes up its mind when and how to leave. After that, it's anybody's guess what role data centers in the U.K. will play in the broader European economy. \nIn May 2018, the EU's General Data Protection Regulation will enter effect , tightening rules on the transfer of citizens' personal information outside the bloc. Unless the U.K. continues to respect EU regulations -- something the popular vote would seem to have rejected -- or negotiates its own equivalent of the EU-U.S. Privacy Shield, then processing such information in the U.K. will be out of the question. \nBut IBM could still find enough business to fill those data centers in other ways. \nLondon continues to thrive as a financial center and even if, post-Brexit, European banks are forced to move some trading activities to Paris or Frankfurt to comply with regulations, the City may be able to reinvent itself as an \"offshore\" market. \nHighly regulated industries such as finance are among the opportunities IBM said it is targeting with the new data centers. \nIBM also plans to support around 150 cloud APIs on its Bluemix development platform from its new U.K. data centers, including access to its Watson artificial intelligence tools and its blockchain technology, something increasingly drawing the attention of the financial industry. \nThe first of the four new data centers will open in Fareham, England, next month. But the company isn't having them all built from the ground up. \nThe second, due to be up and running by the middle of next year, will be in space leased from Ark Data Centers. That same facility already houses the Crown Hosting Framework, a joint venture between Ark and the U.K. government for hosting government data. The other two should also open in 2017, IBM said. To comment on this article and other CIO content, visit us on Facebook , LinkedIn or Twitter . Related: ",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "helen kelisky",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "ibm",
+            "sentiment": "positive"
+          },
+          {
+            "name": "e.u.",
+            "sentiment": "none"
+          },
+          {
+            "name": "ark data centers",
+            "sentiment": "none"
+          },
+          {
+            "name": "general data protection regulation",
+            "sentiment": "none"
+          },
+          {
+            "name": "european union",
+            "sentiment": "none"
+          },
+          {
+            "name": "eu",
+            "sentiment": "none"
+          },
+          {
+            "name": "linkedin",
+            "sentiment": "none"
+          },
+          {
+            "name": "facebook",
+            "sentiment": "none"
+          },
+          {
+            "name": "idg news service",
+            "sentiment": "none"
+          },
+          {
+            "name": "ibm uk",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "uk",
+            "sentiment": "none"
+          },
+          {
+            "name": "u.k.",
+            "sentiment": "none"
+          },
+          {
+            "name": "paris",
+            "sentiment": "none"
+          },
+          {
+            "name": "ireland",
+            "sentiment": "none"
+          },
+          {
+            "name": "england",
+            "sentiment": "none"
+          },
+          {
+            "name": "watson",
+            "sentiment": "none"
+          },
+          {
+            "name": "europe",
+            "sentiment": "none"
+          },
+          {
+            "name": "bluemix",
+            "sentiment": "none"
+          },
+          {
+            "name": "fareham",
+            "sentiment": "none"
+          },
+          {
+            "name": "frankfurt",
+            "sentiment": "none"
+          },
+          {
+            "name": "london",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-11-22T19:08:17.012+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "06a3ecf1af9662d31c239fb31b70a4d1e1420694",
+        "url": "http://omgili.com/ri/jHIAmI4hxg_Nq6fUQ8O_XOCtPSUwESrCHrHXSQ2QdGR4lTp5ntYxfeLk1yOQBaYTh9c37odEq_DUtec_YIihIZifOpqeklfhuWspPS11p5.sylzTUgThF0DmEnmCAzYtZs_.6W52eZpA_xQuefcLAq.ui8H0gI3Jtvnr510Hge0-",
+        "site_full": "www.itworld.com",
+        "site": "itworld.com",
+        "site_section": "http://www.itworld.com/taxonomy/term/16/all/feed",
+        "site_categories": [
+          "news",
+          "tech"
+        ],
+        "section_title": "ITworld News",
+        "title": "IBM will open the first of four new UK data centers next month",
+        "title_full": "IBM will open the first of four new UK data centers next month",
+        "published": "2016-11-22T19:15:18.763+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://images.techhive.com/images/article/2016/11/helen_kelisky_ibm_uk-100695037-large.3x2.jpg",
+        "performance_score": 0,
+        "domain_rank": 27043,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "06a3ecf1af9662d31c239fb31b70a4d1e1420694",
+      "url": "http://omgili.com/ri/jHIAmI4hxg_Nq6fUQ8O_XOCtPSUwESrCHrHXSQ2QdGR4lTp5ntYxfeLk1yOQBaYTh9c37odEq_DUtec_YIihIZifOpqeklfhuWspPS11p5.sylzTUgThF0DmEnmCAzYtZs_.6W52eZpA_xQuefcLAq.ui8H0gI3Jtvnr510Hge0-",
+      "ord_in_thread": 0,
+      "author": "Peter Sayer",
+      "published": "2016-11-22T19:15:18.763+02:00",
+      "title": "IBM will open the first of four new UK data centers next month",
+      "text": "IBM will open the first of four new UK data centers next month The company is betting on the U.K.'s finance industry continuing to grow post-Brexit Paris Bureau Chief, IDG News Service | November 22, 2016 Email a friend Use commas to separate multiple email addresses From Your message has been sent. Sorry There was an error emailing this page. \nHelen Kelisky, Vice President of Cloud at IBM UK and Ireland, is seen in IBM cloud data center in London. Credit: IBM $29 for This Premium 4-Course Training on Amazon Web Services- Deal Alert \nIBM is opening four new data centers in the U.K., despite some of the gloomy forecasts for the country's economy following its vote to leave the European Union. \nIt's five years since the company began offering cloud services in the U.K., and two years since it opened its second cloud data center there. \nThe new data centers will raise the U.K.'s share of IBM's cloud capacity in Europe from one-sixth to more than one-third. That's an interesting bet on the U.K.'s future outside the E.U. [ Best Bluetooth speakers: We'll help you find the best wireless speakers for pairing with your smartphone or tablet—whatever your budget, and whatever music floats your boat. ] \nFollowing June's \"Brexit\" vote, the U.K. is set to withdraw from the 28-country bloc in a little more than two years, once the U.K. government makes up its mind when and how to leave. After that, it's anybody's guess what role data centers in the U.K. will play in the broader European economy. \nIn May 2018, the EU's General Data Protection Regulation will enter effect , tightening rules on the transfer of citizens' personal information outside the bloc. Unless the U.K. continues to respect EU regulations -- something the popular vote would seem to have rejected -- or negotiates its own equivalent of the EU-U.S. Privacy Shield, then processing such information in the U.K. will be out of the question. \nBut IBM could still find enough business to fill those data centers in other ways. \nLondon continues to thrive as a financial center and even if, post-Brexit, European banks are forced to move some trading activities to Paris or Frankfurt to comply with regulations, the City may be able to reinvent itself as an \"offshore\" market. \nHighly regulated industries such as finance are among the opportunities IBM said it is targeting with the new data centers. \nIBM also plans to support around 150 cloud APIs on its Bluemix development platform from its new U.K. data centers, including access to its Watson artificial intelligence tools and its blockchain technology, something increasingly drawing the attention of the financial industry. \nThe first of the four new data centers will open in Fareham, England, next month. But the company isn't having them all built from the ground up. \nThe second, due to be up and running by the middle of next year, will be in space leased from Ark Data Centers. That same facility already houses the Crown Hosting Framework, a joint venture between Ark and the U.K. government for hosting government data. The other two should also open in 2017, IBM said. Related:",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "helen kelisky",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "ibm",
+            "sentiment": "positive"
+          },
+          {
+            "name": "e.u.",
+            "sentiment": "none"
+          },
+          {
+            "name": "ark data centers",
+            "sentiment": "none"
+          },
+          {
+            "name": "general data protection regulation",
+            "sentiment": "none"
+          },
+          {
+            "name": "european union",
+            "sentiment": "none"
+          },
+          {
+            "name": "eu",
+            "sentiment": "none"
+          },
+          {
+            "name": "amazon",
+            "sentiment": "none"
+          },
+          {
+            "name": "idg news service",
+            "sentiment": "none"
+          },
+          {
+            "name": "ibm uk",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "uk",
+            "sentiment": "none"
+          },
+          {
+            "name": "u.k.",
+            "sentiment": "none"
+          },
+          {
+            "name": "paris",
+            "sentiment": "none"
+          },
+          {
+            "name": "ireland",
+            "sentiment": "none"
+          },
+          {
+            "name": "england",
+            "sentiment": "none"
+          },
+          {
+            "name": "watson",
+            "sentiment": "none"
+          },
+          {
+            "name": "europe",
+            "sentiment": "none"
+          },
+          {
+            "name": "bluemix",
+            "sentiment": "none"
+          },
+          {
+            "name": "fareham",
+            "sentiment": "none"
+          },
+          {
+            "name": "frankfurt",
+            "sentiment": "none"
+          },
+          {
+            "name": "london",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-11-22T19:15:18.763+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "558365c2e14b7b5a55918fd1b976fc1c0e99af22",
+        "url": "http://omgili.com/ri/jHIAmI4hxg.JqtT4oCoU32.IFhjz6PW_bbUChZpCLN2Fi9o0D2HUu4MIFmczyM4SwqO11r_OXTneqq6up_YWlkKss7yacXM09hUTjy8JDLz2ECF5_wWdFtrjtkE46OZwBarrJOQufTTUD2kk9IsfzZM_gcspZePfQTAjdaaEDJeyGEmJq9ya0g--",
+        "site_full": "www.computerworld.com",
+        "site": "computerworld.com",
+        "site_section": "http://www.computerworld.com/category/cloud-computing/index.rss",
+        "site_categories": [
+          "tech"
+        ],
+        "section_title": "Computerworld Cloud Computing",
+        "title": "IBM will open the first of four new UK data centers next month",
+        "title_full": "IBM will open the first of four new UK data centers next month",
+        "published": "2016-11-23T00:10:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://images.techhive.com/images/article/2016/11/helen_kelisky_ibm_uk-100695037-large.3x2.jpg",
+        "performance_score": 0,
+        "domain_rank": 4542,
+        "social": {
+          "facebook": {
+            "likes": 10,
+            "comments": 0,
+            "shares": 10
+          },
+          "gplus": {
+            "shares": 2
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 3
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "558365c2e14b7b5a55918fd1b976fc1c0e99af22",
+      "url": "http://omgili.com/ri/jHIAmI4hxg.JqtT4oCoU32.IFhjz6PW_bbUChZpCLN2Fi9o0D2HUu4MIFmczyM4SwqO11r_OXTneqq6up_YWlkKss7yacXM09hUTjy8JDLz2ECF5_wWdFtrjtkE46OZwBarrJOQufTTUD2kk9IsfzZM_gcspZePfQTAjdaaEDJeyGEmJq9ya0g--",
+      "ord_in_thread": 0,
+      "author": "Peter Sayer",
+      "published": "2016-11-23T00:10:00.000+02:00",
+      "title": "IBM will open the first of four new UK data centers next month",
+      "text": "IBM will open the first of four new UK data centers next month The company is betting on the U.K.'s finance industry continuing to grow post-Brexit Paris Bureau Chief,   9:10   \nHelen Kelisky, Vice President of Cloud at IBM UK and Ireland, is seen in IBM cloud data center in London. Credit: IBM   \nIBM is opening four new data centers in the U.K., despite some of the gloomy forecasts for the country's economy following its vote to leave the European Union. \nIt's five years since the company began offering cloud services in the U.K., and two years since it opened its second cloud data center there. \nThe new data centers will raise the U.K.'s share of IBM's cloud capacity in Europe from one-sixth to more than one-third. That's an interesting bet on the U.K.'s future outside the E.U. \nFollowing June's \"Brexit\" vote, the U.K. is set to withdraw from the 28-country bloc in a little more than two years, once the U.K. government makes up its mind when and how to leave. After that, it's anybody's guess what role data centers in the U.K. will play in the broader European economy. \nIn May 2018, the EU's General Data Protection Regulation will go into effect, tightening rules on the transfer of citizens' personal information outside the bloc. Unless the U.K. continues to respect EU regulations -- something the popular vote would seem to have rejected -- or negotiates its own equivalent of the EU-U.S. Privacy Shield, then processing such information in the U.K. will be out of the question. \nBut IBM could still find enough business to fill those data centers in other ways. \nLondon continues to thrive as a financial center and even if, post-Brexit, European banks are forced to move some trading activities to Paris or Frankfurt to comply with regulations, the City may be able to reinvent itself as an \"offshore\" market. \nHighly regulated industries such as finance are among the opportunities IBM said it is targeting with the new data centers. \nIBM also plans to support around 150 cloud APIs on its Bluemix development platform from its new U.K. data centers, including access to its Watson artificial intelligence tools and its blockchain technology, something increasingly drawing the attention of the financial industry. \nThe first of the four new data centers will open in Fareham, England, next month. But the company isn't having them all built from the ground up. \nThe second, due to be up and running by the middle of next year, will be in space leased from Ark Data Centers. That same facility already houses the Crown Hosting Framework, a joint venture between Ark and the U.K. government for hosting government data. The other two should also open in 2017, IBM said.  ",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "helen kelisky",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "ibm",
+            "sentiment": "positive"
+          },
+          {
+            "name": "e.u.",
+            "sentiment": "none"
+          },
+          {
+            "name": "ark data centers",
+            "sentiment": "none"
+          },
+          {
+            "name": "general data protection regulation",
+            "sentiment": "none"
+          },
+          {
+            "name": "paris bureau",
+            "sentiment": "none"
+          },
+          {
+            "name": "european union",
+            "sentiment": "none"
+          },
+          {
+            "name": "ibm    ibm",
+            "sentiment": "none"
+          },
+          {
+            "name": "eu",
+            "sentiment": "none"
+          },
+          {
+            "name": "ibm uk",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "uk",
+            "sentiment": "none"
+          },
+          {
+            "name": "u.k.",
+            "sentiment": "none"
+          },
+          {
+            "name": "paris",
+            "sentiment": "none"
+          },
+          {
+            "name": "ireland",
+            "sentiment": "none"
+          },
+          {
+            "name": "england",
+            "sentiment": "none"
+          },
+          {
+            "name": "watson",
+            "sentiment": "none"
+          },
+          {
+            "name": "europe",
+            "sentiment": "none"
+          },
+          {
+            "name": "bluemix",
+            "sentiment": "none"
+          },
+          {
+            "name": "fareham",
+            "sentiment": "none"
+          },
+          {
+            "name": "frankfurt",
+            "sentiment": "none"
+          },
+          {
+            "name": "london",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-11-23T00:12:01.206+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "6d7a041bf0c1b460285d01d6c10cb4fa4641b00f",
+        "url": "http://omgili.com/ri/jHIAmI4hxg8y3YrMGJe_TrkiEvQ7ZiDqSFUn2VcKeMH3gUtklBU1YHN8zdTpRQovB6kzFMr4rpOT0JDDhmeLuaYLo4gWK..ap90EpHfyVcVbH1puLsYm_ILFX8XfSWuZMePuOoxH6g4cLViuRjB7Ng--",
+        "site_full": "www.datacenterknowledge.com",
+        "site": "datacenterknowledge.com",
+        "site_section": "http://www.datacenterknowledge.com",
+        "site_categories": [
+          "news",
+          "tech",
+          "blogs",
+          "business"
+        ],
+        "section_title": "Data Center Knowledge",
+        "title": "New UK IBM Cloud DCs ‘Infused with Intelligence,’ But Maybe Not for Its Own Ops",
+        "title_full": "New UK IBM Cloud DCs ‘Infused with Intelligence,’ But Maybe Not for Its Own Ops",
+        "published": "2016-11-23T20:25:20.939+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": null,
+        "performance_score": 0,
+        "domain_rank": 61275,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "6d7a041bf0c1b460285d01d6c10cb4fa4641b00f",
+      "url": "http://omgili.com/ri/jHIAmI4hxg8y3YrMGJe_TrkiEvQ7ZiDqSFUn2VcKeMH3gUtklBU1YHN8zdTpRQovB6kzFMr4rpOT0JDDhmeLuaYLo4gWK..ap90EpHfyVcVbH1puLsYm_ILFX8XfSWuZMePuOoxH6g4cLViuRjB7Ng--",
+      "ord_in_thread": 0,
+      "author": "Scott Fulton III",
+      "published": "2016-11-23T20:25:20.939+02:00",
+      "title": "New UK IBM Cloud DCs ‘Infused with Intelligence,’ But Maybe Not for Its Own Ops",
+      "text": "If cognitive intelligence algorithms are so great, how come the same service providers that are offering them for their own customers, don’t take advantage of them for their own sake? These AI tools could potentially improve their own automation, their responsiveness to traffic bottlenecks, and conceivably their own power consumption.\nWhen IBM announced this week its plans to expand its UK-based operations for IBM Cloud, with the addition of four data centers across the country in addition to its existing two, it characterized those new facilities as being “infused with cognitive intelligence.” In an earlier decade, that might have sounded too much like science fiction; but today, it sounds more like a miracle ingredient for cleaning kitchen countertops. If indeed these new facilities are so “infused,” will IBM be able to leverage this infusion for the facilities’ own benefit?\nIn responses to Data Center Knowledge from London, which arrived early Friday morning, the company told us that cognitive intelligence is something that clients, specifically, are asking for. Furthermore, IBM said that clients — and only clients — will be leveraging these features, at least for now.\n“IBM Cloud has a single platform that brings together IaaS with more than 150 APIs and services, that clients are asking for as we shift to Cloud as a platform for innovation,” stated the IBM spokesperson. “Clients want help to manage their data resources through our data centers, but we also offer options to scale their applications and build new ones infused with cognitive intelligence, blockchain services, IoT, data-as-a-service, and more.”\nThis is as far as IBM will go, for now, with respect to its own efforts to do the sort of thing that software engineers call, “eating their own dog food.” They’re not alone in that respect: Google has recently bragged about the cognition-like capabilities of its own DeepMind project, and how it’s expanding the possibilities for real-world applications in neural networking. Last June, Google went so far as to boast it had applied DeepMind to its own data center power consumption models, with the result being that the company reduced its cooling bill (by its own tally) by about 40 percent.\nBut when pressed further about its application of DeepMind — for example, in determining better patterns for automating the dissemination of the many microservices that comprise its global computing network — all the company was able to do, at that time, was sit quietly and take notes. Its people may get back with us at some point.\nIt’s not as though Google, or IBM, or anyone else, is uninterested in the idea. In 2014, Google data center research engineer Jim Gao published a research paper [PDF] demonstrating that neural networks were particularly effective in predicting power usage effectiveness (PUE) ratios over extended periods of time, given historical data for prior power consumption.\nGao stated that the variables from these predictions could be adjusted for future conditions — for example, determining whether the use of drycoolers to exchange steam with outdoor air during the winter months, could be more effective at certain periods; and whether increasing wet bulb temperatures have a negative impact on fan speeds at certain points in time.\nBut Gao also embedded a little complaint at the front of his paper: specifically, that budget outlays at Google and elsewhere for studying the reduction of PUE, were being reduced. The reason: Budget managers were drawing the conclusion that they’d already reached the point of diminishing returns with efforts to lower PUE further.\nWhen we asked IBM to tell us what formulas it used in its conclusion that it needed to triple data center capacity for IBM Cloud in the UK, the only formula it provided came not from internal research, but from analysis firm IDC.\n“Presently, client demand for cloud is soaring. Overall, the industry is moving into the new wave of cloud adoption – transitioning from costs savings to a platform for innovation,” reads IBM’s response to Data Center Knowledge.\n“The need for cloud data centers in Europe continues to grow; IDC forecasts worldwide revenues from public cloud services will reach more than $195 billion in 2020. UK Cloud adoption rates have increased to 84 percent over the course of the last five years, according to Cloud Industry Forum. IBM’s new facilities will give users access to a broad array of server options, including bare metal servers, virtual servers, storage, and networking capabilities.”\nIf AI truly is becoming a competitive market, any cloud service provider would do itself a world of good by borrowing its own data centers as its own test case.\nFareham, UK, the site of the first of four new IBM Cloud data centers in that country. [Creative Commons]\nFew other details are known about IBM’s plans at this point, except that the first of its four new UK data centers will go online next month in Fareham, a western suburb of Portsmouth [ pictured left ]. The other three facilities are scheduled to go online during 2017, though their ultimate locations may have yet to be determined. Ark Data Centres will be the lease holder for the second new facility — it’s a joint venture partner with the UK Government’s own Crown Hosting. ",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "jim gao",
+            "sentiment": "none"
+          },
+          {
+            "name": "gao",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "ibm",
+            "sentiment": "positive"
+          },
+          {
+            "name": "ark data centres",
+            "sentiment": "none"
+          },
+          {
+            "name": "idc",
+            "sentiment": "none"
+          },
+          {
+            "name": "cloud industry forum",
+            "sentiment": "none"
+          },
+          {
+            "name": "google",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "portsmouth",
+            "sentiment": "none"
+          },
+          {
+            "name": "europe",
+            "sentiment": "none"
+          },
+          {
+            "name": "uk",
+            "sentiment": "none"
+          },
+          {
+            "name": "fareham",
+            "sentiment": "none"
+          },
+          {
+            "name": "london",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-11-23T20:25:20.939+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "10996e4ee72ff54e7496a3b724b1ca6f3c3616a3",
+        "url": "http://omgili.com/ri/.wHSUbtEfZRk98FGaWWWqztPFxzUPI7Q.ua0jjnjK1cVgqvgkVUkS_qK17nCz3Cm",
+        "site_full": "geekhack.org",
+        "site": "geekhack.org",
+        "site_section": "https://geekhack.org/index.php?PHPSESSID=4iob3mh6qcgu7nodj72tq4qac0&action=.xml;type=rss",
+        "site_categories": [
+          "forums"
+        ],
+        "section_title": "geekhack",
+        "title": "Re: IBM model F XT and model M 13910401 \"ESC\" keycaps compatible?",
+        "title_full": "Re: IBM model F XT and model M 13910401 \"ESC\" keycaps compatible?",
+        "published": "2016-11-25T02:06:19.962+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 74331,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "10996e4ee72ff54e7496a3b724b1ca6f3c3616a3",
+      "url": "http://omgili.com/ri/.wHSUbtEfZRk98FGaWWWqztPFxzUPI7Q.ua0jjnjK1cVgqvgkVUkS_qK17nCz3Cm",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-11-25T02:06:19.962+02:00",
+      "title": "Re: IBM model F XT and model M 13910401 \"ESC\" keycaps compatible?",
+      "text": "IBM model F XT and model M 13910401 \"ESC\" keycaps compatible? « on: Thu, 24 November 2016, 00:21:46 » I have an IBM Model M 13910401 with a missing \"ESC\" keycap and was just wondering if I can get it from a model F XT keyboard? Are they the same? I know that the \"ESC\" key from the Model F is a one-piece assembly while the Model M i mentioned uses two-piece assembly. But are they interchangeable?Or can anyone point me where to get one?Thanks. « Last Edit: Thu, 24 November 2016, 07:36:10 by supermario802.1 » Logged",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "ibm",
+            "sentiment": "positive"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-11-25T02:06:19.962+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "73160be3ca1d1fc474fb3b920af8c7c0a8167d20",
+        "url": "http://omgili.com/ri/jHIAmI4hxg_lXD5cNG56Yn7FsrOQ2Z2qbAG7YmvLHoJZTzB33Cy.5Q99e27S1ajnM4yKPEa4layFfM5kTsfC6WJJqv6YRJcevMOoA6MgL007fRlsm.PhZmgRm1lWWnvO.4Wv7rS4NTw-",
+        "site_full": "www.fool.com",
+        "site": "fool.com",
+        "site_section": "http://feeds-project.fool.com/feeds/foolwatch",
+        "site_categories": [
+          "news"
+        ],
+        "section_title": "Motley Fool Headlines",
+        "title": "Better Buy: Apple Inc. vs. IBM",
+        "title_full": "Better Buy: Apple Inc. vs. IBM",
+        "published": "2016-11-25T21:01:50.849+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": null,
+        "performance_score": 0,
+        "domain_rank": 1336,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "73160be3ca1d1fc474fb3b920af8c7c0a8167d20",
+      "url": "http://omgili.com/ri/jHIAmI4hxg_lXD5cNG56Yn7FsrOQ2Z2qbAG7YmvLHoJZTzB33Cy.5Q99e27S1ajnM4yKPEa4layFfM5kTsfC6WJJqv6YRJcevMOoA6MgL007fRlsm.PhZmgRm1lWWnvO.4Wv7rS4NTw-",
+      "ord_in_thread": 0,
+      "author": "newsfeedback@fool.com (Andrew Tonner)",
+      "published": "2016-11-25T21:01:50.849+02:00",
+      "title": "Better Buy: Apple Inc. vs. IBM",
+      "text": "The past year has seen something of a reversal of fortunes for shares of Apple (NASDAQ: AAPL) and International Business Machines (NYSE: IBM) . While Apple has outperformed IBM shares in recent years, the opposite has held true over the past 12 months.\n\nAAPL data by YCharts .\nContinue reading ",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "apple",
+            "sentiment": "positive"
+          },
+          {
+            "name": "apple inc.",
+            "sentiment": "positive"
+          },
+          {
+            "name": "ibm",
+            "sentiment": "positive"
+          },
+          {
+            "name": "nyse",
+            "sentiment": "none"
+          },
+          {
+            "name": "business machines",
+            "sentiment": "none"
+          },
+          {
+            "name": "aapl",
+            "sentiment": "none"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-11-25T21:01:50.849+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "3b6b26ad5fcd9c97629d74b71247ff5fadfaff01",
+        "url": "http://omgili.com/ri/jHIAmI4hxg_lXD5cNG56Yn7FsrOQ2Z2qbAG7YmvLHoJZTzB33Cy.5Q99e27S1ajnM4yKPEa4layFfM5kTsfC6WJJqv6YRJcevMOoA6MgL00yzd9Q7vxmVLPMxkd17xqJzoF4ovr6F5NpiOfIXryXKxKT6e9qXNSY1BJcVlnF8wr6QNroS4OQi54.woslb8NJMTVbLfKEZnPM6xw65XGAKg--",
+        "site_full": "www.fool.com",
+        "site": "fool.com",
+        "site_section": "http://www.foxbusiness.com/",
+        "site_categories": [
+          "news"
+        ],
+        "section_title": "Fox Business | Business News &amp; Stock Quotes - Saving &amp; Investing",
+        "title": "Better Buy: Apple Inc. vs. IBM",
+        "title_full": "Better Buy: Apple Inc. vs. IBM | Fox Business",
+        "published": "2016-11-25T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.784,
+        "main_image": "http://a57.foxnews.com/images.foxnews.com/content/fox-business/markets/2016/11/25/better-buy-apple-inc-vs-ibm/_jcr_content/par/featured-media/media-0.img.png/0/0/1480102511394.png?ve=1",
+        "performance_score": 0,
+        "domain_rank": 1336,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "3b6b26ad5fcd9c97629d74b71247ff5fadfaff01",
+      "url": "http://omgili.com/ri/jHIAmI4hxg_lXD5cNG56Yn7FsrOQ2Z2qbAG7YmvLHoJZTzB33Cy.5Q99e27S1ajnM4yKPEa4layFfM5kTsfC6WJJqv6YRJcevMOoA6MgL00yzd9Q7vxmVLPMxkd17xqJzoF4ovr6F5NpiOfIXryXKxKT6e9qXNSY1BJcVlnF8wr6QNroS4OQi54.woslb8NJMTVbLfKEZnPM6xw65XGAKg--",
+      "ord_in_thread": 0,
+      "author": "foxnews.com",
+      "published": "2016-11-25T02:00:00.000+02:00",
+      "title": "Better Buy: Apple Inc. vs. IBM",
+      "text": "The past year has seen something of a reversal of fortunes for shares of Apple (NASDAQ: AAPL) and International Business Machines (NYSE: IBM) . While Apple has outperformed IBM shares in recent years, the opposite has held true over the past 12 months.\nAAPL data by YCharts .\nSo, is Apple stock or IBM stock the more attractive opportunity today? Let's examine each of these tech giants across three important investment and business criteria to determine which stock is the better buy.\nMore From Fool.com Motley Fool Founders Issue New Stock Buy Alert Forget GE! Heres how to play the largest growth opportunity in history Forget Apple! Heres a Better Stock to Buy He Made 21,078% Buying Amazon. Heres His New Pick Financial fortitude Both companies are well-established and hugely profitable enterprises. However, there can be little doubt that Apple outshines IBM when it comes to the strength of its financial resources. Here's a quick overview of the two companies' most pertinent balance sheet and leverage ratios.\n ",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [
+        "http://ycharts.com/companies/AAPL",
+        "http://ycharts.com/companies/AAPL/chart/",
+        "http://www.fool.com/mms/mark/sa-earlybird/?psource=isafxb7410010002&utm_campaign=earlybird&utm_medium=feed&utm_source=foxbusiness&waid=8811&paid=8811&wsource=isafxbwdg0010002",
+        "http://www.fool.com/mms/mark/new-picks-global?psource=isafxb7410010003&utm_campaign=newpicks-sa&utm_medium=feed&utm_source=foxbusiness&waid=8806&paid=8806&wsource=isafxbwdg0010003",
+        "http://www.fool.com/mms/mark/forget-apple-stock?utm_source=foxbusiness&utm_medium=feed&utm_campaign=forgetge&paid=8485&psource=irbfxb7410000003&waid=8485&wsource=irbfxbwdg0000002",
+        "http://www.fool.com/mms/mark/forget-ge?psource=irbfxb7410010001&utm_campaign=forgetge&utm_medium=feed&utm_source=foxbusiness&waid=8766&paid=8766&wsource=irbfxbwdg0010001"
+      ],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "apple",
+            "sentiment": "positive"
+          },
+          {
+            "name": "apple inc.",
+            "sentiment": "positive"
+          },
+          {
+            "name": "ibm",
+            "sentiment": "positive"
+          },
+          {
+            "name": "fool.com motley fool founders issue new stock buy alert forget ge",
+            "sentiment": "none"
+          },
+          {
+            "name": "nyse",
+            "sentiment": "none"
+          },
+          {
+            "name": "business machines",
+            "sentiment": "none"
+          },
+          {
+            "name": "aapl",
+            "sentiment": "none"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-11-26T04:36:28.821+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "f7b31779e7b33fe75dd2759e4def7298d0ac7fca",
+        "url": "http://omgili.com/ri/2wGaacqxApsmE0upATM6gpV_ZGTFj4vSu3NQEE6gKZjUwlXcWh3h77YZU_8rS9_fGOsnlBpstk3i7WkcYCBUe3JW1E5LbRB5q2OLMVKwhm6gZLlRI_TBJNL0aIxoZKey8azLZEZU0YyZXew3ilDrTA--",
+        "site_full": "mtkisco.dailyvoice.com",
+        "site": "dailyvoice.com",
+        "site_section": "http://ossining.dailyvoice.com/rss",
+        "site_categories": [
+          "news"
+        ],
+        "section_title": "Ossining Daily Voice | Recently Published",
+        "title": "IBM's $31.75M Sale Of Somers Campus Tops News In Northern Westchester",
+        "title_full": "IBM's $31.75M Sale Of Somers Campus Tops News In Northern Westchester",
+        "published": "2016-11-27T13:45:50.322+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://a1.static.dailyvoice.com/image/upload/c_limit,e_sharpen,f_auto,w_640/IBM_Somers_wiki_dpopqx.jpg",
+        "performance_score": 0,
+        "domain_rank": 33723,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "f7b31779e7b33fe75dd2759e4def7298d0ac7fca",
+      "url": "http://omgili.com/ri/2wGaacqxApsmE0upATM6gpV_ZGTFj4vSu3NQEE6gKZjUwlXcWh3h77YZU_8rS9_fGOsnlBpstk3i7WkcYCBUe3JW1E5LbRB5q2OLMVKwhm6gZLlRI_TBJNL0aIxoZKey8azLZEZU0YyZXew3ilDrTA--",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-11-27T13:45:50.322+02:00",
+      "title": "IBM's $31.75M Sale Of Somers Campus Tops News In Northern Westchester",
+      "text": "This is a one time message inviting you to keep in touch Get important news about your town as it happens. Get News In Your Inbox Daily Subscribe",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "sale of somers campus tops news in northern westchester",
+            "sentiment": "positive"
+          },
+          {
+            "name": "ibm",
+            "sentiment": "positive"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-11-27T13:45:50.322+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "9551c740caab9b62e1a390aecde8262361123d46",
+        "url": "http://omgili.com/ri/jHIAmI4hxg.R2i9k5tvFmNJj7p0ZI8H0Wp3CW3bZJqOSLANJn19MMtDQdjtvOm5aPat2VUVOppdRwfKtP4Mvx0Luc1L46Gcj",
+        "site_full": "www.zdnet.com",
+        "site": "zdnet.com",
+        "site_section": "http://www.zdnet.com/topic-cloud/rss.xml",
+        "site_categories": [
+          "news",
+          "tech",
+          "business"
+        ],
+        "section_title": "Latest topics for ZDNet in Cloud",
+        "title": "IBM Cloud wins American Airlines deal",
+        "title_full": "IBM Cloud wins American Airlines deal",
+        "published": "2016-11-29T13:59:46.335+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://zdnet4.cbsistatic.com/hub/i/r/2013/08/26/6d85f64c-0e22-11e3-90a0-0291187ef9b6/thumbnail/770x578/1da98046d0685159dcfd3f954b3cfd75/ipad-use-airline-ok-faa-american-airlines_jtZ0b.jpg",
+        "performance_score": 0,
+        "domain_rank": 1869,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "9551c740caab9b62e1a390aecde8262361123d46",
+      "url": "http://omgili.com/ri/jHIAmI4hxg.R2i9k5tvFmNJj7p0ZI8H0Wp3CW3bZJqOSLANJn19MMtDQdjtvOm5aPat2VUVOppdRwfKtP4Mvx0Luc1L46Gcj",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-11-29T13:59:46.335+02:00",
+      "title": "IBM Cloud wins American Airlines deal",
+      "text": "IBM Cloud wins American Airlines deal American Airlines is planning to move some of its internal applications to IBM's infrastructure- and platform-as-a-service offerings. | Topic: Cloud \nAmerican Airlines has selected IBM Cloud to be a service provider as it moves its internal applications to the public cloud. \nThe airline has said that it was looking to move some of its customer web site and back office applications to the public cloud. American Airlines was evaluating Amazon Web Services, IBM and Microsoft. \nTerms of the deal weren't disclosed. \nIBM said that American will use its infrastructure- and platform-as-a-service tools. \"We will be partnering with American Airlines and kicking off at the enterprise level. Some will be customer facing systems as well as back office,\" said Patrick Grubbs, vice president of travel and transportation at IBM Cloud. \nAmerican Airlines told the Wall Street Journal about its cloud bake off in September and noted a deal would be announced soon. \nFor IBM, the American Airlines win comes amid AWS' re:Invent conference in Las Vegas. Grubbs added that part of the IBM deal with American revolves around agile development. American may include other cloud providers, but Grubbs noted that the airline wasn't looking to break its infrastructure into chunks. \nAccording to American Airlines, the cloud move is part of a much broader systems integration effort following the merger with US Airways. \nAmerican noted in its annual report: \nWhile we have to date successfully integrated several of our systems, including our customer reservations system and our pilot and fleet scheduling system, we still have to complete several additional important system integration projects. The integration of these systems in a number of prior airline mergers has taken longer, been more disruptive and cost more than originally forecast. \nThe implementation process to integrate these various systems will involve a number of risks that could adversely impact our business, results of operations and financial condition. New systems will replace multiple legacy systems and the related implementation will be a complex and time-consuming project involving substantial expenditures for implementation consultants, system hardware, software and implementation activities, as well as the transformation of business and financial processes.",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "patrick grubbs",
+            "sentiment": "none"
+          },
+          {
+            "name": "grubbs",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "ibm cloud",
+            "sentiment": "positive"
+          },
+          {
+            "name": "ibm",
+            "sentiment": "positive"
+          },
+          {
+            "name": "american airlines",
+            "sentiment": "positive"
+          },
+          {
+            "name": "wall street journal",
+            "sentiment": "none"
+          },
+          {
+            "name": "cloud  american airlines",
+            "sentiment": "none"
+          },
+          {
+            "name": "amazon web services",
+            "sentiment": "none"
+          },
+          {
+            "name": "microsoft",
+            "sentiment": "none"
+          },
+          {
+            "name": "us airways",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "las vegas",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-11-29T13:59:46.335+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "105dd1415b6e77c20a21e9bc294644b9ad5a9efa",
+        "url": "http://omgili.com/ri/7aBdisT0NOrO1_KRh30qwogLBAUlEvcqid9xGeFh8PivGruuZ9nDXshC10ipEc06QSOygw1RgnB2BmjDX2sJJw--",
+        "site_full": "seekingalpha.com",
+        "site": "seekingalpha.com",
+        "site_section": "http://seekingalpha.com/atom.xml",
+        "site_categories": [
+          "business"
+        ],
+        "section_title": "All Articles on Seeking Alpha",
+        "title": "IBM: Still Worth Buying",
+        "title_full": "IBM: Still Worth Buying",
+        "published": "2016-11-29T18:22:42.468+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "https://staticseekingalpha2.a.ssl.fastly.net/uploads/2016/11/5663201_14803525978473_rId5.png",
+        "performance_score": 0,
+        "domain_rank": 1432,
+        "social": {
+          "facebook": {
+            "likes": 6,
+            "comments": 0,
+            "shares": 6
+          },
+          "gplus": {
+            "shares": 1
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 4
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "105dd1415b6e77c20a21e9bc294644b9ad5a9efa",
+      "url": "http://omgili.com/ri/7aBdisT0NOrO1_KRh30qwogLBAUlEvcqid9xGeFh8PivGruuZ9nDXshC10ipEc06QSOygw1RgnB2BmjDX2sJJw--",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-11-29T18:22:42.468+02:00",
+      "title": "IBM: Still Worth Buying",
+      "text": "IBM has a long history of producing good returns and dividends. \nIt is still struggling. \nAt this price, IBM is worth the risk. International Business Machines Corporation (NYSE: IBM ) is a computer company with a long history. Not only has it frequently been at the forefront of innovations like the IBM PC, but also it has often been written off as dead when the computing world changed. So far, IBM has been able to bring itself back to a leadership position by reinventing itself. Currently, it is in the middle of yet another reinvention stage. Is it succeeding, and what do its current efforts mean for Dividend Growth investors who might be interested in its very attractive dividend? Click to enlarge Why Invest in IBM? What do DG investors get from investing in IBM? Some investors will look at the dividend of $5.60, which works out to a current yield around 3.45%, and want IBM for that alone. But unless the dividend can be sustained, and unless earnings grow to support growing the dividend over time, a large dividend doesn't make a stock a good DGI stock. Using this website to estimate past returns, one can see that IBM purchased on January 20th, 1998 (when DIA first became publicly available), would have produced a total return CAGR of 7.62%. DIA, which tracks the DOW, would have produced 7.11%. SPY would have produced 6.30%. Click to enlarge Click to enlarge These two charts illustrate what else a company needs to do to be a good DG stock. In the first chart, one can see that IBM's dividend regularly grows with no declines, something that dividends from the indexes do not do (even if you just look at the trend lines and ignore the monthly swings). In the second chart, one can see that earnings exceed the dividend and have until recently been growing faster than the dividend payment. This shows that despite recent declines in earnings, IBM still has plenty of room to grow the dividend. Looking at the full Morningstar analyst report, it rates IBM with three stars for fairly valued, and gives a fair value price of $145. One positive sign it points to is that IBM is ahead of schedule in switching its revenues to its new initiatives, now getting 40% of revenue from them when it targeted reaching that level in 2018. Robert X. Cringely makes a very good bull case argument in this article . I recommend reading all of his articles on IBM before buying any more. It's best to know the worst before you buy, but I think Robert is too pessimistic. He is correct in that IBM's new products have yet to turn around the company; declining revenue and earnings show that, but he discounts too much the momentum that IBM's current products have and the weight they will have in driving sales of the newer products and services. I think it will take longer than management would like, but I still think it can turn the company around. From my own perspective, I see that IBM still has a pretty big job to do. The company has to slow sales declines in its legacy products so that it has the cash to build its new products and services. It seems to me that the new products and services have not been as successful as they need to be. Transaction Processing Software has been moved inside of Cognitive Solutions, in part because the legacy software performs similar tasks as Cognitive Solutions. Hopefully, this means that IBM will be using Watson and other new technologies from the Cognitive Solutions group to reengineer features currently part of TPS. This will help by making TPS better and leverage customers already using TPS into new products from CS. So far, Watson hasn't lived up to its promise, but hopefully this reorganization means that IBM's management is looking for ways to push it to live up to that potential. One area that concerns me is customer complaints about the new product offerings. Customers feel the new products aren't as integrated as the competition's products. They also complain that there are too many choices, and the choices are too complex and confusing. From my own experience developing software, it can be very hard to balance offering enough choices and features to make a product useful to a wide range of customers and to make sure that those choices and features don't confuse users and make your product hard to use. It can take a lot of effort to organize the user interface so that users who need a feature can find it, and users who don't need a feature don't have it confusing them. IBM seems not to have hit upon the correct balance. Also from experience, once you get that balance wrong, it can be expensive to get the balance right and then even more expensive and time consuming to convince customers that the issue has been resolved. From my own experience developing software, when you want users to embrace a new technology, there are several things you need to do. First, the users you want to switch have tasks they need to do, and many of those tasks are handled by their existing software. If you want to get them to switch to something new, your new tool has to perform all the tasks of the tool that will be replaced. The second thing you need to do is to give them a reason to switch. The easiest thing to do with a new tool is to add features that will enable them to do even more tasks. I think the way forward with Watson and the other new technology in the Cognitive Solutions group is to use that technology to perform some and eventually all of the tasks that TSP now performs. And then add additional tasks that TSP doesn't do, or add in more data sources. Looking at all the numbers, IBM has been a very good company to invest in the past. Recently, it has struggled, and I don't see that it has turned the corner yet. However, it is making moves to resolve its problems and has begun the process of turnaround. It looks to me like it will be able to do so, but in order to invest, I will want a discount to fair value to help mitigate the risk that it will be unable to turn the company around. What is a Good Price? So far, I think IBM still has a lot of life left in it. But I think there is a reasonable risk that it isn't done shrinking yet, so in order to buy shares, I am going to want to buy at a substantial discount. Plugging in the standard numbers for DDM, where I put in the dividend, the lowest dividend increase rate of the set of latest increase, one-year DGR, three-year DGR, five-year DGR and 10-year DGR, 3% into the terminal dividend increase rate and 6.4% into the discount rate (also called expected return rate), here is what comes out: I always like to compare what I get from DDM with a source that uses some other method of determining fair value. Morningstar uses a different method and is pretty good for most companies. I also get its analyst reports free from my broker. When Morningstar produces a fair value number that is significantly different (more than about 20%) from what I get with DDM, I look at what assumptions I used to produce the numbers I put into the calculator. Sometimes, for instance, due to a small dividend payment at the start, the rate of increase for the past just can't be maintained. I covered a case like that in my article on UNH , where it had frozen its dividend for a couple of years, and then the business took off, so it was able to make big increases in a pretty small dividend. But at the same time, it just wasn't realistic to assume it could continue that rate of increase for much longer. IBM, I think, is a different case. Here, the dividend has been increased, but that rate is slowing down, in part because revenues and earnings are slowing or shrinking. Given the declining revenue, the struggle to grow EPS and the uncertainty of the new initiatives, I think it's more realistic and certainly more prudent to project that the dividend will grow at about the same rate as earnings. Using this rate will ensure that one doesn't pay too much given the level of risk. Looking at the CCC list , I see that the projection for next five years' growth (per year) is 2.9%. So replacing the last dividend increase of 7.69% with 2.9% gives a value of $166.88. Using Morningstar's number and my DDM number, I get a price range of $145 to $168 for fair value. Given the current market price of $164, IBM falls towards the top of the range. Can Options Help? Click to enlarge Looking at the January 20th expiration date, I see that the $160 put pays about $2.75 in premium. For 53 days holding that is far more than even the generous IBM dividend. The $165 call also looks pretty good to use for a buy-write transaction (where you buy the stock, then write a covered call). The premium of around $4 will move the current share price down quite a bit. And given the high price of the stock and thus the large amount of cash needed to buy 100 shares, a buy-write when you already hold shares of IBM might be even more attractive as all you would need to buy is enough shares to get to the next multiple of 100 shares. Click to enlarge Looking at the details for the $160 put, the numbers look promising. Using a limit order, it shouldn't be too difficult to clear more than $270 for a contract. And that will give you around a one-in-three chance of getting the shares at a pretty good price once the contract expires on January 20th. Click to enlarge Looking at the details for the call, it too looks promising. The delta of 0.52 says that there is about a 52% chance of your shares being called away, which is a bit high, but not outrageously high. The $170 call also pays a reasonable premium and lowers the chance of losing your shares to about one in three. Click to enlarge Conclusion IBM is clearly still a company in transition. The company is neither clearly doomed nor back on top. Going forward, I would look to see how much functionality IBM offers from the legacy TPS in new products from the Cognitive Solutions group. The security software seems to be a hit with big companies; going forward, I would want to see better penetration into smaller companies. IBM has faced bigger challenges in the past and still come out a stronger company. It still looks to me like that will be the case from the current difficulties. I think the current price represents an opportunity to add a good company to your portfolio even if it is with some risk. A couple of dollars cheaper on the price would be an even better opportunity as it would help lower the risk. Note: I hope you all got something out of this article. I do appreciate the time you took reading it. If you are one of those who follow me here, I appreciate it; if you'd like to include yourself amongst those individuals, please hit the \"Follow\" button next to my name as well as following other contributors whose work you enjoy. As always, please leave any feedback and questions you may have in the comments below. Disclosure: I/we have no positions in any stocks mentioned, but may initiate a long position in IBM over the next 72 hours. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article. About this article: Expand Author payment: $35 + $0.01/page view. Authors of PRO articles receive a minimum guaranteed payment of $150-500. Become a contributor »",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "robert",
+            "sentiment": "none"
+          },
+          {
+            "name": "watson",
+            "sentiment": "none"
+          },
+          {
+            "name": "robert x. cringely",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "ibm",
+            "sentiment": "positive"
+          },
+          {
+            "name": "morningstar",
+            "sentiment": "none"
+          },
+          {
+            "name": "cognitive solutions",
+            "sentiment": "none"
+          },
+          {
+            "name": "dgi",
+            "sentiment": "none"
+          },
+          {
+            "name": "international business machines corporation",
+            "sentiment": "none"
+          },
+          {
+            "name": "unh",
+            "sentiment": "none"
+          },
+          {
+            "name": "dia",
+            "sentiment": "none"
+          },
+          {
+            "name": "dgr",
+            "sentiment": "none"
+          },
+          {
+            "name": "nyse",
+            "sentiment": "none"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-11-29T18:22:42.468+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "4b88cc9a4e4331430ca80bf7471abae10907c9db",
+        "url": "http://omgili.com/ri/jHIAmI4hxg8G1d.Ln07PoSWRZsHStYBJ6f_QxUVm9P2aF4HAOqhzwN_GGCUaZoHj",
+        "site_full": "www.forbes.com",
+        "site": "forbes.com",
+        "site_section": "http://www.forbes.com/real-time/",
+        "site_categories": [
+          "news"
+        ],
+        "section_title": "Forbes Real Time",
+        "title": "Exciting News From Pfizer And IBM",
+        "title_full": "Exciting News From Pfizer And IBM",
+        "published": "2016-12-01T15:15:31.829+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": null,
+        "performance_score": 0,
+        "domain_rank": 196,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "4b88cc9a4e4331430ca80bf7471abae10907c9db",
+      "url": "http://omgili.com/ri/jHIAmI4hxg8G1d.Ln07PoSWRZsHStYBJ6f_QxUVm9P2aF4HAOqhzwN_GGCUaZoHj",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-12-01T15:15:31.829+02:00",
+      "title": "Exciting News From Pfizer And IBM",
+      "text": "The pairing of Pfizer and IBM Watson is changing the field of research. Forbes' Bruce Japsen speaks with IBM's Deborah DiSanzo about the company's exciting new venture.",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "forbes",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "bruce japsen",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "deborah disanzo",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "ibm",
+            "sentiment": "positive"
+          },
+          {
+            "name": "ibm watson",
+            "sentiment": "positive"
+          },
+          {
+            "name": "pfizer",
+            "sentiment": "positive"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-12-01T15:15:31.829+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "f17fa1ca90131d8407b507090a5eea40ff83854b",
+        "url": "http://omgili.com/ri/.wHSUbtEfZTAZKZNsBdU7ENpivuddeivzebHxfLe24nJeM1jGmxx_XYGSb0hwFFdmOQMP.YmDJuxDjj8hs5DqQJiWPbFznsnFCwIKvy8uBY-",
+        "site_full": "www.ibm.com",
+        "site": "ibm.com",
+        "site_section": "http://thoughtsoncloud.com/index.php/feed/",
+        "site_categories": [
+          "business"
+        ],
+        "section_title": "Cloud computing news",
+        "title": "American Airlines soars into cloud with IBM",
+        "title_full": "American Airlines soars into cloud with IBM",
+        "published": "2016-12-01T17:39:46.330+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "https://www.ibm.com/blogs/cloud-computing/wp-content/uploads/2016/12/American-Airlines-IBM-Cloud-300x169.jpg",
+        "performance_score": 0,
+        "domain_rank": 682,
+        "social": {
+          "facebook": {
+            "likes": 4,
+            "comments": 0,
+            "shares": 4
+          },
+          "gplus": {
+            "shares": 2
+          },
+          "pinterest": {
+            "shares": 1
+          },
+          "linkedin": {
+            "shares": 11
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "f17fa1ca90131d8407b507090a5eea40ff83854b",
+      "url": "http://omgili.com/ri/.wHSUbtEfZTAZKZNsBdU7ENpivuddeivzebHxfLe24nJeM1jGmxx_XYGSb0hwFFdmOQMP.YmDJuxDjj8hs5DqQJiWPbFznsnFCwIKvy8uBY-",
+      "ord_in_thread": 0,
+      "author": "Matthew Wilson",
+      "published": "2016-12-01T17:39:46.330+02:00",
+      "title": "American Airlines soars into cloud with IBM",
+      "text": "American Airlines soars into cloud with IBM December 1, 2016 | Written by: Matthew Wilson \nCategorized: Industry \nAmerican Airlines, the largest passenger air carrier in North America, announced this week that it has chosen IBM as a cloud provider. \nSpecifically, the airline intends to move some of its applications to the cloud and make use of IBM infrastructure-as-a-service (IaaS) and platform-as-a-service (PaaS) tools. The agreement also means American will have access to the 50 IBM data centers around the world, the Bluemix development platform and analytics capabilities. \nPatrick Grubbs, vice president of travel and transportation at IBM Cloud, said the work between IBM and American will include “customer facing systems as well as back office.” \nAmerican has been looking integrate and streamline its systems since merging with US Airways in 2013. \nRobert LeBlanc, Senior Vice President of IBM Cloud, said, “This partnership is about delivering the flexibility to American Airlines’ business, allowing them to enhance their customer relationships and further gain a competitive advantage.” \nThe new IBM agreement with American Airlines extends a longstanding relationship. In the 1950s, the two companies collaborated to create the first-ever electronic reservation and ticketing system in the air travel industry.",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "matthew wilson  categoriz",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "patrick grubbs",
+            "sentiment": "none"
+          },
+          {
+            "name": "robert leblanc",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "ibm",
+            "sentiment": "positive"
+          },
+          {
+            "name": "ibm american airlines",
+            "sentiment": "positive"
+          },
+          {
+            "name": "american airlines",
+            "sentiment": "positive"
+          },
+          {
+            "name": "us airways",
+            "sentiment": "none"
+          },
+          {
+            "name": "industry  american airlines",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "north america",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-01T17:39:46.330+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "95958a1aec56f27cb8792b918d0eceb02ef4e278",
+        "url": "http://omgili.com/ri/rPCDLkAl21S7pXRf3RBPhjHm6YJBMCkMlS.Qs1Qe6exXzQ4FE3qysONCmggsSABJ2q4rGr.wF0ED5gunMjxe9HFbqCWM9ZgfLUZKOZAhHLJQFMtKHeuOfQEWAm_uNKpFjAS6yEV4OPkIaFV9k8AsBYiwHYenJjN_",
+        "site_full": "amigobulls.com",
+        "site": "amigobulls.com",
+        "site_section": "http://amigobulls.com/articles/feed",
+        "site_categories": [
+          "finance",
+          "business"
+        ],
+        "section_title": "Amigobulls - Stock Market Analysis",
+        "title": "Ignore The Financials, MSFT Stock Is Headed Higher : Microsoft Corporation (NASDAQ:MSFT)",
+        "title_full": "Ignore The Financials, MSFT Stock Is Headed Higher : Microsoft Corporation (NASDAQ:MSFT)",
+        "published": "2016-12-02T15:36:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://static.amigobulls.com/articles/wp-content/uploads/2016/12/Why-MSFT-Stock-Will-Head-Higher-Microsoft-Corporation-NASDAQMSFT.jpg",
+        "performance_score": 0,
+        "domain_rank": 97219,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "95958a1aec56f27cb8792b918d0eceb02ef4e278",
+      "url": "http://omgili.com/ri/rPCDLkAl21S7pXRf3RBPhjHm6YJBMCkMlS.Qs1Qe6exXzQ4FE3qysONCmggsSABJ2q4rGr.wF0ED5gunMjxe9HFbqCWM9ZgfLUZKOZAhHLJQFMtKHeuOfQEWAm_uNKpFjAS6yEV4OPkIaFV9k8AsBYiwHYenJjN_",
+      "ord_in_thread": 0,
+      "author": "Ravi Bala",
+      "published": "2016-12-02T15:36:00.000+02:00",
+      "title": "Ignore The Financials, MSFT Stock Is Headed Higher : Microsoft Corporation (NASDAQ:MSFT)",
+      "text": "Nadella is positively impacting Microsoft from the inside. IBM will positively impact Microsoft from outside. Ignore the financials and focus on managerial actions. Flickr \nYou have got to give Microsoft Corporation (NSDQ:MSFT) major props for shifting its business model. \nHow is this company able to continue down the right path? Perhaps, it's the internal corporate environment that is becoming more favorable for Microsoft. \nInternally, you have a strong CEO who is focused on building out its cloud infrastructure. He is well aware of managerial, cognitive rigidity, which only focuses on the past successes and ignores the future. In order to embrace the shift away from the PC business, Nadella is changing the culture and focusing on related diversification measures. Since Microsoft is a large company, it will be very difficult to internally develop a competitive advantage. Thus, the focus on acquisitions and even open innovation and networking with the likes of Linux will reduce the \"time to market\" and development costs. \nThis shows that the CEO is trying to influence the top management team to focus on the long-term performance and not the short term performance. The larger and older the company, the more difficult it is to change the already set processes in the company. Thus, management has to be very careful when trying to redefine the company to ensure that its products are still accepted. At the end of the day, customers keep Microsoft in business, not shareholders. (Also Read: Could Microsoft Corporation Become A Trillion Dollar Company ) \nMicrosoft is in the second place with 16% market share , but still has a long way to go before it will be able to catch up with Amazon (NSDQ:AMZN) that has over 50% market share of the cloud computing market. Amazon was lucky since they were the first ones to enter the market 10 years ago. It remains to be seen whether Microsoft can grab market share from Amazon. Industry Opportunity \nSometimes for firms to succeed, the industry players may open a path of opportunity. This is what will happen if IBM succeeds with its open letter to Trump. \nIn her letter, IBM CEO, Mrs. Rometty, states that developing areas are cyber security, data science, and artificial intelligence. This shows IBM's commitment to innovative business service models, which will help the company to achieve competitive advantage. More importantly, the letter signifies IBM's hope to influence the government (in this case to influence human resources policy) so that its initiatives do not get shut down with regulations. \nIf you read the entirety of the letter , you will understand that if Rometty gets most of her requests, not only will IBM be able to thrive, but Microsoft will thrive as well. (Also Read: Can Mobile Be A Growth Driver For Microsoft Corporation ) Conclusion \nIf you are considering whether or not to buy Microsoft, I would recommend buying the stock based on managerial and industry impacts versus financial statement. The financials will not tell you anything at this point. The financials may cause you to reconsider investing in Microsoft. More useful areas of research are paying attention to the media articles that show Microsoft's top management team's actions, the overall organizational response, how the company is trying to align itself with its competitors, whether the stakeholders overall have a positive view of the firm or are putting pressure on it that could ruin its long-term vision, and especially the government regulations. \nLooking to invest in technology stocks? Here is our latest Top Tech Stock Picks which have outperformed the market consistently. Show Full Article",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "nadella",
+            "sentiment": "negative"
+          },
+          {
+            "name": "rometty",
+            "sentiment": "none"
+          },
+          {
+            "name": "trump",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "ibm",
+            "sentiment": "positive"
+          },
+          {
+            "name": "microsoft corporation",
+            "sentiment": "negative"
+          },
+          {
+            "name": "microsoft",
+            "sentiment": "negative"
+          },
+          {
+            "name": "microsoft corporation become a trillion dollar company",
+            "sentiment": "none"
+          },
+          {
+            "name": "amazon",
+            "sentiment": "none"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-12-05T17:24:04.538+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "109cbcf3ada3ee0dbf84f6a026cdce9ebc2e4606",
+        "url": "http://omgili.com/ri/7aBdisT0NOrO1_KRh30qwogLBAUlEvcqid9xGeFh8PgiAcAd3eeCmWfn_NcyWpLubrxww_C6Fvgq6_tIs32qnv_A3ukhMf.a",
+        "site_full": "seekingalpha.com",
+        "site": "seekingalpha.com",
+        "site_section": "http://seekingalpha.com/atom.xml",
+        "site_categories": [
+          "business"
+        ],
+        "section_title": "All Articles on Seeking Alpha",
+        "title": "IBM: The Power Of 10 Shares A Year",
+        "title_full": "IBM: The Power Of 10 Shares A Year",
+        "published": "2016-12-06T03:37:57.781+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "https://staticseekingalpha1.a.ssl.fastly.net/images/marketing_images/green_energy/geothermal_power_plant_101313f5ecfe4ad9.jpeg",
+        "performance_score": 0,
+        "domain_rank": 1432,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 1
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "109cbcf3ada3ee0dbf84f6a026cdce9ebc2e4606",
+      "url": "http://omgili.com/ri/7aBdisT0NOrO1_KRh30qwogLBAUlEvcqid9xGeFh8PgiAcAd3eeCmWfn_NcyWpLubrxww_C6Fvgq6_tIs32qnv_A3ukhMf.a",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-12-06T03:37:57.781+02:00",
+      "title": "IBM: The Power Of 10 Shares A Year",
+      "text": "Having a long investment time frame is a cornerstone of investment success. \nHowever, getting in that frame of mind can be difficult. \nThis article looks at making a modest investment each year in IBM. Everyone knows intuitively that the earlier you start investing the better. We've all seen the \"magic\" examples of a young 20-year old compounding a small amount of funds over a 40- or 50-year investing lifetime. Those are great illustrations. However, they can be a bit abstract. With that in mind, I continue to look at what results you can pile up during even intermediate time frames. Let's take a look at IBM (NYSE: IBM ) - a company that has taken a ton of flak for slow growth during a good part of this decade - to get a better feel for what I mean. The last time IBM had a \"frozen\" dividend was from the third quarter of 1993 through the first quarter of 1996. Thereafter, the company has been increasing its dividend by a solid and consistent rate. There were two stock splits leading up to the dot.com bubble - one in 1997 and another in 1999. I'm not going to \"cherry pick\" this example - let's start with a particularly poor time to start thinking about an investment in IBM. At the end of 1999, shares of IBM were trading around $108. The company was earning $3.70 or so per share and paying out $0.47 per share in cash dividends. Those numbers equate to a starting yield of 0.44% and a valuation of 29 times earnings. Given that the yield is now north of 3% and the earnings multiple is down to 11 or 12 times profits, you can guess that an investment from that point of 1999 has not performed particularly well (something like a 3% or 4% annual rate). And this single piece of information is the type of thing that the media likes to fixate on: IBM from 1999 to today was a subpar investment. Yet that type of thinking ignores reality (and indeed, ignores the goals of many investors). We don't just invest once and sit on our hands; instead we invest regularly and over a great deal of time. For this example, I wanted to focus on how seemingly small investments can grow to sizable cash flows. Imagine you could get your hands on say 10 shares of IBM per year. Usually you'd think about a set amount to invest each year, but we're changing the example up a bit. In that first year this would require an investment of ~$1,080 and you'd go on to receive $4.70 in annual income. I think this is one of the reasons many people don't get excited about investing. Not only do you have to learn about all of this new stuff, but also the results in the first year or five aren't exactly life changing. One thousand dollars a year is about $20 a week. We know what just this small amount can do over time, but it's a hard sell to begin, especially in this IBM example: \"You can take that $20 and go have a fun afternoon or invest it and receive 9 cents in passive income this year.\" The tangible benefit just isn't that high to start. Yet, if you hang in there, things begin to compound. In the second year, another 10-share investment would only require $850 or so. You'd be up to 20 shares, and receive $10.20 in passive income; still not life changing, but an improvement nonetheless. After years three, four and five, you'd be up to 50 shares now paying out $31.50 in annual income. The per share dividend increased by 34%, but most of your gains were from buying more shares. After 10 years you'd be up to 100 shares even. Your nominal cost at this point would be $9,500 and you'd be generating $190 in annual dividend income. This still may not be life changing, but it's starting to cover a small expense each month. After 15 years, you'd be up to 150 shares, now paying out $550 in annual income. That's starting to look like something that changes your perception. At this point, your nominal cost has been about $3.30 per day and your investment is paying out $1.50 per day. Every day that you hold that's another $1.50 coming your way. And today, after 18 separate annual investments - with a cost of about $25 per week - you'd be on the verge of collecting a cool $1,000 in passive income. This isn't retirement, but I find it to be an important intermediate step. Small investments along the way turned $0 in passive income to $1,000 in under two decades. Moreover, those shares would carry an underlying earnings claim of about $2,500, with a market value of about $29,000. And naturally things could be vastly improved by adding a few tweaks or additional effort. For instance, if the above scenario we're talking about collecting $5,000 or so in dividends along the way and spending them as you choose. If you instead elected to reinvest, your passive income could be $1,200 per year with a market value closer to $35,000. The annualized return here isn't spectacular (~6%), but that's sort of the point. Even in a circumstance where you begin investing at a terrible time and run into a security that has been stagnating (or declining) for the last couple of years, you still could have generated a nice cash flow stream from consistently investing. Further, you're not limited to only IBM or just those 10 shares. Instead you could take the same logic and apply it to a basic index fund or a group of excellent businesses. If instead of ~$1,000 we start talking about $10,000 invested each year, the passive income starts to multiply by 10 as well. The takeaway is that investing tends to compound on itself. It's easy to get discouraged seeing that first $2 or $10 or even $40 dividend check rolls in. Yet, when you start compounding things by double-digits (highly probable given \"organic\" dividend growth, reinvestment and \"fresh\" capital), the results become more and more impressive in quick order. Disclosure: I am/we are long IBM. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article. About this article: Expand Author payment: $35 + $0.01/page view. Authors of PRO articles receive a minimum guaranteed payment of $150-500. Become a contributor »",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "ibm",
+            "sentiment": "positive"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-12-06T03:37:57.781+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "fea0315617cd3604385d46881d13d4eab3665e9d",
+        "url": "http://omgili.com/ri/0xd.sZhj5jcILrt3St0g4qKruHyENJ6h3tQF8z4lzViiBz9yZqLpqQkL_BTXstk6yygJPtNjKJW98zW498aBLwIufunrr9TsK5jtWyzaEtjL.2pBs9hnc1xzQ7bB.lEX",
+        "site_full": "cloud-computing.tmcnet.com",
+        "site": "tmcnet.com",
+        "site_section": "http://cloud-computing.tmcnet.com/features/",
+        "site_categories": [],
+        "section_title": "Cloud Computing Magazine ",
+        "title": "IBM Tells Its Cloud Story",
+        "title_full": "IBM Tells Its Cloud Story",
+        "published": "2016-12-07T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 45510,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "fea0315617cd3604385d46881d13d4eab3665e9d",
+      "url": "http://omgili.com/ri/0xd.sZhj5jcILrt3St0g4qKruHyENJ6h3tQF8z4lzViiBz9yZqLpqQkL_BTXstk6yygJPtNjKJW98zW498aBLwIufunrr9TsK5jtWyzaEtjL.2pBs9hnc1xzQ7bB.lEX",
+      "ord_in_thread": 0,
+      "author": "Paula Bernier , Executive Editor, TMC",
+      "published": "2016-12-07T02:00:00.000+02:00",
+      "title": "IBM Tells Its Cloud Story",
+      "text": "IBM is considered among the top cloud providers. Just where it fits in the mix, however, depends upon to whom you’re talking.\nIn its Magic Quadrant for Cloud IaaS Worldwide 2016, Gartner ( News - Alert ) refers to IBM SoftLayer as a niche player, while Amazon Web Services is named as the clear leader, followed by Microsoft. Meanwhile, Deutsche Bank’s Markets Research says IBM isn’t even a direct competitor due to its hybrid cloud approach. However, UBS Global Research considers IBM among the top four cloud providers, with AWS, Microsoft ( News - Alert ) Azure, and Google Cloud Platform listed as the other key players in this category.\nTo get a better understanding of where IBM sees itself fitting into the cloud mix today and going forward, Cloud Computing Magazine recently interviewed Frank DeGilio, IBM distinguished engineer and chief architect for Cloud.\nIBM Cloud, DeGilio said, is the overarching term big blue uses to describe its cloud strategy. Both IBM Bluemix and SoftLayer ( News - Alert ) sit under the IBM Cloud umbrella.\nSoftLayer\nSoftLayer is IBM’s cloud infrastructure as a service company, which it purchased for $2 billion back in 2013.\nGartner said that IBM purchased SoftLayer to give it a data center platform that could support public and private infrastructure as a service, platform as a service, and software as a service. The research and consulting firm also noted SoftLayer’s track record as a dedicated hosting provider and delivering a wide range of bare metal cloud server offerings.\n“SoftLayer offers both multitenant and single-tenant Citrix ( News - Alert )-XenServer-virtualized compute (virtual servers),” Gartner said. “It also offers, as part of its cloud, paid-by-the-hour non-virtualized dedicated servers (bare metal servers). It has OpenStack-based object storage with an integrated CDN (via a partnership with Verizon Digital Media Services, formerly EdgeCast).”\nGartner added that SoftLayer's primary business is non-cloud offerings, such as paid-by-the-month dedicated servers and hosted appliances, “but it does not make a clear distinction between these offerings and its cloud IaaS capabilities.”\nBluemix\nBut DeGilio said the cloud is more than just IaaS.\nThat’s why IBM introduced Bluemix a couple of years ago. Bluemix, explained DeGilio, is like a mall that lets users build a storefront in the mall, or a canvas and a palette of communications and IT resources that developers can employ to tie together with simple code and quickly build an application. While AWS and Google ( News - Alert ) require customers to rewrite applications to work in their clouds, IBM delivers the tools to more easily transport them to the cloud. Bluemix also provides a secure connection.\nBluemix Garage, meanwhile, helps clients use agile development models and practices to start building new born-in-the cloud applications that are connected to traditional environments.\n“The idea is to take both worlds and build them together in a hybrid,” DeGilio said.\n“My goal is to allow a business to have an idea in the morning and to get it into production that same day,” he added.\nIBM is very focused on helping its customers move their existing environments to the private cloud, said DeGilio, because some businesses are really struggling to move to the cloud. Businesses over the last 50 years have been building applications, such as call centers and CRM solutions, that live internally, he noted. IBM is helping them transport those applications so they can benefit from the cloud, he said.\nAt the same time, IBM is assisting organizations to address new requirements, such as those related to the Affordable Care Act, which has led some B2B providers to have to reach out directly to consumers on their mobile phones. As a result, he explained, internal services need to be broken up and configured in new ways.\nBecause IBM has been working with businesses on their communications needs for the last 100 years, DeGilio said, it is intimately familiar with how those businesses work and how their applications and assets can best be turned into services.\n“There are many companies out there that understand IT from the traditional model, but don’t have a lot of cloud experience” or that have cloud experience only, he said. “What we have is both.”",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "frank degilio",
+            "sentiment": "none"
+          },
+          {
+            "name": "bluemix",
+            "sentiment": "none"
+          },
+          {
+            "name": "degilio",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "ibm",
+            "sentiment": "positive"
+          },
+          {
+            "name": "verizon digital media services",
+            "sentiment": "none"
+          },
+          {
+            "name": "cloud computing magazine",
+            "sentiment": "none"
+          },
+          {
+            "name": "amazon web services",
+            "sentiment": "none"
+          },
+          {
+            "name": "gartner",
+            "sentiment": "none"
+          },
+          {
+            "name": "deutsche bank’s markets research",
+            "sentiment": "none"
+          },
+          {
+            "name": "ubs global research",
+            "sentiment": "none"
+          },
+          {
+            "name": "microsoft",
+            "sentiment": "none"
+          },
+          {
+            "name": "google",
+            "sentiment": "none"
+          },
+          {
+            "name": "citrix",
+            "sentiment": "none"
+          },
+          {
+            "name": "ibm bluemix",
+            "sentiment": "none"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-12-08T00:08:58.945+02:00"
+    }
+  ],
+  "totalResults": 23,
+  "moreResultsAvailable": 0,
+  "next": "/search?token=c6052904-f312-436b-a6d8-d915084ac866&format=json&ts=1481148538945&q=language%3A%28english%29+thread.country%3AUS+organization.positive%3A%22IBM%22",
+  "requestsLeft": 1307
+}

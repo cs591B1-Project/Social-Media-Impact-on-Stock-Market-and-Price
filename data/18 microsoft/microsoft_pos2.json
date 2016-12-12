@@ -1,0 +1,3036 @@
+{
+  "posts": [
+    {
+      "thread": {
+        "uuid": "b75e83d28b445c5b9deac6f116323f06e2302530",
+        "url": "http://omgili.com/ri/jHIAmI4hxg_EkkS_Tc7KNAmINEPi7Yzi4o1im3TjavS_hnF.SryeIeVPoy3U11.d4_ZvG_oDziCbMXNg4Ik2acGOo8oLahd4",
+        "site_full": "windowsreport.com",
+        "site": "windowsreport.com",
+        "site_section": "http://windowsreport.com/feed/",
+        "site_categories": [
+          "tech"
+        ],
+        "section_title": "Windows Report – Windows 10 and Microsoft News, How-to Tips",
+        "title": "Windows 10 to get a new design language, codenamed Project NEON",
+        "title_full": "Windows 10 to get a new design language, codenamed Project NEON",
+        "published": "2016-11-30T13:02:39.732+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://cdn.windowsreport.com/wp-content/uploads/2016/11/project-neon.jpg",
+        "performance_score": 0,
+        "domain_rank": 25474,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "b75e83d28b445c5b9deac6f116323f06e2302530",
+      "url": "http://omgili.com/ri/jHIAmI4hxg_EkkS_Tc7KNAmINEPi7Yzi4o1im3TjavS_hnF.SryeIeVPoy3U11.d4_ZvG_oDziCbMXNg4Ik2acGOo8oLahd4",
+      "ord_in_thread": 0,
+      "author": "Khushaar Tanveer",
+      "published": "2016-11-30T13:02:39.732+02:00",
+      "title": "Windows 10 to get a new design language, codenamed Project NEON",
+      "text": "0 0 \nMicrosoft is striving to ameliorate their Windows 10 and so far it is the best operating system the software giant has introduced yet. There is the Cortana digital personal assistant, Universal Windows Platform for apps that run on desktops, notebooks, 2-in-1s, and phones, Continuum , and the operating system’s significantly improved security. The only lack in the operating system is the user interface the company somehow failed to perfect. \nIn response, the company has made several adjustments to its design language over the past few years. It all started with Windows 8 and evolved into what we now discern as “Microsoft Design Language 2” or MDL2 in Windows 10. Project NEON addresses the same attribute just with a different perspective. \nIntroduced with Windows 7, Metro used to be the defining design of the Windows Phone OS with strict principles and guidelines. The now universally adopted design, adopted in several mobile platforms including iOS and Android, feature a flat, chrome-less plan centered on simplicity. So what actually is Project NEON? \nWith the numerous new features Redstone 3 update is expected to bring , Microsoft is adding yet another one. This time, it is a project codenamed NEON, a design language anticipated to bring Windows 10’s UI a more streamlined facelift. Microsoft is aiming to introduce a design language which just works across all devices and offers a similar experience as Windows 10. This includes the PC, Mobile, and more importantly, HoloLens . \nMost importantly, Project NEON is designed to straighten out all the inconsistencies that can appear throughout Windows 10. NEON is also believed to leverage effects including textures, 3D models, and lighting, amongst others. So summing up, NEON would preserve the relatively simple essence of the Windows 10 UI, all the while making it more attractive to look at. \nUp until now, various sources have suggested the release of Project NEON in late 2017 and that it has been in development for over a year. Of course, Insider users will get it sooner as Creator updates usually are rolled out around March. So, we’ll see Redstone 3 Previews with real changes a few months later.",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "redstone",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "project neon",
+            "sentiment": "positive"
+          },
+          {
+            "name": "microsoft",
+            "sentiment": "positive"
+          },
+          {
+            "name": "neon",
+            "sentiment": "none"
+          },
+          {
+            "name": "redstone",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "metro",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-11-30T13:02:39.732+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "dd81530966e8a32d8e0e888eb36ea32296a0aa6d",
+        "url": "http://omgili.com/ri/jHIAmI4hxg8Dz0oGWW1_sGVZrduq_.2L7dGR.Hol3qQq4uAXNYU5hDs6foq6dTC2k.fqjMsJxRw-",
+        "site_full": "www.windowscentral.com",
+        "site": "windowscentral.com",
+        "site_section": "http://www.windowscentral.com/",
+        "site_categories": [
+          "news",
+          "tech"
+        ],
+        "section_title": "Windows Central - News, Forums, Reviews, Help for Windows Phone",
+        "title": "Best Convertible Laptop",
+        "title_full": "Best Convertible Laptop",
+        "published": "2016-11-30T16:02:37.863+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": null,
+        "performance_score": 0,
+        "domain_rank": 3278,
+        "social": {
+          "facebook": {
+            "likes": 37,
+            "comments": 0,
+            "shares": 37
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "dd81530966e8a32d8e0e888eb36ea32296a0aa6d",
+      "url": "http://omgili.com/ri/jHIAmI4hxg8Dz0oGWW1_sGVZrduq_.2L7dGR.Hol3qQq4uAXNYU5hDs6foq6dTC2k.fqjMsJxRw-",
+      "ord_in_thread": 0,
+      "author": "Zac Bowden",
+      "published": "2016-11-30T16:02:37.863+02:00",
+      "title": "Best Convertible Laptop",
+      "text": "\nThe Microsoft Surface Book is the best convertible laptop you can buy. Its unique design is the most versatile, letting you get the most done no matter what it is you do.\nBest overall Microsoft Surface Book \nSee at Microsoft Store \nMicrosoft's Surface Book is the best convertible on the market today. Being the first convertible ultrabook from Microsoft, it's rocking some of the best specs you can get in right now. With a 13.5-inch touchscreen bundled with a removable keyboard base with an optional dedicated GPU and a bigger battery, you simply can't go wrong if you want a versatile ultrabook.\nBottom line: For a powerful convertible with a beautiful display and removable keyboard, you have to go with the Surface Book.\nOne more thing: The Surface Book also comes bundled with a pen, allowing you to draw and write directly into the screen.\nWhy the Surface Book is the best True desktop performance in a convertible ultrabook that looks absolutely fantastic.\n",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "microsoft",
+            "sentiment": "positive"
+          },
+          {
+            "name": "microsoft store  microsoft",
+            "sentiment": "none"
+          },
+          {
+            "name": "gpu",
+            "sentiment": "none"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-11-30T16:02:37.863+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "cb9fbe45b9c63bc5f890fa182e9e5e246754f0b0",
+        "url": "http://omgili.com/ri/jHIAmI4hxg9BcPFu_4VOJxXOPE7_XaSqonkJYBNRyJAdzVvZEZXR5b4RVu6IXJktHUwx5wTxlVX_9XTzCLKcNd41K15pQzz.DtsN55EZP_oaU2.6ZFz2jg--",
+        "site_full": "www.onenewspage.com",
+        "site": "onenewspage.com",
+        "site_section": "http://www.onenewspage.com/rss/latest/Lifestyle.rss",
+        "site_categories": [
+          "news",
+          "entertainment",
+          "education"
+        ],
+        "section_title": "Latest Lifestyle News on One News Page",
+        "title": "Top 5 Microsoft Devices of 2016",
+        "title_full": "Top 5 Microsoft Devices of 2016 - One News Page",
+        "published": "2016-11-30T16:24:07.638+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://cdn.newsserve.net/700/i/20161130/3705-Top-Microsoft-Devices-of-2016.jpg",
+        "performance_score": 0,
+        "domain_rank": 91686,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "cb9fbe45b9c63bc5f890fa182e9e5e246754f0b0",
+      "url": "http://omgili.com/ri/jHIAmI4hxg9BcPFu_4VOJxXOPE7_XaSqonkJYBNRyJAdzVvZEZXR5b4RVu6IXJktHUwx5wTxlVX_9XTzCLKcNd41K15pQzz.DtsN55EZP_oaU2.6ZFz2jg--",
+      "ord_in_thread": 0,
+      "author": "onenewspage.com",
+      "published": "2016-11-30T16:24:07.638+02:00",
+      "title": "Top 5 Microsoft Devices of 2016",
+      "text": "When it comes to producing best tech devices, Microsoft is considered as one of the top brands. Here are some of the best releases of Microsoft for 2016.",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "microsoft devices",
+            "sentiment": "positive"
+          },
+          {
+            "name": "microsoft",
+            "sentiment": "positive"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-11-30T16:24:07.638+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "2949fd982cab857a4a979ffa0cb8450e3dfd53e3",
+        "url": "http://omgili.com/ri/jHIAmI4hxg8y5ia1l.boMj1MVMXIPC0kWs94YxFs6mwg0.QiRzCEp12Kya6vK1Q1F8ftxMx_YWfKdkw5ZGa0ZwozwbbkIolYobUhpv3wIV.WrUQWDlzKXycDQg0ngHhdRO4F8xtyybHG1gUb7t4bsA--",
+        "site_full": "www.seattletimes.com",
+        "site": "seattletimes.com",
+        "site_section": "http://seattletimes.nwsource.com/rss/businesstechnology.xml",
+        "site_categories": [
+          "news"
+        ],
+        "section_title": "The Seattle Times Business – The Seattle Times",
+        "title": "Microsoft cheers year of ‘solid progress’ at shareholders meeting",
+        "title_full": "Microsoft cheers year of ‘solid progress’ at shareholders meeting",
+        "published": "2016-11-30T19:03:46.136+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://www.seattletimes.com/wp-content/themes/st_refresh/img/st-meta-facebook.png",
+        "performance_score": 0,
+        "domain_rank": 3285,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "2949fd982cab857a4a979ffa0cb8450e3dfd53e3",
+      "url": "http://omgili.com/ri/jHIAmI4hxg8y5ia1l.boMj1MVMXIPC0kWs94YxFs6mwg0.QiRzCEp12Kya6vK1Q1F8ftxMx_YWfKdkw5ZGa0ZwozwbbkIolYobUhpv3wIV.WrUQWDlzKXycDQg0ngHhdRO4F8xtyybHG1gUb7t4bsA--",
+      "ord_in_thread": 0,
+      "author": "Matt Day",
+      "published": "2016-11-30T19:03:46.136+02:00",
+      "title": "Microsoft cheers year of ‘solid progress’ at shareholders meeting",
+      "text": "Microsoft cheers year of ‘solid progress’ at shareholders meeting  55 am With Microsoft shares near a record high, executives touted success in selling next-generation software tools at the company’s annual shareholders meeting Wednesday. Share story Matt Day Seattle Times technology reporter \nMicrosoft executives struck an upbeat tone at the company’s annual shareholders meeting on Wednesday, touting signs of success in the company’s aim to remain relevant in a fast-changing technology world with a new generation of software tools. \n“This last year has been a year of solid progress at Microsoft,” Chief Executive Satya Nadella said at the event, attended by a few hundred shareholders and company officials at Bellevue’s Meydenbauer Center. \nIn contrast to the era in which many shareholder questions circled Microsoft’s stagnant stock price, the company is set to end 2016 on a high note. \nMicrosoft’s share price is hovering near all-time highs, aided by growth in the company’s cloud-computing units. Shareholder-friendly policies, including billions of dollars paid out annually in dividends and share buybacks, have also helped buoy shares. Most Read Stories Unlimited Digital Access. $1 for 4 weeks. \nShareholders voiced their approval of the company’s direction in their near unanimous reelection of the board of directors. Microsoft’s slate of board of directors candidates were all approved with more than 98 percent of votes cast. \nThe board’s composition last changed a year ago with the appointment of Johnson & Johnson executive Sandra Peterson, and a former Cisco executive, Padmasree Warrior. \nShareholders also voiced approval for Microsoft’s evolving executive compensation practices, a break from past years. The company said 95 percent of shareholder votes were to approve the symbolic advisory vote on executive pay. \nIn each of the past two years, shareholders delivered Microsoft a rebuke on the company’s pay practices, which critics said included too many giant stock grants and were only loosely connected to the company’s performance. Those grants included a giant package, valued by an independent shareholder advisory firm at more than $90 million, to Nadella after he was named CEO in 2014. \nSince then, Microsoft has moved to tie more of executives’ pay to Microsoft’s business goals and financial performance. \nAbsent from the room on Wednesday were Bill Gates, Microsoft’s co-founder and current board member, and Steve Ballmer, the ex-CEO who remains a major shareholder. Technology news site GeekWire reported that both had prior commitments preventing them from attending. Matt Day: 206-464-2420 or . On Twitter @mattmday Email Newsletter Sign-up Custom-curated news highlights, delivered weekday mornings. Email address By signing up you are agreeing to our Privacy Policy and Terms of Service . Thanks for signing up!",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "satya nadella",
+            "sentiment": "none"
+          },
+          {
+            "name": "bill gates",
+            "sentiment": "none"
+          },
+          {
+            "name": "sandra peterson",
+            "sentiment": "none"
+          },
+          {
+            "name": "nadella",
+            "sentiment": "none"
+          },
+          {
+            "name": "matt day",
+            "sentiment": "none"
+          },
+          {
+            "name": "steve ballmer",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "microsoft",
+            "sentiment": "positive"
+          },
+          {
+            "name": "terms of service",
+            "sentiment": "none"
+          },
+          {
+            "name": "cisco",
+            "sentiment": "none"
+          },
+          {
+            "name": "johnson & johnson",
+            "sentiment": "none"
+          },
+          {
+            "name": "seattle times",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "meydenbauer center",
+            "sentiment": "none"
+          },
+          {
+            "name": "bellevue",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-11-30T19:03:46.136+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "70f46e8403de220865c8419cd43139e4c46a75ef",
+        "url": "http://omgili.com/ri/jHIAmI4hxg9BcPFu_4VOJxXOPE7_XaSqsYNALxtw2t29WQjvQQJ7tSx6iLv66_O06lx5hm2bemg3ydLRIbR3lE6bCekrErQzUWS4LS_7Bsg2A.tNrvjqXLbBDFi_5vLU_snO3HfuqchL3wedYVjTBw--",
+        "site_full": "www.onenewspage.com",
+        "site": "onenewspage.com",
+        "site_section": "http://www.onenewspage.com/rss/latest/Business.rss",
+        "site_categories": [
+          "news",
+          "entertainment",
+          "education"
+        ],
+        "section_title": "Latest Business News on One News Page",
+        "title": "Microsoft cheers year of ‘solid progress’ at shareholders meeting",
+        "title_full": "Microsoft cheers year of ‘solid progress’ at shareholders meeting - One News Page",
+        "published": "2016-11-30T19:03:54.816+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://cdn.newsserve.net/ONPglobe128.png",
+        "performance_score": 0,
+        "domain_rank": 91686,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "70f46e8403de220865c8419cd43139e4c46a75ef",
+      "url": "http://omgili.com/ri/jHIAmI4hxg9BcPFu_4VOJxXOPE7_XaSqsYNALxtw2t29WQjvQQJ7tSx6iLv66_O06lx5hm2bemg3ydLRIbR3lE6bCekrErQzUWS4LS_7Bsg2A.tNrvjqXLbBDFi_5vLU_snO3HfuqchL3wedYVjTBw--",
+      "ord_in_thread": 0,
+      "author": "onenewspage.com",
+      "published": "2016-11-30T19:03:54.816+02:00",
+      "title": "Microsoft cheers year of ‘solid progress’ at shareholders meeting",
+      "text": "With Microsoft shares near a record high, executives touted success in selling next-generation software tools at the company’s annual shareholders meeting Wednesday.",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "microsoft",
+            "sentiment": "positive"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-11-30T19:03:54.816+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "fdbec048f2a8945661bb4b93e1512f6fae88882c",
+        "url": "http://omgili.com/ri/jHIAmI4hxg..cZ_unWETCItABcYtl87EdpoEbIEIFUl.h87Ui4gCtmNg0KNFt3xGl2ShnX8NZX9ZZSFqUTKEwExfXfgfxpES3VgC68WC5UduDptV1xwIgg--",
+        "site_full": "wonderfulengineering.com",
+        "site": "wonderfulengineering.com",
+        "site_section": "http://wonderfulengineering.com/feed/",
+        "site_categories": [],
+        "section_title": "Wonderful Engineering",
+        "title": "This Smart Trap By Microsoft Can Detect Zika Mosquitos",
+        "title_full": "This Smart Trap By Microsoft Can Detect Zika Mosquitos",
+        "published": "2016-11-30T21:32:53.080+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://cdn.wonderfulengineering.com/wp-content/uploads/2016/07/texas-microsoft-zika-1-780x439.jpg",
+        "performance_score": 0,
+        "domain_rank": 20017,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "fdbec048f2a8945661bb4b93e1512f6fae88882c",
+      "url": "http://omgili.com/ri/jHIAmI4hxg..cZ_unWETCItABcYtl87EdpoEbIEIFUl.h87Ui4gCtmNg0KNFt3xGl2ShnX8NZX9ZZSFqUTKEwExfXfgfxpES3VgC68WC5UduDptV1xwIgg--",
+      "ord_in_thread": 0,
+      "author": "Maarej K",
+      "published": "2016-11-30T21:32:53.080+02:00",
+      "title": "This Smart Trap By Microsoft Can Detect Zika Mosquitos",
+      "text": "Homepage » Technology » This Smart Trap By Microsoft Can Detect Zika Mosquitos This Smart Trap By Microsoft Can Detect Zika Mosquitos Advertisement By Maarej K - November, 30th 2016 \nMicrosoft’s “Project Premonition” aims for the early detection of infectious diseases before they affect the highly populated urban areas, thus preventing endemics and epidemics. As part of this project, a new device is being tested to monitor the spread of Zika virus. This smart mosquito trap will be able to detect specific type of mosquitos and accumulate data on weather parameters (e.g. temperate, pressure and humidity) with time at the moment of capture. Ethan Jackson, a Microsoft researcher who is leading Project Premonition. Photo credit: money.cnn.com \nThe smart trap uses an algorithm and profiling techniques to identify the different species of mosquitoes trapped based on how they flap their wings as it is a distinctive feature among mosquito types. Additionally, Microsoft plans on placing the traps in remote areas with the help of drones, which will be cost-effective and will save time. \n“The idea of Premonition is to use a mosquito as a device that can go out and sample blood and then from that mosquito, we can try to understand what pathogens it might have encountered,” said Ethan Jackson, leader of Project Premonition.“So the technologies we needed to build go all the way to how do you catch a mosquito to how do you get it back to a lab, to how do you analyze it.” Advertisement Jackson with the Microsoft device. Credits: money.cnn.com \n\nThe drones will also determine the areas where certain species of mosquitoes are present in high population. This device has a new technology that detects and captures only the specific type of mosquito desired for research. The Harris County in Houston area, U.S. will be the testing ground for this new mosquito trap as the county has one of the best mosquito control systems in the country. The Director of Operations at Harris County Public Health, Les Becker said: \n“In a county with this size and scope, we don’t have the resources to just cover the county and spray, spray, spray. We’ve got to figure out how to do it as efficiently as possible.” Credits: zeenews.india.com \n\nThe Houston Chronicle reports that the device uses 64 “smart cells” and can capture about 64 mosquitoes in a testing cycle of 14 to 16 hours. The data is transmitted to a collection center wirelessly while residual data is saved on the memory card of the device. The data collected by Microsoft is quite valuable despite the fact that no mosquito carrying Zika virus has been found yet. \n“The data that we’re seeing from even this first week is interesting. We can already see that the traps can distinguish between certain species of mosquitoes in real time,” Jackson says. “If you want to monitor Zika vectors or you want to monitor West Nile vectors, the trap can actually tell them apart and only capture the ones you’re interested in studying.” \nThe Zika virus is dangerous to the pregnant woman and causes severe birth defects in babies born. The outbreak began from Brazil and has by now affected hundreds of infants and has spread across more than 50 countries in South and North America. As the temperature rises in the upcoming weeks, Zika is expected to reach parts of Europe and the US mainland. Screenshot of the high risk areas for Zika. Credits: WHO Twitter Advertisement NOW WATCH: This Is The World's Fastest Production Car Trending On Internet Today",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "ethan jackson",
+            "sentiment": "none"
+          },
+          {
+            "name": "les becker",
+            "sentiment": "none"
+          },
+          {
+            "name": "maarej k",
+            "sentiment": "none"
+          },
+          {
+            "name": "jackson",
+            "sentiment": "none"
+          },
+          {
+            "name": "zika",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "microsoft",
+            "sentiment": "positive"
+          },
+          {
+            "name": "operations at harris county public health",
+            "sentiment": "none"
+          },
+          {
+            "name": "houston chronicle",
+            "sentiment": "none"
+          },
+          {
+            "name": "world",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "us",
+            "sentiment": "none"
+          },
+          {
+            "name": "u.s.",
+            "sentiment": "none"
+          },
+          {
+            "name": "west nile",
+            "sentiment": "none"
+          },
+          {
+            "name": "houston",
+            "sentiment": "none"
+          },
+          {
+            "name": "brazil",
+            "sentiment": "none"
+          },
+          {
+            "name": "europe",
+            "sentiment": "none"
+          },
+          {
+            "name": "harris county",
+            "sentiment": "none"
+          },
+          {
+            "name": "south and north america",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-11-30T21:32:53.080+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "66837c2bd7e344d669356954cb5fa86840be7ce2",
+        "url": "http://omgili.com/ri/jHIAmI4hxg_EkkS_Tc7KNAmINEPi7Yzi4gopSi768Rj4FZTvusSC_X.6W87iU.9V",
+        "site_full": "windowsreport.com",
+        "site": "windowsreport.com",
+        "site_section": "http://windowsreport.com/feed/",
+        "site_categories": [
+          "tech"
+        ],
+        "section_title": "Windows Report – Windows 10 and Microsoft News, How-to Tips",
+        "title": "Play Outland for free on your Xbox One from December 1-15",
+        "title_full": "Play Outland for free on your Xbox One from December 1-15",
+        "published": "2016-11-30T22:19:56.019+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://cdn.windowsreport.com/wp-content/uploads/2016/11/Outland-free-game-Xbox-One.jpg",
+        "performance_score": 0,
+        "domain_rank": 25474,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "66837c2bd7e344d669356954cb5fa86840be7ce2",
+      "url": "http://omgili.com/ri/jHIAmI4hxg_EkkS_Tc7KNAmINEPi7Yzi4gopSi768Rj4FZTvusSC_X.6W87iU.9V",
+      "ord_in_thread": 0,
+      "author": "Madeleine Dean",
+      "published": "2016-11-30T22:19:56.019+02:00",
+      "title": "Play Outland for free on your Xbox One from December 1-15",
+      "text": "0 0 \nMicrosoft’s Games with Gold program is offering four interesting free Xbox One games to fans. In December, Xbox One owners will be able to play Sleeping Dogs: Definitive Edition, Outlast, Outland and Burnout Paradise, all for free. \nOutland is an impressive platformer inspired by the epic adventures such as the Prince of Persia series. In the middle of Balance and Chaos stands one man whose efforts may bridge an ancient divide, or doom the world to destruction. \nThe gameplay involves using Light (blue) and Dark (red) energies that help players attack monsters born of the opposite energy. If you come across Dark monsters , you need to use Light to vanquish them. You’ll also use these two types of energies to overcome various barriers. \nAs you progress through the game, you’ll come across large shrines where you can learn how to use new powers. Your new skills may involve learning how to use melee attacks or harness Light and Dark energies. \nPay attention to your environment because you can also collect hidden objects. Gather as many such objects as possible to unlock extras, such as enhanced in-game abilities. \nYou can also play with a friend in co-operative mode. If you want to play a more challenging game, enter Arcade Mode and race against time to complete your mission. \nOutland has an impressive 4 out of 5 score. You should definitely test it out in December, especially since it’s free to play. Outland has a regular price tag of $9.99 on the Xbox 360 Store and Steam . \nSpeaking of Games with Gold, you can also play Sleeping Dogs: Definitive Edition for free on your Xbox One console from December 1-31. \nRELATED STORIES YOU NEED TO CHECK OUT:",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "microsoft",
+            "sentiment": "positive"
+          }
+        ],
+        "locations": [
+          {
+            "name": "persia",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-11-30T22:19:56.019+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "ea579e6dd162bb2f279c362e621eb6fdccbcd23c",
+        "url": "http://omgili.com/ri/jHIAmI4hxg9soV4T7Mg_PRyICqFZny5MGi4vD315AqAJuX0kqYw8c_xMYWLwLOCMI6dRZ1xmqoN3l4JCDJ.Et0fmmZc2HoLucyWbZVIhxPsYHRfxlsjMYHWjfMMbLYqw60UfwtMQBsmKExUg976cYQ--",
+        "site_full": "www.therecord.com",
+        "site": "therecord.com",
+        "site_section": "http://www.therecord.com/waterlooregion-events/community/?yb=2&da=&sort=datedesc&page=134",
+        "site_categories": [
+          "news",
+          "business"
+        ],
+        "section_title": "Upcoming Community events in Waterloo Region ",
+        "title": "Microsoft cheers year of ‘solid progress’ at shareholders meeting",
+        "title_full": "Microsoft cheers year of ‘solid progress’ at shareholders meeting",
+        "published": "2016-11-30T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://www.therecord.com/portals/15/images/fb_logo.jpg",
+        "performance_score": 0,
+        "domain_rank": 93390,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "ea579e6dd162bb2f279c362e621eb6fdccbcd23c",
+      "url": "http://omgili.com/ri/jHIAmI4hxg9soV4T7Mg_PRyICqFZny5MGi4vD315AqAJuX0kqYw8c_xMYWLwLOCMI6dRZ1xmqoN3l4JCDJ.Et0fmmZc2HoLucyWbZVIhxPsYHRfxlsjMYHWjfMMbLYqw60UfwtMQBsmKExUg976cYQ--",
+      "ord_in_thread": 0,
+      "author": "therecord",
+      "published": "2016-11-30T02:00:00.000+02:00",
+      "title": "Microsoft cheers year of ‘solid progress’ at shareholders meeting",
+      "text": "SEATTLE — Microsoft executives struck an upbeat tone at the company's annual shareholders meeting on Wednesday, touting signs of success in the company's campaign to remain relevant in a fast-changing technology world with a new generation of software tools. \"This last year has been a year of solid progress at Microsoft,\" chief executive Satya Nadella said at the event, attended by a few hundred shareholders and company officials.\nIn contrast to the era in which many shareholder questions circled Microsoft's stagnant stock price, the company, headquartered outside Seattle, is set to end 2016 on a high note.\nMicrosoft's share price is hovering near all-time highs, aided by growth in the company's cloud-computing units. Shareholder-friendly policies, including billions of dollars paid out annually in dividends and share buybacks, have also helped buoy shares.\nShareholders voiced their approval of the company's direction in their near unanimous re-election of the board of directors. Microsoft's slate of board of directors candidates were all approved with more than 98 per cent of votes cast.\nShareholders also voiced approval for Microsoft's evolving executive compensation practices, a break from past years. The company said 95 per cent of shareholder votes were to approve the symbolic advisory vote on executive pay.\nIn each of the past two years, shareholders delivered Microsoft a rebuke on the company's pay practices, which critics said included too many giant stock grants and were only loosely connected to the company's performance. Those grants included a giant package, valued by an independent shareholder advisory firm at more than $90 million, to Nadella after he was named CEO in 2014.\nSince then, Microsoft has moved to tie more of executives' pay to Microsoft's business goals and financial performance.\nAbsent from the room on Wednesday were Bill Gates, Microsoft's co-founder and current board member, and Steve Ballmer, the ex-CEO who remains a major shareholder. Technology news site GeekWire reported that both had prior commitments preventing them from attending.\nThe Seattle Times",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "satya nadella",
+            "sentiment": "none"
+          },
+          {
+            "name": "bill gates",
+            "sentiment": "none"
+          },
+          {
+            "name": "nadella",
+            "sentiment": "none"
+          },
+          {
+            "name": "steve ballmer",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "microsoft",
+            "sentiment": "positive"
+          },
+          {
+            "name": "seattle times",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "seattle",
+            "sentiment": "none"
+          },
+          {
+            "name": "seattle",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-11-30T23:27:01.877+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "506517175c1ba3ab4b93133ef7dab8feedb4c3b1",
+        "url": "http://omgili.com/ri/.wHSUbtEfZRIANb72t6hdBehMn4_OCRC853Roxz3Ny5zRj3Jy1_dsVUraYx4_ES1x.YyXlEIyAOeyfjxGePZ7PvCva.WL.f14iNoG5bCfrQ-",
+        "site_full": "music.yahoo.com",
+        "site": "yahoo.com",
+        "site_section": "https://music.yahoo.com/sitemap/stories/1.xml",
+        "site_categories": [
+          "news"
+        ],
+        "section_title": "",
+        "title": "Improve your swing with these smart golf grips from Microsoft",
+        "title_full": "Improve your swing with these smart golf grips from Microsoft",
+        "published": "2016-12-01T03:35:43.466+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.328,
+        "main_image": "https://s.yimg.com/uu/api/res/1.2/VXil60TO4neu6Lb3Qu2N1A--/aD03MDU7dz0xMDU4O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en-US/homerun/digital_trends_973/dca2dcd8c5bd2617a08026ee196a32ba",
+        "performance_score": 0,
+        "domain_rank": 5,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "506517175c1ba3ab4b93133ef7dab8feedb4c3b1",
+      "url": "http://omgili.com/ri/.wHSUbtEfZRIANb72t6hdBehMn4_OCRC853Roxz3Ny5zRj3Jy1_dsVUraYx4_ES1x.YyXlEIyAOeyfjxGePZ7PvCva.WL.f14iNoG5bCfrQ-",
+      "ord_in_thread": 0,
+      "author": "Garrett Hulfish",
+      "published": "2016-12-01T03:35:43.466+02:00",
+      "title": "Improve your swing with these smart golf grips from Microsoft",
+      "text": "microsoft smart golf grip pad tags More Golf is a game of impossibilities. Whack the golf ball into the hole from hundreds of yards away. It shouldn’t be possible, and yet people can be really good at it. For the rest of us, we need a little more training. Thanks to Microsoft , that training just got a little bit easier.\nOne of the most important aspects of a golf swing is the grip. Grip too tightly, and the ball likely won’t travel as far. Grip too loosely, and you’ll have to retrieve your club, too. More important than that though is consistency. By maintaining your grip, there is one less variable to your perfect swing. Many golfers are inconsistent in their grip throughout the course of a game or tournament.\nMore: Pair the smart grip with artificial intelligence for better training\nMicrosoft is teaming up with Sensoria and professional golfer Bryson DeChambeau to develop the Smart Grip for your golf club. The grip measures pressure levels and relays the data to a tablet or computer. An app then interprets the data into audio and visual feedback that is easy to interpret. Now you can be sure that your grip is consistent before you take your swing.\nWhat powers the Smart Grip is the ultra-light Sensoria Core. Weighing under half an ounce and just one-inch square, it won’t hinder your performance. The core gathers data from eight pressure sensors embedded in each grip and sends it to the application. Using a built-in accelerometer, gyroscope, and magnetometer, it can also provide data on the club’s movement through space.\nThe Smart Grip is still just a proof of concept, but it is currently going through testing with DeChambeau. By using the grip while he plays, he can better determine the best grip, club, swing speed, rhythm, plane, and other variables.\nWith more smart tech being used by coaches and athletes, there are a lot of opportunities to learn more about efficiency and movement. We won’t all become professionals, but we can definitely get the upper hand against our friends.\nBand.it aims to protect your lenses and give you a better grip on your camera The AM-RB 001 supercar will corner at 4G and makes 4,000 pounds of downforce Virtual reality film takes all-encompassing look at Europe’s refugee crisis",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [
+        "http://www.digitaltrends.com/virtual-reality/virtual-reality-refugee-crisis-film-radical-plans/",
+        "http://www.digitaltrends.com/outdoors/artificial-intelligence-makes-piq-sensors-smarter/",
+        "https://microsoft.github.io/techcasestudies/iot/2016/11/23/senpga.html",
+        "https://www.youtube.com/embed/0IFgFqlt_7g?feature=oembed",
+        "http://www.digitaltrends.com/cars/aston-martin-red-bull-001-supercar/",
+        "https://s.yimg.com/ny/api/res/1.2/1Kdx1OXZVtrH926Kzlamig--/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/http://media.zenfs.com/en-US/homerun/digital_trends_973/160bf6fb0dc0cabd4ffff7708eff523c",
+        "http://s3.amazonaws.com/digitaltrends-uploads-prod/2015/06/Golf-Pad-Golf-Tags-13.jpg",
+        "http://www.sensoriafitness.com/",
+        "http://www.digitaltrends.com/photography/bandit-band-it-lens-camera-grip-protection/"
+      ],
+      "entities": {
+        "persons": [
+          {
+            "name": "bryson dechambeau",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "microsoft",
+            "sentiment": "positive"
+          },
+          {
+            "name": "sensoria core",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "sensoria",
+            "sentiment": "none"
+          },
+          {
+            "name": "europe",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-01T03:35:43.466+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "567e73d72428079710c163a77a5090e95b60efed",
+        "url": "http://omgili.com/ri/jHIAmI4hxg_VSjh1fsaQjKETTmcQmnvKu40G1hnsnHjsISKFwt8gbyhI5uHTZ4zzCLbTkjXOS1yKFdkj9qh9fh_P15YRd9iaU2PZemPcdg0-",
+        "site_full": "www.startribune.com",
+        "site": "startribune.com",
+        "site_section": "http://www.startribune.com/business/index.rss2",
+        "site_categories": [
+          "education"
+        ],
+        "section_title": "Business",
+        "title": "Microsoft: 2016 a year of 'solid progress'",
+        "title_full": "Microsoft: 2016 a year of 'solid progress'",
+        "published": "2016-12-01T04:56:09.101+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1480541318",
+        "performance_score": 0,
+        "domain_rank": 4035,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "567e73d72428079710c163a77a5090e95b60efed",
+      "url": "http://omgili.com/ri/jHIAmI4hxg_VSjh1fsaQjKETTmcQmnvKu40G1hnsnHjsISKFwt8gbyhI5uHTZ4zzCLbTkjXOS1yKFdkj9qh9fh_P15YRd9iaU2PZemPcdg0-",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-12-01T04:56:09.101+02:00",
+      "title": "Microsoft: 2016 a year of 'solid progress'",
+      "text": "Purchase: Order Reprint SEATTLE – Microsoft executives struck an upbeat tone at the company’s annual shareholders meeting on Wednesday, touting signs of success in the company’s campaign to remain relevant in a fast-changing technology world with a new generation of software tools. “This last year has been a year of solid progress at Microsoft,” Chief Executive Satya Nadella said at the event in Seattle, attended by a few hundred shareholders and company officials. In contrast to the era in which Microsoft’s stock price was stagnant, the company is set to end 2016 on a high note. Microsoft’s share price is hovering near all-time highs, aided by growth in the company’s cloud-computing units. Shareholder-friendly policies, including billions of dollars paid out annually in dividends and share buybacks, also have helped buoy shares. Microsoft’s slate of board of directors candidates were all approved with more than 98 percent of votes cast. The board’s composition last changed a year ago with the appointment of Johnson & Johnson executive Sandra Peterson and a former Cisco executive, Padmasree Warrior. The addition of two women to the board made Microsoft’s directors a bit more diverse. But the company recently reported a second consecutive annual decline in the portion of women employed by the company and muted gains in the share of underrepresented minorities. Shareholders voiced approval for Microsoft’s evolving executive compensation practices. The company said 95 percent of shareholder votes were to approve the symbolic advisory vote on executive pay. In the past two years, shareholders criticized company pay practices, which critics said included too many giant stock grants and were only loosely connected to performance. Since then, Microsoft has moved to tie more of executives’ pay to business goals and financial performance. Absent Wednesday were Bill Gates, Microsoft’s co-founder and current board member, and Steve Ballmer, the ex-CEO who remains a major shareholder. Both reportedly had prior commitments.",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "satya nadella",
+            "sentiment": "none"
+          },
+          {
+            "name": "bill gates",
+            "sentiment": "none"
+          },
+          {
+            "name": "sandra peterson",
+            "sentiment": "none"
+          },
+          {
+            "name": "steve ballmer",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "microsoft",
+            "sentiment": "positive"
+          },
+          {
+            "name": "cisco",
+            "sentiment": "none"
+          },
+          {
+            "name": "johnson & johnson",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "seattle",
+            "sentiment": "none"
+          },
+          {
+            "name": "seattle",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-01T04:56:09.101+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "f66f35e09904a888c68834e277854cdae6594e56",
+        "url": "http://omgili.com/ri/jHIAmI4hxg.GWDR2a6LAryV4GvZSv_al656BBvb1iuqDZ3NvR0g2irmqpCEXCJ6yTizZQy0IfRey.YTscHrau7y.5KOsccABd87HG0cbvoPgBE3JavTDvg--",
+        "site_full": "www.technobuffalo.com",
+        "site": "technobuffalo.com",
+        "site_section": "http://www.technobuffalo.com/feed/rss",
+        "site_categories": [
+          "news",
+          "entertainment"
+        ],
+        "section_title": "TechnoBuffaloTechnoBuffalo",
+        "title": "Surface Book: Is it a worthy laptop for a pro user?",
+        "title_full": "Surface Book: Is it a worthy laptop for a pro user?",
+        "published": "2016-12-01T05:11:58.783+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://www.technobuffalo.com/wp-content/uploads/2016/10/surface-book-i7-7-630x420.jpg",
+        "performance_score": 0,
+        "domain_rank": 6296,
+        "social": {
+          "facebook": {
+            "likes": 1,
+            "comments": 0,
+            "shares": 1
+          },
+          "gplus": {
+            "shares": 3
+          },
+          "pinterest": {
+            "shares": 1
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "f66f35e09904a888c68834e277854cdae6594e56",
+      "url": "http://omgili.com/ri/jHIAmI4hxg.GWDR2a6LAryV4GvZSv_al656BBvb1iuqDZ3NvR0g2irmqpCEXCJ6yTizZQy0IfRey.YTscHrau7y.5KOsccABd87HG0cbvoPgBE3JavTDvg--",
+      "ord_in_thread": 0,
+      "author": "Danny Zepeda",
+      "published": "2016-12-01T05:11:58.783+02:00",
+      "title": "Surface Book: Is it a worthy laptop for a pro user?",
+      "text": "  \nThe Microsoft Surface Book with Performance Base is a pretty sweet computer. It has an industrial all-aluminum design with detachable keyboard that will make a tablet out of the gorgeous Pixel Dense display. The keyboard feels solid and reassuring while the fancy hinge is quite eye catching. It’s a great machine. \nOur review focused on the things most daily users of the laptop will encounter, but we decided to return to it and examine how a professional user would use it. In this case a video editor. \nOur very own Ron Parida began using the computer as his main machine and put it through the rugged use a professional video editor needs out of a computer. That meant uploading and cutting high res footage, editing off Premiere Pro and exporting completed videos. \nThe Surface Book we have in the office is a top-of-the-line model with an Intel Core i7 processor, 16GB of RAM and 1TB of SSD. It’s no slouch and will speed through regular task with great ease, but how did it handle more professional chores? \nCheck out the video above to see how the Surface Book with Performance Base handled professional usage. Topics # Microsoft # Microsoft # Surface Book with Performance Base Danny Zepeda \nDanny’s interest in writing began with tech, which influenced his career path in college. After graduating from Vanguard University, he began to write for Screen Rant until he joined the…",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "ron parida",
+            "sentiment": "none"
+          },
+          {
+            "name": "danny zepeda  danny",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "microsoft",
+            "sentiment": "positive"
+          },
+          {
+            "name": "intel core",
+            "sentiment": "none"
+          },
+          {
+            "name": "vanguard university",
+            "sentiment": "none"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-12-01T05:11:58.783+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "14952ee9c825139188b1d97c229fc6d18e7fc647",
+        "url": "http://omgili.com/ri/FYJ2xGwtw8E51alqAYgjRhRf3lp.YOoFh43Tw_coHri8VcUc7HpClTarDKoigiKbQMqYNdBgp32W953nkHZoQhodFv8oP2gzMn9SqeqBwzhCeww2JSYXUPtKJuLo6q7slcxpNOYrGABWUVETWY_FukqQyKo4A1yq",
+        "site_full": "youmob.com",
+        "site": "youmob.com",
+        "site_section": "http://youmob.com/rss.ashx?c=YMHome&pi=0&ps=20&pc=0",
+        "site_categories": [
+          "education",
+          "business"
+        ],
+        "section_title": "Most Mobbers - All Topics",
+        "title": "Microsoft Dynamics CRM",
+        "title_full": "Microsoft Dynamics CRM",
+        "published": "2016-12-01T06:59:16.059+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 6297,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "14952ee9c825139188b1d97c229fc6d18e7fc647",
+      "url": "http://omgili.com/ri/FYJ2xGwtw8E51alqAYgjRhRf3lp.YOoFh43Tw_coHri8VcUc7HpClTarDKoigiKbQMqYNdBgp32W953nkHZoQhodFv8oP2gzMn9SqeqBwzhCeww2JSYXUPtKJuLo6q7slcxpNOYrGABWUVETWY_FukqQyKo4A1yq",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-12-01T06:59:16.059+02:00",
+      "title": "Microsoft Dynamics CRM",
+      "text": ". . Microsoft Dynamics NAV is the most popular product in the Microsoft Dynamics line. There are more Dynamics NAV users compared to any other Microsoft D - Anonymous",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "microsoft dynamics nav",
+            "sentiment": "positive"
+          },
+          {
+            "name": "microsoft dynamics",
+            "sentiment": "positive"
+          },
+          {
+            "name": "microsoft",
+            "sentiment": "positive"
+          },
+          {
+            "name": "dynamics nav",
+            "sentiment": "none"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-12-01T06:59:16.059+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "4b626b4faa7ec1def18508a1e9c119fd9d6030f5",
+        "url": "http://omgili.com/ri/jHIAmI4hxg9r4wcDioQY6cCEGgSOCeHIuaTzlHfkUmAsw65b.ZUlhL3Z87.TSwTN911CtAqh_ea48Ijor6yIYiB1RtkBJ.G37.tLnAahyh8-",
+        "site_full": "www.cbs8.com",
+        "site": "cbs8.com",
+        "site_section": "http://www.cbs8.com/category/48518/c",
+        "site_categories": [
+          "news",
+          "sports"
+        ],
+        "section_title": "Computer Electronics - CBS News 8 - San Diego, CA News Station - KFMB Channel 8",
+        "title": "Microsoft holds annual shareholder meeting",
+        "title_full": "Microsoft holds annual shareholder meeting - CBS News 8 - San Diego, CA News Station - KFMB Channel 8",
+        "published": "2016-11-30T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 40533,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "4b626b4faa7ec1def18508a1e9c119fd9d6030f5",
+      "url": "http://omgili.com/ri/jHIAmI4hxg9r4wcDioQY6cCEGgSOCeHIuaTzlHfkUmAsw65b.ZUlhL3Z87.TSwTN911CtAqh_ea48Ijor6yIYiB1RtkBJ.G37.tLnAahyh8-",
+      "ord_in_thread": 0,
+      "author": "cbs8",
+      "published": "2016-11-30T02:00:00.000+02:00",
+      "title": "Microsoft holds annual shareholder meeting",
+      "text": " Microsoft Corp.\nREDMOND, Wash. Speaking to shareholders at Microsoft Corp.'s annual meeting on Wednesday, Chief Executive Officer Satya Nadella highlighted how digital technology is transforming people and organizations across the world, and the opportunity for Microsoft.\n\"Digital technology is impacting and transforming every human endeavor in every industry,\" Nadella said. \"Microsoft empowers our customers who want to harness new technology, like artificial intelligence, to transform their organizations and find solutions to the biggest challenges in healthcare, agriculture, finance, government - every sector.\"\nExecutive Vice President and Chief Financial Officer Amy Hood reported that Microsoft executed well in fiscal year 2016 and reported a strong start to the current fiscal year. Hood noted that Microsoft's innovation road map and disciplined investment expand addressable market opportunities and position the company for growth - an investment in the future that will deliver value for shareholders.\nThe following proposals were acted on by the company's shareholders at the meeting:\nRe-elected all 11 directors to serve until the next annual meeting of shareholders. All director nominees received a vote of 98 percent of votes cast. Approved, on a nonbinding advisory basis, the fiscal year 2016 compensation of the company's named executive officers. The advisory measure received 95 percent of votes cast. Ratified the selection of Deloitte & Touche LLP as the company's independent auditor for fiscal year 2017, with a vote of 98 percent of votes cast. Approved an amendment to Microsoft's Amended and Restated Articles of Incorporation, with a vote of 99 percent of votes cast. Approved a French Sub Plan under the 2001 Stock Plan, with a vote of 96 percent of votes cast. Rejected a shareholder proposal to make amendments to the current Proxy Access for Director Nominations bylaw; the proposal received approximately 26 percent of votes cast. Microsoft's board of directors consists of John W. Thompson , Microsoft independent chairman; William H. Gates , Microsoft founder and technology advisor; Teri List-Stoll , former executive vice president and chief financial officer of DICK'S Sporting Goods Inc.; G. Mason Morfit , president, ValueAct Capital; Satya Nadella , chief executive officer, Microsoft; Charles H. Noski , former vice chairman of Bank of America Corp.; Dr. Helmut Panke , former chairman of the board of management, BMW AG; Sandra E. Peterson , group worldwide chairman, Johnson & Johnson; Charles W. Scharf , chief executive officer, Visa Inc.; John W. Stanton , chairman, Trilogy Equity Partners; and Padmasree Warrior , chief development officer and U.S. chief executive officer, NextEV. Nine of the 11 board members are independent of Microsoft, which is consistent with the requirement in the company's governance guidelines that a substantial majority be independent.\nMicrosoft (Nasdaq \"MSFT\" @microsoft) is the leading platform and productivity company for the mobile-first, cloud-first world, and its mission is to empower every person and every organization on the planet to achieve more.\nNote to editors: For more information, news and perspectives from Microsoft, please visit the Microsoft News Center at http://news.microsoft.com . Web links, telephone numbers and titles were correct at the time of publication, but may have changed. For additional assistance, journalists and analysts may contact Microsoft's Media Relations Team or other appropriate contacts listed at http://news.microsoft.com/microsoft-public-relations-contacts .\nLogo - http://photos.prnewswire.com/prnh/20000822/MSFTLOGO\n releases/microsoft-holds-annual-shareholder-meeting-300371037.html\n ",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [
+        "http://rt.prnewswire.com/rt.gif?NewsItemId=SF58156&Transmission_Id=201611302102PR_NEWS_USPR_____SF58156&DateId=20161130",
+        "http://www.xmlnews.org/ns/",
+        "http://news.microsoft.com/microsoft-public-relations-contacts",
+        "http://photos.prnewswire.com/prnvar/20000822/MSFTLOGO",
+        "http://photos.prnewswire.com/prnh/20000822/MSFTLOGO",
+        "http://www.prnewswire.com/news-releases/microsoft-holds-annual-shareholder-meeting-300371037.html",
+        "http://news.microsoft.com/"
+      ],
+      "entities": {
+        "persons": [
+          {
+            "name": "charles h. noski",
+            "sentiment": "none"
+          },
+          {
+            "name": "satya nadella",
+            "sentiment": "none"
+          },
+          {
+            "name": "john w. stanton",
+            "sentiment": "none"
+          },
+          {
+            "name": "nadella",
+            "sentiment": "none"
+          },
+          {
+            "name": "sandra e. peterson",
+            "sentiment": "none"
+          },
+          {
+            "name": "john w. thompson",
+            "sentiment": "none"
+          },
+          {
+            "name": "amy hood",
+            "sentiment": "none"
+          },
+          {
+            "name": "charles w. scharf",
+            "sentiment": "none"
+          },
+          {
+            "name": "helmut panke",
+            "sentiment": "none"
+          },
+          {
+            "name": "g. mason morfit",
+            "sentiment": "none"
+          },
+          {
+            "name": "teri list-stoll",
+            "sentiment": "none"
+          },
+          {
+            "name": "william h. gates",
+            "sentiment": "none"
+          },
+          {
+            "name": "hood",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "microsoft corp.",
+            "sentiment": "positive"
+          },
+          {
+            "name": "microsoft corp",
+            "sentiment": "positive"
+          },
+          {
+            "name": "microsoft",
+            "sentiment": "positive"
+          },
+          {
+            "name": "nasdaq",
+            "sentiment": "none"
+          },
+          {
+            "name": "microsoft news center",
+            "sentiment": "none"
+          },
+          {
+            "name": "bmw ag",
+            "sentiment": "none"
+          },
+          {
+            "name": "bank of america corp.",
+            "sentiment": "none"
+          },
+          {
+            "name": "visa inc.",
+            "sentiment": "none"
+          },
+          {
+            "name": "johnson & johnson",
+            "sentiment": "none"
+          },
+          {
+            "name": "valueact capital",
+            "sentiment": "none"
+          },
+          {
+            "name": "dick's sporting goods inc.",
+            "sentiment": "none"
+          },
+          {
+            "name": "trilogy equity partners",
+            "sentiment": "none"
+          },
+          {
+            "name": "deloitte & touche llp",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "redmond",
+            "sentiment": "none"
+          },
+          {
+            "name": "wash",
+            "sentiment": "none"
+          },
+          {
+            "name": "u.s.",
+            "sentiment": "none"
+          },
+          {
+            "name": "padmasree warrior",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-01T10:16:26.783+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "38a7c516bd6d0a9d941a1cc3358e67289e343c6d",
+        "url": "http://omgili.com/ri/jHIAmI4hxg9I4kf3QrT2jPynOQXxwlf_rlHHFE4QPhHmFpy68rWQnSf1kF9RJLQ5",
+        "site_full": "winphonehub.org",
+        "site": "winphonehub.org",
+        "site_section": "http://feeds.feedburner.com/wp8hub",
+        "site_categories": [
+          "tech"
+        ],
+        "section_title": "WindowsPhoneHub",
+        "title": "Dose for Excel 3.2.4",
+        "title_full": "Dose for Excel 3.2.4",
+        "published": "2016-12-01T18:04:37.041+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://i0.wp.com/winphonehub.org/wp-content/uploads/2016/12/8349__Dose_for_Excel_Icon_converted.png?resize=110%2C110",
+        "performance_score": 0,
+        "domain_rank": 52454,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "38a7c516bd6d0a9d941a1cc3358e67289e343c6d",
+      "url": "http://omgili.com/ri/jHIAmI4hxg9I4kf3QrT2jPynOQXxwlf_rlHHFE4QPhHmFpy68rWQnSf1kF9RJLQ5",
+      "ord_in_thread": 0,
+      "author": "Winphonehub",
+      "published": "2016-12-01T18:04:37.041+02:00",
+      "title": "Dose for Excel 3.2.4",
+      "text": "tweet \nDose for Excel is a feature -rich add-in for Microsoft Excel, which allows you to perform functions quickly, which would otherwise take a long time. The tool has been designed to integrate with the spreadsheet editor and it allows you to access all the features from the command ribbon. \nDose for Excel has a large collection of Excel editing fu… Related Posts You Might Like",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "microsoft",
+            "sentiment": "positive"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-12-01T18:04:37.041+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "c591bd416fc9c1b1da0abe5743be30b142bc60f4",
+        "url": "http://omgili.com/ri/jHIAmI4hxg91AAFr2hsw6aUJPFr3T8dQCLaYwLD2Fv8UeBlcCWsYn1F2ILk.Z86jhkvUW_I9Yq_BnTSgScgz6MdquNA4giTG",
+        "site_full": "www.digitaltrends.com",
+        "site": "digitaltrends.com",
+        "site_section": "",
+        "site_categories": [
+          "news",
+          "entertainment"
+        ],
+        "section_title": "",
+        "title": "Fix Your Swing with These Smart Golf Grips from Microsoft | Digital Trends",
+        "title_full": "Fix Your Swing with These Smart Golf Grips from Microsoft | Digital Trends",
+        "published": "2016-11-30T19:35:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.192,
+        "main_image": "http://icdn3.digitaltrends.com/image/golf-pad-golf-tags-13-1200x630-c.jpg",
+        "performance_score": 0,
+        "domain_rank": 1067,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "c591bd416fc9c1b1da0abe5743be30b142bc60f4",
+      "url": "http://omgili.com/ri/jHIAmI4hxg91AAFr2hsw6aUJPFr3T8dQCLaYwLD2Fv8UeBlcCWsYn1F2ILk.Z86jhkvUW_I9Yq_BnTSgScgz6MdquNA4giTG",
+      "ord_in_thread": 0,
+      "author": "Garrett Hulfish",
+      "published": "2016-11-30T19:35:00.000+02:00",
+      "title": "Fix Your Swing with These Smart Golf Grips from Microsoft | Digital Trends",
+      "text": "Home > Outdoors > Improve your swing with these smart golf grips… Improve your swing with these smart golf grips from Microsoft November 30, 2016 12:35 PM Don't Fall Behind Stay current with a recap of today's Tech News from Digital Trends \nGolf is a game of impossibilities. Whack the golf ball into the hole from hundreds of yards away. It shouldn’t be possible, and yet people can be really good at it. For the rest of us, we need a little more training. Thanks to Microsoft , that training just got a little bit easier. \nOne of the most important aspects of a golf swing is the grip. Grip too tightly, and the ball likely won’t travel as far. Grip too loosely, and you’ll have to retrieve your club, too. More important than that though is consistency. By maintaining your grip, there is one less variable to your perfect swing. Many golfers are inconsistent in their grip throughout the course of a game or tournament. \nMore: Pair the smart grip with artificial intelligence for better training \nMicrosoft is teaming up with Sensoria and professional golfer Bryson DeChambeau to develop the Smart Grip for your golf club. The grip measures pressure levels and relays the data to a tablet or computer. An app then interprets the data into audio and visual feedback that is easy to interpret. Now you can be sure that your grip is consistent before you take your swing. \nWhat powers the Smart Grip is the ultra-light Sensoria Core. Weighing under half an ounce and just one-inch square, it won’t hinder your performance. The core gathers data from eight pressure sensors embedded in each grip and sends it to the application. Using a built-in accelerometer, gyroscope, and magnetometer, it can also provide data on the club’s movement through space. \nThe Smart Grip is still just a proof of concept, but it is currently going through testing with DeChambeau. By using the grip while he plays, he can better determine the best grip, club, swing speed, rhythm, plane, and other variables. \nWith more smart tech being used by coaches and athletes, there are a lot of opportunities to learn more about efficiency and movement. We won’t all become professionals, but we can definitely get the upper hand against our friends. Also watch: ",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "bryson dechambeau",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "microsoft",
+            "sentiment": "positive"
+          },
+          {
+            "name": "sensoria core",
+            "sentiment": "none"
+          },
+          {
+            "name": "digital trends  golf",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "sensoria",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-01T20:04:30.961+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "4c3f70853323e89d335a773020d161e6d9adbbc9",
+        "url": "http://omgili.com/ri/.wHSUbtEfZSOrzc7T3E57jgyW12K12pmrl8lNz60eWqYsWpK7z2w9MsXeMrbNmPv",
+        "site_full": "boxden.com",
+        "site": "boxden.com",
+        "site_section": "http://slumz.boxden.com/external.php?type=RSS2",
+        "site_categories": [
+          "entertainment"
+        ],
+        "section_title": "Boxden.Com - The urban web's front page",
+        "title": "News Article or Interview Microsoft brings Solitaire to iOS and Android",
+        "title_full": "News Article or Interview Microsoft brings Solitaire to iOS and Android",
+        "published": "2016-12-01T21:29:05.339+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 44459,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "4c3f70853323e89d335a773020d161e6d9adbbc9",
+      "url": "http://omgili.com/ri/.wHSUbtEfZSOrzc7T3E57jgyW12K12pmrl8lNz60eWqYsWpK7z2w9MsXeMrbNmPv",
+      "ord_in_thread": 0,
+      "author": "fat_boyy21",
+      "published": "2016-12-01T21:29:05.339+02:00",
+      "title": "News Article or Interview Microsoft brings Solitaire to iOS and Android",
+      "text": "Microsoft brings Solitaire to iOS and Android THE VERGE Microsoft is bringing its popular version of Solitaire to iOS and Android today. While the game as existed on Windows for more than 25 years, the modern Solitaire Collection will now be available outside of Windows for the first time. Microsoft is offering its Solitaire Collection on iOS and Android free of charge, as the company hopes to gain more players to add to the 119 million who have played the game on Windows 8 and Windows 10. The Microsoft Solitaire Collection for iOS and Android includes Klondike, Spider, FreeCell, Pyramid,and Tripeaks game types, alongside daily challenges for players. Microsoft is integrating Xbox Live into the game so you can sign into Solitaire and play with friends or earn achievements. Microsoft is also offering a Premium Edition for $1.99 per month without ads, and which includes double coin rewards for daily challenges and game boosts. While there are lots of Solitaire games already available on iOS and Android, Microsoft counts its version as the worlds number 1 Solitaire game thanks to its loyal following on Windows. You can download the iOS version from Apples App Store, or the Android equivalent over at Googles Play Store.",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "interview microsoft",
+            "sentiment": "positive"
+          },
+          {
+            "name": "android microsoft",
+            "sentiment": "positive"
+          },
+          {
+            "name": "microsoft",
+            "sentiment": "positive"
+          },
+          {
+            "name": "apple",
+            "sentiment": "none"
+          },
+          {
+            "name": "google",
+            "sentiment": "none"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-12-01T21:29:05.339+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "45f122bf87eaf3859e5f806cc2f3bae286e86687",
+        "url": "http://omgili.com/ri/.wHSUbtEfZRXZf_GqEtqZq3thqVOJGTa09PjlDPPlLV2.zIeFuzjE1unOuzxi_5c4fIP5sKRglkHh8S6VrC8MGPhR2FwSl0c",
+        "site_full": "packetstormsecurity.com",
+        "site": "packetstormsecurity.com",
+        "site_section": "http://www.packetstormsecurity.org/whatsnew20.xml",
+        "site_categories": [
+          "tech"
+        ],
+        "section_title": "Files ≈ Packet Storm",
+        "title": "MS Edge CMarkup::EnsureDeleteCFState Use-After-Free",
+        "title_full": "MS Edge CMarkup::EnsureDeleteCFState Use-After-Free",
+        "published": "2016-12-02T03:56:52.895+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 95804,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "45f122bf87eaf3859e5f806cc2f3bae286e86687",
+      "url": "http://omgili.com/ri/.wHSUbtEfZRXZf_GqEtqZq3thqVOJGTa09PjlDPPlLV2.zIeFuzjE1unOuzxi_5c4fIP5sKRglkHh8S6VrC8MGPhR2FwSl0c",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-12-02T03:56:52.895+02:00",
+      "title": "MS Edge CMarkup::EnsureDeleteCFState Use-After-Free",
+      "text": "A specially crafted web-page can trigger a memory corruptionvulnerability in Microsoft Edge. I did not investigate thisvulnerability thoroughly, so I cannot speculate on the potential impactor exploitability.Known affected software and attack vectors An attacker would need to get a target user to open a specially crafted web-page. Disabling JavaScript does not prevent an attacker from triggering the vulnerable code path.DescriptionAt the time this issue was first discovered, MemGC was just introduced,and I had not yet fully appreciated what an impact it would have onmitigating use-after-free bugs. Despite MemGC being enabled in MicrosoftEdge by default, this issue appeared to me to have been a use-after-freevulnerability. However, both Microsoft and ZDI (whom I sold thevulnerability to) describes it as a memory corruption vulnerability, soit's probably more complex than I assumed.At the time, I did not consider this vulnerability to be of greatinterest, as there was no immediately obvious way of controlling thevulnerability in order to exploit it. So, I did not do any furtherinvestigation into the root cause and, if this was indeed ause-after-free, how come MemGC did not mitigate it?In hindsight, it would have been a good idea to investigate the rootcause, as any use-after-free that is not mitigated by MemGC mightprovide hints on how to find more vulnerabilities that bypass it.Time-line* August 2015: This vulnerability was found through fuzzing.* August 2015: This vulnerability was submitted to ZDI.* December 2015: Microsoft addresses this vulnerability in MS15-125.* December 2016: Details of this vulnerability are released.Cheers,",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "microsoft",
+            "sentiment": "positive"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-12-02T03:56:52.895+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "52a53f5896c301aa9255c5fbe4b9802b0893fcb8",
+        "url": "http://omgili.com/ri/.wHSUbtEfZRIANb72t6hdBehMn4_OCRC6l9MgnJTqy7SN9ehVm9hXQLER3jrH4hrXFIabG65wdeR4g0lnnSZiTxB3QqYzNYbisBqKet66dQ-",
+        "site_full": "music.yahoo.com",
+        "site": "yahoo.com",
+        "site_section": "https://music.yahoo.com/sitemap/stories/1.xml",
+        "site_categories": [
+          "news"
+        ],
+        "section_title": "",
+        "title": "Tired of messy cords and peripherals? The best all-in-one PCs can help!",
+        "title_full": "Tired of messy cords and peripherals? The best all-in-one PCs can help!",
+        "published": "2016-12-02T21:59:25.567+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.019,
+        "main_image": "https://s.yimg.com/uu/api/res/1.2/KFVcOTF2iXmxZt7Uolr1vA--/aD0xMDAwO3c9MTUwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en-US/homerun/digital_trends_973/3059856c022cd0129d16789b0274bbec",
+        "performance_score": 0,
+        "domain_rank": 5,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "52a53f5896c301aa9255c5fbe4b9802b0893fcb8",
+      "url": "http://omgili.com/ri/.wHSUbtEfZRIANb72t6hdBehMn4_OCRC6l9MgnJTqy7SN9ehVm9hXQLER3jrH4hrXFIabG65wdeR4g0lnnSZiTxB3QqYzNYbisBqKet66dQ-",
+      "ord_in_thread": 0,
+      "author": "Brad Bourque",
+      "published": "2016-12-02T21:59:25.567+02:00",
+      "title": "Tired of messy cords and peripherals? The best all-in-one PCs can help!",
+      "text": "best all in one pcs surface studio lifestyle More Microsoft\nAll-in-one computers provide everything your average consumer might need in a single package, nixing the need for a standalone desktop in favor of a monitor-endowed piece of PC hardware. They come in an array of styles, offering everything from 1080p touchscreens and 5K resolution to robust sound and high-end Intel Core processors, each of which typically comes bundled with a keyboard and mouse.\nMore: The best gaming desktop you can buy\nMost target the premium market with a sleek, streamlined design, yet recent market offerings continue to push the boundaries of a what a budget-based PC is capable of. Consumers pay for this style and convenience with performance, and while the best all-in-ones don’t pack the processors or video cards some enthusiasts demand, they’re efficient enough for most everyday tasks.\nMicrosoft Surface Studio ($3,000+) Microsoft Surface Studio More Microsoft may be a newcomer to the all-in-one market, but that hasn’t stopped the Redmond giant from making a splash with the high-end Surface Studio. Its massive and beautiful 28-inch PixelSense display boasts an enormous 4,500 x 3,000 resolution, and is objectively and subjectively one of the best displays we’ve set eyes on, while claiming the top spot among touchscreens. You’ll find your choice of sixth generation Intel Core i5 or Core i7 CPUs inside, plus either the GTX 965M or GTX 980M. We didn’t find the hybrid drive inside to our liking, but it’s still better than a pure HDD, and it’s the only option, so you’re stuck with it. Starting at $3,000, the Studio is targeted at designers, graphic artists, and animators, but will draw the eye of everyone who walks by. Read our full review .\nBuy one now from:\nMicrosoft\nApple iMac with Retina 5K display ($1.800+) Apple iMac with Retina More Apple’s 27-inch, Retina display iMac offered the first 5K display in the world. The stunning, 5,120 × 2,880 screen delivers crystal-clear images and sharp text, while boasting powerful internal specs in the form of a quad-core, 3.2-GHz Intel Core i5 CPU and 8GB of RAM. Moreover, the all-in-one maintains the stylish design with which we’ve all grown accustomed, reveling in a gap-less front panel and rounded corners that compliment the glass-and-aluminum build. The graphics chip can’t really handle games at full 5K, but it’s sufficient for many at 1440p. Read our full review .\nRead More Buy one now from:\nApple Amazon\nDell XPS 27 Touch ($1,200+) asus-m51ac-us016s-front-peripherals-1486x991 More The XPS 27 Touch is among the Windows-based AiO we’ve ever laid eyes on. The plastic backside may feel a bit flimsy compared to most premium machines, but the 2,560 x 1,440 touchscreen gleams with detail and reclines to better accommodate tapping and swiping on a 27-inch screen. The machine also showcases robust audio with a subtle heaping of bass, along with an admittedly-aging Core i7-4770S CPU, 8GB of RAM, and 2TB hard drive for demanding productivity tasks. Read our full review .\nBuy one now from:\nAmazon Dell\nLG 22CV241 Chromebase ($280+) LG 22CV241 Chromebase review screen angle More The LG Chromebase redefines what you should expect on a shoestring budget. This capable all-in-one basks in a modern simplicity akin to the Chromebooks before it, capitalizing on an accurate color palette and lighting within a rounded aesthetic. The base model ships with an Intel Celeron 2955U dual-core CPU and 2GB of DDR3 RAM, which is more than adequate at performing tasks other than gaming, and the entire system relies on the Web-based Chrome OS for barebones functionality. The bundled peripherals are also solid, and you can even use the display as an external monitor. Read our full review .\nBuy one now from:\nAmazon Best Buy\nAsus Zen AIO ($1,399+) Asus Zen AIO S More While it doesn’t take any big risks when it comes to design, Asus’ new Zen AIO stands out for top-notch performance and an agreeable price point. The display is a little too glossy for its own good, but makes up for it with an impressive 4K resolution and discrete Nvidia graphics. There are a couple of other shortcomings that we like to see addressed on high-end models, but all-in-all it provides a great computing experience and even decent gaming performance at 1080p. This is a strong choice if you’d like an all-in-one similar to iMac, but prefer the Windows operating system. Read our full review .\nBuy one now from:\nMicrosoft Amazon\nHP Envy 27 ($1,049+) HP Envy All-in-one 27 More HP Envy All-in-one 27\nDespite the locked-in state of the parts inside, the HP Envy 27 offers a surprising range of options that start with a 1440p display and Core i5, and scale all the way up to the Skylake i7-6700T with 2.8GHz base clock, with Nvidia’s GTX 950M. It’s beautiful, too, with a thin, sleek look and simple support underneath. Like some of the other systems, it includes a mouse and keyboard. Unlike the older version of the Envy 27, even the base model presents a solid value.\nBuy one now from:\nAmazon\nGet the best deals at the lowest prices with our favorite Cyber Week deals Microsoft Surface Studio versus HP Envy 27: which all-in-one truly has it all? You can save $140 on this awesome Asus Zenbook",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [
+        "http://www.digitaltrends.com/dtdeals/asus-zenbook-ux305ua-deal-save-140/",
+        "http://www.digitaltrends.com/go/?provider=manual&url=http%3A%2F%2Fclick.linksynergy.com%2Ffs-bin%2Fclick%3Fid%3D9e1vMmumXG0%26subid%3D%26offerid%3D452112.1%26type%3D10%26tmpid%3D6075%26RD_PARM1%3Dhttps%253A%252F%252Fwww.microsoftstore.com%252Fstore%252Fmsusa%252Fen_US%252Fpdp%252FproductID.5074015900",
+        "http://www.digitaltrends.com/go/?provider=manual&url=http%3A%2F%2Fclick.linksynergy.com%2Ffs-bin%2Fclick%3Fid%3D9e1vMmumXG0%26subid%3D%26offerid%3D402138.1%26type%3D10%26tmpid%3D3763%26RD_PARM1%3Dhttp%253A%252F%252Fwww.microsoftstore.com%252Fstore%252Fmsusa%252Fen_US%252Fpdp%252FASUS-Zen-AiO-Pro-Z240-C4-Signature-Edition-All-in-One%252FproductID.328073500%253Ftduid%253D%25285a95fafc1ec1ef7363777d32f915f924%2529%2528256380%2529%25282459594%2529%2528TnL5HPStwNw-xtFEQGRQhC6vp6JMBjhueg%2529%2528%2529",
+        "https://s.yimg.com/ny/api/res/1.2/.Cbcfkm5wL2tFrOBDRLe_A--/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/http://media.zenfs.com/en-US/homerun/digital_trends_973/7d69e16ff6b3394b60b3060d986510fb",
+        "https://s.yimg.com/ny/api/res/1.2/nyLTguqyvM3_1CfaQdDFPw--/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/http://media.zenfs.com/en-US/homerun/digital_trends_973/ed0472a087e974444b5de9506a41371a",
+        "https://s.yimg.com/ny/api/res/1.2/.Cbcfkm5wL2tFrOBDRLe_A--/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/http://media.zenfs.com/en-US/homerun/digital_trends_973/7d69e16ff6b3394b60b3060d986510fb);",
+        "https://s.yimg.com/ny/api/res/1.2/8bplY4cj.af7wGcMfGaITw--/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/http://media.zenfs.com/en-US/homerun/digital_trends_973/669b438ede695b8d8c6562573d1824f6",
+        "http://s3.amazonaws.com/digitaltrends-uploads-prod/2016/11/Surface-Studio-Lifestyle-1.png",
+        "http://aos.prf.hn/click/camref:1101l7vG/creativeref:305774",
+        "https://s.yimg.com/ny/api/res/1.2/daks6dKFuKhWY309szHD9w--/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/http://media.zenfs.com/en-US/homerun/digital_trends_973/66367230808db48a2041cc19d43b6b62);",
+        "http://www.digitaltrends.com/best-gaming-desktops/",
+        "http://www.digitaltrends.com/go/?provider=manual&url=http%3A%2F%2Fwww.amazon.com%2FHP-ENVY-27-p014-Touchscreen-i5-6400T%2Fdp%2FB0176GNTU8%2Fref%3Das_li_ss_tl%3Fie%3DUTF8%26linkCode%3Dsl1%26tag%3Ddt-incontent-btn-20%26linkId%3Dc29c4635819cf0e81491492d1dbe6912",
+        "http://www.digitaltrends.com/go/?provider=manual&url=http%3A%2F%2Fwww.amazon.com%2FASUS-Zen-Z240-C2-23-8-Desktop%2Fdp%2FB017DN9FKC%2Fref%3Das_li_ss_tl%3Fie%3DUTF8%26linkCode%3Dsl1%26tag%3Ddt-incontent-btn-20%26linkId%3Df1110635fa8ccbb551fd1dd891e711c9",
+        "https://s.yimg.com/ny/api/res/1.2/R46xhkp47G6e8rwcVQRbhg--/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/http://media.zenfs.com/en-US/homerun/digital_trends_973/5b6562ab96b3b6459e9b006fe58bf822);",
+        "https://s.yimg.com/ny/api/res/1.2/daks6dKFuKhWY309szHD9w--/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/http://media.zenfs.com/en-US/homerun/digital_trends_973/66367230808db48a2041cc19d43b6b62",
+        "http://www.anrdoezrs.net/click-2942700-11886213-1445006924000?url=http%3A%2F%2Faltfarm.mediaplex.com%2Fad%2Fck%2F12309-198375-45846-0%3Fprg%3D1%26VEN1%3D11886213-1-%26DURL%3Dhttp%3A%2F%2Fwww.dell.com%2Fus%2Fp%2Fxps-27-2720-aio%2Fpd",
+        "https://s.yimg.com/ny/api/res/1.2/J7.QTENFI.Igxq_fqWeHKA--/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/http://media.zenfs.com/en-US/homerun/digital_trends_973/746f791e7bb60748a9c0d8e3f125e87f",
+        "http://www.digitaltrends.com/desktop-computer-reviews/asus-zen-aio-pro-z240ic-review/",
+        "http://www.amazon.com/exec/obidos/ASIN/B00HRLSTOO",
+        "https://www.microsoft.com/en-us/surface/devices/surface-studio/overview",
+        "http://www.amazon.com/exec/obidos/ASIN/B00746WZHE",
+        "http://www.digitaltrends.com/desktop-computer-reviews/lg-22cv241-chromebase-review/",
+        "https://s.yimg.com/ny/api/res/1.2/8bplY4cj.af7wGcMfGaITw--/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/http://media.zenfs.com/en-US/homerun/digital_trends_973/669b438ede695b8d8c6562573d1824f6);",
+        "http://www.digitaltrends.com/computing/surface-studio-vs-hp-envy-all-in-one/",
+        "https://s.yimg.com/ny/api/res/1.2/J7.QTENFI.Igxq_fqWeHKA--/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/http://media.zenfs.com/en-US/homerun/digital_trends_973/746f791e7bb60748a9c0d8e3f125e87f);",
+        "http://www.digitaltrends.com/desktop-computer-reviews/apple-imac-with-retina-display-review/",
+        "http://www.amazon.com/exec/obidos/ASIN/B00JR625WO",
+        "http://www.digitaltrends.com/buying-guides/cyber-monday-deals/",
+        "https://s.yimg.com/ny/api/res/1.2/nyLTguqyvM3_1CfaQdDFPw--/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/http://media.zenfs.com/en-US/homerun/digital_trends_973/ed0472a087e974444b5de9506a41371a);",
+        "http://www.digitaltrends.com/desktop-computer-reviews/microsoft-surface-studio-review/",
+        "http://icdn7.digitaltrends.com/image/surface-studio-pc-kit-1500x1000.jpg",
+        "http://www.digitaltrends.com/desktop-computer-reviews/dell-xps-27-touch-review/",
+        "https://s.yimg.com/ny/api/res/1.2/R46xhkp47G6e8rwcVQRbhg--/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/http://media.zenfs.com/en-US/homerun/digital_trends_973/5b6562ab96b3b6459e9b006fe58bf822",
+        "https://s.yimg.com/g/images/spaceball.gif",
+        "http://www.digitaltrends.com/go/?provider=manual&url=http%3A%2F%2Fclick.linksynergy.com%2Ffs-bin%2Fclick%3Fid%3D9e1vMmumXG0%26subid%3D0%26offerid%3D422073.1%26type%3D10%26tmpid%3D13127%26RD_PARM1%3Dhttp%25253A%25252F%25252Fwww.bestbuy.com%25252Fsite%25252Flg-chromebase-21-5-all-in-one-intel-celeron-2gb-memory-16gb-solid-state-drive-silver-white%25252F7750032.p%25253Fid%25253D1219289492078%252526skuId%25253D7750032",
+        "https://s.yimg.com/ny/api/res/1.2/ubLxCv2JoSySDn1q9ZvuDg--/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/http://media.zenfs.com/en-US/homerun/digital_trends_973/908c9bae5fa0e55155a39fe7836aa318"
+      ],
+      "entities": {
+        "persons": [
+          {
+            "name": "asus zenbook",
+            "sentiment": "none"
+          },
+          {
+            "name": "retina",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "microsoft",
+            "sentiment": "positive"
+          },
+          {
+            "name": "nvidia",
+            "sentiment": "none"
+          },
+          {
+            "name": "amazon best",
+            "sentiment": "none"
+          },
+          {
+            "name": "microsoft apple",
+            "sentiment": "none"
+          },
+          {
+            "name": "intel core",
+            "sentiment": "none"
+          },
+          {
+            "name": "zen aio",
+            "sentiment": "none"
+          },
+          {
+            "name": "apple amazon dell",
+            "sentiment": "none"
+          },
+          {
+            "name": "apple",
+            "sentiment": "none"
+          },
+          {
+            "name": "microsoft amazon",
+            "sentiment": "none"
+          },
+          {
+            "name": "asus",
+            "sentiment": "none"
+          },
+          {
+            "name": "asus zen aio",
+            "sentiment": "none"
+          },
+          {
+            "name": "intel",
+            "sentiment": "none"
+          },
+          {
+            "name": "amazon dell lg",
+            "sentiment": "none"
+          },
+          {
+            "name": "lg",
+            "sentiment": "none"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-12-02T21:59:25.567+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "7530791dbe937cf1ba2eccdf2efa362fd71c5059",
+        "url": "http://omgili.com/ri/.wHSUbtEfZTL_G07GdDBhCKt.LTHgw8WBQB59usMcHCtjwZcbzDDdRhoERXTkooxgrqQsfkazpsQx63ztoyoMkG1o0zkrfRotn_0uBrzwU0-",
+        "site_full": "sports.yahoo.com",
+        "site": "yahoo.com",
+        "site_section": "https://sports.yahoo.com/sitemap/stories/5.xml",
+        "site_categories": [
+          "sports"
+        ],
+        "section_title": "",
+        "title": "Tired of messy cords and peripherals? The best all-in-one PCs can help!",
+        "title_full": "Tired of messy cords and peripherals? The best all-in-one PCs can help!",
+        "published": "2016-12-03T02:48:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.019,
+        "main_image": "https://s.yimg.com/uu/api/res/1.2/KFVcOTF2iXmxZt7Uolr1vA--/aD0xMDAwO3c9MTUwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en-US/homerun/digital_trends_973/3059856c022cd0129d16789b0274bbec",
+        "performance_score": 0,
+        "domain_rank": 5,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "7530791dbe937cf1ba2eccdf2efa362fd71c5059",
+      "url": "http://omgili.com/ri/.wHSUbtEfZTL_G07GdDBhCKt.LTHgw8WBQB59usMcHCtjwZcbzDDdRhoERXTkooxgrqQsfkazpsQx63ztoyoMkG1o0zkrfRotn_0uBrzwU0-",
+      "ord_in_thread": 0,
+      "author": "Digital Trends",
+      "published": "2016-12-03T02:48:00.000+02:00",
+      "title": "Tired of messy cords and peripherals? The best all-in-one PCs can help!",
+      "text": "best all in one pcs surface studio lifestyle More Microsoft\nAll-in-one computers provide everything your average consumer might need in a single package, nixing the need for a standalone desktop in favor of a monitor-endowed piece of PC hardware. They come in an array of styles, offering everything from 1080p touchscreens and 5K resolution to robust sound and high-end Intel Core processors, each of which typically comes bundled with a keyboard and mouse.\nMore: The best gaming desktop you can buy\nMost target the premium market with a sleek, streamlined design, yet recent market offerings continue to push the boundaries of a what a budget-based PC is capable of. Consumers pay for this style and convenience with performance, and while the best all-in-ones don’t pack the processors or video cards some enthusiasts demand, they’re efficient enough for most everyday tasks.\nMicrosoft Surface Studio ($3,000+) Microsoft Surface Studio More Microsoft may be a newcomer to the all-in-one market, but that hasn’t stopped the Redmond giant from making a splash with the high-end Surface Studio. Its massive and beautiful 28-inch PixelSense display boasts an enormous 4,500 x 3,000 resolution, and is objectively and subjectively one of the best displays we’ve set eyes on, while claiming the top spot among touchscreens. You’ll find your choice of sixth generation Intel Core i5 or Core i7 CPUs inside, plus either the GTX 965M or GTX 980M. We didn’t find the hybrid drive inside to our liking, but it’s still better than a pure HDD, and it’s the only option, so you’re stuck with it. Starting at $3,000, the Studio is targeted at designers, graphic artists, and animators, but will draw the eye of everyone who walks by. Read our full review .\nBuy one now from:\nMicrosoft\nApple iMac with Retina 5K display ($1.800+) View photos\nApple iMac with Retina More Apple’s 27-inch, Retina display iMac offered the first 5K display in the world. The stunning, 5,120 × 2,880 screen delivers crystal-clear images and sharp text, while boasting powerful internal specs in the form of a quad-core, 3.2-GHz Intel Core i5 CPU and 8GB of RAM. Moreover, the all-in-one maintains the stylish design with which we’ve all grown accustomed, reveling in a gap-less front panel and rounded corners that compliment the glass-and-aluminum build. The graphics chip can’t really handle games at full 5K, but it’s sufficient for many at 1440p. Read our full review .\nRead More Buy one now from:\nApple Amazon\nDell XPS 27 Touch ($1,200+) View photos\nasus-m51ac-us016s-front-peripherals-1486x991 More The XPS 27 Touch is among the Windows-based AiO we’ve ever laid eyes on. The plastic backside may feel a bit flimsy compared to most premium machines, but the 2,560 x 1,440 touchscreen gleams with detail and reclines to better accommodate tapping and swiping on a 27-inch screen. The machine also showcases robust audio with a subtle heaping of bass, along with an admittedly-aging Core i7-4770S CPU, 8GB of RAM, and 2TB hard drive for demanding productivity tasks. Read our full review .\nBuy one now from:\nAmazon Dell\nLG 22CV241 Chromebase ($280+) View photos\nLG 22CV241 Chromebase review screen angle More The LG Chromebase redefines what you should expect on a shoestring budget. This capable all-in-one basks in a modern simplicity akin to the Chromebooks before it, capitalizing on an accurate color palette and lighting within a rounded aesthetic. The base model ships with an Intel Celeron 2955U dual-core CPU and 2GB of DDR3 RAM, which is more than adequate at performing tasks other than gaming, and the entire system relies on the Web-based Chrome OS for barebones functionality. The bundled peripherals are also solid, and you can even use the display as an external monitor. Read our full review .\nBuy one now from:\nAmazon Best Buy\nAsus Zen AIO ($1,399+) View photos\nAsus Zen AIO S More While it doesn’t take any big risks when it comes to design, Asus’ new Zen AIO stands out for top-notch performance and an agreeable price point. The display is a little too glossy for its own good, but makes up for it with an impressive 4K resolution and discrete Nvidia graphics. There are a couple of other shortcomings that we like to see addressed on high-end models, but all-in-all it provides a great computing experience and even decent gaming performance at 1080p. This is a strong choice if you’d like an all-in-one similar to iMac, but prefer the Windows operating system. Read our full review .\nBuy one now from:\nMicrosoft Amazon\nHP Envy 27 ($1,049+) View photos\nHP Envy All-in-one 27 More HP Envy All-in-one 27\nDespite the locked-in state of the parts inside, the HP Envy 27 offers a surprising range of options that start with a 1440p display and Core i5, and scale all the way up to the Skylake i7-6700T with 2.8GHz base clock, with Nvidia’s GTX 950M. It’s beautiful, too, with a thin, sleek look and simple support underneath. Like some of the other systems, it includes a mouse and keyboard. Unlike the older version of the Envy 27, even the base model presents a solid value.\nBuy one now from:\nAmazon\nGet the best deals at the lowest prices with our favorite Cyber Week deals Microsoft Surface Studio versus HP Envy 27: which all-in-one truly has it all? You can save $140 on this awesome Asus Zenbook",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [
+        "http://www.digitaltrends.com/dtdeals/asus-zenbook-ux305ua-deal-save-140/",
+        "http://www.digitaltrends.com/go/?provider=manual&url=http%3A%2F%2Fclick.linksynergy.com%2Ffs-bin%2Fclick%3Fid%3D9e1vMmumXG0%26subid%3D%26offerid%3D452112.1%26type%3D10%26tmpid%3D6075%26RD_PARM1%3Dhttps%253A%252F%252Fwww.microsoftstore.com%252Fstore%252Fmsusa%252Fen_US%252Fpdp%252FproductID.5074015900",
+        "http://www.digitaltrends.com/go/?provider=manual&url=http%3A%2F%2Fclick.linksynergy.com%2Ffs-bin%2Fclick%3Fid%3D9e1vMmumXG0%26subid%3D%26offerid%3D402138.1%26type%3D10%26tmpid%3D3763%26RD_PARM1%3Dhttp%253A%252F%252Fwww.microsoftstore.com%252Fstore%252Fmsusa%252Fen_US%252Fpdp%252FASUS-Zen-AiO-Pro-Z240-C4-Signature-Edition-All-in-One%252FproductID.328073500%253Ftduid%253D%25285a95fafc1ec1ef7363777d32f915f924%2529%2528256380%2529%25282459594%2529%2528TnL5HPStwNw-xtFEQGRQhC6vp6JMBjhueg%2529%2528%2529",
+        "https://s.yimg.com/ny/api/res/1.2/.Cbcfkm5wL2tFrOBDRLe_A--/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/http://media.zenfs.com/en-US/homerun/digital_trends_973/7d69e16ff6b3394b60b3060d986510fb",
+        "https://s.yimg.com/ny/api/res/1.2/nyLTguqyvM3_1CfaQdDFPw--/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/http://media.zenfs.com/en-US/homerun/digital_trends_973/ed0472a087e974444b5de9506a41371a",
+        "https://s.yimg.com/ny/api/res/1.2/.Cbcfkm5wL2tFrOBDRLe_A--/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/http://media.zenfs.com/en-US/homerun/digital_trends_973/7d69e16ff6b3394b60b3060d986510fb);",
+        "https://s.yimg.com/ny/api/res/1.2/8bplY4cj.af7wGcMfGaITw--/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/http://media.zenfs.com/en-US/homerun/digital_trends_973/669b438ede695b8d8c6562573d1824f6",
+        "http://s3.amazonaws.com/digitaltrends-uploads-prod/2016/11/Surface-Studio-Lifestyle-1.png",
+        "http://aos.prf.hn/click/camref:1101l7vG/creativeref:305774",
+        "https://s.yimg.com/ny/api/res/1.2/daks6dKFuKhWY309szHD9w--/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/http://media.zenfs.com/en-US/homerun/digital_trends_973/66367230808db48a2041cc19d43b6b62);",
+        "http://www.digitaltrends.com/best-gaming-desktops/",
+        "http://www.digitaltrends.com/go/?provider=manual&url=http%3A%2F%2Fwww.amazon.com%2FHP-ENVY-27-p014-Touchscreen-i5-6400T%2Fdp%2FB0176GNTU8%2Fref%3Das_li_ss_tl%3Fie%3DUTF8%26linkCode%3Dsl1%26tag%3Ddt-incontent-btn-20%26linkId%3Dc29c4635819cf0e81491492d1dbe6912",
+        "http://www.digitaltrends.com/go/?provider=manual&url=http%3A%2F%2Fwww.amazon.com%2FASUS-Zen-Z240-C2-23-8-Desktop%2Fdp%2FB017DN9FKC%2Fref%3Das_li_ss_tl%3Fie%3DUTF8%26linkCode%3Dsl1%26tag%3Ddt-incontent-btn-20%26linkId%3Df1110635fa8ccbb551fd1dd891e711c9",
+        "https://s.yimg.com/ny/api/res/1.2/R46xhkp47G6e8rwcVQRbhg--/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/http://media.zenfs.com/en-US/homerun/digital_trends_973/5b6562ab96b3b6459e9b006fe58bf822);",
+        "https://s.yimg.com/ny/api/res/1.2/daks6dKFuKhWY309szHD9w--/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/http://media.zenfs.com/en-US/homerun/digital_trends_973/66367230808db48a2041cc19d43b6b62",
+        "http://www.anrdoezrs.net/click-2942700-11886213-1445006924000?url=http%3A%2F%2Faltfarm.mediaplex.com%2Fad%2Fck%2F12309-198375-45846-0%3Fprg%3D1%26VEN1%3D11886213-1-%26DURL%3Dhttp%3A%2F%2Fwww.dell.com%2Fus%2Fp%2Fxps-27-2720-aio%2Fpd",
+        "https://s.yimg.com/ny/api/res/1.2/J7.QTENFI.Igxq_fqWeHKA--/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/http://media.zenfs.com/en-US/homerun/digital_trends_973/746f791e7bb60748a9c0d8e3f125e87f",
+        "http://www.digitaltrends.com/desktop-computer-reviews/asus-zen-aio-pro-z240ic-review/",
+        "https://s.yimg.com/dh/ap/default/150604/orb.png);",
+        "http://www.amazon.com/exec/obidos/ASIN/B00HRLSTOO",
+        "https://www.microsoft.com/en-us/surface/devices/surface-studio/overview",
+        "http://www.amazon.com/exec/obidos/ASIN/B00746WZHE",
+        "http://www.digitaltrends.com/desktop-computer-reviews/lg-22cv241-chromebase-review/",
+        "https://s.yimg.com/ny/api/res/1.2/8bplY4cj.af7wGcMfGaITw--/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/http://media.zenfs.com/en-US/homerun/digital_trends_973/669b438ede695b8d8c6562573d1824f6);",
+        "http://www.digitaltrends.com/computing/surface-studio-vs-hp-envy-all-in-one/",
+        "https://s.yimg.com/ny/api/res/1.2/J7.QTENFI.Igxq_fqWeHKA--/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/http://media.zenfs.com/en-US/homerun/digital_trends_973/746f791e7bb60748a9c0d8e3f125e87f);",
+        "http://www.digitaltrends.com/desktop-computer-reviews/apple-imac-with-retina-display-review/",
+        "http://www.amazon.com/exec/obidos/ASIN/B00JR625WO",
+        "http://www.digitaltrends.com/buying-guides/cyber-monday-deals/",
+        "https://s.yimg.com/ny/api/res/1.2/nyLTguqyvM3_1CfaQdDFPw--/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/http://media.zenfs.com/en-US/homerun/digital_trends_973/ed0472a087e974444b5de9506a41371a);",
+        "http://www.digitaltrends.com/desktop-computer-reviews/microsoft-surface-studio-review/",
+        "http://icdn7.digitaltrends.com/image/surface-studio-pc-kit-1500x1000.jpg",
+        "http://www.digitaltrends.com/desktop-computer-reviews/dell-xps-27-touch-review/",
+        "https://s.yimg.com/ny/api/res/1.2/R46xhkp47G6e8rwcVQRbhg--/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/http://media.zenfs.com/en-US/homerun/digital_trends_973/5b6562ab96b3b6459e9b006fe58bf822",
+        "https://s.yimg.com/g/images/spaceball.gif",
+        "http://www.digitaltrends.com/go/?provider=manual&url=http%3A%2F%2Fclick.linksynergy.com%2Ffs-bin%2Fclick%3Fid%3D9e1vMmumXG0%26subid%3D0%26offerid%3D422073.1%26type%3D10%26tmpid%3D13127%26RD_PARM1%3Dhttp%25253A%25252F%25252Fwww.bestbuy.com%25252Fsite%25252Flg-chromebase-21-5-all-in-one-intel-celeron-2gb-memory-16gb-solid-state-drive-silver-white%25252F7750032.p%25253Fid%25253D1219289492078%252526skuId%25253D7750032",
+        "https://s.yimg.com/ny/api/res/1.2/ubLxCv2JoSySDn1q9ZvuDg--/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/http://media.zenfs.com/en-US/homerun/digital_trends_973/908c9bae5fa0e55155a39fe7836aa318"
+      ],
+      "entities": {
+        "persons": [
+          {
+            "name": "asus zenbook",
+            "sentiment": "none"
+          },
+          {
+            "name": "retina",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "microsoft",
+            "sentiment": "positive"
+          },
+          {
+            "name": "nvidia",
+            "sentiment": "none"
+          },
+          {
+            "name": "amazon best",
+            "sentiment": "none"
+          },
+          {
+            "name": "microsoft apple",
+            "sentiment": "none"
+          },
+          {
+            "name": "intel core",
+            "sentiment": "none"
+          },
+          {
+            "name": "zen aio",
+            "sentiment": "none"
+          },
+          {
+            "name": "apple amazon dell",
+            "sentiment": "none"
+          },
+          {
+            "name": "apple",
+            "sentiment": "none"
+          },
+          {
+            "name": "microsoft amazon",
+            "sentiment": "none"
+          },
+          {
+            "name": "asus",
+            "sentiment": "none"
+          },
+          {
+            "name": "intel",
+            "sentiment": "none"
+          },
+          {
+            "name": "amazon dell lg",
+            "sentiment": "none"
+          },
+          {
+            "name": "lg",
+            "sentiment": "none"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-12-03T21:35:11.165+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "613918f1a16a76e207cac7923cf814ec21f093b5",
+        "url": "http://omgili.com/ri/jHIAmI4hxg_sR1bvh7GupdlxOmHnb4dSemKo.oB4NLQ7IWEmV6fGcBEivIoZ4IYkQYNvAFblrS3YqYzfGb1jHOCWABNwNBTQ4ajYD623Ypwn5no65lCqF9ERTKaoWWnuov4qAKD.bvLfMgBCaTTFwGH20v7MWDeG1J131Nf5YH.IoBThfXchOdaivN13.sn52dGlArDZTlY-",
+        "site_full": "www.newseveryday.com",
+        "site": "newseveryday.com",
+        "site_section": "",
+        "site_categories": [
+          "news",
+          "entertainment"
+        ],
+        "section_title": "",
+        "title": "Attention Technology Lovers! Microsoft, Apple, and Google Launched An Amazing Gadgets Treats! : News : News Every Day",
+        "title_full": "Attention Technology Lovers! Microsoft, Apple, and Google Launched An Amazing Gadgets Treats! : News : News Every Day",
+        "published": "2016-12-03T07:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.174,
+        "main_image": "http://images.newseveryday.com/data/images/full/54491/google-pop-up-store-opens-in-new-york.jpg",
+        "performance_score": 0,
+        "domain_rank": 99825,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "613918f1a16a76e207cac7923cf814ec21f093b5",
+      "url": "http://omgili.com/ri/jHIAmI4hxg_sR1bvh7GupdlxOmHnb4dSemKo.oB4NLQ7IWEmV6fGcBEivIoZ4IYkQYNvAFblrS3YqYzfGb1jHOCWABNwNBTQ4ajYD623Ypwn5no65lCqF9ERTKaoWWnuov4qAKD.bvLfMgBCaTTFwGH20v7MWDeG1J131Nf5YH.IoBThfXchOdaivN13.sn52dGlArDZTlY-",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-12-03T07:00:00.000+02:00",
+      "title": "Attention Technology Lovers! Microsoft, Apple, and Google Launched An Amazing Gadgets Treats! : News : News Every Day",
+      "text": "Attention Technology Lovers! Microsoft, Apple, and Google Launched An Amazing Gadgets Treats! By Mary Lourd - 03 Dec '16 21:58PM (Photo : Spencer Platt/Getty Images) NEW YORK, NY - OCTOBER 20: A person tries a new Google Pixel phone at the Google pop-up shop in the SoHo neighborhood on October 20, 2016 in New York City. The shop lets people try out new Google products such as the Pixel phone, Google Home, and Daydream VR. The products will be available for purchase offsite at Verizon and Best Buy retail stores. \nThis holiday-shopping season is a full blast for gadgets lovers. Microsoft, Apple, and Google revealed their latest products. \nMicrosoft has released the ultra-thin desktop, Surface Studio. It is the first all-in-one desktop which gives users additional menus and control on-screen objects. The company also refreshed Surface Book. It is a laptop-tablet hybrid that runs Windows 10. These products were the well-crafted product with a powerful articulating screen. Plus factor, Microsoft has 12 Days of Deals with huge discounts . \nApple has got the new MacBook Pro. It weighed 4.46 pounds and it has a new Retina display. The MacBook reprogrammed its new processors. The 13 and 15 inches MacBook Pros have thinner, lighter and faster graphics and disk performance. These got a brighter, more colorful screen, with an improved Touch ID fingerprint sensor and louder, and a clearer audio. Apple unveiled the new iPhone 7 and 7 Plus. Many reports said the company is going to release its new iPhone 8 . \nGoogle has made technology better . The big technology giant released the new Pixel smartphone, Google Home assistant, and Daydream VR headset. \nThe Pixel and Pixel XL smartphones are the first phones by Google. It has a 5-inch, 1080p AMOLED display. The Pixel XL's 5.5-inch AMOLED screen carries the Quad HD heat. It runs with a quad-core Snapdragon 821 chipsets and 4GB of RAM. The phones have built in Google Assistant. The camera lens got a best-ever 89 DxOMark Mobile score. For snap lovers, 12.3 megapixels are great for sharp and crisp images. For getting great shots in any light, Large 1.55 μm pixels are best to use. To achieve a bright, even photos, f/2.0 aperture are guaranteed. These phones got addition features, those have unlimited storage for all your photos and videos. \nThis is how innovative human technology. Everything is much faster than the flick of light. Technology lovers are now waiting for 2017 new gadget release. \n",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "mar",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "lourd",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "google",
+            "sentiment": "positive"
+          },
+          {
+            "name": "apple",
+            "sentiment": "positive"
+          },
+          {
+            "name": "microsoft",
+            "sentiment": "positive"
+          },
+          {
+            "name": "macbook",
+            "sentiment": "none"
+          },
+          {
+            "name": "verizon",
+            "sentiment": "none"
+          },
+          {
+            "name": "macbook pros",
+            "sentiment": "none"
+          },
+          {
+            "name": "google pixel",
+            "sentiment": "none"
+          },
+          {
+            "name": "google home",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "new york city",
+            "sentiment": "none"
+          },
+          {
+            "name": "soho",
+            "sentiment": "none"
+          },
+          {
+            "name": "new york",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-04T06:02:10.332+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "ff3604949313c6792ce60fbaac3fa553759f1403",
+        "url": "http://omgili.com/ri/.wHSUbtEfZTueMYICVUfckKKsNVV9UO3w1Lwk9Dc7mLnVUnFPlIdibsuEmb1V2dT9ANmTLid8zSUQ6viiQ3tEk8G9WwD719m",
+        "site_full": "answers.yahoo.com",
+        "site": "yahoo.com",
+        "site_section": "http://answers.yahoo.com/rss/allq",
+        "site_categories": [
+          "education"
+        ],
+        "section_title": "Yahoo Answers: Latest Questions",
+        "title": "[ Software ] Open Question : Need someone who has good experience with MICROSOFT ACCESS?",
+        "title_full": "[ Software ] Open Question : Need someone who has good experience with MICROSOFT ACCESS?",
+        "published": "2016-12-05T05:02:42.636+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "/static/images/answers-icon.png",
+        "performance_score": 0,
+        "domain_rank": 5,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "ff3604949313c6792ce60fbaac3fa553759f1403",
+      "url": "http://omgili.com/ri/.wHSUbtEfZTueMYICVUfckKKsNVV9UO3w1Lwk9Dc7mLnVUnFPlIdibsuEmb1V2dT9ANmTLid8zSUQ6viiQ3tEk8G9WwD719m",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-12-05T05:02:42.636+02:00",
+      "title": "[ Software ] Open Question : Need someone who has good experience with MICROSOFT ACCESS?",
+      "text": "Need someone who has good experience with MICROSOFT ACCESS? Add your answer I think this question violates the Community Guidelines Chat or rant, adult content, spam, insulting other members, show more I think this question violates the Terms of Service Harm to minors, violence or threats, harassment or privacy invasion, impersonation or misrepresentation, fraud or phishing, show more Additional Details If you believe your intellectual property has been infringed and would like to file a complaint, please see our Copyright/IP Policy Report Abuse I think this answer violates the Community Guidelines Chat or rant, adult content, spam, insulting other members, show more I think this answer violates the Terms of Service Harm to minors, violence or threats, harassment or privacy invasion, impersonation or misrepresentation, fraud or phishing, show more Additional Details If you believe your intellectual property has been infringed and would like to file a complaint, please see our Copyright/IP Policy Report Abuse I think this comment violates the Community Guidelines Chat or rant, adult content, spam, insulting other members, show more I think this comment violates the Terms of Service Harm to minors, violence or threats, harassment or privacy invasion, impersonation or misrepresentation, fraud or phishing, show more Additional Details If you believe your intellectual property has been infringed and would like to file a complaint, please see our Copyright/IP Policy Report Abuse Upload failed. Please upload a file larger than 100x100 pixels We are experiencing some problems, please try again. You can only upload files of type PNG, JPG, or JPEG. You can only upload files of type 3GP, 3GPP, MP4, MOV, AVI, MPG, MPEG, or RM. You can only upload photos smaller than 5 MB. You can only upload videos smaller than 600MB. You can only upload a photo (png, jpg, jpeg) or a video (3gp, 3gpp, mp4, mov, avi, mpg, mpeg, rm). You can only upload a photo or a video. Video should be smaller than <b>600mb/5 minutes</b> Photo should be smaller than <b>5mb</b> Video should be smaller than <b>600mb/5 minutes</b> Photo should be smaller than <b>5mb</b> Answer Questions",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "microsoft",
+            "sentiment": "positive"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-12-05T05:02:42.636+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "0dbbfd6cc6c0707d0c5ca1214771d6b335eb9f9c",
+        "url": "http://omgili.com/ri/.wHSUbtEfZRcyN_8JC.e3SrNb5t0qEPhLGgbhTP.ijlQ_HoO.a8ZLYS8M95UO11lKJl_XLf28ZpFxVFeSZ2tuJ9MAGtu8dI4",
+        "site_full": "in.answers.yahoo.com",
+        "site": "yahoo.com",
+        "site_section": "https://in.answers.yahoo.com/rss/allq?filter=intl",
+        "site_categories": [
+          "education"
+        ],
+        "section_title": "Yahoo Answers: Latest Questions",
+        "title": "[ Software ] Open Question : What is the best phone number for updating Microsoft, Product key of Microsoft?",
+        "title_full": "[ Software ] Open Question : What is the best phone number for updating Microsoft, Product key of Microsoft?",
+        "published": "2016-12-05T10:57:23.656+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "/static/images/answers-icon.png",
+        "performance_score": 0,
+        "domain_rank": 5,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "0dbbfd6cc6c0707d0c5ca1214771d6b335eb9f9c",
+      "url": "http://omgili.com/ri/.wHSUbtEfZRcyN_8JC.e3SrNb5t0qEPhLGgbhTP.ijlQ_HoO.a8ZLYS8M95UO11lKJl_XLf28ZpFxVFeSZ2tuJ9MAGtu8dI4",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-12-05T10:57:23.656+02:00",
+      "title": "[ Software ] Open Question : What is the best phone number for updating Microsoft, Product key of Microsoft?",
+      "text": "What is the best phone number for updating Microsoft, Product key of Microsoft? Add your answer I think that this question violates the Community Guidelines Chat or rant, adult content, spam, insulting other members, show more I think that this question violates the Terms of Service Harm to minors, violence or threats, harassment or privacy invasion, impersonation or misrepresentation, fraud or phishing, show more Additional Details If you believe that your intellectual property has been infringed and would like to file a complaint, please see our Copyright/IP Policy Report Abuse I think that this answer violates the Community Guidelines Chat or rant, adult content, spam, insulting other members, show more I think that this answer violates the Terms of Service Harm to minors, violence or threats, harassment or privacy invasion, impersonation or misrepresentation, fraud or phishing, show more Additional Details If you believe that your intellectual property has been infringed and would like to file a complaint, please see our Copyright/IP Policy Report Abuse I think this comment violates the Community Guidelines Chat or rant, adult content, spam, insulting other members, show more I think that this comment violates the Terms of Service Harm to minors, violence or threats, harassment or privacy invasion, impersonation or misrepresentation, fraud or phishing, show more Additional Details If you believe that your intellectual property has been infringed and would like to file a complaint, please see our Copyright/IP Policy Report Abuse Upload failed. Please upload a file larger than 100 x 100 pixels We are experiencing some problems, please try again. You can only upload files of type PNG, JPG or JPEG. You can only upload files of type 3GP, 3GPP, MP4, MOV, AVI, MPG, MPEG or RM. You can only upload photos smaller than 5 MB. You can only upload videos smaller than 600 MB. You can only upload a photo (png, jpg, jpeg) or video (3gp, 3gpp, mp4, mov, avi, mpg, mpeg, rm). You can only upload a photo or video. Video should be smaller than <b>600 MB/5 minutes</b> Photo should be smaller than <b>5 MB</b> Video should be smaller than <b>600 MB/5 minutes</b> Photo should be smaller than <b>5 MB</b> Answer Questions",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "avi",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "microsoft",
+            "sentiment": "positive"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-12-05T10:57:23.656+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "a581cd3d8ff179cb4b5b3b93b7b27c4af3616eee",
+        "url": "http://omgili.com/ri/jHIAmI4hxg_smRmC3B7g5DwYchVcgGfFSvniqwGzphx176J6x0Kz4pJisjShZzvtoFy4JqpSN88CVODBhQO4K59U6u91NjnM3kp8366ETGjFvOV1dVBmK_B2LBV2sAu3qOc.hVDmMGA3nE3OsD9OgSfRHuKgLcfJB6jUeWCVAtU-",
+        "site_full": "www.thedrum.com",
+        "site": "thedrum.com",
+        "site_section": "http://marketing.alltop.com/rss/",
+        "site_categories": [
+          "news",
+          "entertainment",
+          "education",
+          "business"
+        ],
+        "section_title": "Alltop RSS",
+        "title": "Microsoft, Zizzi and Network Rail among brands exposing the secrets of successful agency relationships in new book",
+        "title_full": "Microsoft, Zizzi and Network Rail among brands exposing the secrets of successful agency relationships in new book",
+        "published": "2016-12-05T15:40:34.289+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://media-assets-01.thedrum.com/cache/images/thedrum-prod/s3-news-tmp-1086-tw3_article--default--942.png",
+        "performance_score": 0,
+        "domain_rank": 29038,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "a581cd3d8ff179cb4b5b3b93b7b27c4af3616eee",
+      "url": "http://omgili.com/ri/jHIAmI4hxg_smRmC3B7g5DwYchVcgGfFSvniqwGzphx176J6x0Kz4pJisjShZzvtoFy4JqpSN88CVODBhQO4K59U6u91NjnM3kp8366ETGjFvOV1dVBmK_B2LBV2sAu3qOc.hVDmMGA3nE3OsD9OgSfRHuKgLcfJB6jUeWCVAtU-",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-12-05T15:40:34.289+02:00",
+      "title": "Microsoft, Zizzi and Network Rail among brands exposing the secrets of successful agency relationships in new book",
+      "text": "Microsoft, Zizzi and Network Rail among brands exposing the secrets of successful agency relationships in new book By The Drum - 05 December 2016 12:23pm Together Works 3 \nThe Drum’s Recommended Agency Register (RAR) has released the third edition of Together Works, a publication that celebrates successful marketing relationships. The book features in-depth interviews with famous brands including Microsoft, Network Rail and Zizzi, which focus on some of the challenges found in this new era of marketing, and the secrets to achieving success. \nMarketers such as Elodie Gillet, marketing manager, eBAy and Robin Stevens, head of digital and marketing services, Aviva Investors uncover the projects they have executed in the past year, and how their agencies helped them to reach their goals. \nSteve Antoniewicz co-author of the book, and director of RAR, said: “When it comes to the most effective and successful marketing outputs, its proven that the deeper relationship, the better value can be created for those companies and organisations.” \nThe launch party for the book is 14 December, taking place at The Drum's offices in London. If interested in finding out more, If interested in finding out more, please contact kerry.meakins@thedrum.com \nThis article is about: World , Recommended Agency Register , aviva , ebay , Marketing , Brand The Drum \nThe Drum is all about modern marketing and media. In addition this website and The Drum magazine, the company is also responsible for the Recommended Agency Register - which aims to match the right agencies with the rights clients - and MiNetwork, an organisation which aims to make independently minded agencies more successful.",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "zizzi",
+            "sentiment": "positive"
+          },
+          {
+            "name": "steve antoniewicz",
+            "sentiment": "none"
+          },
+          {
+            "name": "elodie gillet",
+            "sentiment": "none"
+          },
+          {
+            "name": "robin stevens",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "network rail",
+            "sentiment": "positive"
+          },
+          {
+            "name": "microsoft",
+            "sentiment": "positive"
+          },
+          {
+            "name": "recommended agency register",
+            "sentiment": "none"
+          },
+          {
+            "name": "minetwork",
+            "sentiment": "none"
+          },
+          {
+            "name": "rar",
+            "sentiment": "none"
+          },
+          {
+            "name": "drum’s recommended agency register",
+            "sentiment": "none"
+          },
+          {
+            "name": "aviva investors",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "london",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-05T15:40:34.289+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "4b3f1e70d8d5b196adcfa8dc4c8787dd42a74801",
+        "url": "http://omgili.com/ri/.wHSUbtEfZRJcZIzEkwz53VfIySkCw1wljjfqbcCpL2bxax5AM2KPLly5mOZDqT9UzSP0ymNONYBZ9KGbJwxtPj0wwTf98JyFUzSWcoLcAk-",
+        "site_full": "mspoweruser.com",
+        "site": "mspoweruser.com",
+        "site_section": "https://mspoweruser.com",
+        "site_categories": [
+          "news",
+          "tech"
+        ],
+        "section_title": "MSPoweruser",
+        "title": "Microsoft releases a new video to celebrate the spirit of the season",
+        "title_full": "Microsoft releases a new video to celebrate the spirit of the season",
+        "published": "2016-12-05T16:12:23.715+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": null,
+        "performance_score": 0,
+        "domain_rank": 14067,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "4b3f1e70d8d5b196adcfa8dc4c8787dd42a74801",
+      "url": "http://omgili.com/ri/.wHSUbtEfZRJcZIzEkwz53VfIySkCw1wljjfqbcCpL2bxax5AM2KPLly5mOZDqT9UzSP0ymNONYBZ9KGbJwxtPj0wwTf98JyFUzSWcoLcAk-",
+      "ord_in_thread": 0,
+      "author": "Pradeep",
+      "published": "2016-12-05T16:12:23.715+02:00",
+      "title": "Microsoft releases a new video to celebrate the spirit of the season",
+      "text": "Microsoft today released a new video ad to celebrate the spirit of the season. It features Microsoft Surface Studio and Surface Pro 4 devices along with a great message to the world.\nWe wanted to lift people up and remind them that ordinary people can make a difference. Our message focuses on the spirit of the holidays, people coming together and celebrating what is good and right with the world—what unites us, instead of what divides us.\nCheck out the video above.",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "microsoft",
+            "sentiment": "positive"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-12-05T16:12:23.715+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "18395ae7e6bf77fbc53133cde277a6d6c31ff0a3",
+        "url": "http://omgili.com/ri/jHIAmI4hxg9BcPFu_4VOJxXOPE7_XaSqHHmPvWoFDz9eYQTio3NGK0BySpKVk05NidiIU0E8v8SyYHuhbVfNtewMmfr_h9HJ2nKezbdIpT8AlGh54NT81AASI06YRbUW",
+        "site_full": "www.onenewspage.com",
+        "site": "onenewspage.com",
+        "site_section": "http://www.onenewspage.com/rss/latest/Technology.rss",
+        "site_categories": [
+          "news",
+          "entertainment",
+          "education"
+        ],
+        "section_title": "Latest Technology News on One News Page",
+        "title": "Microsoft Introduces Its New Chatbot Zo",
+        "title_full": "Microsoft Introduces Its New Chatbot Zo - One News Page",
+        "published": "2016-12-06T00:02:46.295+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://cdn.newsserve.net/700/i/20161205/3133-Microsoft-Introduces-Its-New-Chatbot-Zo.jpg",
+        "performance_score": 0,
+        "domain_rank": 91686,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "18395ae7e6bf77fbc53133cde277a6d6c31ff0a3",
+      "url": "http://omgili.com/ri/jHIAmI4hxg9BcPFu_4VOJxXOPE7_XaSqHHmPvWoFDz9eYQTio3NGK0BySpKVk05NidiIU0E8v8SyYHuhbVfNtewMmfr_h9HJ2nKezbdIpT8AlGh54NT81AASI06YRbUW",
+      "ord_in_thread": 0,
+      "author": "onenewspage.com",
+      "published": "2016-12-06T00:02:46.295+02:00",
+      "title": "Microsoft Introduces Its New Chatbot Zo",
+      "text": "Microsoft created its own chatbot earlier this year named Tay, and while it had some impressive capabilities, it ended up crashing and burning. It made some absolutely hilarious comments here and there, but […]",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "tay",
+            "sentiment": "positive"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "microsoft",
+            "sentiment": "positive"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-12-06T00:02:46.295+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "610f670302c6dcc9ce75b2ca3cfeda84fbcfdf09",
+        "url": "http://omgili.com/ri/jHIAmI4hxg.iSjqM0Hvy0ErJa2RyZjE.hl9xGAXZDV1El2i.1jqTejShobanSWIdVFLnmmCOZNrQwfk5Q6w7tyNuJ_oDfffzydOl9MzLxz7LAdgUuyhhGaZ4zPBwwbfSe9EJNQ5.yz8-",
+        "site_full": "www.constructionweekonline.com",
+        "site": "constructionweekonline.com",
+        "site_section": "http://www.constructionweekonline.com/rssFeed/WebRssFeeds/news",
+        "site_categories": [
+          "education",
+          "business"
+        ],
+        "section_title": "Construction Week Online Middle East - news",
+        "title": "Microsoft offers solutions for construction sector",
+        "title_full": "Microsoft offers solutions for construction sector",
+        "published": "2016-12-06T16:31:33.432+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 75041,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "610f670302c6dcc9ce75b2ca3cfeda84fbcfdf09",
+      "url": "http://omgili.com/ri/jHIAmI4hxg.iSjqM0Hvy0ErJa2RyZjE.hl9xGAXZDV1El2i.1jqTejShobanSWIdVFLnmmCOZNrQwfk5Q6w7tyNuJ_oDfffzydOl9MzLxz7LAdgUuyhhGaZ4zPBwwbfSe9EJNQ5.yz8-",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-12-06T16:31:33.432+02:00",
+      "title": "Microsoft offers solutions for construction sector",
+      "text": "/ SPECIAL REPORTS / Microsoft offers solutions for construction sector Jumana Abdel-Razzaq on Dec 6, 2016 \n| US: Trimble acquires software developer Sefaira | Bentley Systems unveils Be Inspired Awards winners \n’s The Big 5 construction exhibition in Dubai, participating as the lead technology partner to expand its client base into what it sees as a largely untapped market. \n& Devices Business Group Lead, Microsoft Gulf said: “What differentiates societies, businesses and even countries is their ability to adopt technology and the extent to which they do it. \nMicrosoft’s role is to enable companies, across different sectors, the chance to embrace technology faster.” \nIn fact, Arif said that according to a recent MIT study, companies that adopted technology faster achieved almost 26% more profitability. \nIn this regard, the company wants to help construction professionals do their work faster and more efficiently through digitisation and offering the latest technological innovations. \nWith this, Microsoft is offering engineers and others in the industry a number of products and devices to help drive greater cost efficiency and communication in the sector.",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "jumana abdel-razzaq",
+            "sentiment": "positive"
+          },
+          {
+            "name": "sefaira",
+            "sentiment": "none"
+          },
+          {
+            "name": "trimble",
+            "sentiment": "none"
+          },
+          {
+            "name": "arif",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "microsoft",
+            "sentiment": "positive"
+          },
+          {
+            "name": "microsoft gulf",
+            "sentiment": "none"
+          },
+          {
+            "name": "& devices business group lead",
+            "sentiment": "none"
+          },
+          {
+            "name": "mit",
+            "sentiment": "none"
+          },
+          {
+            "name": "bentley systems",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "us",
+            "sentiment": "none"
+          },
+          {
+            "name": "dubai",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-06T16:31:33.432+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "b9dcbaedd24beeb387c90788e5f65db0d187f033",
+        "url": "http://omgili.com/ri/jHIAmI4hxg8ZZA8UqCf0XY_ORDcdTiyWGXXil6W.yGgFKYiG1BsfqU.FVmswPceviS01o9N.rcP_caj0qOEFk5tvHdKCbuGlLkBe_SrcKxnmuv5dmmcGMWc2iywUtpSC",
+        "site_full": "www.techrepublic.com",
+        "site": "techrepublic.com",
+        "site_section": "http://www.techrepublic.com/rssfeeds/topic/software/",
+        "site_categories": [
+          "news",
+          "tech",
+          "business"
+        ],
+        "section_title": "Software on TechRepublic",
+        "title": "Windows 10: The top 10 features headed your way in 2017",
+        "title_full": "Windows 10: The top 10 features headed your way in 2017",
+        "published": "2016-12-06T18:59:41.412+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://tr3.cbsistatic.com/hub/i/r/2016/12/06/52e957e8-1518-40b5-beaf-84df126ce1ab/thumbnail/770x578/b47b899d9bf6665470aa35885ee8bbdd/windows10placeholder.png",
+        "performance_score": 0,
+        "domain_rank": 2614,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "b9dcbaedd24beeb387c90788e5f65db0d187f033",
+      "url": "http://omgili.com/ri/jHIAmI4hxg8ZZA8UqCf0XY_ORDcdTiyWGXXil6W.yGgFKYiG1BsfqU.FVmswPceviS01o9N.rcP_caj0qOEFk5tvHdKCbuGlLkBe_SrcKxnmuv5dmmcGMWc2iywUtpSC",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-12-06T18:59:41.412+02:00",
+      "title": "Windows 10: The top 10 features headed your way in 2017",
+      "text": "Previous Next On the horizon \nMicrosoft has made many promises about what Windows 10 will do, and while some have materialized, others still remain ambitions. \nAs a perpetual work-in-progress, Windows 10 continues to accrue new features, as Windows catches up with Microsoft's vision of it being an OS that runs anywhere, syncs with the cloud and has an intelligent assistant at its core. \nWhile Windows 10 will be buffed up by the arrival of the Windows 10 Creators Update early next year, 2017 as a whole will see the OS undergo significant changes, some of which are long-awaited. Here's what to look out for. \nThis gallery is also available as a single-page article . Image: Microsoft Windows 10 phones edge closer to replacing desktop PCs \nMicrosoft has long pushed the idea that Windows 10 on phones will be so powerful, it'll be akin to carrying a full PC in your pocket, courtesy of the OS' Continuum feature. \n\"With Continuum for phones, we believe that any screen can be your PC,\" Joe Belfiore, Microsoft's corporate VP of the operating systems group, told the Microsoft Build Developer Conference in 2015 , going on to add: \n\"Imagine the effect this could have on mobile first countries, where individuals could be as effective with the phone that they're buying.\" \nToday the reality of using Continuum on Windows 10 falls somewhat short of Belfiore's future-gazing. While a select Windows 10 phones, such as the Lumia 950, can be hooked up to mouse, keyboard and monitor and used as a Windows desktop there are significant limitations. Only one fullscreen app can be used at a time, legacy Windows apps won't run on existing handsets and even Universal Windows Platform apps need to explicitly support Continuum. \nHowever, in addition to the possibility of legacy apps running on smartphones, see below, various improvements to Continuum are due to land with the Creators Update in early 2017 . \nThese include support for more PC features, such as running multiple Windows side-by-side on the desktop, pinning apps to the Taskbar and hitting the Windows button to bring up the search box. Other improvements include the ability to keep your phone in your pocket and have it connect wirelessly to a docking station and to independently customize the Windows Start screen on the phone display and on a PC monitor. Image: Microsoft Running classic Windows software on your phone \nThis one's a rumor but based on solid foundations, and with the potential to transform Windows 10's appeal on mobile if correct. \nThe big fly in the ointment when it comes to using Windows 10's Continuum feature to run a phone as a PC is that Windows 10 phones only run Universal Windows Platform apps. This incompatibility means that widely-used Windows apps from desktop PCs can't be used on handsets. \nHowever, by sniffing around inside Windows 10's code, users have uncovered signs that Microsoft is working on bringing these apps to Windows phones. \nThe code in question suggests that Microsoft is building an emulator that would allow desktop x86 apps to work on the ARM64-based handsets. \nAs reported by ZDNet's Mary Jo Foley last month , Twitter user WalkingCat found a reference to what he termed \"Windows's hybrid x86-on-ARM64 tech\" in Windows' codebase, which also referenced the term, \"CHPE.\" \nThe clue chimed with Foley, who said her sources had told her that Windows 10 will gain this x86 on ARM64 emulation capability, but not until Fall 2017. \nFoley guesses that C stands for Cobalt, the codename for x86 emulation on ARM, and that HP relates to the tech giant HP, which has been working with Microsoft on its the HP Elite x3 Windows Phone, a Windows 10 handset that can serve as a desktop PC via Continuum. \nMicrosoft certainly has good reasons for wanting such emulation to work. If Windows 10 phones could run as Windows desktops with a full support for legacy apps, without having to resort to remote desktop software, Windows 10 phones could suddenly be far more appealing to business. Return of OneDrive placeholders \nSince the launch of Windows 10, many users have been petitioning Microsoft to reintroduce placeholders to the OS' built-in OneDrive cloud storage service. \nIn Windows 8.1, placeholders, also called smart files, let users see all of their files stored on OneDrive, whether those files were stored on the device or not. \nThis feature was removed from Windows 10 but is now due to be bought back in Windows 10 File Explorer when browsing OneDrive. The returning feature will work in a similar fashion to Windows 8.1's placeholders, showing users files both stored locally and on OneDrive, allowing them to download files and folders to the device and keep them in sync with OneDrive Image: Microsoft Orchestrate Windows apps using Linux tools \nMicrosoft recently updated Windows 10 to let users run a range of Linux tools from inside the OS and seems committed to continuing to improve support for Linux command-line software in Windows . \nIn Windows 10, Ubuntu/Linux software runs on top of the Windows Subsystem for Linux (WSL). Users run Linux software and issue commands at the command line via the Bash shell. \nMicrosoft is working to increase the range of commands that can be run via the shell but perhaps the most significant change on the horizon is increased interoperability between the Bash and Windows environments. Effectively this will let developers call Windows applications from within Bash -- allowing them to write a Bash script to automate a complex build that includes Windows applications -- and to invoke Bash applications from Windows PowerShell. \nThese changes will be generally available in Windows 10 after the Creators Update early next year . Image: Microsoft Easy communication with friends and family \nNext year's Creators Update will boost Windows 10's social credentials, with a series of changes to make it simpler to stay in touch and share content with friends and family. \nThe Windows MyPeople feature will allow users to pin their favorite contacts to the right-hand side of Windows taskbar. Clicking on a pinned contact's face brings up email or Skype messages from only that person and files can be dragged files to that person's face for quick sharing. Informal check-ins also become easier, with the Shoulder Taps feature allowing pinned contacts to send friends animated emojis and other clipart, which pop up above that contact's face on the taskbar. Image: Microsoft Focusing Windows around virtual and augmented reality \nMicrosoft plans to put 3D and virtual reality at the heart of Windows 10 , as it bets on the success of low-cost headsets due out next year. \nAcer, Asus, Dell, HP and Lenovo will release virtual reality head-mounted displays, with prices starting from $299. \nSome of these headsets will be released in March, to coincide with the release of the Windows 10 Creators Update, which will include various tools to simplify the creation and sharing of 3D content, including a new version of Microsoft Paint . \nIn a demo earlier this year , Microsoft showed how Windows 10 could work on virtual reality headsets, demonstrating a mock-up of a virtual space with a large TV screen and virtual shelves stocked with apps and 3D models, and with the Edge browser appearing as a large window in the wearer's view. \nAnother demo, this time using the far more expensive Microsoft HoloLens, showed Microsoft's Edge browser as a window in the user's vision, from which the demoer dropped actual-sized 3D models of stools from the furniture site Houzz around the room, in order to see what they looked like in real life. \nAllowing Windows to function in this way is Windows Holographic, a variant of the Microsoft OS that provides a platform for virtual and augmented reality headsets to run Universal Windows Platform apps. \nMore detail on Microsoft's VR and AR plans are expected this week at the WinHEC conference in China. Image: Microsoft Better battery life \nWindows 10 PCs and tablets should have better battery life after the Creators Update lands in March, thanks to changes to how the OS is patched. \nThe steady stream of updates isn't going to slow down but they are going to suck up less bandwidth and reduce strain on phone and laptop batteries. \nDownload sizes for major updates will be cut by about 35 percent and battery life of Windows 10 mobile devices will improve, due to each device spending less time checking for updates. \nThe improvements will stem from Windows 10's new Unified Update Platform, already used for Windows 10 on phones, which only updates each device with the files it needs, rather than delivering all updates to date, and doesn't rely so heavily on the user's device to process update data. Windows Defender Application Guard \nComing to Windows 10 Enterprise users early next year, Windows Defender Application Guard is designed to help protect firms against online threats . \nThe new safeguard will add container-based isolation to Windows 10's Edge browser. \nApplication Guard will ensure that when Edge accesses a website not designated as trusted, the browser will be launched inside a container, a virtualized environment isolated from the rest of the Windows OS. \nIf the site tries to download and run malicious code on the device, that code remains within the container, unable to permanently compromise the Windows device or the wider network, and disappears when the browser session shuts down. \nUnlike the software-based sandboxes that are offered by other browsers, Microsoft says that Application Guard provides a hardware-based container that offers greater protection to the device. Image: Microsoft Home Hub \nRather than building hardware to challenge voice-controlled virtual assistants such as Amazon Echo and Google Home, it seems as if Microsoft is working on transforming Windows 10 into what it calls a Home Hub. \nEvidence of this shift comes from a Windows Central interview with unnamed sources . These sources claim that Home Hub will turn Windows into a shared computing environment for the home, allowing family members to more easily share calendars, apps and services. \nA future-gazing Microsoft video from 2013, dug out by ZDNet's Mary Jo Foley, shows how this system might eventually work. In it, family members share access to photos, apps and calendars on a screen attached to a wall and interact with computers around the home, for example scanning carrots to find appropriate recipes. Adding credence to the Home Hub rumor are references to Home Hub being a shared family account in Windows 10 discovered by Twitter user WalkingCat . \nZDNet's Foley also references a recent Microsoft job posting for a software engineer in the Windows and Devices Group to work on helping expand Windows' \"family\" credentials. \nThe ad is seeking someone to play a critical role in helping families to \"share pictures, videos, applications, games, and other purchases easily\" and to \"to communicate freely and stay in touch\" in Windows 10. Image: Microsoft Blue light reduction \nOne more unconfirmed new feature appears to be aimed at helping Windows 10 users get a good night's sleep. \nBeing exposed to blue light from computer screens late at night can supposedly disrupt the body's sleep cycle. \nTo counter this disturbance, Windows 10 already has f.lux software that reduces blue light emitted by screens close to bedtime. \nBut it seems that Microsoft may be working on its own feature to address the issue. \nTwitter user Core has discovered references to \"BlueLightReduction\" hidden within early builds of the OS being tested under the Windows Insider Program, a setting which appears as if would be toggled from Windows 10's Action Center. Image: Getty Images/iStockphoto/scyther5",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "foley",
+            "sentiment": "none"
+          },
+          {
+            "name": "mary jo foley",
+            "sentiment": "none"
+          },
+          {
+            "name": "lumia",
+            "sentiment": "none"
+          },
+          {
+            "name": "joe belfiore",
+            "sentiment": "none"
+          },
+          {
+            "name": "belfiore",
+            "sentiment": "none"
+          },
+          {
+            "name": "getty images/istockphoto/scyther5",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "microsoft",
+            "sentiment": "positive"
+          },
+          {
+            "name": "action center",
+            "sentiment": "none"
+          },
+          {
+            "name": "skype",
+            "sentiment": "none"
+          },
+          {
+            "name": "lenovo",
+            "sentiment": "none"
+          },
+          {
+            "name": "microsoft build developer conference",
+            "sentiment": "none"
+          },
+          {
+            "name": "application guard",
+            "sentiment": "none"
+          },
+          {
+            "name": "zdnet",
+            "sentiment": "none"
+          },
+          {
+            "name": "asus",
+            "sentiment": "none"
+          },
+          {
+            "name": "amazon echo",
+            "sentiment": "none"
+          },
+          {
+            "name": "devices group",
+            "sentiment": "none"
+          },
+          {
+            "name": "winhec",
+            "sentiment": "none"
+          },
+          {
+            "name": "acer",
+            "sentiment": "none"
+          },
+          {
+            "name": "home hub",
+            "sentiment": "none"
+          },
+          {
+            "name": "dell",
+            "sentiment": "none"
+          },
+          {
+            "name": "google home",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "taskbar",
+            "sentiment": "none"
+          },
+          {
+            "name": "china",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-06T18:59:41.412+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "d1b518426d7e18469e72666fba74917dec9c690c",
+        "url": "http://omgili.com/ri/.wHSUbtEfZRXZf_GqEtqZq3thqVOJGTa09PjlDPPlLVrDJYG4rkBydbPZS.QZvq3or4q59pGYyyMTeDBPDQ9X6L4opjjVaM1",
+        "site_full": "packetstormsecurity.com",
+        "site": "packetstormsecurity.com",
+        "site_section": "https://rss.packetstormsecurity.com/files",
+        "site_categories": [
+          "tech"
+        ],
+        "section_title": "Files ≈ Packet Storm",
+        "title": "Microsoft Edge CBase-Scriptable::Private-Query-Interface Memory Corruption",
+        "title_full": "Microsoft Edge CBase-Scriptable::Private-Query-Interface Memory Corruption",
+        "published": "2016-12-06T09:22:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 95804,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "d1b518426d7e18469e72666fba74917dec9c690c",
+      "url": "http://omgili.com/ri/.wHSUbtEfZRXZf_GqEtqZq3thqVOJGTa09PjlDPPlLVrDJYG4rkBydbPZS.QZvq3or4q59pGYyyMTeDBPDQ9X6L4opjjVaM1",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-12-06T09:22:00.000+02:00",
+      "title": "Microsoft Edge CBase-Scriptable::Private-Query-Interface Memory Corruption",
+      "text": "A specially crafted web-page can trigger a memory corruptionvulnerability in Microsoft Edge. I did not investigate thisvulnerability thoroughly, so I cannot speculate on the potential impactor exploitability.Known affected software and attack vectors An attacker would need to get a target user to open a specially crafted web-page. Disabling JavaScript does not prevent an attacker from triggering the vulnerable code path.DiscoveryThis issue was found through fuzzing in the 64-bit version of MicrosoftEdge, in which the original repro triggered what appeared to be a NULLpointer dereference in `CBaseScriptable::PrivateQueryInterface`. So,after a very brief look at the repro, I filed a bug in the public Edgebug tracker and published it on twitter as part of #DailyBug.Soon after, I found another repro that trigger a slightly different NULLpointer dereference in `CBaseScriptable::PrivateQueryInterface` in a64-bit version of Edge.I never tested the these two repros in a 32-bit version of Edge beforepublishing them, which I immediately regretted after finding that thesecond repro triggered an access violation using the obviously non-NULLaddress 0x1BF37D8 in a 32-bit version of Edge!Around this time, I started finding many variations of this bug: gettingthe type of various properties or objects associated with another windowwas triggering all kinds of access violations. Many of these were notusing NULL pointers on 32-bit Edge.I looked again at the original `crypto` repro and noticed that althoughit triggered an access violation using a NULL pointer on both 32-bit and64-bit versions of Edge, the two addresses (3 and 8 respectively) haddifferent alignment. This is rather odd: true NULL pointer dereferencescan cause an access violation at a different offset from NULL on thesetwo architectures because property values and pointers stored before theone being read/written can have different sizes on 32-bit and 64-bitsystems, but one usually expects them to have similar alignment: thelast two bits of the address should be the same.ReportIf only I had tested the original repro in a 32-bit version of Edge whenI first analyzed the issue, I might have realized it was more than asimple NULL pointer and not published it before doing additional research.I contacted ZDI and asked if they would be interested in buying thevulnerability at this point, given that I publicly released the reprothat triggered a NULL pointer and filed it with Microsoft. I was hopingthey would decide that this did not disclose the underlyingvulnerability and that it as such would still be a 0-day. Unfortunatelyfor me, they were not interested in acquiring details in this situation.At that point I decided to contact the Microsoft Security ResponseCenter and report the additional information I had found. I alsocontacted a few people working on the Edge team at Microsoft directly tolet them know they might want to escalate this bug from a simple NULLpointer to a security vulnerability. Unfortunately, this let them todecided to mark the bug I had filed in the Edge bug tracker as hidden. Iwarned them that this did little good, as the details were still publicin my twitter and even if I deleted that, in generalwhat goes on the internet stays on the internet.AnalysisSince I had publicly released the repro, I was not going to be seeingany kind of reward for this bug, so analyzing the issue was not apriority for me. Unfortunately that meant I did not analyze it at all,other than to speculate that this bug was likely to have been atype-confusion or bad cast, where assembled code was used as data,leading to most of these repros triggering an access violation at astatic address that depended on the code they were using as data. It maytherefore be possible to find a variation that uses code that representsan address in the address space of Edge where an attacker might storedata under his/her control. This is especially true for 32-bit Edge, asthe address space is a lot smaller. Depending on what the code does withthe address, it might be possible to execute arbitrary code underperfect circumstances.On Hiding bugs in public bug trackers Hiding a publicly reported bug after the fact is a very bad idea IMHO,as it paints an easy to detect target on the bug. Every smart attackershould have a system that makes regular copies of all publicly reportedbugs in target applications and reports to their owner all bugs thatbecome hidden, with a copy of all the information it scraped from thebug before it was hidden. Since hiding a public bug only ever happensfor one of two reasons: the bug was found to be a security issue, or thereport accidentally contains personal information that the owner wantshidden. It should be quite easy to distinguish between the two to filterout the vulnerabilities, giving an attacker a nearly free stream ofnearly 0-day bugs. If you work on a team that has a public bug-tracker,you may want to discuss this with your team and decided how to handlesuch situations.Conclusion",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "microsoft",
+            "sentiment": "positive"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-12-06T22:22:08.592+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "801bfd0c048388ae7bb18827646b5d5193e3eafd",
+        "url": "http://omgili.com/ri/2wGaacqxApta5AuBilIfGyi5QDJbhYABo0nzsu3jHOtH0KSObDvF6K5VQq02rhfARxZQEpwEX6EuYsADuG29mgpRw1T.N5beqoJIMsW.O2kLcgCr_1tu9Bq0cwkMbRCIxr.szFbb7L4-",
+        "site_full": "manhattan.backpage.com",
+        "site": "backpage.com",
+        "site_section": "http://manhattan.backpage.com/online/exports/Rss.xml?section=4378",
+        "site_categories": [
+          "business"
+        ],
+        "section_title": "backpage.com | buy, sell, trade | manhattan, ny",
+        "title": "Professional Microsoft Office Available $30",
+        "title_full": "Professional Microsoft Office Available $30",
+        "published": "2016-12-06T13:36:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 949,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "801bfd0c048388ae7bb18827646b5d5193e3eafd",
+      "url": "http://omgili.com/ri/2wGaacqxApta5AuBilIfGyi5QDJbhYABo0nzsu3jHOtH0KSObDvF6K5VQq02rhfARxZQEpwEX6EuYsADuG29mgpRw1T.N5beqoJIMsW.O2kLcgCr_1tu9Bq0cwkMbRCIxr.szFbb7L4-",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-12-06T13:36:00.000+02:00",
+      "title": "Professional Microsoft Office Available $30",
+      "text": "Need it right away? Leave a number • Location: Manhattan email to friend \nPlay it safe. Avoid Scammers . \nMost of the time, transactions outside of your local area involving money orders, cashier checks, wire transfers or shipping (especially overseas shipping) are scams or frauds. \nReport all scam attempts to .",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "microsoft",
+            "sentiment": "positive"
+          }
+        ],
+        "locations": [
+          {
+            "name": "manhattan",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-07T04:51:24.665+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "92f5a9eca9056ba48dac4459b245d30416dd5135",
+        "url": "http://omgili.com/ri/jHIAmI4hxg8EVH.n8APKnITyEk3zQwBuKfVqNSb3fbFluVHBoj_xETOosAYgcElSOELUEHM7TAyDnr0Auu8_yRQpXzcB0.0VwLPiQoqatvcISA2jLtBIhmrHfMXot1gmjsgIJYHlusK.cyHOt_YCcg--",
+        "site_full": "www.idigitaltimes.com",
+        "site": "idigitaltimes.com",
+        "site_section": "",
+        "site_categories": [
+          "news",
+          "entertainment"
+        ],
+        "section_title": "",
+        "title": "Xbox One Deal: Buy Console And Get Free Controller, Ubisoft Game Until Dec. 16",
+        "title_full": "Xbox One Deal: Buy Console And Get Free Controller, Ubisoft Game Until Dec. 16",
+        "published": "2016-12-06T07:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.068,
+        "main_image": "http://cdn.idigitaltimes.com/sites/idigitaltimes.com/files/2016/12/06/xbox-one-get-free-controller.jpg",
+        "performance_score": 0,
+        "domain_rank": 7623,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "92f5a9eca9056ba48dac4459b245d30416dd5135",
+      "url": "http://omgili.com/ri/jHIAmI4hxg8EVH.n8APKnITyEk3zQwBuKfVqNSb3fbFluVHBoj_xETOosAYgcElSOELUEHM7TAyDnr0Auu8_yRQpXzcB0.0VwLPiQoqatvcISA2jLtBIhmrHfMXot1gmjsgIJYHlusK.cyHOt_YCcg--",
+      "ord_in_thread": 0,
+      "author": "Natalie Barabash",
+      "published": "2016-12-06T07:00:00.000+02:00",
+      "title": "Xbox One Deal: Buy Console And Get Free Controller, Ubisoft Game Until Dec. 16",
+      "text": "Please agree to the terms and conditions. Email * \nMicrosoft is leveling up with a solid deal just in time for the holidays, “12 Days of Deals”. Starting Monday, Dec. 5, get a free controller and a free Ubisoft game with every purchase of an when you purchase an Xbox One or Xbox One S. This Xbox One plus free game and wireless controller bundle deal is available exclusively at the Microsoft Store . \nThe free Xbox One controller is normally priced at $60 and features with Bluetooth connection, increased wireless range and textured grip.And then there’s an added bonus of a free Ubisoft game as well. The list of eligible games are as follows: Assassin's Creed Syndicate ",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "microsoft",
+            "sentiment": "positive"
+          },
+          {
+            "name": "ubisoft",
+            "sentiment": "negative"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-12-07T11:29:13.958+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "8d43f5e6cb856cd526feda7419d94be670f38d2a",
+        "url": "http://omgili.com/ri/.wHSUbtEfZSv4DW_zUIMVghpJ5LHgcm85FlnP4A4e69jc6jQqFI6vJSWmGCMzzlulN1R8vsCZ5s-",
+        "site_full": "gamerant.com",
+        "site": "gamerant.com",
+        "site_section": "https://gamerant.com",
+        "site_categories": [
+          "tech"
+        ],
+        "section_title": "Game Rant",
+        "title": "Spencer: Project Scorpio Will Have Console Price Point",
+        "title_full": "Spencer: Project Scorpio Will Have Console Price Point",
+        "published": "2016-12-07T22:05:07.302+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": null,
+        "performance_score": 0,
+        "domain_rank": 10274,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "8d43f5e6cb856cd526feda7419d94be670f38d2a",
+      "url": "http://omgili.com/ri/.wHSUbtEfZSv4DW_zUIMVghpJ5LHgcm85FlnP4A4e69jc6jQqFI6vJSWmGCMzzlulN1R8vsCZ5s-",
+      "ord_in_thread": 0,
+      "author": "Boston Blake",
+      "published": "2016-12-07T22:05:07.302+02:00",
+      "title": "Spencer: Project Scorpio Will Have Console Price Point",
+      "text": "Xbox boss Phil Spencer reveals Microsoft’s Project Scorpio will sell at a console-level price point and won’t try to compete with higher-end gaming rigs. Since its announcement at E3 2016, gamers have been clamoring for more information about Microsoft’s Project Scorpio . The super-console is set to release holiday 2017, and looks to shake up the console scene, but there’s still only a few details available at the moment.\nOne of the most important, yet glaringly missing, details is the price for Project Scorpio . Granted, it’s not set to release for a whole year, so it’s likely Microsoft will continue to keep those details close to the vest, but thanks to a new statement from Xbox’s Phil Spencer, gamers have a better idea what to expect. Speaking with AusGamers , Spencer revealed that Microsoft is looking to keep the price of Project Scorpio in line with previous consoles. Spencer said:\n“When you talk to me about Scorpio, the term I use about the architecture isn’t the six teraflops which is obviously what we’ve announced, it’s balance. Really what it is, is you want a platform that is balanced between memory bandwidth, GPU power, you know, your ability to move memory and [an] amount of memory around in many ways is more inhibiting to the performance of your game than absolute teraflops on any one of the individual pieces, and when we designed Scorpio we really thought about this balanced rig that could come together at a price-point.\n“Like, I want Scorpio to be at a console price-point, I’m not trying to go and compete with a high-end rig. And because we’re building one spec, we’re able to look at the balance between all the components and make sure that it’s something we really hit that matters to consumers and gamers.”\n\nThis is all really good news for gamers on multiple levels. First, with Spencer specifying that Project Scorpio will maintain a console price-point, that means the cost shouldn’t rise above the $499 mark . That was the price of the Xbox One at launch, and while it was $100 more than the PlayStation 4 at launch, it still performed well during its initial sales season.\nAnother point of celebration is Microsoft’s focus on balance. As Spencer said, the team behind Project Scorpio isn’t looking to compete with high-end rigs, and for good reason. Steam Machines have tried to do that and have struggled significantly. There are too many benefits to PC gamers building their own gaming rigs, or buying pre-packaged gaming machines that can push out a great deal of power for gaming. If Project Scorpio tried to compete with those, it would obviously cost near what other machines cost, but be restricted to Xbox One games and apps.\nSo the fact that Xbox is looking to balance out Project Scorpio for the console market is good news. That also means that the company is looking to make Project Scorpio its flagship console for many years to come. At console-level pricing, that’s too good of a deal for many gamers to pass up.\nGranted, Spencer revealed previously that Xbox isn’t looking to leave behind any Xbox One consoles moving forward, so gamers won’t be expected to upgrade to the new console in order to keep up with new games. Rather, the impressive specs coming with Project Scorpio will allow gamers more opportunities for better graphics, including native 4K gaming , as well as more power for higher frame rates and other benefits. Each of these can be built into games for Project Scorpio without sacrificing the experience for Xbox One and Xbox One S players. Just as most PC games have minimum spec requirements, but allow higher-end rigs to play at higher graphics and frame rates, Project Scorpio will presumptively do the same for console players.\n\nAdditionally, the 6 teraflops of computing power will come in handy for virtual reality, which is expanding rapidly in the gaming market. In fact, Spencer recently claimed that Microsoft’s HoloLens is the “final destination” of virtual reality. There’s little doubt Xbox is looking to head that direction with Project Scorpio.\nBased on Spencer’s statement on Project Scorpio sticking to console-level pricing, gamers can look forward to a console that’s available for around $400 to $500 next holiday season. Granted, that’s still speculation until the official reveal from Microsoft, but seems to be a solid conclusion based on the information provided so far from Xbox.\nWhat do you think about Spencer’s comments on Project Scorpio’s pricing? Do you expect the price to rise above the $500 mark?\nProject Scorpio is set to release holiday 2017.",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "phil spencer",
+            "sentiment": "positive"
+          },
+          {
+            "name": "spencer",
+            "sentiment": "none"
+          },
+          {
+            "name": "scorpio",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "microsoft",
+            "sentiment": "positive"
+          },
+          {
+            "name": "steam machines",
+            "sentiment": "none"
+          },
+          {
+            "name": "project scorpio",
+            "sentiment": "none"
+          },
+          {
+            "name": "gpu",
+            "sentiment": "none"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-12-07T22:05:07.302+02:00"
+    }
+  ],
+  "totalResults": 31,
+  "moreResultsAvailable": 0,
+  "next": "/search?token=c6052904-f312-436b-a6d8-d915084ac866&format=json&ts=1481141107302&q=language%3A%28english%29+thread.country%3AUS+organization.positive%3A%22Microsoft%22",
+  "requestsLeft": 532
+}

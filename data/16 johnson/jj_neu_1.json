@@ -1,0 +1,1108 @@
+{
+  "posts": [
+    {
+      "thread": {
+        "uuid": "f07a736823f8c07d03bedc9a17cb96582c662867",
+        "url": "http://omgili.com/ri/2wGaacqxApvQboY7on5a1l9L3GcBODsgg0QtL0JzN42dstbhyvXj.vUh0ZQBk_AHdFHbANImhr5hOeKg2YjlK9CpcNDIAgn_rv4KztiqGh0rbHLm0MGpnu9HQradZRu1uVuA.3oA.ENyNRZuuiQXMrX.PqoAjTwKgajZm8wLrN_jen_Ta.ZFVMwGfYFH0kZge4pA_VjXUh_kIJq7xsYa2Vxf26_Nc9TdQyf6CRKgE9B9X3Gt5Luz8kkNLnU__DD0",
+        "site_full": "markets.financialcontent.com",
+        "site": "financialcontent.com",
+        "site_section": "http://finance.dailyherald.com/dailyherald/action/rssfeed?ChannelID=3197",
+        "site_categories": [
+          "finance",
+          "business"
+        ],
+        "section_title": "PR Newswire",
+        "title": "British Artificial Intelligence Firm Announces Exclusive License Agreement with Janssen for Clinical Stage Drug Candidates, Facilitated by Johnson & Johnson Innovation",
+        "title_full": "British Artificial Intelligence Firm Announces Exclusive License Agreement with Janssen for Clinical Stage Drug Candidates, Facilitated by Johnson & Johnson Innovation",
+        "published": "2016-11-08T13:16:24.566+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 86243,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "f07a736823f8c07d03bedc9a17cb96582c662867",
+      "url": "http://omgili.com/ri/2wGaacqxApvQboY7on5a1l9L3GcBODsgg0QtL0JzN42dstbhyvXj.vUh0ZQBk_AHdFHbANImhr5hOeKg2YjlK9CpcNDIAgn_rv4KztiqGh0rbHLm0MGpnu9HQradZRu1uVuA.3oA.ENyNRZuuiQXMrX.PqoAjTwKgajZm8wLrN_jen_Ta.ZFVMwGfYFH0kZge4pA_VjXUh_kIJq7xsYa2Vxf26_Nc9TdQyf6CRKgE9B9X3Gt5Luz8kkNLnU__DD0",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-11-08T13:16:24.566+02:00",
+      "title": "British Artificial Intelligence Firm Announces Exclusive License Agreement with Janssen for Clinical Stage Drug Candidates, Facilitated by Johnson & Johnson Innovation",
+      "text": "By: BenevolentAI via PR Newswire   06:03 AM EST British Artificial Intelligence Firm Announces Exclusive License Agreement with Janssen for Clinical Stage Drug Candidates, Facilitated by Johnson & Johnson Innovation \nLONDON , November 8, 2016 /PRNewswire/ -- \nBenevolentAI, a leading British artificial intelligence (\"AI\") company today announced significant progress in one of its key ambitions; to improve and innovate the drug development process using AI technology and provide the best medicines to the right patients. BenevolentAI has signed an exclusive license for a series of novel clinical stage drug candidates with Janssen Pharmaceutica NV (\"Janssen\"), one of the Janssen Pharmaceutical Companies of Johnson & Johnson. The agreement was facilitated by the Johnson & Johnson Innovation Centre in London . \nBenevolentAI has acquired a license to a select number of novel clinical stage drug candidates and their extensive related portfolio of patents. BenevolentAI scientists leveraged the AI technology to evaluate the potential of these small molecule compounds. The results indicate that there is strong promise to develop new medicines for hard to treat diseases. \nUnder the terms of the license agreement, BenevolentAI will have the sole right to develop, manufacture and commercialise these novel drug candidates in all indications and in all territories. This agreement will enable BenevolentAI to accelerate its development pipeline and use its unique artificial intelligence technology to explore and provide a rich source of clinical data. BenevolentAI intends to begin late stage Phase IIb clinical trials in mid 2017. Financial terms were not disclosed. \nJackie Hunter , Board Director of BenevolentAI and CEO of BenevolentAI Bio, commented: \n\"We are delighted to have acquired rights to these compounds under a license agreement from Janssen. The agreement adds further depth to our clinical and pre-clinical development pipeline and marks a very exciting time for the role of artificial intelligence to benefit scientific discovery and humanity. The compounds come with a wealth of clinical and biological data that enables BenevolentAI to have further insights into the biology of diseases. Securing these novel clinical drug candidates perfectly aligns with our strategy of developing first-in-class and best-in-class stratified medicines to help patients with high unmet needs.\" \nSOURCE BenevolentAI Nasdaq quotes delayed at least 15 minutes, all others at least 20 minutes. By accessing this page, you agree to the following Press Release Service provided by PRConnect. Stock quotes supplied by Six Financial",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "janssen",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "jackie hunter",
+            "sentiment": "none"
+          },
+          {
+            "name": "benevolentai bio",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "johnson & johnson",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "johnson & johnson innovation centre",
+            "sentiment": "none"
+          },
+          {
+            "name": "johnson & johnson innovation",
+            "sentiment": "none"
+          },
+          {
+            "name": "janssen pharmaceutical companies of johnson & johnson",
+            "sentiment": "none"
+          },
+          {
+            "name": "janssen pharmaceutica nv",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "london",
+            "sentiment": "none"
+          },
+          {
+            "name": "london",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-11-08T13:16:24.566+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "cb056f41925c1647b0cfd3cd3097252a13e4638a",
+        "url": "http://omgili.com/ri/jHIAmI4hxg_lXD5cNG56Yn7FsrOQ2Z2qbAG7YmvLHoIbRXgyVM8V0x5BCb5Ll3evfpHfqvMlc5qxbHQCLYTBWLJcDuLDKxQhRZk7qa8tTA_zfFyFqzY5.n7hql7cXUB9_S6eu6fEEyc1RicXNDahXA--",
+        "site_full": "www.fool.com",
+        "site": "fool.com",
+        "site_section": "http://feeds-project.fool.com/feeds/foolwatch",
+        "site_categories": [
+          "news"
+        ],
+        "section_title": "Motley Fool Headlines",
+        "title": "Better Buy: Amgen Inc. vs. Johnson & Johnson",
+        "title_full": "Better Buy: Amgen Inc. vs. Johnson & Johnson",
+        "published": "2016-11-08T18:33:16.086+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": null,
+        "performance_score": 0,
+        "domain_rank": 1336,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "cb056f41925c1647b0cfd3cd3097252a13e4638a",
+      "url": "http://omgili.com/ri/jHIAmI4hxg_lXD5cNG56Yn7FsrOQ2Z2qbAG7YmvLHoIbRXgyVM8V0x5BCb5Ll3evfpHfqvMlc5qxbHQCLYTBWLJcDuLDKxQhRZk7qa8tTA_zfFyFqzY5.n7hql7cXUB9_S6eu6fEEyc1RicXNDahXA--",
+      "ord_in_thread": 0,
+      "author": "newsfeedback@fool.com (Keith Speights)",
+      "published": "2016-11-08T18:33:16.086+02:00",
+      "title": "Better Buy: Amgen Inc. vs. Johnson & Johnson",
+      "text": "They're two of the premiere long-term winners among healthcare stocks. They both have deep pipelines and deep pocketbooks. And they both reward investors with nice dividends. The track records of Amgen (NASDAQ: AMGN) and Johnson & Johnson (NYSE: JNJ) so far in 2016, however, have been quite different. Amgen's shares are down, while J&J's shares are up. Which of these two stocks is the better choice for investors now?\n\nImage source: Getty Images.\nContinue reading ",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "johnson & johnson",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "amgen inc.",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "j&j",
+            "sentiment": "none"
+          },
+          {
+            "name": "getty images",
+            "sentiment": "none"
+          },
+          {
+            "name": "amgen",
+            "sentiment": "none"
+          },
+          {
+            "name": "nyse",
+            "sentiment": "none"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-11-08T18:33:16.086+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "fdd5567baf3e286518bcb38bdda0285df8bf1d6b",
+        "url": "http://omgili.com/ri/jHIAmI4hxg.T0DNHlli6jnaLcn23r7oPthSnAKbHmQ7SprHRx0L79rv1cfXE7VuJK6FDQJUsQjuOsJ8gdbH4pQ1ipKIIY8IS_n2v6fUmWj3mqoQMdp0kXTbvMjMI5HgBXNPTlIXXhrQUkaM2dZw7pAop2QmhB85s0ughyn7RDWi3NbKm6o0uoa68bTjSDrTWO1RW4uuhpzr6JMECEiAy4YWobY8siLkWyjKxdZWmjx3PmbmCmT3i7Q--",
+        "site_full": "www.insidermonkey.com",
+        "site": "insidermonkey.com",
+        "site_section": "http://www.insidermonkey.com/blog",
+        "site_categories": [
+          "news",
+          "finance",
+          "business"
+        ],
+        "section_title": "Insider Monkey – Free Hedge Fund and Insider Trading Data",
+        "title": "Johnson & Johnson (JNJ), ACADIA Pharmaceuticals Inc. (ACAD): Healthcare Experts at March Altus Like These and Other Healthcare Stocks’ Prospects",
+        "title_full": "Johnson & Johnson (JNJ), ACADIA Pharmaceuticals Inc. (ACAD): Healthcare Experts at March Altus Like These and Other Healthcare Stocks’ Prospects",
+        "published": "2016-11-15T22:25:33.186+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "blogs",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": null,
+        "performance_score": 0,
+        "domain_rank": 14416,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "fdd5567baf3e286518bcb38bdda0285df8bf1d6b",
+      "url": "http://omgili.com/ri/jHIAmI4hxg.T0DNHlli6jnaLcn23r7oPthSnAKbHmQ7SprHRx0L79rv1cfXE7VuJK6FDQJUsQjuOsJ8gdbH4pQ1ipKIIY8IS_n2v6fUmWj3mqoQMdp0kXTbvMjMI5HgBXNPTlIXXhrQUkaM2dZw7pAop2QmhB85s0ughyn7RDWi3NbKm6o0uoa68bTjSDrTWO1RW4uuhpzr6JMECEiAy4YWobY8siLkWyjKxdZWmjx3PmbmCmT3i7Q--",
+      "ord_in_thread": 0,
+      "author": "Raymond Jones",
+      "published": "2016-11-15T22:25:33.186+02:00",
+      "title": "Johnson & Johnson (JNJ), ACADIA Pharmaceuticals Inc. (ACAD): Healthcare Experts at March Altus Like These and Other Healthcare Stocks’ Prospects",
+      "text": "March Altus Capital Management is a Connecticut-based long/short equity hedge fund that primarily invests in healthcare stocks. The fund was started in 2012 by Neil Shah, a former healthcare manager at Shumway Capital Partners. According to March Altus Capital Management’s latest 13F filing,...\n\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]] ",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "neil shah",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "altus capital management",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "johnson & johnson",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "acadia pharmaceuticals inc.",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "shumway capital partners",
+            "sentiment": "none"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-11-15T22:25:33.186+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "7958759ee9464480075ee5293be54bdedefac4c3",
+        "url": "http://omgili.com/ri/_0JOtn.4SCr0IatGYP6KK8rPGcJZmfSpt0g3p5XAbAwOO837yo5r7EVR9FHPLyGbEDQiTTqkpGUN7hUAtCPe4rhnUzcYs8KpnqYueaLwEC3lAz.bb8XtNI38bkZVsPLmtu5xL6iHqtB37rOgVn6KReIqLUErrQLwe8fe1ajBWwBjzIiI_jWQteYKAt5zQK7EoD_nOyxCXMKZhvCeQ4zASsOebGg3DePtw9Ah0hIxeaJC.HxNhuH9CWPQLmqoxa0W",
+        "site_full": "beforeitsnews.com",
+        "site": "beforeitsnews.com",
+        "site_section": "http://beforeitsnews.com/home/featuredlist/top_health.html",
+        "site_categories": [
+          "news",
+          "education"
+        ],
+        "section_title": "Health | Featured List ",
+        "title": "Systemic Psoriasis Therapeutics Market 2016-2020- Analysis, Trends, Challenges, Drivers, Exhibits-Key Vendors are AbbVie,Celgene,Johnson & Johnson",
+        "title_full": "Systemic Psoriasis Therapeutics Market 2016-2020- Analysis, Trends, Challenges, Drivers, Exhibits-Key Vendors are AbbVie,Celgene,Johnson & Johnson | Health",
+        "published": "2016-11-22T21:57:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.054,
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 6659,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "7958759ee9464480075ee5293be54bdedefac4c3",
+      "url": "http://omgili.com/ri/_0JOtn.4SCr0IatGYP6KK8rPGcJZmfSpt0g3p5XAbAwOO837yo5r7EVR9FHPLyGbEDQiTTqkpGUN7hUAtCPe4rhnUzcYs8KpnqYueaLwEC3lAz.bb8XtNI38bkZVsPLmtu5xL6iHqtB37rOgVn6KReIqLUErrQLwe8fe1ajBWwBjzIiI_jWQteYKAt5zQK7EoD_nOyxCXMKZhvCeQ4zASsOebGg3DePtw9Ah0hIxeaJC.HxNhuH9CWPQLmqoxa0W",
+      "ord_in_thread": 0,
+      "author": "beforeitsnews.com",
+      "published": "2016-11-22T21:57:00.000+02:00",
+      "title": "Systemic Psoriasis Therapeutics Market 2016-2020- Analysis, Trends, Challenges, Drivers, Exhibits-Key Vendors are AbbVie,Celgene,Johnson & Johnson",
+      "text": "(Before It's News)\nSystemic Psoriasis Therapeutics Market report 2016-2020 provides forecast and analysis of the Systemic Psoriasis Therapeutics industry on global and regional level. The report provides historic data with forecast from 2016 to 2020 based on volume and revenue. It includes drivers and restraints of the Systemic Psoriasis Therapeutics market along with their impact on demand during the forecast period. The report also comprises the study of opportunities available in the market for Systemic Psoriasis Therapeutics on the global and regional level. The Systemic Psoriasis Therapeutics market research is a professional and in-depth study on the current state of Systemic Psoriasis Therapeutics Industry.\nAnalysts forecast the Global Systemic Psoriasis Therapeutics Market to grow at a CAGR of 9.41 % during the period 2016-2020.\nAbout Systemic Psoriasis Therapeutics:\nPsoriasis is a commonly diagnosed immune-mediated disease of the skin. In psoriasis, the skin grows fast and causes a build-up of red, thick white, or silvery patches. It modifies the normal cell cycle of the skin such that new cells move to the surface of the skin quickly to form patches called plaques. These plaques are commonly found on the knees, elbows, scalp, hand and feet. The condition mostly occurs among adults (18 years-35 years), but can also be seen in adolescents (12 years-18 years) and children (under 10 years).\nPsoriasis is more prevalent among Caucasians compared to African-Americans. According to a World Health Organization (WHO) document of 2015, the global prevalence of psoriasis is approximately 2%-3%. However, it is approximately 4.6% in developed countries. In addition, the risk of an individual getting diagnosed with psoriasis is 41% if both parents have psoriasis, 14% in case one parent is affected, and 6% if a sibling has psoriasis.\nBrowse More Detailed Information about Global Systemic Psoriasis Therapeutics Market Research Report @ http://www.360marketupdates.com/10292810\nThe report provides a basic overview of the Systemic Psoriasis Therapeutics Market 2016-2020 including definitions, classifications, applications and market Sales chain structure. The Systemic Psoriasis Therapeutics Market 2016-2020 report enlists several important factors, starting from the basics to advanced market intelligence which play a crucial part in strategizing.\nMarket driver\n• Dominance of market by biologics\n• For a full, detailed list, view our report\nMarket challenge\n• Physician’s reluctance to prescribe biosimilars\n• For a full, detailed list, view our report\nMarket trend\n• Advent of biologics with novel MOA and cell-based strategies\n• For a full, detailed list, view our report\nSystemic Psoriasis Therapeutics Market report provides more drivers, challenges, trend with impact of drivers and challenges on market. Also Systemic Psoriasis Therapeutics Market research report covers the present scenario and the growth prospects of the global Systemic Psoriasis Therapeutics industry for 2016-2020.\nGet Sample PDF of Systemic Psoriasis Therapeutics Market Report@ http://www.360marketupdates.com/enquiry/request-sample/10292810\nSystemic Psoriasis Therapeutics market report provides key statistics on the market status of the Systemic Psoriasis Therapeutics manufacturers and is a valuable source of guidance and direction for companies and individuals interested in the Systemic Psoriasis Therapeutics industry.\nThe Systemic Psoriasis Therapeutics market report gives the vendor landscape and detailed analysis of the major vendors operating in the market. The market is characterized by the presence of several established international Systemic Psoriasis Therapeutics manufacturers who generate revenues through both direct and indirect sales. Vendor competition in the market is intense and vendors usually compete on the basis of product features, price, customized solutions, and services offered.\nKey Vendors of Systemic Psoriasis Therapeutics Market:\n• AbbVie\n• Johnson & Johnson\n• Celgene\n• Amgen\n• Pfizer\nAnd many more…\nWell-known Systemic Psoriasis Therapeutics companies mainly focus on expanding their geographical reach, increasing production capacities, and upselling products by upgrading the existing ones. Also, manufacturers are solely responsible for the integration of systems, testing, and commercializing these products into the market.\nPurchase Report @ http://www.360marketupdates.com/purchase/10292810\nGeographical Segmentation and Analysis of the Systemic Psoriasis Therapeutics Market:\n• Americas\n• APAC\n• EMEA\nKey questions answered in Systemic Psoriasis Therapeutics market report:\nWhat will the market size be in 2020 and what will the growth rate be? What are the key market trends? What is driving this market? What are the challenges to market growth? Who are the key vendors in this market space? What are the market opportunities and threats faced by the key vendors? What are the strengths and weaknesses of the key vendors? For Any Query, Contact Our Expert @ http://www.360marketupdates.com/enquiry/pre-order-enquiry/10292810\nThe report gives all the answer related to Systemic Psoriasis Therapeutics market development trends. Report having detailed analysis of upstream raw materials, downstream demand, and current market dynamics is also carried out. In the end, the report makes some important proposals for a new project of Systemic Psoriasis Therapeutics Market 2016-2020 Industry before evaluating its feasibility. Overall, the report provides an in-depth insight of 2016-2020 global Systemic Psoriasis Therapeutics Market covering all important parameters.\nPrice of Report: $2500 (Single User License)\nAsk for Discount @ http://www.360marketupdates.com/enquiry/request-discount/10292810\nDetailed TOC Included in Global Systemic Psoriasis Therapeutics Industry 2016-2020\n• Executive summary\n• Scope of the report\n• Market research methodology\n• Introduction\n• Market landscape\n• Market drivers\n• Impact of drivers\n• Market challenges\n• Impact of drivers and challenges\n• Market trends\n• Market segmentation by application\n• Geographical segmentation\n• Vendor landscape\n• Key vendor analysis\nList of Exhibits in Systemic Psoriasis Therapeutics market report:\nExhibit 01: Product offerings Exhibit 02: Impact of drivers Exhibit 03: Impact of drivers and challenges Exhibit 04: Key countries in each region Exhibit 05: Global Systemic Psoriasis Therapeutics market shares by geographies 2015 Exhibit 06: Global Systemic Psoriasis Therapeutics market shares by geographies 2020 Exhibit 07: Geographical segmentation by revenue 2015 And continued…\nAbout 360 Market Updates:\n360 Market Sales Updates is the credible source for gaining the market research reports that will exponentially accelerate your business. We are among the leading report resellers in the business world committed towards optimizing your business. The reports we provide are based on a research that covers a magnitude of factors such as technological evolution, economic shifts and a detailed study of market segments.\nContact–\nMr. Ameya Pingaley\n360 Market Sales Updates\n+1 408 520 9750\nEmail – sales@360Marketupdates.com",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [
+        "http://www.360marketupdates.com/10292810",
+        "http://www.360marketupdates.com/enquiry/pre-order-enquiry/10292810",
+        "http://www.360marketupdates.com/purchase/10292810",
+        "http://www.360marketupdates.com/enquiry/request-discount/10292810",
+        "http://www.360marketupdates.com/enquiry/request-sample/10292810"
+      ],
+      "entities": {
+        "persons": [
+          {
+            "name": "ameya pingaley",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "celgene",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "johnson & johnson",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "world health organization",
+            "sentiment": "none"
+          },
+          {
+            "name": "apac",
+            "sentiment": "none"
+          },
+          {
+            "name": "amgen",
+            "sentiment": "none"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-11-23T01:00:01.949+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "fb57416124d7cb9daafddafcc00edb0b259906ae",
+        "url": "http://omgili.com/ri/7aBdisT0NOrO1_KRh30qwogLBAUlEvcqid9xGeFh8PgYb0ZqtkOU1ski5Yd5UP0ys3Fr0FOPLKrbfAr3_IfExPInPX7dKwCNk3UsMw106JV0WmViMQTW_mTjon28RCXJApmFPGuDIKg-",
+        "site_full": "seekingalpha.com",
+        "site": "seekingalpha.com",
+        "site_section": "http://seekingalpha.com/feed.xml",
+        "site_categories": [
+          "business"
+        ],
+        "section_title": "All Articles on Seeking Alpha",
+        "title": "Johnson & Johnson Back At It Again? In Discussions To Acquire Actelion Ltd.",
+        "title_full": "Johnson & Johnson Back At It Again? In Discussions To Acquire Actelion Ltd.",
+        "published": "2016-11-27T00:14:19.731+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "https://staticseekingalpha.a.ssl.fastly.net/images/marketing_images/health_medical/health_stock_graph_2.jpeg",
+        "performance_score": 0,
+        "domain_rank": 1432,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 146
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "fb57416124d7cb9daafddafcc00edb0b259906ae",
+      "url": "http://omgili.com/ri/7aBdisT0NOrO1_KRh30qwogLBAUlEvcqid9xGeFh8PgYb0ZqtkOU1ski5Yd5UP0ys3Fr0FOPLKrbfAr3_IfExPInPX7dKwCNk3UsMw106JV0WmViMQTW_mTjon28RCXJApmFPGuDIKg-",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-11-27T00:14:19.731+02:00",
+      "title": "Johnson & Johnson Back At It Again? In Discussions To Acquire Actelion Ltd.",
+      "text": "Johnson & Johnson Back At It Again? In Discussions To Acquire Actelion Ltd. Nov.26.16 Summary \nActelion is a Swiss pharmaceutical company that has captured the eye of Johnson & Johnson. \nActelion features a portfolio with drug offerings that still have room to expand in the global market. \nJohnson & Johnson would benefit from an acquisition as it looks to hedge against the risk of biosimilars drawing revenue from its blockbuster drug Remicade. \nJohnson & Johnson has the cash and credit resources to seamlessly pull off such a deal. Early Friday morning, it became public that Johnson & Johnson (NYSE: JNJ ) has approached Switzerland based biotech company Actelion Ltd. ( OTCPK:ALIOY ). Actelion is one of Europe's largest biotech pharmaceutical companies, currently valued with a market cap of just under $17B. It will generate revenues of about $2-2.5B in fiscal year 2016. Click to enlarge Source: Google finance Who is Actelion Ltd.? The Swiss pharmaceutical company operates its US operations out of San Francisco, CA, but is headquartered in Switzerland. Its product portfolio is headlined by a pair of drugs used to treat Pulmonary Arterial Hypertension (PAH) - which is a hypertension disorder that causes the artery walls in the lungs to tighten and stiffen. Click to enlarge Click to enlarge Just under 80% of sales for Actelion come from Opsumit and Tracleer. These two drugs are the likely primary reason for Johnson & Johnson's interest in acquiring Actelion. Actelion launched Uptravi in the US in January of 2016, which has resulted in a strong first half of fiscal year 2016. Operating income is up 11% over last year and product portfolio sales are up 13% due in large part to the Uptravi US launch. Actelion is also in late stage trials for numerous other drugs that provide potential portfolio diversity if final approvals are met. These late stage drugs would offer potential treatments for Multiple Sclerosis , Pediatric PAH , Eisenmenger Syndrome , and C.Diff.Colitis . Click to enlarge How would Johnson & Johnson benefit from a deal? In Actelion, Johnson & Johnson would be receiving a shot in the arm to its pharmaceutical division. Actelion's Opsumit and Uptravi still have room to grow as they are newer to the US and still not fully introduced globally. Tracleer is steady, although it is being cannibalized by Opsumit. The pipeline is filled with a handful of late stage projects that would further bolster growth upon approvals. In addition to the 4 drugs in Phase III trials, another 7 are in Phase II development at this time. Johnson & Johnson's pharma division has represented an increasing portion of company wide revenues over time. The pharma division now represents more than 40% of revenues, compared to its consumer and medical device divisions. Inside the pharma division a huge portion of revenues are made up of its main blockbuster drug Remicade. Source: Johnson & Johnson As illustrated above, Johnson & Johnson is in the process of diversifying its revenues to protect itself as biosimilars to Remicade are introduced into the market. The potential acquisition of Actelion is another step in that direction. How would Johnson & Johnson get it done? Johnson & Johnson is sitting on a mountain of cash of over $40B. Assuming Johnson & Johnson were to acquire Actelion for around $20-$21B - which would represent a 20% premium to its current market cap - Johnson & Johnson could fund the deal entirely in cash. This isn't likely as Johnson & Johnson probably wouldn't want to eat into its cash pile so aggressively. This is especially true as Johnson & Johnson would need to bring in cash from offshore, which, until a repatriation law is passed, would result in heavy federal taxes. A more likely method would be to partially fund the deal with debt since Johnson & Johnson is among the select few companies with a AAA credit rating. Debt could be raised for the deal at little to no interest. Conclusion Actelion is an interesting mix to the fold as Johnson & Johnson continues to build its pharmaceutical division and buffer itself from the loss of revenue from Remicade biosimilars. While it would be a huge deal for any company, few companies are as financially sound and well managed as Johnson & Johnson. Johnson & Johnson possesses the capital resources to pull off such a deal in a way that wouldn't negatively affect its balance sheet and would enhance its core earnings power moving forward. Note: All graphics provided by Actelion Ltd. unless otherwise noted. If you liked this article, please find my profile icon at the top of this page, and hit the \"Follow\" button. I enjoy engaging with those who comment, and am always looking for feedback that allows me to improve on the content I provide. As always, thanks for reading. Disclosure: I am/we are long JNJ. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article. Editor's Note: This article discusses one or more securities that do not trade on a major U.S. exchange. Please be aware of the risks associated with these stocks. About this article: Expand Author payment: $35 + $0.01/page view. Authors of PRO articles receive a minimum guaranteed payment of $150-500. Become a contributor »",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "johnson",
+            "sentiment": "none"
+          },
+          {
+            "name": "opsumit",
+            "sentiment": "none"
+          },
+          {
+            "name": "eisenmenger",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "johnson & johnson",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "acquire actelion ltd",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "pediatric pah",
+            "sentiment": "none"
+          },
+          {
+            "name": "actelion",
+            "sentiment": "none"
+          },
+          {
+            "name": "aaa",
+            "sentiment": "none"
+          },
+          {
+            "name": "johnson & johnson as",
+            "sentiment": "none"
+          },
+          {
+            "name": "assuming johnson & johnson",
+            "sentiment": "none"
+          },
+          {
+            "name": "actelion ltd.",
+            "sentiment": "none"
+          },
+          {
+            "name": "google",
+            "sentiment": "none"
+          },
+          {
+            "name": "nyse",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "opsumit",
+            "sentiment": "none"
+          },
+          {
+            "name": "san francisco",
+            "sentiment": "none"
+          },
+          {
+            "name": "us",
+            "sentiment": "none"
+          },
+          {
+            "name": "u.s.",
+            "sentiment": "none"
+          },
+          {
+            "name": "uptravi us",
+            "sentiment": "none"
+          },
+          {
+            "name": "europe",
+            "sentiment": "none"
+          },
+          {
+            "name": "ca",
+            "sentiment": "none"
+          },
+          {
+            "name": "uptravi",
+            "sentiment": "none"
+          },
+          {
+            "name": "switzerland",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-11-27T00:14:19.731+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "7ce8c7292ff64d274c4f90b1672b6dd9cd05edc3",
+        "url": "http://omgili.com/ri/8HG_hanVOKyZWWt1fkZVQTAdLyzd4WW0Lovbgo5DGGZ2OiluD6PezG_roD8Y0c.DnB2sW4Aa1PpqjnzAnZnisMHj4vIusC.V2BxpPi0o06p3DiTWR0AncLZzDZnY0MvCZCwbF0BqXrePX2sbgakU_NZtBC1n0mF.sbOFkhKmIkBX9P49msS9eQvv4F0Ur_Bmx588mRmY_WTX5Ns_h8GayutpbWH0HMGSeIThZ3ntgmYj1BXGiv4Xgg--",
+        "site_full": "prsync.com",
+        "site": "prsync.com",
+        "site_section": "http://prsync.com//rss/",
+        "site_categories": [
+          "business"
+        ],
+        "section_title": "PR sync",
+        "title": "Europe Urinary Slings Market Research Report 2016: Top Players like Coloplast, Covidien, Surgicraft, Cook Medical, Johnson & Johnson",
+        "title_full": "Europe Urinary Slings Market Research Report 2016: Top Players like Coloplast, Covidien, Surgicraft, Cook Medical, Johnson & Johnson",
+        "published": "2016-12-02T08:28:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 17518,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "7ce8c7292ff64d274c4f90b1672b6dd9cd05edc3",
+      "url": "http://omgili.com/ri/8HG_hanVOKyZWWt1fkZVQTAdLyzd4WW0Lovbgo5DGGZ2OiluD6PezG_roD8Y0c.DnB2sW4Aa1PpqjnzAnZnisMHj4vIusC.V2BxpPi0o06p3DiTWR0AncLZzDZnY0MvCZCwbF0BqXrePX2sbgakU_NZtBC1n0mF.sbOFkhKmIkBX9P49msS9eQvv4F0Ur_Bmx588mRmY_WTX5Ns_h8GayutpbWH0HMGSeIThZ3ntgmYj1BXGiv4Xgg--",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-12-02T08:28:00.000+02:00",
+      "title": "Europe Urinary Slings Market Research Report 2016: Top Players like Coloplast, Covidien, Surgicraft, Cook Medical, Johnson & Johnson",
+      "text": "1.4 Urinary Slings Market by Countries1.4.1 Germany Status and Prospect (2011-2021)1.4.2 France Status and Prospect (2011-2021)1.4.3 UK Status and Prospect (2011-2021)1.4.4 Russia Status and Prospect (2011-2021)1.4.5 Italy Status and Prospect (2011-2021)1.4.6 Spain Status and Prospect (2011-2021)1.4.7 Benelux Status and Prospect (2011-2021)1.5 Europe Market Size (Value and Volume) of Urinary Slings (2011-2021)1.5.1 Europe Urinary Slings Sales and Growth Rate (2011-2021)1.5.2 Europe Urinary Slings Revenue and Growth Rate (2011-2021)2 Europe Urinary Slings by Manufacturers, Type and Application2.1 Europe Urinary Slings Market Competition by Manufacturers2.1.1 Europe Urinary Slings Sales and Market Share of Key Manufacturers (2015 and 2016)2.1.2 Europe Urinary Slings Revenue and Share by Manufacturers (2015 and 2016) About Researchmoz Global Pvt. Ltd. \nResearchMoz.us features an exhaustive list of market research reports from hundreds of publishers worldwide. We boast a database spanning virtually every market category and an even more comprehensive collection of market research reports under these categories and sub-categories. The ResearchMoz.us team prides itself in being the chosen source for market research reports, report customizations services, and other ancillary services such as a Newsletter service and Corporate service for large organizations.",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "johnson & johnson",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "coloplast",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "cook medical",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "covidien",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "researchmoz global pvt. ltd",
+            "sentiment": "none"
+          },
+          {
+            "name": "prospect",
+            "sentiment": "none"
+          },
+          {
+            "name": "europe urinary slings",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "germany",
+            "sentiment": "none"
+          },
+          {
+            "name": "spain",
+            "sentiment": "none"
+          },
+          {
+            "name": "europe",
+            "sentiment": "none"
+          },
+          {
+            "name": "uk",
+            "sentiment": "none"
+          },
+          {
+            "name": "russia",
+            "sentiment": "none"
+          },
+          {
+            "name": "italy",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-02T08:33:49.975+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "1eefc0304b59ae267fa393dc1c101da54ccacab2",
+        "url": "http://omgili.com/ri/jHIAmI4hxg97PMoe4_1o9l_rQ5DwDzZjC.gtzDoxC6yDVeF8D9Dp7bQC8PfDrYCPLC8McToL6hDgS.y8E_p685oxn9XT9XXe_UULdM6awFbvB.eThNXEbQPoUpsvh_tyCc7tf.nUPxw-",
+        "site_full": "www.abcactionnews.com",
+        "site": "abcactionnews.com",
+        "site_section": "",
+        "site_categories": [
+          "news"
+        ],
+        "section_title": "",
+        "title": "Johnson & Johnson hit with $1B penalty for faulty hip implants - Story | abcactionnews.com | Tampa Bay News, Weather, Sports, Things To Do | WFTS-TV",
+        "title_full": "Johnson & Johnson hit with $1B penalty for faulty hip implants - Story | abcactionnews.com | Tampa Bay News, Weather, Sports, Things To Do | WFTS-TV",
+        "published": "2016-12-02T20:14:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.143,
+        "main_image": "http://sharing.abcactionnews.com/sharescnn/photo/2016/12/02/GettyImages-523886872_1480683218289_50794382_ver1.0_640_480.jpg",
+        "performance_score": 0,
+        "domain_rank": 49324,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "1eefc0304b59ae267fa393dc1c101da54ccacab2",
+      "url": "http://omgili.com/ri/jHIAmI4hxg97PMoe4_1o9l_rQ5DwDzZjC.gtzDoxC6yDVeF8D9Dp7bQC8PfDrYCPLC8McToL6hDgS.y8E_p685oxn9XT9XXe_UULdM6awFbvB.eThNXEbQPoUpsvh_tyCc7tf.nUPxw-",
+      "ord_in_thread": 0,
+      "author": "Eric Pfahler",
+      "published": "2016-12-02T20:14:00.000+02:00",
+      "title": "Johnson & Johnson hit with $1B penalty for faulty hip implants - Story | abcactionnews.com | Tampa Bay News, Weather, Sports, Things To Do | WFTS-TV",
+      "text": "Johnson & Johnson hit with $1B penalty for faulty hip implants 8:10 AM, Dec 2, 2016 3 hours ago Share Article CULVER CITY, CA - APRIL 24: Johnson & Johnson signage at Safe Kids Day 2016 presented by Nationwide at Smashbox Studios on April 24, 2016 in Los Angeles, California. (Photo by Jason Kempin/Getty Images for Safe Kids Worldwide) Jason Kempin Previous Next \nJohnson & Johnson was hit with a $1 billion penalty by a Texas jury after the company was found responsible for hiding problems with hip implants. \nA federal jury found the major pharmaceutical company responsible and awarded $30 million in actual damages for the six plaintiffs along with $1 billion in punitive damages, Bloomberg reported . \nThe company denied any wrongdoing and plans to appeal, according to the International Business Times . \nAbout 9,000 lawsuits have been filed against Johnson & Johnson after problems occurred with Pinnacle hip replacements. Patients have said the metal-on-metal hip replacements causes metal poisoning. The lawsuit claimed Johnson & Johnson knew about the problems but pushed sales for profit, according to Bloomberg. \nThe company's DePay unit, which makes the hips issued a statement saying the companies plan to appeal the decision. \n“We have no greater responsibility than to the patients who use our products, and our goal is to create medical innovations that help people live more active and comfortable lives,” said Mindy Tinsley, spokesperson for DePuy. “DePuy acted appropriately and responsibly in the design and testing of ULTAMET Metal-on-Metal, and the product is backed by a strong track record of clinical data showing reduced pain and restored mobility for patients suffering from chronic hip pain.” ",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "shar",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "mindy tinsley",
+            "sentiment": "none"
+          },
+          {
+            "name": "jason kempin/getty",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "johnson & johnson",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "wfts-tv johnson & johnson",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "tampa bay news",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "jason kempin previous next  johnson & johnson",
+            "sentiment": "none"
+          },
+          {
+            "name": "depuy",
+            "sentiment": "none"
+          },
+          {
+            "name": "bloomberg",
+            "sentiment": "none"
+          },
+          {
+            "name": "smashbox studios",
+            "sentiment": "none"
+          },
+          {
+            "name": "international business times",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "california",
+            "sentiment": "none"
+          },
+          {
+            "name": "texas",
+            "sentiment": "none"
+          },
+          {
+            "name": "culver city",
+            "sentiment": "none"
+          },
+          {
+            "name": "los angeles",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-02T21:29:12.167+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "55f7c0b874b3e21de588de44df1bac958274b2d8",
+        "url": "http://omgili.com/ri/jHIAmI4hxg9r4wcDioQY6cCEGgSOCeHI8bS8BQE4JLmGxxF5bYy39MPE3Qa4wQhZ_va7ZRkspOYGsabMIdgudPinLgZCCoF2KSSniQNnv4MgDmhN_OrAiEwQdq0q5dSAtjpyUykSLevNmrFPGBYP2v4luPkhfkaGclOYdPb5TPWzcYiJuM7GHPHpxHBmHM5hMA0ly.s60pmOlEa96zwNoL0CCL7RuP6AtaDgyW8P8PVC8bd3ii5AkHTOoOCB5XIR",
+        "site_full": "www.cbs8.com",
+        "site": "cbs8.com",
+        "site_section": "http://www.cbs8.com/category/48517/c",
+        "site_categories": [
+          "news",
+          "sports"
+        ],
+        "section_title": "Banking &amp; Financial Services - CBS News 8 - San Diego, CA News Station - KFMB Channel 8",
+        "title": "Fitbit, bluebird bio Inc., Johnson & Johnson, Skechers, and Diamond Offshore Drilling and more offer option-trading opportunities that offer returns of more than 20%",
+        "title_full": "Fitbit, bluebird bio Inc., Johnson & Johnson, Skechers, and Diamond Offshore Drilling and more offer option-trading opportunities that offer returns of more than 20% - CBS News 8 - San Diego, CA News Station - KFMB Channel 8",
+        "published": "2016-12-02T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.889,
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 40533,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "55f7c0b874b3e21de588de44df1bac958274b2d8",
+      "url": "http://omgili.com/ri/jHIAmI4hxg9r4wcDioQY6cCEGgSOCeHI8bS8BQE4JLmGxxF5bYy39MPE3Qa4wQhZ_va7ZRkspOYGsabMIdgudPinLgZCCoF2KSSniQNnv4MgDmhN_OrAiEwQdq0q5dSAtjpyUykSLevNmrFPGBYP2v4luPkhfkaGclOYdPb5TPWzcYiJuM7GHPHpxHBmHM5hMA0ly.s60pmOlEa96zwNoL0CCL7RuP6AtaDgyW8P8PVC8bd3ii5AkHTOoOCB5XIR",
+      "ord_in_thread": 0,
+      "author": "cbs8",
+      "published": "2016-12-02T02:00:00.000+02:00",
+      "title": "Fitbit, bluebird bio Inc., Johnson & Johnson, Skechers, and Diamond Offshore Drilling and more offer option-trading opportunities that offer returns of more than 20%",
+      "text": " InvestorsObserver\nCHICAGO , Dec. 2, 2016 /PRNewswire/ -- InvestorsObserver issues critical PriceWatch Alerts for BLUE, DO, FIT, JNJ, and SKX.\nTo see the high-return covered-call trades uncovered by InvestorsObserver's analysts, read the InvestorsObserver's PriceWatch Alert by selecting the corresponding link.\nBLUE: http://www.investorsobserver.com/pr/?stocksymbol=BLUE&prnumber=120220160 DO: http://www.investorsobserver.com/pr/?stocksymbol=DO&prnumber=120220160 FIT: http://www.investorsobserver.com/pr/?stocksymbol=fit&prnumber=120220160 JNJ: http://www.investorsobserver.com/pr/?stocksymbol=JNJ&prnumber=120220160 SKX: http://www.investorsobserver.com/pr/?stocksymbol=SKX&prnumber=120220160 (Note: You may have to copy this link into your browser then press the [ENTER] key.)\nInvestorsObserver's PriceWatch Alerts contain all the information needed to evaluate a new covered call, and/or a diagonal spread on the underlying stock. Each report has detailed explanations of the possible outcomes and risks for each trade, as well as an easy-to-read table that gives all the relevant metrics at a single glance.\nTo view the original version on PR Newswire, visit: http://www.prnewswire.com/news-releases/fitbit-bluebird-bio-inc-johnson--johnson-skechers-and-diamond-offshore-drilling-and-more-offer-option-trading-opportunities-that-offer-returns-of-more-than-20-300372097.html\n ",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [
+        "http://www.investorsobserver.com/pr/?stocksymbol=JNJ&prnumber=120220160",
+        "http://www.investorsobserver.com/pr/?stocksymbol=fit&prnumber=120220160",
+        "http://www.xmlnews.org/ns/",
+        "http://www.prnewswire.com/news-releases/fitbit-bluebird-bio-inc-johnson--johnson-skechers-and-diamond-offshore-drilling-and-more-offer-option-trading-opportunities-that-offer-returns-of-more-than-20-300372097.html",
+        "http://www.investorsobserver.com/pr/?stocksymbol=DO&prnumber=120220160",
+        "http://rt.prnewswire.com/rt.gif?NewsItemId=CG59513&Transmission_Id=201612020931PR_NEWS_USPR_____CG59513&DateId=20161202",
+        "http://www.investorsobserver.com/pr/?stocksymbol=BLUE&prnumber=120220160",
+        "http://www.investorsobserver.com/pr/?stocksymbol=SKX&prnumber=120220160"
+      ],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "diamond offshore drilling",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "bio inc.",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "johnson & johnson",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "skechers",
+            "sentiment": "neutral"
+          }
+        ],
+        "locations": [
+          {
+            "name": "chicago",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "crawled": "2016-12-02T23:21:19.002+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "1d3db44b207bf291a917061a00043246ca913306",
+        "url": "http://omgili.com/ri/8HG_hanVOKyZWWt1fkZVQTAdLyzd4WW0Lovbgo5DGGZ2OiluD6PezDCzkrbbQPIyB.aThK9TeA8UuZJh7bQqpaE62nIBjL3zKfbGTLHYQnbeTrSy6b4NQFdaYPSIaTq13UDEo8_rOqq0BwpVtM19sKFa6rWww2BwnaSV_Lsc.MMS85ZF3cSgn6dM1mZoF_9lD4KiKaP5oJ21slFVr.r9NUjyM0wEDL5ClVQNMl6Uf8SEstPbYWek0A--",
+        "site_full": "prsync.com",
+        "site": "prsync.com",
+        "site_section": "http://prsync.com//rss/",
+        "site_categories": [
+          "business"
+        ],
+        "section_title": "PR sync",
+        "title": "Global Anterior Cervical Fixation Devices Market to grow at a CAGR of 1.54% during the period 2016-2020: Key Vendors Stryker, NuVasive, Medtronic, Globus Medical, Johnson & Johnson",
+        "title_full": "Global Anterior Cervical Fixation Devices Market to grow at a CAGR of 1.54% during the period 2016-2020: Key Vendors Stryker, NuVasive, Medtronic, Globus Medical, Johnson & Johnson",
+        "published": "2016-12-06T08:23:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 17518,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "1d3db44b207bf291a917061a00043246ca913306",
+      "url": "http://omgili.com/ri/8HG_hanVOKyZWWt1fkZVQTAdLyzd4WW0Lovbgo5DGGZ2OiluD6PezDCzkrbbQPIyB.aThK9TeA8UuZJh7bQqpaE62nIBjL3zKfbGTLHYQnbeTrSy6b4NQFdaYPSIaTq13UDEo8_rOqq0BwpVtM19sKFa6rWww2BwnaSV_Lsc.MMS85ZF3cSgn6dM1mZoF_9lD4KiKaP5oJ21slFVr.r9NUjyM0wEDL5ClVQNMl6Uf8SEstPbYWek0A--",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2016-12-06T08:23:00.000+02:00",
+      "title": "Global Anterior Cervical Fixation Devices Market to grow at a CAGR of 1.54% during the period 2016-2020: Key Vendors Stryker, NuVasive, Medtronic, Globus Medical, Johnson & Johnson",
+      "text": "About Anterior Cervical Fixation Anterior cervical fixation is performed surgically to treat damaged/herniated discs that cause compression of spinal cord or nerve root. The surgery stabilizes the corresponding vertebrae, and the pain is decompressed by fixing the anterior fixation system with essential anterior plating, screws, and implants. Technavios analysts forecast the global anterior cervical fixation devices market to grow at a CAGR of 1.54% during the period 2016-2020. Download free Sample PDF report with TOC: http://www.researchmoz.us/enquiry.php?type=S&repid=816283 Covered in this report The report covers the present scenario and the growth prospects of the global anterior cervical fixation devices market for 2016-2020. To calculate the market size, the report considers the revenue generated from the sales of anterior cervical fixation devices to hospitals and ambulatory surgical centers (ASCs). The market is divided into the following segments based on geography: AmericasAPACEMEATechnavio's report, Global Anterior Cervical Fixation Devices Market 2016-2020, has been prepared based on an in-depth market analysis with inputs from industry experts. The report covers the market landscape and its growth prospects over the coming years. The report also includes a discussion of the key vendors operating in this market. Read All Healthcare Market Research Reports @ http://www.researchmoz.us/healthcare-market-reports-56.html Table of Content",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "globus medical",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "johnson & johnson",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "medtronic",
+            "sentiment": "neutral"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-12-06T08:31:56.672+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "f572717eb67a19fc7618b6b0bf5f3b81e5da297a",
+        "url": "http://omgili.com/ri/jHIAmI4hxg9BcPFu_4VOJxXOPE7_XaSqp9Z2h_C16MuFpAX6dnivotVMptyRlJ5ShhhdtG.VlPvGuEiqSS.833JoR8dXhdQH8gQYyEmmYiRCrrx_JM_zz6PYI1fyOfRk",
+        "site_full": "www.onenewspage.com",
+        "site": "onenewspage.com",
+        "site_section": "http://www.onenewspage.com/rss/latest/Markets.rss",
+        "site_categories": [
+          "news",
+          "entertainment",
+          "education"
+        ],
+        "section_title": "Latest Markets News on One News Page",
+        "title": "Better Buy: Johnson & Johnson vs. Eli Lilly",
+        "title_full": "Better Buy: Johnson & Johnson vs. Eli Lilly - One News Page",
+        "published": "2016-12-07T23:12:54.471+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "http://cdn.newsserve.net/ONPglobe128.png",
+        "performance_score": 0,
+        "domain_rank": 91686,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "f572717eb67a19fc7618b6b0bf5f3b81e5da297a",
+      "url": "http://omgili.com/ri/jHIAmI4hxg9BcPFu_4VOJxXOPE7_XaSqp9Z2h_C16MuFpAX6dnivotVMptyRlJ5ShhhdtG.VlPvGuEiqSS.833JoR8dXhdQH8gQYyEmmYiRCrrx_JM_zz6PYI1fyOfRk",
+      "ord_in_thread": 0,
+      "author": "onenewspage.com",
+      "published": "2016-12-07T23:12:54.471+02:00",
+      "title": "Better Buy: Johnson & Johnson vs. Eli Lilly",
+      "text": "Eli Lilly's Alzheimer’s program is a bust. Does the market’s overreaction make this Big Pharma stock more attractive than Johnson & Johnson 's right now?",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "eli lilly eli lilly",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "johnson & johnson",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "big pharma",
+            "sentiment": "neutral"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-12-07T23:12:54.471+02:00"
+    },
+    {
+      "thread": {
+        "uuid": "bd30965fd4bcb133ccd6b3323981c637afbec755",
+        "url": "http://omgili.com/ri/jHIAmI4hxg_lXD5cNG56Yn7FsrOQ2Z2qbAG7YmvLHoLx8eKxPyghytSXyYUYteBZ06kbJVBmARAH7yQZRjWpUJ6hDwAITJ8Ux5OZ4GWP7akDa3EbRP1AGA--",
+        "site_full": "www.fool.com",
+        "site": "fool.com",
+        "site_section": "http://www.fool.com/feeds/index.aspx?id=foolwatch&format=rss2",
+        "site_categories": [
+          "news"
+        ],
+        "section_title": "Motley Fool Headlines",
+        "title": "Better Buy: Johnson & Johnson vs. Eli Lilly",
+        "title_full": "Better Buy: Johnson & Johnson vs. Eli Lilly -- The Motley Fool",
+        "published": "2016-12-07T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "https://g.foolcdn.com/image/?url=http%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F420767%2Fgetty-images-better-buy-weighing-options.jpg&h=630&w=1200&op=resize",
+        "performance_score": 0,
+        "domain_rank": 1336,
+        "social": {
+          "facebook": {
+            "likes": 3,
+            "comments": 0,
+            "shares": 3
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 1
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "bd30965fd4bcb133ccd6b3323981c637afbec755",
+      "url": "http://omgili.com/ri/jHIAmI4hxg_lXD5cNG56Yn7FsrOQ2Z2qbAG7YmvLHoLx8eKxPyghytSXyYUYteBZ06kbJVBmARAH7yQZRjWpUJ6hDwAITJ8Ux5OZ4GWP7akDa3EbRP1AGA--",
+      "ord_in_thread": 0,
+      "author": "foxnews.com",
+      "published": "2016-12-07T02:00:00.000+02:00",
+      "title": "Better Buy: Johnson & Johnson vs. Eli Lilly",
+      "text": "Eli Lilly's Alzheimer’s program is a bust. Does the market’s overreaction make this Big Pharma stock more attractive than Johnson & Johnson's right now?",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "eli lilly eli lilly",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "johnson & johnson",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "big pharma",
+            "sentiment": "neutral"
+          }
+        ],
+        "locations": []
+      },
+      "crawled": "2016-12-07T23:22:19.708+02:00"
+    }
+  ],
+  "totalResults": 11,
+  "moreResultsAvailable": 0,
+  "next": "/search?token=c6052904-f312-436b-a6d8-d915084ac866&format=json&ts=1481145739708&q=language%3A%28english%29+thread.country%3AUS+organization.neutral%3A%22Johnson+%26+Johnson%22",
+  "requestsLeft": 1054
+}

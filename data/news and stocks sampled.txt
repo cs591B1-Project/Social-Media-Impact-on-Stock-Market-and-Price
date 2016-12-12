@@ -1,0 +1,28 @@
+The following are news articles and stock data scrapped from the web. 
+
+Amazon
+Apple
+Bank of America
+Boeing
+Citigroup
+CVS
+Exxon
+Facebook
+Ford
+GE
+Goldman Sachs
+Google
+Honeywell
+IBM
+Twitter
+Johnson & Johnson
+McDonalds
+Microsoft
+Netflix
+Nike
+Pfizer
+Starbucks
+Time Warner
+Toyota
+Verizon
+Walmart

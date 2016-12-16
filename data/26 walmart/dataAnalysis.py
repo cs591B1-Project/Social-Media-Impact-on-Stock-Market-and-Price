@@ -170,16 +170,26 @@ def calCorrelation(s,v):
 
 	print "PNR Sum Corr: " + str(pnr_sum_corr)
 
-'''
-spearman_r = scit.spearmanr(pn_sum_ratio, s)
-print "Spearman's Correlation: " + str(spearman_r)
 
-cross_corr = numpy.correlate(pn_sum_ratio, s)
-print cross_corr
+#spearman_r = scit.spearmanr(pn_sum_ratio, s)
+#print "Spearman's Correlation: " + str(spearman_r)
 
-testVector = numpy.column_stack((s, pn_ratio))
-st.grangercausalitytests(testVector, 8, verbose = True)
+#cross_corr = numpy.correlate(pn_sum_ratio, s)
+#print cross_corr
+	print "Null Hypothesis - Postive Sentiment does not cause stock market price"
+	testVector = numpy.column_stack((s, pInt))
+	st.grangercausalitytests(testVector, 8, verbose = True)
 
-testVector = numpy.column_stack((pn_ratio, s))
-st.grangercausalitytests(testVector, 8, verbose = True)
-'''
+	print "Null Hypothesis - Negative Sentiment does not cause stock market price"
+	testVector = numpy.column_stack((s, nInt))
+	st.grangercausalitytests(testVector, 8, verbose = True)
+
+	print "Null Hypothesis - Neutral Sentiment does not cause stock market price"
+	testVector = numpy.column_stack((s, aInt))
+	st.grangercausalitytests(testVector, 8, verbose = True)
+
+	testVector = numpy.column_stack((s, pn_ratio))
+	st.grangercausalitytests(testVector, 8, verbose = True)
+
+	testVector = numpy.column_stack((pn_ratio, s))
+	st.grangercausalitytests(testVector, 8, verbose = True)
